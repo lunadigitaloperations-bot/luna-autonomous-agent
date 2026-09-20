@@ -1,22 +1,23 @@
 {
   "tasks": [
     {
-      "created_at": "2026-09-20T23:01:39.878315+00:00",
+      "created_at": "2026-09-20T23:06:15.700433+00:00",
       "status": "pending_human_review",
       "opportunity": {
-        "title": "Short-Form Video Content Creation Package for Small Businesses",
-        "target_customer": "Small businesses and local shops looking to enhance their online presence through engaging short-form video content.",
-        "customer_problem": "Many small businesses struggle to create eye-catching video content that resonates with their audience on platforms like TikTok, Instagram Reels, and YouTube Shorts due to a lack of time or expertise.",
-        "proposed_solution": "Offer a comprehensive content creation package that includes scriptwriting, video editing, and caption development tailored specifically for short-form videos, enabling small businesses to effectively showcase their products and services.",
+        "title": "Short-Form Video Content Package for Small Businesses",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence on TikTok, Instagram Reels, and YouTube Shorts.",
+        "customer_problem": "Small businesses struggle to create engaging short-form video content consistently, which limits their growth on social media platforms.",
+        "proposed_solution": "Offer a comprehensive package that includes scripting, video content ideation, caption writing, and a tailored social media strategy focused on short-form video content.",
         "deliverables": [
-          "Three short-form video scripts (up to 60 seconds each)",
-          "Edited video content (3 videos)",
-          "Optimized captions for each video",
-          "Social media strategy document including posting schedule and engagement tips"
+          "5 short-form video scripts tailored for the business's products/services",
+          "5 video concepts including key visual elements and call-to-action suggestions",
+          "5 engaging captions optimized for each video",
+          "A custom content calendar for posting the videos",
+          "A one-hour consultation to refine video strategy and best practices"
         ],
         "suggested_price_usd": 300,
-        "estimated_delivery_days": 14,
-        "next_action": "Create a service landing page outlining the package details and process for interested customers.",
+        "estimated_delivery_days": 10,
+        "next_action": "Prepare a portfolio with sample short-form video content and testimonials to attract potential clients.",
         "requires_human_approval": true
       }
     }
