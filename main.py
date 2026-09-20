@@ -26,7 +26,15 @@ def ask_luna(prompt):
     with urllib.request.urlopen(request) as response:
         result = json.loads(response.read().decode("utf-8"))
 
-    return result.get("output_text", "")
+    if result.get("output_text"):
+    return result["output_text"]
+
+for item in result.get("output", []):
+    for content in item.get("content", []):
+        if content.get("type") == "output_text":
+            return content.get("text", "")
+
+return json.dumps(result)
 
 
 def run_agent():
