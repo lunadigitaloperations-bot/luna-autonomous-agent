@@ -1,4 +1,19 @@
 {
-  "tasks": [],
+  "tasks": [
+    {
+      "created_at": "2026-09-20T22:54:41.165643+00:00",
+      "status": "pending_human_review",
+      "opportunity": {
+        "title": "Virtual Wellness Coaching Service",
+        "target_customer": "Busy professionals seeking work-life balance and wellness guidance",
+        "customer_problem": "Lack of time and knowledge to implement effective wellness routines that promote mental and physical health",
+        "proposed_solution": "An online platform offering personalized wellness coaching sessions, tailored fitness plans, and nutritional guidance through video calls and a dedicated app for tracking progress",
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 3,
+        "next_action": "Research potential competitors and outline detailed service offerings",
+        "requires_human_approval": true
+      }
+    }
+  ],
   "completed": []
 }
