@@ -1,0 +1,6 @@
+{
+  "agent_name": "Luna Agent",
+  "mode": "development",
+  "auto_send": false,
+  "require_approval_for_external_actions": true
+}
