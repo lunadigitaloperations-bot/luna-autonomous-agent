@@ -1,0 +1,19 @@
+{
+  "services": [
+    {
+      "name": "Short-form script writing",
+      "status": "available",
+      "requires_approval": true
+    },
+    {
+      "name": "Social media captions",
+      "status": "available",
+      "requires_approval": true
+    },
+    {
+      "name": "Digital document formatting",
+      "status": "available",
+      "requires_approval": true
+    }
+  ]
+}
