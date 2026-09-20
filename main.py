@@ -1,4 +1,3 @@
-
 import json
 import os
 import urllib.request
@@ -26,11 +25,9 @@ def ask_luna(prompt):
     with urllib.request.urlopen(request) as response:
         result = json.loads(response.read().decode("utf-8"))
 
-    # Read the convenient output_text field when available
     if result.get("output_text"):
         return result["output_text"]
 
-    # Fallback: extract text from the response structure
     text_parts = []
 
     for output_item in result.get("output", []):
@@ -53,7 +50,13 @@ def clean_json_response(response_text):
         if lines and lines[-1].strip() == "```":
             lines = lines[:-1]
 
-        response_text = "\n".join(lines)
+        response_text = "\n".join(lines).strip()
+
+    start = response_text.find("{")
+    end = response_text.rfind("}")
+
+    if start != -1 and end != -1:
+        response_text = response_text[start:end + 1]
 
     return json.loads(response_text)
 
@@ -62,14 +65,27 @@ def run_agent():
     prompt = """
 You are Luna, a digital business-planning assistant.
 
-Create ONE realistic digital service opportunity that could be
-prepared for human review.
+Create ONE realistic digital service opportunity
+that Shamoy can prepare and sell using his skills
+in short-form video content, scripts, captions,
+social media strategy, and digital products.
+
+Focus on:
+- TikTok
+- Instagram Reels
+- YouTube Shorts
+- Small businesses
+- Content creators
+
+The service must be simple enough for one person
+to deliver remotely.
 
 Do not contact anyone.
 Do not send messages.
 Do not create accounts.
 Do not make purchases.
 Do not promise guaranteed income.
+Do not provide regulated financial advice.
 
 Return ONLY valid JSON using exactly these fields:
 
@@ -78,11 +94,15 @@ Return ONLY valid JSON using exactly these fields:
   "target_customer": "",
   "customer_problem": "",
   "proposed_solution": "",
+  "deliverables": [],
   "suggested_price_usd": 0,
   "estimated_delivery_days": 0,
   "next_action": "",
   "requires_human_approval": true
 }
+
+Make the opportunity specific, practical,
+and suitable for human review.
 """
 
     response_text = ask_luna(prompt)
@@ -105,7 +125,7 @@ Return ONLY valid JSON using exactly these fields:
         )
 
     print("Agent completed successfully.")
-    print("Structured opportunity saved to tasks.json:")
+    print("Content service opportunity saved to tasks.json:")
     print(json.dumps(task_record, indent=2))
 
 
