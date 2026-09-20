@@ -2,36 +2,7 @@
 import json
 import os
 import urllib.request
-import urllib.error
 from datetime import datetime, timezone
-
-
-BUSINESS_STRATEGY = """
-We are building a digital business focused on LOCAL HOME-SERVICE BUSINESSES.
-
-Target customers:
-- Plumbers
-- Electricians
-- Cleaning companies
-- Landscapers
-- Handymen
-- Small contractors
-
-Our business has TWO revenue streams:
-
-1. AI CONTENT SERVICES
-We create social media posts, short-form video scripts,
-captions, content calendars, promotional ideas, and blog content.
-
-2. DIGITAL PRODUCTS
-We sell reusable content templates, caption packs,
-marketing checklists, promotional calendars, and simple
-guides that help local businesses attract customers.
-
-Choose practical offers that can realistically be created,
-reviewed, marketed, and delivered by a small business.
-Do not promise guaranteed sales, guaranteed growth, or guaranteed profit.
-"""
 
 
 def ask_luna(prompt):
@@ -52,92 +23,90 @@ def ask_luna(prompt):
         method="POST"
     )
 
-    try:
-        with urllib.request.urlopen(request) as response:
-            result = json.loads(response.read().decode("utf-8"))
+    with urllib.request.urlopen(request) as response:
+        result = json.loads(response.read().decode("utf-8"))
 
-        # Read the convenient output_text field if available.
-        if result.get("output_text"):
-            return result["output_text"]
+    # Read the convenient output_text field when available
+    if result.get("output_text"):
+        return result["output_text"]
 
-        # Fallback: extract text from the response structure.
-        text_parts = []
+    # Fallback: extract text from the response structure
+    text_parts = []
 
-        for output_item in result.get("output", []):
-            for content_item in output_item.get("content", []):
-                if content_item.get("type") == "output_text":
-                    text_parts.append(content_item.get("text", ""))
+    for output_item in result.get("output", []):
+        for content_item in output_item.get("content", []):
+            if content_item.get("type") == "output_text":
+                text_parts.append(content_item.get("text", ""))
 
-        return "\n".join(text_parts).strip()
+    return "\n".join(text_parts)
 
-    except urllib.error.HTTPError as error:
-        error_body = error.read().decode("utf-8")
-        return f"API error {error.code}: {error_body}"
 
-    except Exception as error:
-        return f"Unexpected error: {error}"
+def clean_json_response(response_text):
+    response_text = response_text.strip()
+
+    if response_text.startswith("```"):
+        lines = response_text.splitlines()
+
+        if lines and lines[0].startswith("```"):
+            lines = lines[1:]
+
+        if lines and lines[-1].strip() == "```":
+            lines = lines[:-1]
+
+        response_text = "\n".join(lines)
+
+    return json.loads(response_text)
 
 
 def run_agent():
-    prompt = f"""
-You are Luna, the strategic planning engine for a small digital business.
+    prompt = """
+You are Luna, a digital business-planning assistant.
 
-{BUSINESS_STRATEGY}
+Create ONE realistic digital service opportunity that could be
+prepared for human review.
 
-Create ONE practical business opportunity for today.
+Do not contact anyone.
+Do not send messages.
+Do not create accounts.
+Do not make purchases.
+Do not promise guaranteed income.
 
-Your response must contain these sections:
+Return ONLY valid JSON using exactly these fields:
 
-### 1. AI CONTENT SERVICE
-- Service name
-- Exact target customer
-- Customer problem
-- What the customer receives
-- Suggested starting price
-- How long delivery should take
-- Why the customer might pay for it
-
-### 2. DIGITAL PRODUCT
-- Product name
-- Exact buyer
-- Problem it solves
-- Everything included in the product
-- Suggested price
-- How it connects to the AI content service
-
-### 3. PRODUCTION PLAN
-Give a simple 7-day plan for creating the service
-and digital product.
-
-### 4. SAMPLE DELIVERABLE
-Create one example:
-- One short-form video hook
-- One 30-second video script
-- One social media caption
-- One digital product template idea
-
-### 5. CUSTOMER ACQUISITION
-Give three ethical ways to find potential customers.
-Do not send messages or contact anyone.
-
-### 6. HUMAN REVIEW CHECKLIST
-List what I must check before selling or delivering anything.
-
-### 7. NEXT ACTION
-Give me exactly ONE action to complete next.
-
-Do not create accounts, make purchases, send messages,
-or perform external actions. Your role is to prepare
-a realistic business plan and usable draft materials.
+{
+  "title": "",
+  "target_customer": "",
+  "customer_problem": "",
+  "proposed_solution": "",
+  "suggested_price_usd": 0,
+  "estimated_delivery_days": 0,
+  "next_action": "",
+  "requires_human_approval": true
+}
 """
 
-    result = ask_luna(prompt)
+    response_text = ask_luna(prompt)
+    opportunity = clean_json_response(response_text)
 
-    current_time = datetime.now(timezone.utc).isoformat()
+    task_record = {
+        "created_at": datetime.now(timezone.utc).isoformat(),
+        "status": "pending_human_review",
+        "opportunity": opportunity
+    }
 
-    print(f"Agent time: {current_time}")
-    print("Luna response:")
-    print(result)
+    with open("tasks.json", "w", encoding="utf-8") as file:
+        json.dump(
+            {
+                "tasks": [task_record],
+                "completed": []
+            },
+            file,
+            indent=2
+        )
+
+    print("Agent completed successfully.")
+    print("Structured opportunity saved to tasks.json:")
+    print(json.dumps(task_record, indent=2))
 
 
 if __name__ == "__main__":
