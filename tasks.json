@@ -1,23 +1,22 @@
 {
   "tasks": [
     {
-      "created_at": "2026-09-20T23:06:15.700433+00:00",
+      "created_at": "2026-09-20T23:14:15.272722+00:00",
       "status": "pending_human_review",
       "opportunity": {
-        "title": "Short-Form Video Content Package for Small Businesses",
-        "target_customer": "Small business owners and content creators looking to enhance their social media presence on TikTok, Instagram Reels, and YouTube Shorts.",
-        "customer_problem": "Small businesses struggle to create engaging short-form video content consistently, which limits their growth on social media platforms.",
-        "proposed_solution": "Offer a comprehensive package that includes scripting, video content ideation, caption writing, and a tailored social media strategy focused on short-form video content.",
+        "title": "Short-Form Video Content Creation Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures attention and promotes products/services effectively on platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "proposed_solution": "Offer a complete package that includes content strategy, scriptwriting, video editing, and social media captions tailored for short-form video platforms to help small businesses and content creators establish a compelling digital presence.",
         "deliverables": [
-          "5 short-form video scripts tailored for the business's products/services",
-          "5 video concepts including key visual elements and call-to-action suggestions",
-          "5 engaging captions optimized for each video",
-          "A custom content calendar for posting the videos",
-          "A one-hour consultation to refine video strategy and best practices"
+          "5 short-form video scripts (up to 60 seconds each)",
+          "5 edited video clips with branding and effects",
+          "5 engaging captions optimized for different platforms",
+          "Content strategy guide for posting schedule and engagement tips"
         ],
         "suggested_price_usd": 300,
         "estimated_delivery_days": 10,
-        "next_action": "Prepare a portfolio with sample short-form video content and testimonials to attract potential clients.",
+        "next_action": "Create a portfolio or samples of past work to showcase capabilities.",
         "requires_human_approval": true
       }
     }
