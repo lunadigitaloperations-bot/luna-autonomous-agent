@@ -1,16 +1,22 @@
 {
   "tasks": [
     {
-      "created_at": "2026-09-20T22:54:41.165643+00:00",
+      "created_at": "2026-09-20T23:01:39.878315+00:00",
       "status": "pending_human_review",
       "opportunity": {
-        "title": "Virtual Wellness Coaching Service",
-        "target_customer": "Busy professionals seeking work-life balance and wellness guidance",
-        "customer_problem": "Lack of time and knowledge to implement effective wellness routines that promote mental and physical health",
-        "proposed_solution": "An online platform offering personalized wellness coaching sessions, tailored fitness plans, and nutritional guidance through video calls and a dedicated app for tracking progress",
-        "suggested_price_usd": 150,
-        "estimated_delivery_days": 3,
-        "next_action": "Research potential competitors and outline detailed service offerings",
+        "title": "Short-Form Video Content Creation Package for Small Businesses",
+        "target_customer": "Small businesses and local shops looking to enhance their online presence through engaging short-form video content.",
+        "customer_problem": "Many small businesses struggle to create eye-catching video content that resonates with their audience on platforms like TikTok, Instagram Reels, and YouTube Shorts due to a lack of time or expertise.",
+        "proposed_solution": "Offer a comprehensive content creation package that includes scriptwriting, video editing, and caption development tailored specifically for short-form videos, enabling small businesses to effectively showcase their products and services.",
+        "deliverables": [
+          "Three short-form video scripts (up to 60 seconds each)",
+          "Edited video content (3 videos)",
+          "Optimized captions for each video",
+          "Social media strategy document including posting schedule and engagement tips"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "next_action": "Create a service landing page outlining the package details and process for interested customers.",
         "requires_human_approval": true
       }
     }
