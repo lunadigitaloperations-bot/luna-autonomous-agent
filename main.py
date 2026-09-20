@@ -1,8 +1,9 @@
+
 import json
 import os
 import urllib.request
 import urllib.error
-from datetime import datetime
+from datetime import datetime, timezone
 
 
 def ask_luna(prompt):
@@ -23,34 +24,48 @@ def ask_luna(prompt):
         method="POST"
     )
 
-    with urllib.request.urlopen(request) as response:
-        result = json.loads(response.read().decode("utf-8"))
+    try:
+        with urllib.request.urlopen(request) as response:
+            result = json.loads(
+                response.read().decode("utf-8")
+            )
 
-    if result.get("output_text"):
-        return result["output_text"]
+        if result.get("output_text"):
+            return result["output_text"]
 
-for item in result.get("output", []):
-    for content in item.get("content", []):
-        if content.get("type") == "output_text":
-            return content.get("text", "")
+        for item in result.get("output", []):
+            for content in item.get("content", []):
+                if content.get("type") == "output_text":
+                    return content.get("text", "")
 
-return json.dumps(result)
+        return json.dumps(result)
+
+    except urllib.error.HTTPError as error:
+        error_body = error.read().decode("utf-8")
+        return f"API error {error.code}: {error_body}"
 
 
 def run_agent():
     prompt = """
-    You are Luna's task-planning engine.
+You are Luna's task-planning engine.
 
-    Identify one legitimate digital service task
-    that could be prepared for human review.
+Identify one legitimate digital service task
+that could be prepared for human review.
 
-    Do not send messages, create accounts,
-    make purchases, or perform external actions.
-    """
+Explain:
+1. The task
+2. Who might pay for it
+3. What needs to be prepared
+
+Do not send messages, create accounts,
+make purchases, or perform external actions.
+"""
 
     result = ask_luna(prompt)
 
-    print(f"Agent time: {datetime.utcnow().isoformat()}")
+    current_time = datetime.now(timezone.utc).isoformat()
+
+    print(f"Agent time: {current_time}")
     print("Luna response:")
     print(result)
 
