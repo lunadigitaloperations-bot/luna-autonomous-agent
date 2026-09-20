@@ -27,7 +27,7 @@ def ask_luna(prompt):
         result = json.loads(response.read().decode("utf-8"))
 
     if result.get("output_text"):
-    return result["output_text"]
+        return result["output_text"]
 
 for item in result.get("output", []):
     for content in item.get("content", []):
