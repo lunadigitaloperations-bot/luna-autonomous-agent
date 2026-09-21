@@ -1,23 +1,23 @@
 {
   "tasks": [
     {
-      "created_at": "2026-09-21T00:21:55.317637+00:00",
+      "created_at": "2026-09-21T01:14:34.487149+00:00",
       "status": "pending_human_review",
       "opportunity": {
-        "title": "Short-Form Video Content Creation Package",
-        "target_customer": "Small businesses and content creators looking to enhance their social media presence on TikTok, Instagram Reels, and YouTube Shorts.",
-        "customer_problem": "Many small businesses and content creators struggle to produce engaging short-form video content that captures their brand and connects with their audience.",
-        "proposed_solution": "A comprehensive service that includes scriptwriting, video concept development, caption creation, and social media strategy tailored to their brand and goals.",
+        "title": "Short-Form Video Content Package for Small Businesses",
+        "target_customer": "Small business owners and independent content creators looking to enhance their online presence",
+        "customer_problem": "Many small businesses lack the expertise and time to create engaging short-form video content for platforms like TikTok, Instagram Reels, and YouTube Shorts, hampering their ability to attract and engage audiences.",
+        "proposed_solution": "A comprehensive package that includes tailored short-form video scripts, captions, and a social media strategy designed to boost engagement and reach on TikTok, Instagram Reels, and YouTube Shorts.",
         "deliverables": [
-          "3 original short-form video scripts (up to 60 seconds each)",
-          "Storyboarding for each video",
-          "3 caption suggestions optimized for engagement",
-          "Posting schedule and strategy guide for best times to post",
-          "Basic tips for on-camera presence and video shooting"
+          "5 custom short-form video scripts tailored to the business's niche",
+          "5 engaging captions optimized for each platform",
+          "A 2-week content calendar for posting schedules",
+          "Basic video editing tips for DIY video production",
+          "Strategy session for social media growth"
         ],
-        "suggested_price_usd": 300,
-        "estimated_delivery_days": 7,
-        "next_action": "Create a detailed service outline and promotional materials to launch the offer.",
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "next_action": "Create a detailed outline of the service and prepare a promotional strategy to reach potential customers.",
         "requires_human_approval": true
       }
     }
