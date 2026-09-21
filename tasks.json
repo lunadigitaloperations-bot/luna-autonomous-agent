@@ -536,6 +536,65 @@
         "payment_template": "Subject: Payment Information\n\nHi [Recipient's Name],\n\nThank you for considering our Social Media Boost Package! To proceed, I would like to discuss the payment details with you. Once we confirm the package, we can finalize how you’d like to complete the transaction to get started on enhancing your social media engagement.\n\nPlease let me know your preferred method, and feel free to reach out with any questions!\n\nBest regards,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790000155096",
+      "created_at": "2026-09-21T14:15:55.096422+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Starter Kit",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging and consistent social media content that resonates with their audience.",
+        "solution": "A tailored content strategy and ready-to-use short-form video scripts designed to boost engagement and streamline posting.",
+        "deliverables": [
+          "A personalized content strategy document (5-7 pages) outlining best practices for their specific niche.",
+          "10 short-form video scripts for TikTok, Instagram Reels, or YouTube Shorts, focusing on storytelling and engagement.",
+          "5 customizable captions for each video to enhance viewer interaction.",
+          "A content calendar template to plan and schedule posts effectively."
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your online presence with minimal effort, giving you the tools to engage your audience authentically.",
+        "sales_angle": "Invest in a Social Media Content Starter Kit to transform your content creation process without the hassle of developing everything from scratch.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Influencer partnerships",
+          "Referral programs",
+          "Content marketing through blog posts"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence.",
+          "Looking to increase engagement and follower count.",
+          "Open to experimenting with short-form video content."
+        ],
+        "next_action": "Contact us via email or WhatsApp to set up a brief consultation about your content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Dive into our **Social Media Content Starter Kit**! 📱 Get a tailored content strategy, ready-to-use video scripts, and a content calendar to engage your audience authentically. Perfect for small businesses and content creators wanting to boost their presence! 💡✨ Comment below or DM us for a consultation! #SocialMedia #ContentCreation #SmallBusiness #Engagement",
+        "website_description": "Unlock the power of compelling social media content with our **Social Media Content Starter Kit**! Designed for small businesses and content creators, this comprehensive package includes a personalized content strategy, 10 engaging short-form video scripts, customizable captions, and a content calendar. Priced at just $150, deliver your message with ease and style in only 10 days. Elevate your online presence and connect with your audience like never before!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our **Social Media Content Starter Kit**, specifically designed for small businesses and content creators like yourself who are looking to enhance their social media engagement. \n\nWould you be open to a brief consultation to discuss how we can support your content needs and strategies? \n\nIf you're not interested, please feel free to let me know, and I’ll make sure not to follow up further.\n\nThank you for your time,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media content?",
+          "How do you measure engagement on your posts?",
+          "What platforms do you currently focus on for your content?",
+          "Have you previously used short-form video content, and if so, what was your experience?",
+          "What goals do you aim to achieve with your social media presence in the next few months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Social Media Content Starter Kit",
+          "Detailed Deliverables",
+          "Expected Outcomes",
+          "Pricing and Timeline",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Contact us via email or WhatsApp to schedule your consultation and start transforming your social media presence today!",
+        "payment_template": "Subject: Next Steps for Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our **Social Media Content Starter Kit**! To proceed, please confirm your preferred payment method, and we can finalize your order and get started on crafting your tailored content strategy.\n\nIf you have any questions or need further information, feel free to reach out. \n\nThank you,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
