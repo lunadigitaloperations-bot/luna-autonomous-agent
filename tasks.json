@@ -193,6 +193,60 @@
         "payment_template": "Subject: Next Steps for Your Short-Form Video Content Package\n\nHi [Name],\n\nThank you for your interest in our Short-Form Video Content Package! Once you're ready to proceed, we can discuss the payment process to get started on crafting engaging content for your brand. \n\nPlease let me know if you have any questions or if there's anything I can assist you with.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Title]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1789978651468",
+      "created_at": "2026-09-21T08:17:31.468026+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Mini Content Boost Package",
+        "target_customer": "Small businesses and content creators looking to increase engagement on social media platforms.",
+        "customer_problem": "Struggling to create engaging short-form video content that captures attention and drives interaction on social media.",
+        "solution": "A tailored content creation service focusing on short-form videos designed to enhance engagement and build an active follower base.",
+        "deliverables": [
+          "Three 15-30 second video scripts tailored for TikTok and Instagram Reels",
+          "One fully edited short-form video ready for posting",
+          "Three catchy captions to accompany the videos"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your social media presence with professional short-form video content that resonates with your audience without the hassle of production.",
+        "sales_angle": "Transform your content strategy with engaging videos that make your brand stand out in a crowded market.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Website landing page",
+          "Networking in entrepreneurial groups"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to share brand vision and target audience"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your brand needs and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to boost your social media engagement? Our Mini Content Boost Package is designed for small businesses and content creators looking to elevate their online presence! Get three tailored video scripts, a professionally edited short-form video, and catchy captions to captivate your audience—all for just $150! Let’s make your brand shine in the crowded market! 💫 Contact us today to get started! #ContentCreation #VideoMarketing #SocialMediaSuccess",
+        "website_description": "Struggling to create engaging short-form videos for your social media? Our Mini Content Boost Package is here to help! For just $150, you'll receive three customized video scripts, one fully edited short-form video, and three captivating captions—all designed to enhance your engagement and grow your follower base within just 7 days. Transform your content strategy and make your brand stand out today!",
+        "outreach_template": "Subject: Elevate Your Social Media Engagement\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity that can help your business enhance its social media presence. Our Mini Content Boost Package offers tailored short-form video content designed to engage your audience effectively.\n\nIf you're interested, I would love to discuss how we can align our services with your brand vision!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]\n\nIf you’d prefer not to receive further emails, please let me know.",
+        "discovery_questions": [
+          "What are your current social media platforms and goals?",
+          "What type of content has resonated with your audience in the past?",
+          "Can you describe your target audience and their interests?",
+          "What message do you want your videos to convey?",
+          "Are there any specific themes or styles you envision for your short-form videos?"
+        ],
+        "proposal_outline": [
+          "Introduction of the Mini Content Boost Package",
+          "Understanding the client's brand and vision",
+          "Deliverables: Video scripts, video production, and captions",
+          "Timeline for delivery",
+          "Investment and pricing details",
+          "Next steps and call to action"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to discuss your brand needs and kickstart your content journey!",
+        "payment_template": "Subject: Next Steps for Your Mini Content Boost Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Mini Content Boost Package! To proceed, please confirm your preferred payment method, and I'll provide you with the necessary details. Once payment is completed, we'll get started on crafting engaging content for your brand.\n\nLooking forward to your response!\n\nBest,  \n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
