@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,10 +64,30 @@
       padding: 14px 28px;
       border-radius: 8px;
       font-weight: bold;
+      margin: 6px;
+      border: none;
+      cursor: pointer;
     }
 
     .button:hover {
       background: #7e22ce;
+    }
+
+    .whatsapp {
+      background: #25d366;
+      color: #071b0e;
+    }
+
+    .whatsapp:hover {
+      background: #1ebe5d;
+    }
+
+    .email-button {
+      background: #3b82f6;
+    }
+
+    .email-button:hover {
+      background: #2563eb;
     }
 
     section {
@@ -121,6 +142,27 @@
       border-radius: 15px;
     }
 
+    .contact-box {
+      max-width: 650px;
+      margin: auto;
+      text-align: center;
+      background: #171720;
+      border: 1px solid #30303d;
+      padding: 35px 25px;
+      border-radius: 15px;
+    }
+
+    .contact-box p {
+      color: #c4c4d0;
+      margin-bottom: 20px;
+    }
+
+    .contact-details {
+      margin: 25px 0;
+      color: #d8b4fe;
+      overflow-wrap: anywhere;
+    }
+
     footer {
       text-align: center;
       color: #858595;
@@ -135,6 +177,10 @@
 
       .hero p {
         font-size: 16px;
+      }
+
+      .price {
+        font-size: 36px;
       }
     }
   </style>
@@ -152,6 +198,7 @@
 
     <section class="hero">
       <div class="container">
+
         <h1>Turn Your Business Into Content People Notice</h1>
 
         <p>
@@ -159,14 +206,28 @@
           for TikTok, Instagram Reels, and YouTube Shorts.
         </p>
 
-        <a href="#package" class="button">View Our Package</a>
+        <a href="#package" class="button">
+          View Our Package
+        </a>
+
+        <a
+          href="https://wa.me/14735341956?text=Hello%20Infinite%20Sauce%2C%20I%27m%20interested%20in%20your%20content%20package."
+          class="button whatsapp"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          WhatsApp Us
+        </a>
+
       </div>
     </section>
 
     <section id="package">
       <div class="container">
 
-        <h2 class="section-title">Short-Form Content Package</h2>
+        <h2 class="section-title">
+          Short-Form Content Package
+        </h2>
 
         <div class="price">$300 USD</div>
 
@@ -207,7 +268,9 @@
     <section>
       <div class="container">
 
-        <h2 class="section-title">How It Works</h2>
+        <h2 class="section-title">
+          How It Works
+        </h2>
 
         <ol class="process">
           <li>Learn about your business.</li>
@@ -225,6 +288,7 @@
       <div class="container">
 
         <div class="cta">
+
           <h2>Ready to Improve Your Content?</h2>
 
           <p style="margin: 20px 0;">
@@ -235,7 +299,19 @@
             Delivery estimate: 14 days after receiving all required materials.
           </p>
 
-          <a href="#contact" class="button">Request Information</a>
+          <a href="#contact" class="button">
+            Request Information
+          </a>
+
+          <a
+            href="https://wa.me/14735341956?text=Hello%20Infinite%20Sauce%2C%20I%27d%20like%20to%20request%20information%20about%20your%20content%20package."
+            class="button whatsapp"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Message on WhatsApp
+          </a>
+
         </div>
 
       </div>
@@ -244,13 +320,44 @@
     <section id="contact">
       <div class="container">
 
-        <h2 class="section-title">Contact</h2>
+        <h2 class="section-title">
+          Contact Infinite Sauce
+        </h2>
 
-        <p style="text-align: center; color: #c4c4d0;">
-          Contact Infinite Sauce directly to discuss your project.
-          Pricing, payment terms, revisions, and delivery dates
-          will be confirmed before accepting an order.
-        </p>
+        <div class="contact-box">
+
+          <p>
+            Contact us to discuss your project, content goals,
+            pricing, payment terms, and delivery requirements.
+          </p>
+
+          <div class="contact-details">
+            <strong>Email:</strong><br>
+            luna.digital.operations@gmail.com
+          </div>
+
+          <div class="contact-details">
+            <strong>WhatsApp:</strong><br>
+            +1 473 534 1956
+          </div>
+
+          <a
+            href="mailto:luna.digital.operations@gmail.com?subject=Infinite%20Sauce%20Content%20Inquiry&body=Hello%20Infinite%20Sauce%2C%0A%0AI%27m%20interested%20in%20your%20short-form%20content%20package.%0A%0ABusiness%20name%3A%0AContent%20goals%3A%0AQuestions%3A%0A%0AThank%20you."
+            class="button email-button"
+          >
+            Send Email Inquiry
+          </a>
+
+          <a
+            href="https://wa.me/14735341956?text=Hello%20Infinite%20Sauce%2C%20I%27m%20interested%20in%20your%20short-form%20content%20package."
+            class="button whatsapp"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Contact via WhatsApp
+          </a>
+
+        </div>
 
       </div>
     </section>
