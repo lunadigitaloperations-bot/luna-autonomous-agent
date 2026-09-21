@@ -247,6 +247,66 @@
         "payment_template": "Subject: Next Steps for Your Mini Content Boost Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Mini Content Boost Package! To proceed, please confirm your preferred payment method, and I'll provide you with the necessary details. Once payment is completed, we'll get started on crafting engaging content for your brand.\n\nLooking forward to your response!\n\nBest,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1789982200149",
+      "created_at": "2026-09-21T09:16:40.149605+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Kickstart Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging and consistent social media content that attracts followers and drives engagement.",
+        "solution": "A comprehensive package that provides a month's worth of tailored content specifically designed for short-form video platforms.",
+        "deliverables": [
+          "12 unique short-form video scripts (3 per week)",
+          "3 TikTok videos (fully conceptualized but not produced)",
+          "3 Instagram Reels (fully conceptualized but not produced)",
+          "3 YouTube Shorts (fully conceptualized but not produced)",
+          "Captions for all videos",
+          "Content strategy document outlining best practices and posting schedule"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Kickstart your social media presence with a fully structured content plan that allows for engagement without overwhelming you.",
+        "sales_angle": "Transform your social media in just one month with a targeted content strategy designed to boost engagement and attract followers.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media marketing",
+          "Online forums and communities",
+          "Content marketing through blogs or articles"
+        ],
+        "qualification_criteria": [
+          "Must have a business or brand presence on at least one social media platform",
+          "Must be looking to enhance their social media content strategy"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Social Media Content Kickstart Package offers tailored content that can transform your online presence in just one month! 🎥 Get 12 unique short-form video scripts, video concepts, and a comprehensive strategy document—all designed to engage your audience and attract followers. Don’t miss out on this chance to boost your brand! ✨ DM us for a free consultation! #SocialMediaMarketing #ContentCreation #SmallBusinessGrowth",
+        "website_description": "Enhance your social media presence with our Social Media Content Kickstart Package! Specifically designed for small business owners and content creators, this comprehensive package delivers a month's worth of tailored content, including 12 unique short-form video scripts and video concepts for TikTok, Instagram Reels, and YouTube Shorts. Plus, you'll receive captions and a detailed content strategy document to guide your posting schedule. Boost your engagement and attract more followers without feeling overwhelmed!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well. I'm reaching out to share our Social Media Content Kickstart Package designed specifically for small business owners and content creators like yourself who are looking to enhance their social media presence. \n\nThis package includes tailored content solutions that can help attract followers and drive engagement without overwhelming you. \n\nWould you be interested in scheduling a free consultation to discuss how we can support your social media efforts?\n\nThanks, and I look forward to hearing from you!\n\nBest regards,\n[Your Name]\n\nOpt-out: If you prefer not to receive updates, please let me know.",
+        "discovery_questions": [
+          "What specific social media platforms are you currently using for your business?",
+          "What challenges are you facing with your current social media content?",
+          "How often do you post content on your social media channels?",
+          "What types of content have you found to be the most engaging for your audience?",
+          "What are your primary goals for enhancing your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Content Kickstart Package",
+          "Deliverables",
+          "Value Proposition",
+          "Estimated Timeline",
+          "Investment",
+          "Next Steps",
+          "Questions and Discussion"
+        ],
+        "call_to_action": "Contact us today to schedule your free consultation and start enhancing your social media presence!",
+        "payment_template": "Subject: Payment for Your Social Media Package\n\nHi [Name],\n\nThank you for considering our Social Media Content Kickstart Package! We can discuss the payment options available to you. Please feel free to reach out so we can finalize everything and get started on boosting your social media presence.\n\nBest regards,\n[Your Name]\n\nOpt-out: If you no longer wish to receive messages, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
