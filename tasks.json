@@ -1,23 +1,22 @@
 {
   "tasks": [
     {
-      "created_at": "2026-09-21T04:16:11.213565+00:00",
+      "created_at": "2026-09-21T05:15:18.254503+00:00",
       "status": "pending_human_review",
       "opportunity": {
-        "title": "Short-Form Video Content Package for Small Businesses",
-        "target_customer": "Small business owners and emerging content creators looking to enhance their social media presence.",
-        "customer_problem": "Struggling to create engaging short-form video content that captures their brand's essence and connects with their target audience.",
-        "proposed_solution": "Offer a complete package that includes 5 custom short-form video scripts, optimized captions, and a social media strategy tailored for TikTok, Instagram Reels, and YouTube Shorts.",
+        "title": "Short-Form Video Content Creation Package",
+        "target_customer": "Small business owners and emerging content creators",
+        "customer_problem": "Struggling to create engaging short-form video content for platforms like TikTok, Instagram Reels, and YouTube Shorts, leading to low visibility and customer engagement.",
+        "proposed_solution": "Provide a tailored video content creation package that includes scriptwriting, caption crafting, and social media strategy to boost online presence and engagement.",
         "deliverables": [
-          "5 scripted short-form video ideas (15-60 seconds each)",
-          "Optimized captions for each video",
-          "Social media posting strategy (including best times to post and engagement tips)",
-          "Hash-tag suggestions for each platform",
-          "1 revision of the scripts and captions based on customer feedback"
+          "Five 30-60 second video scripts tailor-made for the customer's brand",
+          "Five sets of catchy captions for each video",
+          "A 1-page social media strategy guide including posting schedule and content themes",
+          "Basic video editing tips for easy implementation"
         ],
         "suggested_price_usd": 250,
         "estimated_delivery_days": 7,
-        "next_action": "Create a detailed outline of the package and prepare a sample video script as a showcase.",
+        "next_action": "Create a service listing on a freelance platform or personal website",
         "requires_human_approval": true
       }
     }
