@@ -941,6 +941,63 @@
         "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for considering the Social Media Spotlight Package! We're excited to work together. Once we agree on the details, I'll provide instructions on how to proceed with the payment. Please let me know if you have any questions or concerns.\n\nLooking forward to your response!\n\nBest, \n[Your Name]\n[Your Contact Information]\n\nIf you wish not to receive further communication, feel free to opt-out.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790025296887",
+      "created_at": "2026-09-21T21:14:56.887051+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Short-Form Video Content Boost",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create engaging short-form video content consistently, leading to low audience engagement.",
+        "solution": "Deliver a month's worth of short-form video scripts and content ideas tailored to the client's brand, enabling them to post consistently and attract more viewers.",
+        "deliverables": [
+          "15 short-form video scripts (TikTok, Instagram Reels, YouTube Shorts)",
+          "25 content ideas with trending themes",
+          "2 caption suggestions per video",
+          "A personalized content strategy guide"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Boost your online engagement with tailored short-form videos that resonate with your audience.",
+        "sales_angle": "Transform your social media presence without the overwhelm of content creation—let us do the heavy lifting!",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "SEO-optimized blog posts",
+          "Organic social media posts"
+        ],
+        "qualification_criteria": [
+          "Must have an established online presence",
+          "Willingness to implement suggested content"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to keep up with content creation? Our 30-Day Short-Form Video Content Boost delivers 15 engaging video scripts and 25 trending ideas tailored to your brand! Transform your social media presence without the overwhelm! 🌟💡 #ContentCreation #VideoMarketing #SmallBusinessGrowth",
+        "website_description": "Enhance your online presence with our 30-Day Short-Form Video Content Boost! Designed for small businesses and content creators, this package provides you with 15 tailored video scripts, 25 trending content ideas, and personalized strategies. Say goodbye to content creation stress and hello to increased engagement! Get started today for just $299, with delivery in 14 days.",
+        "outreach_template": "Subject: Elevate Your Online Presence with Tailored Video Content\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to share an exciting opportunity to boost your online engagement through our 30-Day Short-Form Video Content Boost. We provide tailored video scripts and content ideas designed just for your brand, allowing you to connect better with your audience without the stress of creating content from scratch.\n\nIf you’re interested in learning more, please reply to this email, and we can discuss how we can cater to your needs.\n\nBest regards,\n[Your Name] \n[Your Position] \nInfinite Sauce\n\n*If this isn't of interest, please let me know, and I won't follow up again.*",
+        "discovery_questions": [
+          "What platforms are you currently using to distribute your video content?",
+          "What challenges do you face in creating engaging video content consistently?",
+          "Can you describe your target audience and their preferences?",
+          "How frequently are you looking to post new video content?",
+          "What goals do you hope to achieve with increased video engagement?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Proposed Solution - 30-Day Short-Form Video Content Boost",
+          "Deliverables Overview",
+          "Value Proposition",
+          "Investment Details",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to enhance your online presence? Contact us at luna.digital.operations@gmail.com to get started today!",
+        "payment_template": "Subject: Next Steps for Your Video Content Boost\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Short-Form Video Content Boost! We’re excited to work with you. To move forward, please let me know if you have any questions or if you're ready to proceed with the next steps.\n\nLooking forward to hearing from you.\n\nBest,\n[Your Name] \n[Your Position] \nInfinite Sauce\n\n*If this isn't your preference, feel free to let me know, and I will respect your choice.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
