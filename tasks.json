@@ -1056,6 +1056,57 @@
         "payment_template": "Subject: Payment Confirmation\n\nDear [Client's Name],\n\nThank you for choosing our Monthly Content Creation Package! Just a quick note to confirm that your payment details are being processed. If you have any questions or need assistance, feel free to reach out.\n\nBest regards,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790032469228",
+      "created_at": "2026-09-21T23:14:29.228619+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Creation Package",
+        "target_customer": "Small businesses and social media creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form videos that resonate with their target audience and increase brand visibility",
+        "solution": "Provide a tailored package of short-form video content that includes scripts and guidelines for creation, enabling the client to easily produce engaging videos for platforms like TikTok and Instagram.",
+        "deliverables": [
+          "Three 30-second video scripts tailored to the client's brand",
+          "Content creation guidelines for TikTok and Instagram Reels",
+          "Two engaging captions for each video",
+          "A 30-minute consultation to discuss content strategy and platform optimization"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock the potential of engaging short-form videos with a package that simplifies content creation and boosts your online presence.",
+        "sales_angle": "Empower your brand with professional video content that connects with your audience and elevates your social media game.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Content marketing",
+          "Referrals from satisfied clients"
+        ],
+        "qualification_criteria": [
+          "Client has an existing brand identity",
+          "Client uses or plans to use TikTok and Instagram for marketing",
+          "Client is open to implementing suggested guidelines"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your 30-minute consultation and kickstart your video content journey."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your brand? Our Short-Form Video Content Creation Package is designed for small businesses and social media creators who want to jumpstart their online presence! 🎥✨ Get tailored scripts, content guidelines, and a consultation to help you create engaging videos for TikTok and Instagram. For just $150, unlock the potential of your brand. DM us today to learn more! #VideoMarketing #SmallBusiness #SocialMediaSuccess",
+        "website_description": "Transform your brand's online presence with our Short-Form Video Content Creation Package! Designed specifically for small businesses and social media creators, this package provides you with three tailored 30-second video scripts, comprehensive content creation guidelines, engaging captions, and a 30-minute consultation to optimize your strategy on TikTok and Instagram. Start creating impactful videos today for just $150 and watch your brand thrive!",
+        "outreach_template": "Subject: Let's Enhance Your Online Presence!\n\nHi [Client's Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity for small businesses and creators like yourself. Our Short-Form Video Content Creation Package is designed to help boost your engagement on platforms like TikTok and Instagram.\n\nThis package includes:\n- Three 30-second video scripts personalized for your brand\n- Content guidelines for effective TikTok and Instagram Reels\n- Two catchy captions for each video\n- A 30-minute consultation to refine your content strategy\n\nIf you're interested, please let me know a good time for you to discuss further. If not, no worries—feel free to opt-out!\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What is your current experience with creating video content for social media?",
+          "What type of short-form videos do you believe would resonate most with your audience?",
+          "Are you currently using TikTok and Instagram for marketing? If so, how?",
+          "What challenges have you faced in engaging your audience through video?",
+          "How would you define your brand identity and messaging?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of your brand and social media objectives.\n2. Client Needs Assessment\n   - Summary of discovery questions and insights gathered.\n3. Proposed Solution\n   - Details of the Short-Form Video Content Creation Package.\n4. Deliverables\n   - Breakdown of scripts, guidelines, captions, and consultation.\n5. Timeline and Pricing\n   - Estimated delivery timeline and total cost of $150.\n6. Next Steps\n   - Call to action to schedule the consultation."
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule your 30-minute consultation and start your video content journey!",
+        "payment_template": "Subject: Confirmation of Your Service\n\nHi [Client's Name],\n\nThank you for your interest in our Short-Form Video Content Creation Package! We're excited to help you enhance your online presence with engaging videos.\n\nPlease let us know if you have any questions about the package or would like to discuss further details. We look forward to working with you!\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
