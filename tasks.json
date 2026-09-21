@@ -1,22 +1,23 @@
 {
   "tasks": [
     {
-      "created_at": "2026-09-20T23:14:15.272722+00:00",
+      "created_at": "2026-09-21T00:21:55.317637+00:00",
       "status": "pending_human_review",
       "opportunity": {
         "title": "Short-Form Video Content Creation Package",
-        "target_customer": "Small businesses and content creators looking to enhance their online presence",
-        "customer_problem": "Struggling to create engaging short-form video content that captures attention and promotes products/services effectively on platforms like TikTok, Instagram Reels, and YouTube Shorts.",
-        "proposed_solution": "Offer a complete package that includes content strategy, scriptwriting, video editing, and social media captions tailored for short-form video platforms to help small businesses and content creators establish a compelling digital presence.",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence on TikTok, Instagram Reels, and YouTube Shorts.",
+        "customer_problem": "Many small businesses and content creators struggle to produce engaging short-form video content that captures their brand and connects with their audience.",
+        "proposed_solution": "A comprehensive service that includes scriptwriting, video concept development, caption creation, and social media strategy tailored to their brand and goals.",
         "deliverables": [
-          "5 short-form video scripts (up to 60 seconds each)",
-          "5 edited video clips with branding and effects",
-          "5 engaging captions optimized for different platforms",
-          "Content strategy guide for posting schedule and engagement tips"
+          "3 original short-form video scripts (up to 60 seconds each)",
+          "Storyboarding for each video",
+          "3 caption suggestions optimized for engagement",
+          "Posting schedule and strategy guide for best times to post",
+          "Basic tips for on-camera presence and video shooting"
         ],
         "suggested_price_usd": 300,
-        "estimated_delivery_days": 10,
-        "next_action": "Create a portfolio or samples of past work to showcase capabilities.",
+        "estimated_delivery_days": 7,
+        "next_action": "Create a detailed service outline and promotional materials to launch the offer.",
         "requires_human_approval": true
       }
     }
