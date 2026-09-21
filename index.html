@@ -369,6 +369,77 @@
       © 2026 Infinite Sauce. All rights reserved.
     </div>
   </footer>
+  
+
+<!-- INFINITE SAUCE — CUSTOMER INQUIRY FORM -->
+<section id="inquiry" style="padding:40px 20px;max-width:650px;margin:auto;">
+  <h2>Let's Grow Your Brand</h2>
+  <p>Tell us what your business needs. We'll review your inquiry and contact you.</p>
+
+  <form id="infiniteSauceForm">
+    <label for="name">Your Name</label><br>
+    <input id="name" name="name" type="text" required
+      style="width:100%;padding:12px;margin:8px 0 16px;box-sizing:border-box;">
+
+    <label for="business">Business Name</label><br>
+    <input id="business" name="business" type="text" required
+      style="width:100%;padding:12px;margin:8px 0 16px;box-sizing:border-box;">
+
+    <label for="contact">Email or WhatsApp Number</label><br>
+    <input id="contact" name="contact" type="text" required
+      style="width:100%;padding:12px;margin:8px 0 16px;box-sizing:border-box;">
+
+    <label for="service">What do you need?</label><br>
+    <select id="service" name="service" required
+      style="width:100%;padding:12px;margin:8px 0 16px;box-sizing:border-box;">
+      <option value="">Choose a service</option>
+      <option>Short-form video content</option>
+      <option>Social media strategy</option>
+      <option>Video scripts and captions</option>
+      <option>Custom business package</option>
+    </select>
+
+    <label for="message">Tell us about your goals</label><br>
+    <textarea id="message" name="message" rows="5" required
+      style="width:100%;padding:12px;margin:8px 0 16px;box-sizing:border-box;"></textarea>
+
+    <label style="display:block;margin-bottom:16px;">
+      <input type="checkbox" required>
+      I agree to be contacted about my inquiry.
+    </label>
+
+    <button type="submit"
+      style="padding:14px 22px;cursor:pointer;">
+      Send Inquiry via WhatsApp
+    </button>
+  </form>
+</section>
+
+<script>
+document.getElementById("infiniteSauceForm").addEventListener("submit", function(event) {
+  event.preventDefault();
+
+  const name = document.getElementById("name").value.trim();
+  const business = document.getElementById("business").value.trim();
+  const contact = document.getElementById("contact").value.trim();
+  const service = document.getElementById("service").value;
+  const message = document.getElementById("message").value.trim();
+
+  const inquiry =
+`NEW INFINITE SAUCE INQUIRY
+
+Name: ${name}
+Business: ${business}
+Contact: ${contact}
+Service: ${service}
+Goals: ${message}`;
+
+  const whatsappURL =
+    "https://wa.me/14735341956?text=" + encodeURIComponent(inquiry);
+
+  window.open(whatsappURL, "_blank");
+});
+</script>
 
 </body>
 </html>
