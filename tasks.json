@@ -1,22 +1,23 @@
 {
   "tasks": [
     {
-      "created_at": "2026-09-21T05:15:18.254503+00:00",
+      "created_at": "2026-09-21T06:22:11.188481+00:00",
       "status": "pending_human_review",
       "opportunity": {
-        "title": "Short-Form Video Content Creation Package",
-        "target_customer": "Small business owners and emerging content creators",
-        "customer_problem": "Struggling to create engaging short-form video content for platforms like TikTok, Instagram Reels, and YouTube Shorts, leading to low visibility and customer engagement.",
-        "proposed_solution": "Provide a tailored video content creation package that includes scriptwriting, caption crafting, and social media strategy to boost online presence and engagement.",
+        "title": "Short-Form Video Content Package for Small Businesses",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence on TikTok, Instagram Reels, and YouTube Shorts.",
+        "customer_problem": "Many small businesses struggle to create engaging short-form video content that resonates with their target audience, often lacking the time, expertise, or resources to develop effective video strategies.",
+        "proposed_solution": "Offer a comprehensive short-form video content package that includes scriptwriting, video editing, and strategic social media captions tailored to the client's brand and goals.",
         "deliverables": [
-          "Five 30-60 second video scripts tailor-made for the customer's brand",
-          "Five sets of catchy captions for each video",
-          "A 1-page social media strategy guide including posting schedule and content themes",
-          "Basic video editing tips for easy implementation"
+          "Three customized video scripts per month.",
+          "Editing of three 30-second videos per month.",
+          "Optimized captions for each video.",
+          "One month of social media strategy consulting.",
+          "Performance metrics analysis for each video."
         ],
-        "suggested_price_usd": 250,
-        "estimated_delivery_days": 7,
-        "next_action": "Create a service listing on a freelance platform or personal website",
+        "suggested_price_usd": 500,
+        "estimated_delivery_days": 30,
+        "next_action": "Create a service listing on a freelance platform.",
         "requires_human_approval": true
       }
     }
