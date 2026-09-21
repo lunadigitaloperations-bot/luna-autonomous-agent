@@ -884,6 +884,63 @@
         "payment_template": "Subject: Payment Details for Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our Boost Your Social Media Presence Package! To finalize the order, could you please confirm your preferred payment method? Once we receive your confirmation, we will proceed with the next steps.\n\nIf you have any questions, feel free to reach out. \n\nBest regards,\n[Your Name] \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790021735956",
+      "created_at": "2026-09-21T20:15:35.956155+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Spotlight Package",
+        "target_customer": "Small local businesses looking to enhance their online presence",
+        "customer_problem": "Many small businesses struggle to create engaging social media content that attracts customers and showcases their products or services effectively.",
+        "solution": "A tailored content creation package that focuses on producing high-quality short-form videos for platforms like TikTok and Instagram Reels, along with catchy captions to boost engagement.",
+        "deliverables": [
+          "3 short-form video scripts customized for the business",
+          "3 video edits (up to 60 seconds each) ready for posting",
+          "5 engaging captions tailored to the videos",
+          "1 content strategy brief outlining best practices for posting and engagement"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your online presence with captivating content that resonates with your audience, driving interest and foot traffic to your business.",
+        "sales_angle": "Invest in your social media presence today to attract more customers tomorrow, without the hassle of content creation.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Online business forums"
+        ],
+        "qualification_criteria": [
+          "Business has an active presence on social media",
+          "Willingness to collaborate on content ideas",
+          "Basic understanding of target audience"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started on your Social Media Spotlight Package."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Ready to elevate your small business? The Social Media Spotlight Package is designed just for you! Create captivating short-form videos and engaging captions that connect with your audience on TikTok and Instagram Reels. ✨ Elevate your online presence without the hassle! DM us for more info! #SmallBusiness #SocialMedia #ContentCreation",
+        "website_description": "Unlock the potential of your online presence with our Social Media Spotlight Package! Tailored for small local businesses, this offer includes high-quality short-form videos, engaging captions, and a detailed content strategy brief designed to attract and engage your customers. Invest in your social media today to drive interest and foot traffic tomorrow—all for just $250 with a quick turnaround of 7 days.",
+        "outreach_template": "Subject: Boost Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity for [Business Name] to enhance your online presence with our Social Media Spotlight Package. This tailored solution is designed to create engaging content that resonates with your audience and drives foot traffic to your business.\n\nWould you be open to discussing how we can collaborate on your social media strategy? If you're interested, please feel free to reach out!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you’d prefer not to receive updates, just let me know!",
+        "discovery_questions": [
+          "What social media platforms are you currently using to promote your business?",
+          "How often do you post content on your social media channels?",
+          "What are your main goals for your online presence?",
+          "Can you describe your target audience and their interests?",
+          "What challenges do you face in creating engaging content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer Needs",
+          "Proposed Solution: Social Media Spotlight Package",
+          "Deliverables",
+          "Timeline and Pricing",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Contact us today to get started on your Social Media Spotlight Package, and watch your online presence soar!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for considering the Social Media Spotlight Package! We're excited to work together. Once we agree on the details, I'll provide instructions on how to proceed with the payment. Please let me know if you have any questions or concerns.\n\nLooking forward to your response!\n\nBest, \n[Your Name]\n[Your Contact Information]\n\nIf you wish not to receive further communication, feel free to opt-out.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
