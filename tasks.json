@@ -998,6 +998,64 @@
         "payment_template": "Subject: Next Steps for Your Video Content Boost\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Short-Form Video Content Boost! We’re excited to work with you. To move forward, please let me know if you have any questions or if you're ready to proceed with the next steps.\n\nLooking forward to hearing from you.\n\nBest,\n[Your Name] \n[Your Position] \nInfinite Sauce\n\n*If this isn't your preference, feel free to let me know, and I will respect your choice.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790028911318",
+      "created_at": "2026-09-21T22:15:11.318385+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly Content Creation Package",
+        "target_customer": "Small businesses and content creators looking to boost their online presence",
+        "customer_problem": "Struggling to consistently create engaging social media content that resonates with their audience and drives interaction.",
+        "solution": "A tailored monthly package that provides a set amount of short-form video content designed to enhance engagement and brand visibility.",
+        "deliverables": [
+          "4 customized short-form video scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "4 edited video clips ready for posting",
+          "Weekly caption suggestions for each video",
+          "Content strategy consult (1 hour) to align future content with business goals"
+        ],
+        "suggested_price_usd": 400,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Consistent, audience-targeted video content that showcases your brand's unique personality while saving you time.",
+        "sales_angle": "Boost engagement and visibility without the hassle of content creation.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Referrals from satisfied clients"
+        ],
+        "qualification_criteria": [
+          "Active on at least one social media platform",
+          "Willing to provide brand guidelines and target audience information",
+          "Commitment to a three-month engagement for optimal results"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to create engaging social media content? Our Monthly Content Creation Package offers customized short-form videos that resonate with your audience, enhance engagement, and showcase your unique brand personality. Save time and boost your online presence today! 📈✨ Learn more about our services! #ContentCreation #SocialMediaMarketing #SmallBusiness",
+        "website_description": "Transform your online presence with our Monthly Content Creation Package! Designed for small businesses and content creators, this package provides you with tailored short-form video content that drives engagement and enhances brand visibility. Enjoy 4 customized video scripts, polished video clips, weekly caption suggestions, and a dedicated content strategy consultation—all for $400. Let's elevate your brand together!",
+        "outreach_template": "Subject: Let's Elevate Your Content Game! \n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to boost your online presence with our Monthly Content Creation Package. We understand the challenges of consistently creating engaging content, and we're here to help. \n\nWould you be open to a conversation about how our tailored short-form video offerings can align with your goals? \n\nIf you're not interested, no worries—just let me know and I won’t reach out again.\n\nBest regards,\n[Your Name]  \n[Your Position]  \nInfinite Sauce",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence over the next few months?",
+          "Which platforms are you currently active on, and where would you like to focus your content efforts?",
+          "How would you describe your brand's personality and target audience?",
+          "What type of video content have you found resonates most with your audience in the past?",
+          "Are there any particular themes or messages you want to communicate through your content?"
+        ],
+        "proposal_outline": [
+          "1. Executive Summary",
+          "2. Understanding Your Needs",
+          "3. Proposed Solution: Monthly Content Creation Package",
+          "4. Deliverables Breakdown",
+          "5. Timeline and Estimated Delivery",
+          "6. Pricing Information",
+          "7. Next Steps and Call to Action",
+          "8. Conclusion and Contact Information"
+        ],
+        "call_to_action": "Ready to enhance your content strategy? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Confirmation\n\nDear [Client's Name],\n\nThank you for choosing our Monthly Content Creation Package! Just a quick note to confirm that your payment details are being processed. If you have any questions or need assistance, feel free to reach out.\n\nBest regards,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
