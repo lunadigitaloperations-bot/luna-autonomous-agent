@@ -828,6 +828,62 @@
         "payment_template": "Subject: Payment Instructions for Your Social Media Growth Package\n\nHi [Name],\n\nThank you for expressing interest in our Social Media Growth Package! To proceed, please follow the instructions below to complete your payment.\n\nOnce the payment is made, we will confirm your order and schedule a consultation to discuss your specific requirements.\n\nIf you have any questions or need assistance, feel free to reach out!\n\nBest regards,\n[Your Name]\n\nP.S. If you do not wish to receive further communication, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790018063461",
+      "created_at": "2026-09-21T19:14:23.461876+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Boost Your Social Media Presence Package",
+        "target_customer": "Small business owners and content creators looking to engage their audience more effectively.",
+        "customer_problem": "Many small businesses and creators struggle to create engaging social media content that stands out and attracts followers.",
+        "solution": "A tailored social media content creation package that provides engaging scripts and short-form video concepts for TikTok and Instagram.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each) for TikTok",
+          "3 Instagram Reel scripts with engaging captions",
+          "Content strategy outline for one month",
+          "Tips for video filming and editing"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your online presence with professionally crafted content that resonates with your audience, drives engagement, and encourages sharing.",
+        "sales_angle": "Stop spending hours brainstorming content ideas. Let us provide you with fresh, engaging scripts that elevate your social media game!",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referrals from satisfied clients",
+          "Content marketing through blog posts"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media account",
+          "Ready to implement the provided strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started on transforming your social media presence!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our \"Boost Your Social Media Presence Package\" is designed for small business owners and content creators who want to engage and attract followers effectively. Get tailored scripts and a content strategy that resonates with your audience—all for just $150! 📈✨ #SocialMedia #Engagement #SmallBusiness #ContentCreation",
+        "website_description": "Transform your online presence with our Boost Your Social Media Presence Package! Perfect for small business owners and content creators, this package includes tailored scripts for TikTok and Instagram, a comprehensive one-month content strategy, and essential tips for filming and editing. All of this for just $150, delivered within 7 days! Let us help you create content that engages and resonates with your audience.",
+        "outreach_template": "Subject: Boost Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce an exciting opportunity for small business owners and content creators. Our \"Boost Your Social Media Presence Package\" offers tailored scripts and content strategies designed to enhance engagement and attract more followers. \n\nIf you're interested in learning more, I’d love to discuss how we can collaborate to elevate your social media game. \n\nBest regards,\n[Your Name] \n[Your Contact Information] \n\nIf you'd prefer not to receive further emails from me, just let me know!",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What are your primary goals for your social media presence?",
+          "Who is your target audience, and what content do they engage with most?",
+          "What challenges do you face when creating social media content?",
+          "Are you open to implementing new strategies for your social media development?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Social Media Presence",
+          "Proposed Services: Boost Your Social Media Presence Package",
+          "Deliverables and Timeline",
+          "Investment",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to get started? Contact us via email or WhatsApp today to transform your social media presence!",
+        "payment_template": "Subject: Payment Details for Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our Boost Your Social Media Presence Package! To finalize the order, could you please confirm your preferred payment method? Once we receive your confirmation, we will proceed with the next steps.\n\nIf you have any questions, feel free to reach out. \n\nBest regards,\n[Your Name] \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
