@@ -1505,6 +1505,63 @@
         "payment_template": "Subject: Payment Details for Your Package\n\nHi [Recipient's Name],\n\nThank you for your interest in the 30-Day Social Media Kickstart Package! To move forward, could you kindly confirm your preferred payment method? Once we finalize the details, I’ll provide further instructions and a timeline.\n\nLooking forward to hearing from you soon!\n\nBest,  \n[Your Name]  \n[Your Contact Info]  \n\n*If you wish to opt-out of these communications, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790061356832",
+      "created_at": "2026-09-22T07:15:56.832147+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Boost Package",
+        "target_customer": "Small businesses and creators looking to increase their online presence",
+        "customer_problem": "Struggling to deliver consistent and engaging social media content that resonates with their audience.",
+        "solution": "A comprehensive social media package that provides a month’s worth of tailored short-form video scripts and content ideas, enabling businesses to maintain a regular posting schedule without the hassle.",
+        "deliverables": [
+          "10 short-form video scripts for TikTok and Instagram Reels",
+          "5 engaging captions for posts",
+          "1 content calendar with suggested posting schedule",
+          "Access to a remote consultation for strategy alignment"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Consistent content creation that elevates engagement and visibility without overwhelming your schedule.",
+        "sales_angle": "Simplify your social media strategy with a done-for-you package designed to keep your audience engaged and growing.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media referrals",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Small businesses with a social media presence",
+          "Creators looking to establish or enhance their digital footprint"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your online presence with our 30-Day Social Media Boost Package! Tailored short-form video scripts and engaging content ideas to help you connect with your audience effortlessly. 🌟 Ready to simplify your social media strategy? Let’s chat! #SocialMedia #SmallBusiness #ContentCreation",
+        "website_description": "Transform your social media game with our 30-Day Social Media Boost Package! Designed specifically for small businesses and creators, this package provides a month’s worth of tailored short-form video scripts, engaging captions, and a strategic content calendar. Elevate your engagement while maintaining a consistent posting schedule—all without the hassle. Start today for just $300 and watch your online presence grow!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! As a small business owner/creator, I understand how challenging it can be to keep up with consistent and engaging social media content. That’s why I wanted to introduce our 30-Day Social Media Boost Package, specially designed to simplify your social media strategy. \n\nWould you be open to discussing how we can help you increase your online engagement?\n\nIf you're not interested, that's completely okay! Just let me know.\n\nBest,\n[Your Name]",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media content?",
+          "How often do you post on social media, and what platforms do you use?",
+          "What are your primary goals for your online presence?",
+          "Have you tried any content strategies in the past? What worked or didn’t work?",
+          "How do you measure engagement and success on your social channels?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solution: 30-Day Social Media Boost Package",
+          "Deliverables Overview",
+          "Timeline and Estimated Delivery",
+          "Investment and Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to simplify your social media strategy? Contact us today to get started!",
+        "payment_template": "Subject: 30-Day Social Media Boost Package Confirmation\n\nHi [Name],\n\nThank you for considering our 30-Day Social Media Boost Package! We’re excited to get started on enhancing your online presence. \n\nCould you please confirm your preferred payment method and any additional details? If you have any questions, don’t hesitate to ask!\n\nLooking forward to your response!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
