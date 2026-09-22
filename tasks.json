@@ -1788,6 +1788,65 @@
         "payment_template": "Subject: Payment Information\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Video Strategy Package! Before we proceed, could you please confirm your preferred payment method? We're excited to help you elevate your social media presence.\n\nLooking forward to hearing from you soon!\n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n[Contact Information]\n\nIf you would like to opt out of future communications, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790079594667",
+      "created_at": "2026-09-22T12:19:54.667993+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Spark Package",
+        "target_customer": "Small businesses or creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to consistently create engaging content that attracts followers and drives engagement.",
+        "solution": "Provide a tailored content plan and short-form videos that can be directly utilized on platforms like TikTok and Instagram.",
+        "deliverables": [
+          "Custom content strategy document",
+          "3 short-form video scripts (30-60 seconds each)",
+          "1 TikTok video (edited and ready for posting)",
+          "1 Instagram Reel (edited and ready for posting)",
+          "Engaging captions for all content"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock the potential of your social media with creative content that captures attention and promotes engagement.",
+        "sales_angle": "Transform your social media channels into vibrant platforms that resonate with your audience without the hassle of planning and production.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Networking in online communities",
+          "Word-of-mouth referrals"
+        ],
+        "qualification_criteria": [
+          "Small business or individual creator",
+          "Active on at least one social media platform",
+          "Willingness to collaborate and provide feedback"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com to schedule a consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🌟 Elevate your social media game with our Social Media Spark Package! Designed specifically for small businesses and creators, we provide tailored content strategies and engaging short-form videos that are ready for your platforms. 📱🔥 Get started today and unlock your social potential! #SocialMediaMarketing #SmallBusiness #Creativity",
+        "website_description": "Transform your social media channels with our Social Media Spark Package! Perfect for small businesses and creators, this package includes a custom content strategy, engaging short-form videos for TikTok and Instagram, and captivating captions. Enhance your online presence effortlessly and start attracting followers and driving engagement today!",
+        "outreach_template": "Subject: Boost Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share our Social Media Spark Package, designed specifically for small businesses and creators like yourself. If you're looking to enhance your social media presence and engage your audience more effectively, I believe this could be a great fit for you.\n\nWould you be open to discussing this further? Please let me know a suitable time for a brief consultation. \n\nBest regards,\n[Your Name]\n[Your Position]  \n[Your Contact Information]\n\nIf you’re not interested, please let me know, and I’ll happily respect your preferences!",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media strategy?",
+          "Which platforms do you currently use to promote your business?",
+          "What type of content resonates most with your audience?",
+          "How often do you currently post on social media?",
+          "Are you open to collaborating on content creation and strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Customer's Current Situation",
+          "Proposed Solution: Social Media Spark Package",
+          "Deliverables Overview",
+          "Timeline for Delivery",
+          "Investment and Payment Terms",
+          "Next Steps",
+          "Q&A Section"
+        ],
+        "call_to_action": "Ready to ignite your social media? Contact us today to schedule your consultation and get started!",
+        "payment_template": "Subject: Payment Details for Your Social Media Spark Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Spark Package! Please find below the payment details to proceed:\n\nTotal Amount: $150\nPayment Method: [insert method, e.g., PayPal, bank transfer]\n\nLet me know if you have any questions or need further assistance. Once the payment is received, we can kick off the project and begin crafting your social media content!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
