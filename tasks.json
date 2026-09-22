@@ -2021,6 +2021,64 @@
         "payment_template": "Subject: Payment for Your Short-Form Video Content Package\n\nHi [Recipient's Name],\n\nThank you for choosing our Short-Form Video Content Package! To proceed with your order, please let us know if you have any preferred payment methods. Once we receive your input, we will provide the necessary details.\n\nLooking forward to working with you!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nP.S. If you're no longer interested, please feel free to let us know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790097266946",
+      "created_at": "2026-09-22T17:14:26.946750+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Weekly Social Media Content Package",
+        "target_customer": "Small businesses and influencers seeking to enhance their social media presence.",
+        "customer_problem": "Struggling to create consistent and engaging social media content that resonates with their audience.",
+        "solution": "A comprehensive package providing a week's worth of customized short-form video scripts and captions tailored to their brand and audience.",
+        "deliverables": [
+          "5 short-form video scripts (for platforms like TikTok, Instagram Reels, or YouTube Shorts)",
+          "5 engaging captions for each video",
+          "A content posting schedule",
+          "1 content strategy guide tailored to their goals"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Create buzz around your brand with engaging and tailored content that speaks to your target audience.",
+        "sales_angle": "Save time while boosting your online presence with our expertly crafted content that captivates viewers.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Networking in online business communities",
+          "Word of mouth referrals"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or creator in a growth stage",
+          "Prior experience with social media platforms is beneficial but not required",
+          "Open to receiving feedback and suggestions for improvement"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Elevate your social media game with our Weekly Social Media Content Package! 🚀 Struggling to engage your audience? We provide 5 custom short-form video scripts, engaging captions, and a tailored content strategy—all delivered in just 7 days! Perfect for small businesses and influencers ready to make an impact. 💥 DM us to learn more! #SocialMediaMarketing #ContentCreation #BrandGrowth",
+        "website_description": "Transform your online presence with our Weekly Social Media Content Package! Designed for small businesses and influencers, this comprehensive package delivers 5 personalized short-form video scripts, captivating captions, a content posting schedule, and a custom content strategy guide—all in just 7 days for $250. Save time and boost your brand with content that resonates with your audience!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity to boost your social media presence with our Weekly Social Media Content Package. It’s tailored for small businesses and influencers who want to create engaging content consistently.\n\nOur package includes custom short-form video scripts, engaging captions, and a comprehensive content strategy guide—all delivered in just 7 days! Would you be interested in discussing how this can benefit your brand?\n\nLooking forward to your response! \n\nBest, \n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn’t a fit for you, feel free to let me know!",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What types of content do you find resonate most with your audience?",
+          "How often do you currently post on social media?",
+          "What challenges do you face in creating engaging content?",
+          "What specific goals do you hope to achieve with your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the client’s current social media situation",
+          "Detailed description of the Weekly Social Media Content Package",
+          "Examples of deliverables",
+          "Proposed timeline for delivery",
+          "Pricing",
+          "Next steps for collaboration",
+          "Conclusion"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule a consultation and discuss how our package can elevate your social media strategy!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nI hope you're doing well! I'm reaching out to discuss the details regarding the payment for your order. Please let me know if you have any specific preferences or if there's any information you need to finalize this.\n\nLooking forward to hearing back from you! \n\nBest, \n[Your Name]\n[Your Contact Information]\n\nP.S. If you’d like to opt-out of further correspondence, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
