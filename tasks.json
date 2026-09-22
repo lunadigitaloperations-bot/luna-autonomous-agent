@@ -1675,6 +1675,61 @@
         "payment_template": "Subject: Payment for Services\n\nHi [Recipient's Name],\n\nThank you for considering our 15-Day Short-Form Video Content Package! Please let me know if you have any questions regarding the payment process or need any adjustments to the proposal.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf this isn't the right time, please feel free to opt-out of communications.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790072206609",
+      "created_at": "2026-09-22T10:16:46.609150+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Boost Package",
+        "target_customer": "Small businesses looking to increase social media engagement",
+        "customer_problem": "Struggling to create engaging content for social media platforms, leading to low interaction and visibility.",
+        "solution": "Provide a tailored content strategy along with high-quality scripts and graphics for a week’s worth of social media posts, designed to increase engagement and visibility.",
+        "deliverables": [
+          "Five short-form video scripts (TikTok/Instagram Reels)",
+          "Five optimized captions for posts",
+          "Two custom graphic templates for visual posts",
+          "A weekly content calendar outlining the posting schedule and strategy"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your social media presence with tailored content that captures attention and drives interaction.",
+        "sales_angle": "Engage your audience with compelling content that’s quick and easy to implement, without the hassle of creating everything from scratch.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Networking in small business groups",
+          "Referral programs"
+        ],
+        "qualification_criteria": [
+          "Must have active social media accounts",
+          "Open to collaboration and feedback on content ideas"
+        ],
+        "next_action": "Email us at luna.digital.operations@gmail.com to schedule a consultation and kickstart your content boost!"
+      },
+      "sales_assets": {
+        "social_post": "🌟 Boost your social media engagement with our Social Media Content Boost Package! 🌟 Are you a small business struggling to create engaging posts? We've got you covered! Our tailored content strategy includes scripts, captions, custom graphics, and a content calendar—all designed to elevate your online presence. Ready to engage your audience? 📈💬\n\nEmail us to schedule a consultation! 📧 #SocialMedia #ContentMarketing #SmallBusinessGrowth",
+        "website_description": "Unlock your business's social media potential with our Social Media Content Boost Package! If you're a small business struggling to create engaging content, our tailored strategy provides everything you need to captivate your audience. Get five short-form video scripts, optimized captions, custom graphic templates, and a detailed weekly content calendar—all designed to drive interaction and visibility. Elevate your brand today for just $150!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Engagement! \n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out because I believe our Social Media Content Boost Package could be a great fit for your business. \n\nIf you're struggling to create compelling content that engages your audience, we offer tailored solutions that include video scripts, custom graphics, and a comprehensive content calendar.\n\nWould you be open to discussing this further? \n\nLooking forward to your response! \n\nBest regards, \n[Your Name]  \n[Your Position]  \n[Your Contact Information]\n\nIf you wish to unsubscribe from future communications, please let me know.",
+        "discovery_questions": [
+          "What social media platforms are you currently active on?",
+          "What types of content have you found most engaging with your audience?",
+          "How often do you currently post on your social media accounts?",
+          "What challenges do you face when creating or posting content?",
+          "Are there specific goals you hope to achieve with your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction\n    - Brief overview of the proposal and its purpose",
+          "Understanding Your Needs\n    - Summary of the client's current social media challenges and goals",
+          "Our Solution\n    - Detailed description of the Social Media Content Boost Package deliverables",
+          "Implementation Plan\n    - Timeline and process for delivery",
+          "Pricing\n    - Breakdown of the $150 fee and what it includes",
+          "Next Steps\n    - How to proceed with scheduling the consultation"
+        ],
+        "call_to_action": "Ready to boost your social media engagement? Email us today to schedule your consultation!",
+        "payment_template": "Subject: Next Steps for Your Social Media Content Boost Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Content Boost Package! To proceed, we would need to finalize the payment arrangement. Could you please let me know your preferred payment method?\n\nLooking forward to hearing from you soon! \n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]\n\nIf you'd like to opt-out of future communications, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
