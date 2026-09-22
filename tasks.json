@@ -1164,6 +1164,63 @@
         "payment_template": "Subject: Confirmation of Your TikTok Package Order \n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day TikTok Video Content Package! To proceed with your order, please reply to this email or message us on WhatsApp for payment details. \n\nLooking forward to working together!\n\nBest, \n[Your Name] \n[Your Position]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790039613398",
+      "created_at": "2026-09-22T01:13:33.398886+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Video Strategy Package",
+        "target_customer": "Small businesses or content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging video content that boosts social media engagement and brand awareness.",
+        "solution": "A comprehensive video strategy package that includes personalized short-form video scripts and a content calendar tailored to the business's niche.",
+        "deliverables": [
+          "4 personalized short-form video scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "1 month content calendar outlining posting schedule",
+          "Guidelines for video shooting and editing to maximize engagement",
+          "1 consultation session to discuss the strategy and answer questions"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Transform your social media presence with tailored video content that resonates with your target audience.",
+        "sales_angle": "Unlock the potential of your brand by engaging your audience with compelling video content that stands out.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "SEO-optimized website content",
+          "Networking in business groups"
+        ],
+        "qualification_criteria": [
+          "Small business or content creator with a defined target audience",
+          "Willingness to collaborate on content ideas",
+          "Basic video recording equipment and editing skills"
+        ],
+        "next_action": "Contact us via email or WhatsApp to start creating your customized video strategy today!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Unlock your brand's potential with our 30-Day Social Media Video Strategy Package! 📹✨ Tailored video scripts and a customized content calendar await you. If you're a small business or content creator looking to boost your online presence and engage your audience, this is for you! Ready to transform your social media game? DM us to learn more! #SocialMedia #VideoMarketing #SmallBusinessSuccess",
+        "website_description": "Enhance your online presence with our 30-Day Social Media Video Strategy Package. Designed for small businesses and content creators, this package offers personalized short-form video scripts and a comprehensive content calendar. Engage your audience and elevate your brand with tailored video content that truly resonates. Take the first step to transforming your social media today!",
+        "outreach_template": "Subject: Let's Elevate Your Brand's Video Strategy!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to share an exciting opportunity to enhance your online presence through our 30-Day Social Media Video Strategy Package. This comprehensive service includes personalized video scripts and a tailored content calendar to boost your engagement and brand awareness.\n\nIf this sounds interesting, I’d love to discuss how we can tailor our approach to your unique needs! Feel free to reply or contact me directly.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you’d prefer not to receive messages like this, just let me know.",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Who is your target audience, and what do you think resonates with them?",
+          "Have you previously used video content in your marketing? If so, what were your experiences?",
+          "What platforms (e.g., TikTok, Instagram, YouTube) do you currently use for your business?",
+          "Are there any specific themes or ideas you want to explore in your video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Objectives",
+          "Detailed Deliverables",
+          "Timeline for Delivery",
+          "Investment and Payment Terms",
+          "Next Steps",
+          "Q&A Section"
+        ],
+        "call_to_action": "Contact us via email or WhatsApp to start creating your customized video strategy today!",
+        "payment_template": "Subject: Payment Details for Your Video Strategy Package\n\nHi [Recipient's Name],\n\nI hope you're doing well! I'm reaching out to confirm the details regarding your video strategy package. A payment link is on its way, and once processed, we can kickstart your transformation journey!\n\nIf you have any questions or need assistance, feel free to reach out. \n\nThank you, and I'm excited to collaborate with you!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf this doesn’t align with your current goals, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
