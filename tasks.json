@@ -1619,6 +1619,62 @@
         "payment_template": "Subject: Payment for Your 30-Day TikTok Content Sprint\n\nHi [Name],\n\nI hope you’re doing well! I wanted to follow up regarding your interest in our 30-Day TikTok Content Sprint. If you're ready to proceed, let’s discuss the next steps in the payment process.\n\nFeel free to let me know if you have any questions or if you'd like to move forward. If you're not interested, I completely understand and respect your decision.\n\nBest, \nLuna",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790068547098",
+      "created_at": "2026-09-22T09:15:47.098676+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "15-Day Short-Form Video Content Package",
+        "target_customer": "Small business owners and creators looking to increase their online visibility.",
+        "customer_problem": "Struggling to create engaging short-form video content for social media due to lack of time and expertise.",
+        "solution": "A tailored package offering short-form video scripts and content strategy to boost engagement on platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "5 customized short-form video scripts (30-60 seconds each)",
+          "1 content strategy guide specific to the business",
+          "4 tailored social media captions for each video",
+          "Weekly check-in via video call for guidance and adjustments"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 15,
+        "value_proposition": "Unlock your brand's potential with professional video content that resonates with your audience and enhances engagement.",
+        "sales_angle": "Get noticed in the crowded digital space with high-quality, engaging video content that you can produce quickly and easily.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Networking in local business communities"
+        ],
+        "qualification_criteria": [
+          "Actively engaged on social media platforms",
+          "Open to implementing new content strategies",
+          "Willing to invest in digital marketing"
+        ],
+        "next_action": "Contact to schedule a free consultation to discuss your business needs and content goals."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Attention Small Business Owners! Struggling to create engaging short-form videos for your brand? Our 15-Day Short-Form Video Content Package is designed specifically for you! Get 5 customized video scripts, a content strategy guide, tailored social media captions, and weekly check-ins to boost your online presence! 🌟💡 Let’s take your visibility to the next level! Contact us for a free consultation! #VideoMarketing #SmallBusiness",
+        "website_description": "Transform your online presence with our 15-Day Short-Form Video Content Package! Perfect for small business owners and creators, this package includes 5 custom video scripts, a tailored content strategy guide, and weekly check-ins to ensure your video content not only engages but resonates with your audience. Elevate your social media game and make your brand stand out!",
+        "outreach_template": "Subject: Unlock Your Brand's Potential with Engaging Video Content\n\nHi [Recipient's Name],\n\nI hope this message finds you well! My name is [Your Name], and I’m reaching out to share an exciting opportunity tailored for small business owners like yourself.\n\nAre you finding it challenging to create engaging short-form video content for your social media? Our 15-Day Short-Form Video Content Package might be just what you need. Not only do we provide customized video scripts and a content strategy guide, but we also offer ongoing support through weekly check-ins.\n\nIf you're interested, I'd love to schedule a free consultation to discuss your business needs and content goals in more detail.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf this isn’t the right time, please let me know, and I’ll be sure not to follow up.",
+        "discovery_questions": [
+          "What platforms do you currently use for social media marketing?",
+          "What challenges are you facing with your current video content strategy?",
+          "How often do you post video content on your social media channels?",
+          "What type of audience are you trying to reach with your video content?",
+          "Are you open to experimenting with new content formats or strategies?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of the client's business and needs",
+          "2. Package Overview\n   - Description of the 15-Day Short-Form Video Content Package",
+          "3. Deliverables\n   - Detailed list of what the package includes",
+          "4. Timeline\n   - Estimated delivery days and schedule for check-ins",
+          "5. Investment\n   - Suggested price and payment options",
+          "6. Next Steps\n   - Call to action for consultation or agreement"
+        ],
+        "call_to_action": "Ready to elevate your online presence? Contact us today to schedule your free consultation!",
+        "payment_template": "Subject: Payment for Services\n\nHi [Recipient's Name],\n\nThank you for considering our 15-Day Short-Form Video Content Package! Please let me know if you have any questions regarding the payment process or need any adjustments to the proposal.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf this isn't the right time, please feel free to opt-out of communications.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
