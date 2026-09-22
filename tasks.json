@@ -2248,6 +2248,60 @@
         "payment_template": "Subject: Regarding Your Recent Inquiry\n\nDear [Recipient's Name],\n\nThank you for your interest in our Social Media Boost Pack! We’re excited to help you enhance your social media presence. To proceed, we can discuss payment options to make this process as smooth as possible.\n\nPlease let us know how you would like to move forward, and don’t hesitate to reach out if you have any questions.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790111641399",
+      "created_at": "2026-09-22T21:14:01.399719+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Starter Kit for Small Businesses",
+        "target_customer": "Small business owners looking to enhance their online presence",
+        "customer_problem": "Many small businesses struggle to create engaging social media content that resonates with their audience and boosts brand awareness.",
+        "solution": "A comprehensive Social Media Starter Kit that includes tailored video scripts, content strategy guidance, and a set of caption templates to help businesses effectively connect with their target audience.",
+        "deliverables": [
+          "5 short-form video scripts tailored to the business's products or services",
+          "Content strategy plan for the next month, including posting schedule",
+          "10 customizable caption templates for social media posts",
+          "1 hour of remote consultation to discuss strategy and implementation"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Empower your business with engaging social media content that attracts and engages your audience without the guesswork.",
+        "sales_angle": "Transform your social media presence with ready-to-use content that elevates your brand, designed specifically for small businesses.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word-of-mouth referrals",
+          "Online marketplaces for digital services"
+        ],
+        "qualification_criteria": [
+          "Must be a small business with an established product or service",
+          "Willingness to engage and adapt strategies for social media"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your small business's social media game? Our Social Media Starter Kit is designed just for you! With tailored video scripts, a content strategy plan, and customizable caption templates, you'll connect with your audience effortlessly. Let's make your brand shine online! 🌟 #SmallBusiness #SocialMedia #BrandAwareness",
+        "website_description": "Introducing the Social Media Starter Kit for Small Businesses: a tailored solution designed to boost your online presence. With engaging video scripts, a comprehensive content strategy, and customizable captions, this kit empowers you to connect with your audience effectively. Priced at just $250, you'll receive everything you need to enhance your brand's visibility in as little as 10 days.",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce our Social Media Starter Kit, specifically designed to help small business owners like you enhance their online presence. This kit could provide the engaging content you need to connect with your audience.\n\nIf you’re interested, I would love to schedule a consultation to discuss how we can tailor the kit for your specific needs. \n\nBest Regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn’t the right time for you, please feel free to opt-out of further communication.",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media presence?",
+          "Who is your target audience, and what platforms do they engage with most?",
+          "What specific goals do you have for your social media strategy?",
+          "Have you used any social media tools or content strategies in the past? If so, what were your experiences?",
+          "How much time are you currently investing in social media marketing each week?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of the Social Media Starter Kit\n   - Acknowledge the client's needs and challenges\n",
+          "2. Proposed Solution\n   - Detailed description of each deliverable\n   - Example of potential results\n",
+          "3. Implementation Plan\n   - Timeline for delivery (10 days)\n   - Overview of the consultation process\n",
+          "4. Investment\n   - Pricing details ($250)\n   - Value justification\n",
+          "5. Next Steps\n   - Call to action for scheduling a consultation\n"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule your consultation and start transforming your social media presence!",
+        "payment_template": "Subject: Confirmation of Your Order\n\nHi [Name],\n\nThank you for your interest in our Social Media Starter Kit! Once you're ready to proceed, please let me know, and I’ll share the next steps to secure your order.\n\nLooking forward to hearing from you soon!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf you prefer not to receive these updates, just let me know, and I will remove you from the list.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
