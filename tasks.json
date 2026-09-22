@@ -1730,6 +1730,64 @@
         "payment_template": "Subject: Next Steps for Your Social Media Content Boost Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Content Boost Package! To proceed, we would need to finalize the payment arrangement. Could you please let me know your preferred payment method?\n\nLooking forward to hearing from you soon! \n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]\n\nIf you'd like to opt-out of future communications, just let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790075700779",
+      "created_at": "2026-09-22T11:15:00.779076+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Video Strategy Package",
+        "target_customer": "Small businesses or creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and drives engagement.",
+        "solution": "A tailored video strategy that includes a content calendar, scriptwriting, and production guidelines for effective short-form videos across TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "Custom content calendar for 30 days",
+          "5 short-form video scripts (one per week)",
+          "Guidelines for video production and editing",
+          "Tips for optimizing videos for each platform"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Transform your social media presence with a strategic video approach that saves you time and amplifies engagement.",
+        "sales_angle": "Unlock the power of video to captivate your audience and elevate your brand, without the overwhelming hassle of creating content from scratch.",
+        "organic_discovery_methods": [
+          "SEO-optimized blog posts",
+          "Social media promotions",
+          "Referral programs"
+        ],
+        "qualification_criteria": [
+          "Business or creator actively using social media platforms",
+          "Commitment to implementing the strategy",
+          "Budget for video production"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss your needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our 30-Day Video Strategy Package! 🎥✨ Tailored for small businesses and creators, transform your presence with engaging short-form videos. Ready to captivate your audience? Let's chat! #VideoMarketing #SocialMedia #SmallBusinessGrowth",
+        "website_description": "Transform your social media presence with our 30-Day Social Media Video Strategy Package. Specifically designed for small businesses and creators, this package equips you with a customized content calendar, engaging short-form video scripts, and comprehensive production guidelines for TikTok, Instagram Reels, and YouTube Shorts. Unlock the power of strategic video content to amplify your engagement and save time. Get started today!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity that could help enhance your social media strategy. Our 30-Day Social Media Video Strategy Package is specifically crafted for small businesses and creators seeking to engage their audience through short-form videos. \n\nIf you're interested in learning more or would like to schedule a consultation, please let me know!\n\nWarm regards,\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n[Contact Information]\n\nIf you prefer not to receive these messages, please let me know.",
+        "discovery_questions": [
+          "What specific challenges are you facing in your video content creation?",
+          "Which social media platforms are you currently using to engage your audience?",
+          "How often do you post video content on your channels?",
+          "What goals do you hope to achieve with your social media video strategy?",
+          "What resources do you currently have for video production and editing?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding the Customer's Needs",
+          "Overview of the 30-Day Social Media Video Strategy Package",
+          "Deliverables Breakdown",
+          "Value Proposition",
+          "Investment Details",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Information\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Video Strategy Package! Before we proceed, could you please confirm your preferred payment method? We're excited to help you elevate your social media presence.\n\nLooking forward to hearing from you soon!\n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n[Contact Information]\n\nIf you would like to opt out of future communications, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
