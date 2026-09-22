@@ -2079,6 +2079,64 @@
         "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nI hope you're doing well! I'm reaching out to discuss the details regarding the payment for your order. Please let me know if you have any specific preferences or if there's any information you need to finalize this.\n\nLooking forward to hearing back from you! \n\nBest, \n[Your Name]\n[Your Contact Information]\n\nP.S. If you’d like to opt-out of further correspondence, just let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790101178803",
+      "created_at": "2026-09-22T18:19:38.803953+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Growth Kit",
+        "target_customer": "Small business owners and content creators looking to increase their online presence",
+        "customer_problem": "Struggling to create engaging social media content that drives audience engagement and growth.",
+        "solution": "A comprehensive content strategy package that includes tailored short-form video scripts and captions designed for TikTok, Instagram, and YouTube.",
+        "deliverables": [
+          "5 short-form video scripts for TikTok",
+          "5 Instagram Reel scripts",
+          "5 YouTube Shorts scripts",
+          "15 engaging captions tailored for each platform",
+          "A 30-day content calendar outlining posting schedule and themes"
+        ],
+        "suggested_price_usd": 199,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media engagement and visibility with tailored content that speaks to your audience.",
+        "sales_angle": "Transform your social media presence in just 30 days with this all-in-one growth kit designed for busy entrepreneurs.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Networking groups and forums",
+          "Local small business communities"
+        ],
+        "qualification_criteria": [
+          "Must currently be active on at least one social media platform",
+          "Open to implementing new content strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started on your Social Media Growth Kit today!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to level up your social media game? Our 30-Day Social Media Growth Kit is designed for small business owners and content creators looking to boost their online presence! 🎥✨ Get 15 tailored scripts & a 30-day content calendar to keep your audience engaged. DM us to learn more! #SocialMediaGrowth #ContentCreation #SmallBusiness",
+        "website_description": "Transform your social media presence in just 30 days! The 30-Day Social Media Growth Kit provides small business owners and content creators with a comprehensive strategy package. Get 5 short-form video scripts tailored for TikTok, Instagram Reels, and YouTube Shorts, along with 15 engaging captions and a 30-day content calendar. All for just $199. Elevate your online visibility and engagement today!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to share an offer that could help you enhance your social media engagement and visibility. Our 30-Day Social Media Growth Kit includes tailored short-form video scripts and a comprehensive content strategy designed for busy entrepreneurs like yourself.\n\nIf you're currently active on social media and open to implementing new content strategies, I believe this could be a great fit for you!\n\nWould you be interested in learning more?\n\nBest regards,\n[Your Name]\n[Your Contact Info]\nP.S. If this doesn’t resonate with you, feel free to let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What social media platforms are you currently active on?",
+          "What type of content have you found resonates most with your audience so far?",
+          "Are there specific goals you aim to achieve with your social media presence?",
+          "How often do you currently post content on your social media?",
+          "What challenges do you face in creating engaging content for your audience?"
+        ],
+        "proposal_outline": [
+          "Introduction to the 30-Day Social Media Growth Kit",
+          "Identification of target audience and goals",
+          "Overview of the deliverables (scripts, captions, calendar)",
+          "Value proposition and how it addresses the customer's needs",
+          "Estimated timeline for delivery and next steps",
+          "Pricing details and payment options",
+          "Call to action and customer support information"
+        ],
+        "call_to_action": "Ready to enhance your social media presence? Contact us today to get started on your 30-Day Social Media Growth Kit!",
+        "payment_template": "Hi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Growth Kit! Once you're ready to proceed, we will send you the payment instructions. Please let me know when you'd like to take the next step. \n\nBest,\n[Your Name]\n[Your Contact Info]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
