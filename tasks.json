@@ -2137,6 +2137,62 @@
         "payment_template": "Hi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Growth Kit! Once you're ready to proceed, we will send you the payment instructions. Please let me know when you'd like to take the next step. \n\nBest,\n[Your Name]\n[Your Contact Info]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790104424351",
+      "created_at": "2026-09-22T19:13:44.351347+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Video Package for Small Businesses",
+        "target_customer": "Small business owners looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging video content that attracts attention on social media platforms and increases audience engagement.",
+        "solution": "A tailored video content package designed to produce short-form videos that highlight the business's unique offerings and engage with its target audience effectively.",
+        "deliverables": [
+          "3 short-form video scripts (30-60 seconds each)",
+          "3 completed video clips optimized for TikTok, Instagram Reels, and YouTube Shorts",
+          "3 engaging captions for social media posts",
+          "1 content strategy guide to help leverage the videos across platforms"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Attract and engage your target audience with professional, tailored video content that showcases your brand's personality and products.",
+        "sales_angle": "Enhance your social media presence with captivating video content designed to attract new customers without breaking the bank.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth",
+          "Email marketing to previous clients"
+        ],
+        "qualification_criteria": [
+          "Business must have an existing social media presence",
+          "Willingness to collaborate on video ideas and themes"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com to discuss your needs and kickstart your video content strategy."
+      },
+      "sales_assets": {
+        "social_post": "🎥✨ Elevate your online presence! Small business owners, are you tired of struggling to create engaging video content? Our Social Media Video Package is tailored for you! Get 3 captivating short-form videos, scripts, and a content strategy guide—all for just $300! 🚀 Ready to attract new customers? Contact us today! #SmallBusiness #VideoMarketing #SocialMedia #BrandGrowth",
+        "website_description": "Boost your online visibility with our Social Media Video Package designed specifically for small businesses. This comprehensive package includes 3 engaging short-form video clips, scripts, and captions tailored for TikTok, Instagram Reels, and YouTube Shorts. For just $300, you'll receive a content strategy guide to maximize your impact on social media—all delivered in just 14 days! Enhance your brand's personality and attract new customers with professional video content.",
+        "outreach_template": "Subject: Let’s Elevate Your Social Media Strategy! \n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to small business owners like yourself who might be looking to enhance their online presence. Our Social Media Video Package offers tailored video content that can help you engage effectively with your target audience.\n\nIf you’re interested in discovering how we can collaborate on this, I would love to set up a time to chat!\n\nBest regards,\n[Your Name] \n[Your Position] \n[Your Company] \n[Your Contact Information] \n\nP.S. If you're not interested, just let me know, and I'll make sure not to reach out again.",
+        "discovery_questions": [
+          "What type of video content have you created in the past, and what has worked well?",
+          "Who is your target audience, and what messages do you want to convey to them?",
+          "What social media platforms do you currently use, and how do you engage with your followers?",
+          "Are there specific themes or concepts you envision for your video content?",
+          "What is your budget and timeline for improving your video marketing strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction and Overview",
+          "Understanding Your Needs and Goals",
+          "Proposed Solutions (Video Package Details)",
+          "Deliverables and Packaging",
+          "Timeline for Delivery",
+          "Investment and Pricing",
+          "Next Steps and Contact Information"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us at luna.digital.operations@gmail.com to get started!",
+        "payment_template": "Subject: Payment for Your Social Media Video Package \n\nHi [Recipient's Name],\n\nI hope you're doing well! I wanted to follow up regarding the Social Media Video Package we discussed. Please let me know if you have any questions or need further information before proceeding. \n\nLooking forward to your response!\n\nBest regards,\n[Your Name] \n[Your Position] \n[Your Company] \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
