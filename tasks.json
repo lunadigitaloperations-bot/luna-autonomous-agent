@@ -1391,6 +1391,62 @@
         "payment_template": "Subject: Payment Options for Your Social Media Package\n\nHi [Recipient's Name],\n\nThank you for considering our Social Media Content Booster Package! We would be happy to discuss the payment options available for you once you're ready to proceed.\n\nIf you have any questions or need further details, please feel free to reach out. Looking forward to hearing from you!\n\nBest,  \n[Your Name]  \nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790054080262",
+      "created_at": "2026-09-22T05:14:40.262925+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Boost Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and drives interaction.",
+        "solution": "Provide tailored short-form video scripts and content ideas specifically designed for TikTok, Instagram Reels, and YouTube Shorts to boost engagement and visibility.",
+        "deliverables": [
+          "3 short-form video scripts tailored for TikTok, Instagram Reels, or YouTube Shorts",
+          "2 content idea outlines that align with the customer's brand",
+          "5 catchy captions tailored for social media posts"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Create compelling, shareable content that resonates with your target audience and enhances your brand visibility.",
+        "sales_angle": "Unlock your brand's potential with engaging video content that drives interaction without the stress of content creation.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Content partnerships",
+          "Local business networks"
+        ],
+        "qualification_criteria": [
+          "Customer must have an active social media presence",
+          "Customer should provide brand guidelines or insights about their audience"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your social media game with our Social Media Boost Package! 🎥✨ Tailored short-form video scripts, content ideas, and catchy captions designed for TikTok, Instagram Reels, and YouTube Shorts await you! Perfect for small businesses and content creators looking to increase engagement and visibility. Start your journey with us today! #SocialMedia #ContentCreation #BoostYourBrand",
+        "website_description": "Transform your online presence with our Social Media Boost Package! Designed specifically for small businesses and content creators, this package offers tailored short-form video scripts, unique content ideas, and catchy social media captions. Capture your audience's attention and enhance brand visibility effortlessly. Get started for just $150 and elevate your social media engagement within 7 days!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Social Media Boost Package, designed specifically for small businesses and content creators like you. If you're struggling to create engaging short-form video content that resonates with your audience, we have the perfect solution.\n\nThis package includes tailored video scripts, content ideas, and catchy captions to help elevate your online presence.\n\nIf you're interested, I’d love to schedule a consultation to discuss how we can support your goals. Please let me know if you're available!\n\nBest regards,\n\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n[Your Contact Information]\n\nIf this isn’t of interest, feel free to opt-out, and I won't follow up again.",
+        "discovery_questions": [
+          "What messaging do you want to convey through your video content?",
+          "Who is your target audience, and what resonates with them?",
+          "What platforms are you currently using to promote your content?",
+          "Do you have any existing brand guidelines we should follow?",
+          "How often do you currently post on social media?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Social Media Boost Package",
+          "Deliverables",
+          "Estimated Delivery Timeline",
+          "Pricing",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Next Steps for Your Order\n\nHi [Recipient's Name],\n\nThank you for choosing our Social Media Boost Package! To proceed, please let us know your preferred payment method, and we’ll send you further instructions.\n\nWe’re excited to help you boost your social media engagement!\n\nBest regards,\n\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
