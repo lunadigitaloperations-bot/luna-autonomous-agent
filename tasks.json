@@ -2638,6 +2638,66 @@
         "payment_template": "Subject: Next Steps in Your Video Content Journey \n\nHi [Recipient's Name],  \nThank you for discussing our Monthly Video Content Package! I'm excited to take the next steps with you. When you’re ready, please let me know how you'd like to proceed, and we can finalize the details.  \n\nFeel free to reach out if you have any questions!  \n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]  \n*If you'd like me to remove you from future correspondence, just let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790136979792",
+      "created_at": "2026-09-23T04:16:19.792865+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Booster Package",
+        "target_customer": "Small businesses and content creators struggling to increase their online visibility",
+        "customer_problem": "Inconsistent engagement and low visibility on social media platforms",
+        "solution": "A tailored content strategy and short-form video scripts designed to boost engagement and attract followers on TikTok and Instagram.",
+        "deliverables": [
+          "A customized social media content calendar for one month",
+          "4 engaging short-form video scripts (for TikTok or Instagram Reels)",
+          "5 catchy captions to accompany the videos",
+          "An analysis report of best-performing content types",
+          "One 30-minute remote strategy consultation call"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Enhance your online presence with engaging content crafted just for your brand, driving organic engagement without overwhelming your schedule.",
+        "sales_angle": "Unlock your brand's potential with high-quality content designed to resonate with your target audience.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth",
+          "Online communities and groups",
+          "Networking with local businesses"
+        ],
+        "qualification_criteria": [
+          "Established social media presence with at least 100 followers",
+          "Willingness to collaborate on content ideas",
+          "Open to using creative video formats"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your specific needs and secure your package."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to grow your small business or personal brand on social media? Our Social Media Growth Booster Package is here to help! 📈 Get a custom content strategy, engaging short-form video scripts, and personalized consultation—all designed to elevate your online presence on TikTok and Instagram. 💡✨ Don't miss out on unlocking your brand's potential! DM us today to learn more! #SocialMediaGrowth #ContentCreation #SmallBusinessSupport",
+        "website_description": "Transform your online presence with our Social Media Growth Booster Package! Tailored for small businesses and content creators, this package includes a one-month customized content calendar, engaging short-form video scripts for TikTok and Instagram, catchy captions, and a strategy consultation to ensure your success. Start attracting followers and boosting engagement today!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Engagement!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Social Media Growth Booster Package specifically designed for small businesses and content creators. If you're looking to enhance your online visibility and engagement, this may be a perfect fit for you.\n\nOur package includes:\n- A customized one-month social media content calendar\n- 4 engaging short-form video scripts for TikTok or Instagram Reels\n- 5 catchy captions to accompany your videos\n- An analysis report for best-performing content types\n- A 30-minute remote strategy consultation call\n\nI’d love to discuss how we can tailor this package to meet your needs. If you're interested, please feel free to reply to this email! \n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n\nP.S. If this isn’t of interest to you, please let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media engagement?",
+          "Which platforms do you primarily use for your business or content?",
+          "What type of content has worked well for you in the past?",
+          "How much time do you currently dedicate to social media marketing each week?",
+          "Are you open to exploring video formats for your social media content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Proposed Solutions",
+          "Deliverables",
+          "Timeline",
+          "Pricing",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to enhance your online presence? Contact us via email or WhatsApp to discuss your needs and secure your Social Media Growth Booster Package today!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nI hope you’re doing well! I'm reaching out to provide you with the payment details for your chosen package. Please find the relevant information below:\n\n- Package: Social Media Growth Booster Package\n- Total Amount: $150\n\nOnce you confirm that you’re ready to proceed, I’ll share the payment link to complete the transaction. Let me know if you have any questions!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n\nP.S. If this isn't the right time for you, just let me know, and I can follow up later.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
