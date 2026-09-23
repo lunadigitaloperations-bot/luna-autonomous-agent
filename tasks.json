@@ -2698,6 +2698,61 @@
         "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nI hope you’re doing well! I'm reaching out to provide you with the payment details for your chosen package. Please find the relevant information below:\n\n- Package: Social Media Growth Booster Package\n- Total Amount: $150\n\nOnce you confirm that you’re ready to proceed, I’ll share the payment link to complete the transaction. Let me know if you have any questions!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n\nP.S. If this isn't the right time for you, just let me know, and I can follow up later.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790140467882",
+      "created_at": "2026-09-23T05:14:27.882552+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Package for Creators",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to produce consistent, engaging short-form video content that captures their audience's attention and drives engagement",
+        "solution": "A comprehensive content package that provides a series of customized short-form video scripts and social media captions tailored to the brand's voice and target audience",
+        "deliverables": [
+          "5 short-form video scripts (up to 60 seconds each)",
+          "5 engaging captions suitable for TikTok, Instagram Reels, and YouTube Shorts",
+          "Content strategy consultation (30 minutes via Zoom)",
+          "Guidelines for best practices in video creation and posting"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your online presence with tailored content that resonates with your audience, driving engagement and awareness without compromising your unique brand voice",
+        "sales_angle": "Unlock your social media potential with professional support, allowing you to focus on creating while we handle the content strategy",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth",
+          "Networking within local business communities"
+        ],
+        "qualification_criteria": [
+          "Must have an established social media presence",
+          "Open to receiving constructive feedback on content strategy"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com to discuss your needs and schedule your initial consultation"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to boost your social media presence? Our Social Media Content Package for Creators delivers 5 tailored short-form video scripts and engaging captions designed for TikTok, Instagram Reels, and YouTube Shorts! 🎥✨ Plus, you'll get a 30-minute content strategy consultation to help you shine! 💡 Click the link in our bio to learn more. #SocialMedia #ContentCreators #VideoMarketing",
+        "website_description": "Transform your social media game with our Social Media Content Package for Creators! Designed for small business owners and content creators, this comprehensive package includes five customized short-form video scripts, engaging captions for popular platforms, a 30-minute consultation, and best practice guidelines. Enhance your online presence and connect with your audience authentically—all for just $150 and delivered within 7 days!",
+        "outreach_template": "Subject: Elevate Your Social Media Content\n\nDear [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity for small business owners and content creators like yourself. Our Social Media Content Package is designed to help enhance your social media presence through tailored video scripts and captions.\n\nIf you're interested in learning more, I'd love to schedule a time to discuss your specific needs. Thank you for considering us. If you prefer not to receive future messages, please feel free to let me know.\n\nBest regards,\n[Your Name]  \n[Your Title]  \n[Your Contact Information]",
+        "discovery_questions": [
+          "What types of content have you found to engage your audience the most?",
+          "How often do you currently post on your social media platforms?",
+          "What challenges are you facing when creating short-form video content?",
+          "Are there specific themes or messages you want to convey through your videos?",
+          "What are your goals for your social media presence in the next 6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Proposed Solution: Social Media Content Package",
+          "Deliverables Overview",
+          "Timeline and Pricing",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to elevate your social media strategy? Contact us today at luna.digital.operations@gmail.com!",
+        "payment_template": "Subject: Payment Information\n\nDear [Recipient's Name],\n\nThank you for your interest in our Social Media Content Package. As we prepare to move forward, please let me know how you'd like to proceed with the payment process. Your prompt response will help us ensure timely delivery of your customized content.\n\nIf you no longer wish to continue this conversation, feel free to let me know.\n\nWarm regards,\n[Your Name]  \n[Your Title]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
