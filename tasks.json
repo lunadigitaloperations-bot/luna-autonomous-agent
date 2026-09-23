@@ -2467,6 +2467,64 @@
         "payment_template": "Subject: Payment Information  \n\nHi [Name],  \n\nThank you for your interest in our Engaging Short-Form Video Package! We’d love to get started on creating fantastic content for you.  \n\nTo proceed, please let us know your preferred payment method, and I will provide further instructions.  \n\nLooking forward to your response!  \n\nBest,  \n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790126059370",
+      "created_at": "2026-09-23T01:14:19.370895+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Content Creation Package",
+        "target_customer": "Small business owners and content creators looking to enhance their TikTok presence",
+        "customer_problem": "Struggling to create engaging and consistent TikTok content that resonates with their audience",
+        "solution": "A comprehensive TikTok content creation service that provides tailored video scripts, editing tips, and a content calendar for 30 days",
+        "deliverables": [
+          "10 custom video scripts tailored to the business or creator's niche",
+          "30-day content calendar with video ideas and posting schedule",
+          "Captions for each video",
+          "Tips for video editing and maximizing engagement"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Leverage compelling content to boost visibility and engagement on TikTok without the stress of daily planning",
+        "sales_angle": "Attract your ideal audience and boost brand awareness with expertly crafted content designed to engage TikTok users",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Email campaigns"
+        ],
+        "qualification_criteria": [
+          "Must have an active TikTok account",
+          "Willing to provide insights on target audience and business niche"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your TikTok game with our 30-Day TikTok Content Creation Package! 📹 Tailored video scripts, editing tips, and a content calendar designed just for you! Perfect for small business owners and content creators looking to enhance their presence. 💡 Ready to attract your ideal audience? Contact us today! #TikTokMarketing #ContentCreation",
+        "website_description": "Transform your TikTok presence with our 30-Day TikTok Content Creation Package! Designed for small business owners and content creators, this comprehensive service includes custom video scripts, a 30-day content calendar, engaging captions, and expert video editing tips. Say goodbye to content creation stress and hello to increased visibility and audience engagement. Get started for just $200!",
+        "outreach_template": "Subject: Let's Enhance Your TikTok Presence!\n\nDear [Recipient's Name],\n\nI hope this message finds you well! I’m reaching out to introduce our 30-Day TikTok Content Creation Package, designed specifically for small business owners and content creators like yourself.\n\nOur tailored services provide you with custom video scripts, a comprehensive content calendar, engaging captions, and tips for maximizing your engagement!\n\nIf you're interested in enhancing your TikTok content, I’d love to discuss how we can help!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you'd prefer not to receive further messages, just let me know.",
+        "discovery_questions": [
+          "What challenges are you facing when it comes to creating TikTok content?",
+          "Who is your target audience on TikTok?",
+          "What is your primary goal for expanding your TikTok presence?",
+          "How often do you currently post content on TikTok?",
+          "What types of content do you feel resonate most with your audience?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Your Current TikTok Presence",
+          "Challenges Identified",
+          "Proposed Solution: 30-Day TikTok Content Creation Package",
+          "Deliverables List",
+          "Timeline for Delivery",
+          "Investment Details",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to take your TikTok content to the next level? Contact us to get started today!",
+        "payment_template": "Subject: Next Steps for Your TikTok Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day TikTok Content Creation Package! To proceed, we’ll need to finalize details regarding your tailored content and the next steps.\n\nPlease let me know if you have any questions or if you’d like to discuss any specifics. I’m here to assist you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf you no longer wish to receive messages, please feel free to let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
