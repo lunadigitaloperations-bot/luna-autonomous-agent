@@ -3614,6 +3614,68 @@
         "payment_template": "Subject: Payment Details for Your Social Media Video Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Video Package! To proceed, please let me know your preferred payment method, and I will provide you with the necessary details. Once we finalize the payment, we can begin discussing your video content ideas!\n\nLooking forward to working with you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\n*If you prefer not to receive further communication, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790198123974",
+      "created_at": "2026-09-23T21:15:23.974657+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Creation Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence through engaging video content.",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and boosts social media engagement.",
+        "solution": "Provide a package that delivers a series of tailored short-form video scripts and accompanying storyboards for social media platforms, focusing on brand messaging and audience engagement strategies.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "3 storyboards outlining visual concepts for each video",
+          "3 catchy captions for social media posts",
+          "Content strategy consultation (30 minutes via video call)"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Get high-quality, engaging video content that resonates with your target audience without the stress of content creation.",
+        "sales_angle": "Transform your social media presence with custom video content that tells your brand's story and drives engagement.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Content marketing through blogs and articles",
+          "Networking in local business groups online"
+        ],
+        "qualification_criteria": [
+          "Must have a clear target audience",
+          "Must be active on at least one social media platform",
+          "Willingness to collaborate and provide feedback"
+        ],
+        "next_action": "Contact us today at luna.digital.operations@gmail.com to start elevating your brand through compelling video content."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Enhance your online presence with our Short-Form Video Content Creation Package! 🎥✨ Get 3 engaging video scripts, storyboards, and social media captions tailored for your brand. Transform your social media with custom video content that tells your story and boosts engagement. Ready to take the leap? 🚀 Contact us today! #VideoMarketing #SmallBusiness #ContentCreators",
+        "website_description": "Are you a small business or content creator struggling to make your mark on social media? Our Short-Form Video Content Creation Package offers a solution tailored just for you. Get 3 engaging video scripts, comprehensive storyboards, and catchy captions crafted to resonate with your audience. Elevate your brand effortlessly—let's collaborate and make your video content shine! Contact us for more details.",
+        "outreach_template": "Subject: Elevate Your Brand with Expert Video Content\n\nHi [Name],\n\nI hope this message finds you well! My name is Luna, and I represent Infinite Sauce. We're currently offering an exciting Short-Form Video Content Creation Package designed specifically for small businesses and content creators like yourself.\n\nThis package includes tailored video scripts, storyboards, and consultation focused on enhancing your online engagement. \n\nI’d love to discuss how we can collaborate to bring your brand’s story to life through compelling video content. If you’re interested, please let me know a convenient time for you.\n\nIf you prefer not to receive further information, just reply with \"unsubscribe,\" and I'll respect your wishes.\n\nBest,  \nLuna  \nluna.digital.operations@gmail.com",
+        "discovery_questions": [
+          "What specific goals do you have for your video content?",
+          "Who is your target audience, and what are their interests?",
+          "What social media platforms do you currently use?",
+          "Have you created any video content in the past? If so, what strategies did you apply?",
+          "What key messages do you want your video content to convey?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Overview of Current Challenges",
+          "3. Proposed Video Content Solution",
+          "   - 3 Short-Form Video Scripts",
+          "   - 3 Storyboards",
+          "   - 3 Catchy Captions",
+          "   - Content Strategy Consultation",
+          "4. Timeline for Deliverables",
+          "5. Pricing",
+          "6. Next Steps",
+          "7. Conclusion"
+        ],
+        "call_to_action": "Contact us today to elevate your brand with engaging video content!",
+        "payment_template": "Subject: Next Steps for Your Video Content Package\n\nHi [Name],\n\nThank you for your interest in our Short-Form Video Content Creation Package! To move forward, we can discuss the details and finalize everything required for the project. Please let me know a suitable time for us to connect.\n\nLooking forward to collaborating!\n\nBest,  \nLuna  \nluna.digital.operations@gmail.com",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
