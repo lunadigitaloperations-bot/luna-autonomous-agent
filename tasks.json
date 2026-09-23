@@ -3501,6 +3501,63 @@
         "payment_template": "Subject: Payment Details for Your Social Media Boost Pack\n\nHi [Name],\n\nThank you for expressing interest in our Social Media Boost Pack! To proceed further, we can discuss payment options when you're ready. Please let me know if you have any questions or if there’s a good time for us to chat.\n\nLooking forward to connecting!\nBest regards,\n[Your Name]\nP.S. If you’d prefer not to receive further messages, please just let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790190826025",
+      "created_at": "2026-09-23T19:13:46.025838+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and drives interaction.",
+        "solution": "A package that provides tailored short-form video scripts and content ideas specifically designed for platforms like TikTok and Instagram Reels.",
+        "deliverables": [
+          "Three tailored short-form video scripts (up to 60 seconds each)",
+          "Content strategy consultation (30 minutes via Zoom)",
+          "List of trending audio and hashtag recommendations",
+          "Two custom caption options for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media engagement with customized video scripts, designed to resonate with your target audience.",
+        "sales_angle": "Don’t let the creative block hold you back—get uniquely crafted scripts that keep your content fresh and exciting.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Networking in online creator communities"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Open to video content creation and experimentation",
+          "Willing to invest in their online visibility"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our Short-Form Video Content Package! 🎥 Tailored scripts, trending audio, and a consultation to boost engagement for platforms like TikTok and Instagram Reels—all for just $150! Ready to connect? DM us for more info! 🌟 #ContentCreation #SmallBusinessSuccess",
+        "website_description": "Transform your social media presence with our Short-Form Video Content Package! Perfect for small business owners and content creators, this package includes customized scripts and a 30-minute consultation to enhance your audience engagement. Get noticed with creative, tailored video content designed for TikTok and Instagram Reels.",
+        "outreach_template": "Subject: Elevate Your Video Content Strategy\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity for small business owners and content creators looking to enhance their social media presence. Our Short-Form Video Content Package offers tailored scripts and a strategy consultation to help you create engaging content that resonates with your audience.\n\nIf you’re interested, I’d love to discuss this further. Please let me know a time that works for you!\n\nBest,  \n[Your Name]  \n[Your Contact Info]  \n\nIf this isn’t of interest, feel free to opt-out from further messages.",
+        "discovery_questions": [
+          "What challenges do you face when creating short-form video content?",
+          "Which social media platforms are you most active on?",
+          "How often do you currently post short-form videos?",
+          "What type of content do you think resonates best with your audience?",
+          "Are you open to experimenting with new video styles or formats?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Package Overview",
+          "Deliverables",
+          "Timeline for Delivery",
+          "Pricing",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to take your social media presence to the next level? Contact us today!",
+        "payment_template": "Subject: Payment Inquiry for Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our Short-Form Video Content Package! Before we proceed, I would like to discuss the payment details with you. Please let me know a convenient time for us to go over this.\n\nLooking forward to working together!\n\nBest,  \n[Your Name]  \n[Your Contact Info]  \n\nIf this isn’t of interest, feel free to opt-out from further messages.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
