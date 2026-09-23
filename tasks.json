@@ -3155,6 +3155,64 @@
         "payment_template": "Subject: Next Steps for Your Social Media Boost Package\n\nHi [Recipient's Name],\n\nThank you for expressing interest in our Social Media Boost Package! To move forward, please let me know your preferred payment method, and I'll provide you with the necessary details.\n\nLooking forward to hearing from you!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n*Opt-out available upon request.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790169435220",
+      "created_at": "2026-09-23T13:17:15.220885+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Quick Start Package",
+        "target_customer": "Small business owners and solo creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content for social media platforms, leading to low engagement and visibility.",
+        "solution": "A tailored package that includes short-form video scripts and content strategy guidance focused on maximizing engagement.",
+        "deliverables": [
+          "3 short-form video scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "Content strategy outline for the next month, including posting schedule and themes",
+          "Captions for each video tailored to the target audience"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your online engagement with professionally crafted video content and strategy guidance, all tailored for your unique brand voice.",
+        "sales_angle": "Kickstart your social media with engaging videos that resonate with your audience, crafted by a professional who understands the landscape.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing sample content",
+          "Client testimonials and case studies",
+          "Networking in relevant online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator",
+          "Actively seeking to improve social media presence",
+          "Willing to provide brand insights and goals for tailoring content"
+        ],
+        "next_action": "Email or WhatsApp to schedule a free consultation to discuss your business needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Social Media Quick Start Package is designed for small business owners and solo creators like you! 🌟 Get 3 engaging short-form video scripts, a customized content strategy outline, and tailored captions—all for just $299! Let’s boost your online presence together! 🌈💪 #SocialMedia #ContentCreation #SmallBusiness #EngagementBoost",
+        "website_description": "Unlock the potential of your social media with our Social Media Quick Start Package. For just $299, you’ll receive three expertly crafted short-form video scripts, a comprehensive content strategy outline for the month, and engaging captions tailored to your brand. Designed for small business owners and solo creators, this package helps you not only create content but also optimize your social media presence to enhance engagement and visibility.",
+        "outreach_template": "Subject: Let's Talk About Elevating Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I’m reaching out to share an exciting opportunity that could help enhance your social media engagement. We offer a Social Media Quick Start Package tailored for small business owners and solo creators. \n\nWould you be open to a brief chat to discuss how this package could benefit your unique brand? \n\nIf you’re not interested, please let me know, and I’ll be sure to respect your choice.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What specific social media platforms do you currently use?",
+          "What types of content have you found to be most engaging for your audience?",
+          "What are your primary goals for enhancing your social media presence?",
+          "Have you tried any strategies in the past that worked or didn't work for you?",
+          "What insights or information can you provide about your brand's voice and values?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the client's current social media situation",
+          "Identification of client needs and challenges",
+          "Description of the Social Media Quick Start Package",
+          "Details of deliverables (video scripts, strategy outline, etc.)",
+          "Timeline for completion",
+          "Investment details",
+          "Next steps",
+          "Contact information"
+        ],
+        "call_to_action": "Ready to kickstart your social media? Email or WhatsApp us to schedule your free consultation today!",
+        "payment_template": "Subject: Payment Information for Your Social Media Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Quick Start Package! To proceed, we can discuss the payment options and set up everything needed for your tailored content. Please let me know a convenient time for you to continue the conversation.\n\nIf you would prefer not to proceed, that’s completely fine! Just let me know, and I’ll make a note of it.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
