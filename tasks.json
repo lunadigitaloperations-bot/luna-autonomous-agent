@@ -3558,6 +3558,62 @@
         "payment_template": "Subject: Payment Inquiry for Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our Short-Form Video Content Package! Before we proceed, I would like to discuss the payment details with you. Please let me know a convenient time for us to go over this.\n\nLooking forward to working together!\n\nBest,  \n[Your Name]  \n[Your Contact Info]  \n\nIf this isn’t of interest, feel free to opt-out from further messages.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790194594724",
+      "created_at": "2026-09-23T20:16:34.724959+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Video Package for Creators",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging video content consistently for social media platforms",
+        "solution": "A tailored package that provides high-quality short-form video scripts and editing services to elevate your online content.",
+        "deliverables": [
+          "Three short-form video scripts (up to 60 seconds each)",
+          "Editing of three final video clips for TikTok, Instagram Reels, or YouTube Shorts",
+          "Three engaging captions optimized for each platform",
+          "Content strategy suggestions for future video topics"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your engagement with professional short-form videos tailored to your brand's voice, helping you attract and retain followers.",
+        "sales_angle": "Transform your social media presence with engaging, professionally crafted video content that resonates with your audience.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Word of mouth",
+          "Online creative communities"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Willingness to collaborate on video content ideas",
+          "Understanding of their target audience"
+        ],
+        "next_action": "Contact via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our Social Media Video Package for Creators! 🎥✨ Get three tailored short-form video scripts, professional editing, and strategic content suggestions—all for just $150! Perfect for small businesses and creators looking to boost engagement and attract followers. Ready to transform your online presence? Contact us today! #VideoMarketing #Creators #SocialMediaGrowth",
+        "website_description": "Unlock the potential of your social media presence with our Social Media Video Package for Creators! Designed for small businesses and content creators, this package includes three engaging short-form video scripts, professional editing, and platform-optimized captions. Elevate your content quality and captivate your audience effortlessly. Let's collaborate to enhance your brand's voice—available for only $150 with a delivery time of just 7 days!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Together!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share a unique opportunity to enhance your social media presence with our Social Media Video Package for Creators. Our tailored package provides high-quality video scripts and editing services designed specifically for small businesses like yours.\n\nIf you're looking to engage your audience and attract more followers, I would love to discuss how we can collaborate on video content. Please let me know if you're interested, and we can set up a time to chat!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\n*If you prefer not to receive further communication, please let me know.*",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms are you currently using for your business?",
+          "Have you created video content before? If so, what worked well for you?",
+          "How often do you plan to post video content on social media?",
+          "What is the main message or theme you want to convey with your videos?"
+        ],
+        "proposal_outline": [
+          "Introduction and Overview",
+          "Understanding Your Needs",
+          "Proposed Deliverables",
+          "Timeline for Delivery",
+          "Investment Overview",
+          "Next Steps and Collaboration Opportunities"
+        ],
+        "call_to_action": "Ready to enhance your social media presence? Contact us via email or WhatsApp today to get started!",
+        "payment_template": "Subject: Payment Details for Your Social Media Video Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Video Package! To proceed, please let me know your preferred payment method, and I will provide you with the necessary details. Once we finalize the payment, we can begin discussing your video content ideas!\n\nLooking forward to working with you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\n*If you prefer not to receive further communication, please let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
