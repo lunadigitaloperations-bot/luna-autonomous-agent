@@ -2811,6 +2811,65 @@
         "payment_template": "Subject: Your Order Confirmation\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Boost Package! We're excited to help you enhance your online presence. To proceed, please let us know your preferred payment method. \n\nIf you have any questions or need assistance, feel free to reach out!\n\nBest regards,\nLuna\n\nP.S. If you’re no longer interested, please let us know, and I’ll make sure not to reach out again.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790147782590",
+      "created_at": "2026-09-23T07:16:22.590642+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Kickstart",
+        "target_customer": "Small businesses and creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create consistent and engaging social media content that resonates with their audience.",
+        "solution": "A comprehensive content strategy and 15 tailored social media posts designed to increase engagement and visibility across platforms like Instagram and TikTok.",
+        "deliverables": [
+          "Initial consultation (30 minutes) to discuss brand voice and goals",
+          "Content strategy document outlining posting schedule and content themes",
+          "15 short-form video scripts (suitable for TikTok, Instagram Reels, or YouTube Shorts)",
+          "15 engaging captions tailored to each post",
+          "One round of revisions for scripts and captions"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Empower your business with a structured content plan that saves you time and enhances your online presence, allowing you to focus on what you do best.",
+        "sales_angle": "No more guesswork in content creation! Get a clear, actionable plan and professionally crafted posts ready to engage your audience.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online portfolio showcasing previous work"
+        ],
+        "qualification_criteria": [
+          "Have an active social media presence",
+          "Ready to invest time in implementing the content strategy",
+          "Open to collaboration and feedback during the process"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to schedule your consultation and start your 30-day journey to enhanced social media engagement."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Introducing our *30-Day Social Media Content Kickstart*! Perfect for small businesses and creators looking to create consistent and engaging content that resonates with their audience. Let us help you craft a structured content plan with 15 tailored posts and videos over 30 days. 💡✨ Schedule your consultation today! #SocialMedia #ContentCreation #OnlinePresence",
+        "website_description": "Unlock your brand's potential with our *30-Day Social Media Content Kickstart*! Tailored for small businesses and creators struggling to engage their audience, our service includes a comprehensive content strategy and 15 custom posts to enhance your online presence. Start your journey to impactful social media engagement today!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to share a unique opportunity to enhance your brand's social media engagement. Our *30-Day Social Media Content Kickstart* is designed specifically for small businesses and creators like you!\n\nWould you be interested in scheduling a brief consultation to discuss how we can tailor this to fit your needs?\n\nLooking forward to hearing your thoughts!\n\nBest, \nLuna\n\nP.S. If this isn’t a good fit, just let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What social media platforms are you currently using, and how often do you post?",
+          "What specific challenges do you face when creating content for your audience?",
+          "Who is your target audience, and what type of content do they engage with most?",
+          "What are your primary goals for your social media presence over the next 30 days?",
+          "Are you open to receiving and implementing feedback during our collaboration?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solution - Content Strategy Overview",
+          "Deliverables",
+          "Timeline for Delivery",
+          "Investment and Payment Terms",
+          "Next Steps",
+          "Q&A Section"
+        ],
+        "call_to_action": "Email us at luna.digital.operations@gmail.com to schedule your consultation and kickstart your social media success!",
+        "payment_template": "Subject: Your Upcoming Payment\n\nHi [Name],\n\nI hope you’re doing well! Just a quick note to follow up on the payment for our *30-Day Social Media Content Kickstart*. Please let me know if you have any questions or need assistance with the payment process.\n\nLooking forward to moving ahead!\n\nBest, \nLuna\n\nP.S. If you wish to opt-out of future communications, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
