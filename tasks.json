@@ -3213,6 +3213,62 @@
         "payment_template": "Subject: Payment Information for Your Social Media Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Quick Start Package! To proceed, we can discuss the payment options and set up everything needed for your tailored content. Please let me know a convenient time for you to continue the conversation.\n\nIf you would prefer not to proceed, that’s completely fine! Just let me know, and I’ll make a note of it.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790172990474",
+      "created_at": "2026-09-23T14:16:30.474173+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Video Starter Pack",
+        "target_customer": "Small businesses or content creators looking to enhance their social media presence.",
+        "customer_problem": "Limited engagement and visibility on social media platforms due to lack of appealing video content.",
+        "solution": "A package of professional short-form video scripts and content ideas tailored to the client's brand, enabling them to create engaging videos for platforms like TikTok and Instagram Reels.",
+        "deliverables": [
+          "5 Short-form video scripts (30-60 seconds each)",
+          "Content calendar for 2 weeks with posting suggestions",
+          "3 Captions tailored for engagement",
+          "Brand style guide for video content"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media engagement with tailored video content that resonates with your audience, all delivered remotely.",
+        "sales_angle": "Stand out on social media with professionally crafted videos that attract and engage your target audience.",
+        "organic_discovery_methods": [
+          "Facebook groups",
+          "Instagram posts",
+          "LinkedIn networking"
+        ],
+        "qualification_criteria": [
+          "Client must have an existing social media presence.",
+          "Client should provide brand guidelines or preferences."
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Level up your social media game with our Social Media Video Starter Pack! 🌟 Perfect for small businesses and content creators, this package will help you engage your audience like never before. 🎥✨ Get 5 professional short-form video scripts, a content calendar, and more—everything you need to shine on platforms like TikTok and Instagram Reels! 💡💬 DM us for details! #SocialMedia #ContentCreation #EngagementBoost",
+        "website_description": "Transform your social media presence with our Social Media Video Starter Pack! Designed for small businesses and content creators, this package offers tailored video content that captivates your audience. With 5 professional scripts, a 2-week content calendar, engaging captions, and a brand style guide, you’re all set to enhance your visibility and engagement. Start your journey to better social media now for just $150!",
+        "outreach_template": "Subject: Enhance Your Social Media with Tailored Video Content!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I’m reaching out to introduce our Social Media Video Starter Pack designed specifically for small businesses like yours. It includes everything you need to create engaging short-form videos that will attract your target audience on platforms like TikTok and Instagram Reels.\n\nIf you're interested, I’d love to discuss how it can help enhance your social media presence.\n\nBest,  \n[Your Name]  \n[Your Contact Information]\n\nP.S. If you prefer not to receive further emails, just let me know!",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which social media platforms are you currently using?",
+          "Have you tried any video content before? If so, what was your experience?",
+          "What type of content resonates most with your audience?",
+          "Do you have any existing brand guidelines we should follow?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding of Client Needs",
+          "Overview of Social Media Video Starter Pack",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Pricing Details",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to enhance your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Your Social Media Video Starter Pack  \n\nHi [Recipient's Name],  \nThank you for your interest in our Social Media Video Starter Pack! Once you're ready to move forward, we’ll provide you with the payment details to proceed. If you have any questions or need further information, please feel free to reach out.  \n\nBest,  \n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
