@@ -3676,6 +3676,57 @@
         "payment_template": "Subject: Next Steps for Your Video Content Package\n\nHi [Name],\n\nThank you for your interest in our Short-Form Video Content Creation Package! To move forward, we can discuss the details and finalize everything required for the project. Please let me know a suitable time for us to connect.\n\nLooking forward to collaborating!\n\nBest,  \nLuna  \nluna.digital.operations@gmail.com",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790201733086",
+      "created_at": "2026-09-23T22:15:33.086758+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Launch Package",
+        "target_customer": "Small businesses and creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and drives engagement.",
+        "solution": "A comprehensive package to create and launch three custom short-form videos (TikTok, Instagram Reels, or YouTube Shorts) tailored to their brand and audience.",
+        "deliverables": [
+          "Three short-form video scripts (up to 60 seconds each)",
+          "Three finalized video edits (including graphics and captions)",
+          "Content strategy outline for short-form video marketing",
+          "Posting schedule and engagement tips"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Elevate your brand's visibility and engagement with tailored, high-quality short-form videos that are ready to post.",
+        "sales_angle": "Transform your online presence with eye-catching short-form videos made just for your audience.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Content collaborations"
+        ],
+        "qualification_criteria": [
+          "Business or creator with a defined target audience",
+          "Willingness to engage with the content",
+          "Access to a social media account for posting"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to discuss your short-form video needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🌟 Elevate your online presence with our **Short-Form Video Launch Package**! 🎥✨ Perfect for small businesses and creators ready to engage their audience with tailored videos. Get three custom short-form videos, scripts, content strategy, and more—all for just $299! 🚀 Ready to transform your brand? Contact us today! #ShortFormVideo #OnlineMarketing #ContentCreation",
+        "website_description": "Introducing our **Short-Form Video Launch Package** designed for small businesses and creators! Struggling to connect with your audience through engaging video content? Our package includes three custom short-form videos tailored to your brand, complete with scripts, video edits, and a content strategy outline. Elevate your engagement and visibility with quality videos ready to post in just 14 days for only $299. Transform your online presence today!",
+        "outreach_template": "Subject: Short-Form Video Opportunities\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to introduce our **Short-Form Video Launch Package** designed specifically for small businesses and creators who seek to enhance their online presence. \n\nOur package includes three custom short-form videos tailored to your brand, along with scripts, edits, and a content strategy outline, all for just $299. \n\nIf you're interested in discussing how we can help elevate your video content strategy, please feel free to reply! \n\nThank you, and I look forward to your response. If this doesn't align with your needs, please let me know, and I’ll gladly respect your preferences.\n\nBest regards,\n\n[Your Name]  \n[Your Position]  \n[Your Contact Information]",
+        "discovery_questions": [
+          "What type of content resonates most with your audience?",
+          "Do you currently have any short-form videos, and how have they performed?",
+          "What specific goals do you have for your online video presence?",
+          "Who is your target audience, and what challenges do they face?",
+          "How often do you post on your social media platforms?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of the client's needs and our understanding of it.\n\n2. Objectives\n   - Define the goals we aim to achieve with the video content.\n\n3. Deliverables\n   - Outline the three short-form videos and additional support (scripts, strategy, etc.).\n\n4. Timeline\n   - Estimated delivery schedule (14 days).\n\n5. Pricing\n   - Detailed pricing at $299 and what it includes.\n\n6. Next Steps\n   - How to proceed and initiate the project."
+        ],
+        "call_to_action": "Contact us at luna.digital.operations@gmail.com to discuss your short-form video needs and kickstart your journey today!",
+        "payment_template": "Subject: Next Steps for Your Video Project\n\nHi [Name],\n\nThank you for considering our **Short-Form Video Launch Package**! To proceed, we can discuss the details and expectations before moving forward. Please let me know a convenient time for you to chat.\n\nIf you have any questions in the meantime, feel free to reach out. \n\nLooking forward to collaborating with you! \n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
