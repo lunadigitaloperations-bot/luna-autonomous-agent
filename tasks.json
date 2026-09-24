@@ -4980,6 +4980,64 @@
         "payment_template": "Subject: Next Steps for Your Social Media Video Boost Package\n\nHi [Recipient's Name],\n\nThank you for showing interest in our Social Media Video Boost Package! To ensure a smooth process moving forward, could you please confirm how you'd like to proceed with the payment? If needed, I'm happy to provide more information or answer any questions you might have.\n\nLooking forward to hearing from you!\n\nBest,\n\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790284504277",
+      "created_at": "2026-09-24T21:15:04.277776+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "4-Week TikTok Content Package",
+        "target_customer": "Small businesses and creators looking to increase their online presence",
+        "customer_problem": "Struggling to create engaging and consistent TikTok content that attracts followers and boosts brand visibility.",
+        "solution": "Provide a comprehensive content strategy and a series of short-form video scripts tailored to the client's niche, ensuring regular postings to maintain audience engagement.",
+        "deliverables": [
+          "Initial content strategy document outlining target audience, video themes, and posting schedule.",
+          "Four custom video scripts (one per week) with engaging hooks and call-to-actions.",
+          "Tips and best practices for filming and editing TikTok videos.",
+          "Monthly check-in to review engagement metrics and adjust strategy if needed."
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Boost your TikTok presence with personalized content that resonates with your audience while saving you time and effort.",
+        "sales_angle": "Stand out from the crowd with professional, tailored TikTok content designed to engage and convert followers into customers.",
+        "organic_discovery_methods": [
+          "Social media platforms",
+          "Networking in online creator communities",
+          "Referrals from existing clients"
+        ],
+        "qualification_criteria": [
+          "Must have an active TikTok account",
+          "Willing to invest time in creating content based on provided scripts",
+          "Open to collaboration and feedback for continuous improvement"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss your TikTok content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Small businesses and creators! Are you struggling to make your mark on TikTok? Our 4-Week TikTok Content Package is here to help you boost your online presence with tailored video scripts and a solid content strategy! 🌟 Engage your audience and transform followers into customers with compelling, consistent content. Let’s get started today—DM us for a consultation! #TikTokMarketing #ContentCreation",
+        "website_description": "Elevate your TikTok game with our 4-Week TikTok Content Package! Designed for small businesses and creators, this package provides a comprehensive content strategy and custom video scripts tailored to your niche. Engage your audience with consistent, high-quality content and watch your brand visibility soar. Contact us to learn more!",
+        "outreach_template": "Subject: Elevate Your TikTok Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to share an exciting opportunity for small businesses and creators looking to enhance their TikTok presence. Our 4-Week TikTok Content Package provides tailored video scripts and a comprehensive content strategy to engage your audience effectively.\n\nIf this sounds like something you’d be interested in, I’d love to schedule a brief consultation to discuss your TikTok content needs. \n\nFeel free to opt-out of future messages if this isn’t the right fit for you.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current TikTok content?",
+          "Who is your target audience, and what do you want them to feel or do after watching your videos?",
+          "What types of TikTok content have you tried in the past, and what were the results?",
+          "How often are you currently posting on TikTok, and what is your desired posting frequency?",
+          "Are you open to collaborating and providing feedback as we develop your content strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the TikTok content package",
+          "Understanding your brand and goals",
+          "Deliverables (content strategy, video scripts, tips)",
+          "Timeline and estimated delivery",
+          "Pricing structure",
+          "Next steps for engagement",
+          "Contact information"
+        ],
+        "call_to_action": "Ready to elevate your TikTok content? Contact us today for a consultation!",
+        "payment_template": "Subject: Next Steps for Your TikTok Content Package\n\nHi [Recipient's Name],\n\nThank you for considering our 4-Week TikTok Content Package! Just a reminder, to proceed, we’ll need to finalize the details. Please let me know a convenient time for you to discuss any last questions.\n\nLooking forward to collaborating with you!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
