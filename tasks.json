@@ -3896,6 +3896,66 @@
         "payment_template": "Subject: Next Steps for Your TikTok Package\n\nDear [Name],\n\nThank you for your interest in our Engaging TikTok Content Creation Package. To proceed, we can discuss the payment details and schedule your initial consultation. Please let me know a convenient time for you, and I’ll make sure to assist you further.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you'd like to opt-out of future messages, feel free to reply with 'opt-out.'",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790216117979",
+      "created_at": "2026-09-24T02:15:17.979273+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "5-Day Social Media Content Sprint",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to consistently create engaging content for social media platforms, leading to reduced visibility and audience engagement.",
+        "solution": "A focused 5-day program to brainstorm, create, and schedule a week’s worth of engaging short-form video content for TikTok, Instagram Reels, or YouTube Shorts.",
+        "deliverables": [
+          "Content strategy outline tailored to the brand",
+          "5 short-form video scripts (15-60 seconds)",
+          "5 visually engaging captions for each video",
+          "Scheduling plan for posting on preferred platforms",
+          "1 video editing template (if applicable) tailored to the brand style"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 5,
+        "value_proposition": "Elevate your social media presence with a tailored content strategy and ready-to-use video scripts designed for maximum engagement.",
+        "sales_angle": "Transform your social media struggle into success with a concentrated content sprint that gives you everything you need to captivate your audience!",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Email marketing to existing contacts",
+          "Networking in relevant online communities"
+        ],
+        "qualification_criteria": [
+          "Willingness to actively participate in the brainstorming process",
+          "Access to basic video recording equipment and editing tools"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your free consultation and get started on your content sprint!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Join our 5-Day Social Media Content Sprint! 🌟 Perfect for small businesses and content creators, this program will help you brainstorm, create, and schedule a week’s worth of engaging short-form video content for TikTok, Instagram Reels, or YouTube Shorts! 💡💬 Contact us now to get started! #SocialMediaSprint #ContentCreation #EngageYourAudience",
+        "website_description": "Struggling to create engaging content for social media? Our 5-Day Social Media Content Sprint offers a comprehensive solution tailored for small businesses and content creators. Over five focused days, you will receive a customized content strategy, five ready-to-use short-form video scripts, visually engaging captions, a posting schedule, and a video editing template. Transform your social media presence and start captivating your audience today!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm excited to share our 5-Day Social Media Content Sprint, designed specifically for small businesses and content creators like you. This program helps you create a week's worth of engaging video content across popular platforms. \n\nAre you available for a free consultation to explore how this can benefit your brand?\n\nWarm wishes,\n[Your Name]\n[Your Company]\n\nP.S. If you’d prefer not to receive further messages, just let me know!",
+        "discovery_questions": [
+          "What challenges are you currently facing in your social media content creation?",
+          "Which social media platforms are you most active on?",
+          "How often do you post content, and what types of content do you find resonate best with your audience?",
+          "What resources do you currently use for video recording and editing?",
+          "What specific goals do you have for your social media presence in the next month?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Objective of the Sprint",
+          "Overview of Deliverables",
+          "- Content strategy outline",
+          "- Video scripts and captions",
+          "- Posting schedule",
+          "- Video editing template",
+          "Timeline and Pricing",
+          "Qualifications and Participation Requirements",
+          "Next Steps"
+        ],
+        "call_to_action": "Contact us today to schedule your free consultation and kickstart your content creation journey!",
+        "payment_template": "Subject: Your 5-Day Social Media Content Sprint \n\nHi [Recipient's Name],\n\nThank you for discussion about the 5-Day Social Media Content Sprint. I wanted to confirm that the next step is to finalize the details so we can get started on bringing your social media vision to life!\n\nPlease let me know if you have any questions or need further information.\n\nBest,\n[Your Name]\n[Your Company]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
