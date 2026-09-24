@@ -4414,6 +4414,62 @@
         "payment_template": "Subject: Payment Information for Your Short-Form Video Content Package\n\nHi [Name],\n\nThank you for choosing our Short-Form Video Content Package! To proceed, please let me know your preferred payment method, and I will provide you with the necessary details. \n\nLooking forward to helping you enhance your video marketing efforts!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790248508035",
+      "created_at": "2026-09-24T11:15:08.035779+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Content Creation Sprint for Small Businesses",
+        "target_customer": "Small businesses looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content for social media platforms",
+        "solution": "A 30-day content creation package that provides tailored short-form video scripts and content strategies to boost engagement and visibility.",
+        "deliverables": [
+          "4 personalized short-form video scripts per week (total of 16)",
+          "1 content strategy document outlining best practices and posting schedule",
+          "1 consultation call (up to 60 minutes) to discuss your brand voice and goals"
+        ],
+        "suggested_price_usd": 500,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Elevate your brand's online presence with focused, engaging video content that resonates with your audience.",
+        "sales_angle": "Transform your social media strategy with professional scripts and personalized guidance from an expert.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Online marketing forums"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Open to collaboration and feedback",
+          "Willingness to commit to 30 days of content creation"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule your initial consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Small Businesses: Ready to elevate your online presence? Join our 30-Day Content Creation Sprint! Get tailored short-form video scripts, a customized content strategy, and one-on-one consultation to make your brand shine on social media. Let's boost your engagement together! 💡✨ Contact us to get started! #SmallBiz #ContentCreation",
+        "website_description": "Transform your social media strategy with our 30-Day Content Creation Sprint tailored for small businesses. Over a month, you'll receive 16 personalized short-form video scripts, a comprehensive content strategy, and a one-hour consultation to align your brand’s voice and goals. Elevate your online presence and connect authentically with your audience.",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to share an exciting opportunity for small businesses looking to enhance their online presence through engaging short-form video content.\n\nWe’re offering a 30-Day Content Creation Sprint, designed to provide personalized video scripts and expert guidance to boost your engagement on social media platforms. \n\nIf you’re open to discussing how we can work together to elevate your brand, I’d love to schedule a call. Please let me know a time that works for you.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \nP.S. If this isn’t of interest, feel free to let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What specific platforms are you focusing on for your social media presence?",
+          "What type of content do you believe resonates best with your target audience?",
+          "Can you share any examples of content that have performed well for your brand in the past?",
+          "What are your primary goals for your social media strategy over the next 30 days?",
+          "How comfortable are you with collaborating on creative content ideas?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer's Current Situation",
+          "The 30-Day Content Creation Package",
+          "Deliverables Breakdown",
+          "Benefits of the Service",
+          "Next Steps",
+          "Feedback Invitation"
+        ],
+        "call_to_action": "Ready to uplift your brand? Contact us today to kickstart your 30-Day Content Creation Sprint!",
+        "payment_template": "Subject: Confirmation of Your Commitment\n\nHi [Recipient's Name],\n\nThank you for discussing the opportunity to work together! To proceed with the 30-Day Content Creation Sprint, we will provide you with the payment details shortly.\n\nPlease let me know if you have any questions or need further clarification.\n\nBest regards,\n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
