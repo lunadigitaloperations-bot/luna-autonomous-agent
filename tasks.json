@@ -4243,6 +4243,63 @@
         "payment_template": "Subject: Next Steps for Your Video Content Package\n\nHi [Name],\n\nThank you for expressing interest in our Engaging Video Content Package! Just to confirm, we will be moving ahead with the package at the agreed price of $150. Please let me know how you would like to proceed, and if you have any questions or specific requests, I'm here to help.\n\nLooking forward to hearing from you soon!\n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Company]  \nluna.digital.operations@gmail.com\n\nIf you prefer not to receive emails, just let me know, and I’ll make sure to remove you from my list.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790237834550",
+      "created_at": "2026-09-24T08:17:14.550722+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Video Starter Kit",
+        "target_customer": "Small businesses and creators looking to boost their online presence.",
+        "customer_problem": "Many small businesses struggle with creating engaging short-form video content for platforms like TikTok and Instagram but lack the knowledge or resources to do so effectively.",
+        "solution": "A comprehensive package that provides tailored short-form video scripts and content strategy guidelines to help businesses create engaging content for social media.",
+        "deliverables": [
+          "3 custom video scripts optimized for TikTok and Instagram Reels",
+          "Content strategy document outlining posting schedules and themes",
+          "3 caption ideas for each video to enhance engagement",
+          "1-hour virtual consultation to discuss content strategies and best practices"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Empower your brand with tailored video content and strategies that enhance your online visibility and engagement, without the hassle of figuring it out on your own.",
+        "sales_angle": "Unlock your brand's potential with our Social Media Video Starter Kit, designed specifically for small businesses looking to captivate their audience and stand out online.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Email marketing",
+          "Word of mouth"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or creator with a clear brand identity",
+          "Willingness to engage in a collaborative process for content creation"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to discuss how we can elevate your social media presence."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Unlock your brand's potential with our Social Media Video Starter Kit! Perfect for small businesses and creators ready to boost their online presence. Get 3 custom video scripts, a content strategy guide, and a one-hour virtual consultation—all tailored just for you! 🎥💡 Contact us today to elevate your social media game! #SmallBusiness #SocialMedia #VideoContent #DigitalMarketing",
+        "website_description": "Struggling to create engaging content for TikTok and Instagram? Our Social Media Video Starter Kit is designed for small businesses and creators like you! With 3 custom video scripts, a detailed content strategy, and a consultation to boost your social media presence, you're just a step away from captivating your audience online. Let's enhance your visibility together!",
+        "outreach_template": "Subject: Elevate Your Social Media Strategy\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to introduce you to our Social Media Video Starter Kit, specifically tailored for small businesses and creators. Many struggle with crafting engaging short-form video content, and our kit offers the solution with custom scripts and a comprehensive content strategy.\n\nWould you be open to discussing how we can help boost your social media presence? \n\nLooking forward to your thoughts!\n\nBest regards,\n[Your Name]  \n[Your Position]  \n[Company Name]  \n[Contact Information]  \n\nP.S. If you prefer not to receive similar messages in the future, please let me know.",
+        "discovery_questions": [
+          "What platforms do you currently use to engage with your audience?",
+          "What type of content has resonated with your audience in the past?",
+          "What challenges are you facing in creating short-form video content?",
+          "How often do you post on social media, and what does your schedule look like?",
+          "What goals do you have for your social media presence in the next 6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Social Media Video Starter Kit",
+          "Deliverables Breakdown",
+          "Timeline and Next Steps",
+          "Investment",
+          "FAQs",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Confirmation of Your Order\n\nHi [Recipient's Name],\n\nThank you for choosing our Social Media Video Starter Kit! We appreciate your trust in us to enhance your online presence. We will provide further details shortly regarding the next steps.\n\nIf you have any questions or need clarification, feel free to reach out.\n\nBest regards,\n[Your Name]  \n[Your Position]  \n[Company Name]  \n[Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
