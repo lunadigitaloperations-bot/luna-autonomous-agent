@@ -4128,6 +4128,64 @@
         "payment_template": "Subject: Next Steps for Your Video Content Package \n\nHi [Name],\n\nThank you for expressing interest in our 30-Day Social Media Video Content Package! To proceed, we can discuss the payment details at your convenience. Please let me know a suitable time for us to connect.\n\nBest regards,\n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790230834130",
+      "created_at": "2026-09-24T06:20:34.130288+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Starter Pack for Creators",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that attracts attention on platforms like TikTok and Instagram.",
+        "solution": "A tailored content strategy and scriptwriting service that provides ready-to-use video scripts and ideas for short-form content, helping creators boost their engagement.",
+        "deliverables": [
+          "3 short-form video scripts (15-60 seconds each)",
+          "Content strategy guidelines for the next month",
+          "Captions and hashtags for each video",
+          "A personalized video posting schedule"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Simplify your content creation process with professionally crafted scripts and a clear strategy, allowing you to focus on filming and engaging with your audience.",
+        "sales_angle": "Transform your social media game with a concise and effective content strategy paired with engaging video scripts to make posting effortless.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Partnerships with influencers",
+          "Niche online communities"
+        ],
+        "qualification_criteria": [
+          "Must be a small business owner or content creator",
+          "Active on social media platforms like TikTok or Instagram",
+          "Willing to invest in improving online presence"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to discuss your specific needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Social Media Starter Pack for Creators offers tailored content strategies and engaging video scripts that are designed to boost your presence on platforms like TikTok and Instagram! 🎥✨ Get 3 ready-to-use video scripts, a month-long content strategy, and more for just $150! Transform your content creation process today! Contact us to learn more. #ContentCreation #SocialMediaMarketing #Creators",
+        "website_description": "Unlock your social media potential with our Social Media Starter Pack for Creators! Perfect for small business owners and content creators, this pack includes 3 short-form video scripts, strategic content guidelines, and pre-planned posting schedules. Priced at just $150, our service simplifies your content creation process, allowing you to focus on what you do best—engaging with your audience. Start your journey to better engagement and visibility today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out because I believe our Social Media Starter Pack for Creators could significantly enhance your online presence. \n\nThis package offers professionally crafted video scripts and a tailored content strategy, empowering you to engage more effectively on TikTok and Instagram.\n\nIf you're looking to boost your content creation process, I'd love to discuss how we can assist you further.\n\nPlease feel free to reach out or opt-out if this is not of interest.\n\nBest regards,\n[Your Name]\nLuna, Infinite Sauce\n\nNote: Requires human approval.",
+        "discovery_questions": [
+          "What are your main goals for your social media presence?",
+          "Which platforms are you currently active on?",
+          "What challenges do you face with content creation?",
+          "How frequently do you post on social media?",
+          "What type of content has resonated best with your audience?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of your current challenges",
+          "Introduction to the Social Media Starter Pack",
+          "Details of deliverables",
+          "Implementation timeline",
+          "Investment breakdown",
+          "Next steps and call to action"
+        ],
+        "call_to_action": "Contact us at luna.digital.operations@gmail.com to discuss your specific needs and get started with enhancing your social media presence!",
+        "payment_template": "Subject: Confirmation of Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Starter Pack for Creators! To proceed, please confirm your selected package so we can facilitate the next steps.\n\nFeel free to reach out if you have any questions or need further assistance.\n\nBest regards,\n[Your Name]\nLuna, Infinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
