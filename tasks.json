@@ -3956,6 +3956,62 @@
         "payment_template": "Subject: Your 5-Day Social Media Content Sprint \n\nHi [Recipient's Name],\n\nThank you for discussion about the 5-Day Social Media Content Sprint. I wanted to confirm that the next step is to finalize the details so we can get started on bringing your social media vision to life!\n\nPlease let me know if you have any questions or need further information.\n\nBest,\n[Your Name]\n[Your Company]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790219751208",
+      "created_at": "2026-09-24T03:15:51.208070+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Content Launch Package",
+        "target_customer": "Small business owners or content creators looking to boost their online presence",
+        "customer_problem": "Lack of engaging content to attract and retain audience attention on social media platforms",
+        "solution": "A comprehensive content package that provides a month's worth of short-form video scripts and content strategies tailored to the customer's brand.",
+        "deliverables": [
+          "4 short-form video scripts (TikTok/Instagram Reels/YouTube Shorts)",
+          "1 content strategy document outlining posting schedule and themes",
+          "10 catchy captions for social media posts",
+          "1 consultation call to discuss brand voice and content goals"
+        ],
+        "suggested_price_usd": 350,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Save time and increase engagement with tailored content that speaks to your audience, designed specifically for your brand.",
+        "sales_angle": "Unlock your brand’s potential with professional-grade content that stands out and attracts attention.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to collaborate and provide brand insights"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your brand? Our 30-Day Content Launch Package is here for small business owners and content creators eager to boost their online presence! Get tailored video scripts, catchy captions, and expert strategies for just $350. Unlock your brand's potential and engage your audience today! 📈✨ #ContentCreation #SocialMediaStrategy",
+        "website_description": "Introducing our 30-Day Content Launch Package, crafted for small business owners and content creators ready to boost their online presence. You'll receive a month's worth of engaging content, including short-form video scripts, a comprehensive content strategy, catchy captions, and a one-on-one consultation call. Save time and increase engagement with custom content tailored to your brand. All of this for just $350 with an estimated delivery in 14 days!",
+        "outreach_template": "Subject: Let's Elevate Your Brand Together!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our 30-Day Content Launch Package, designed specifically for small business owners and content creators like you. We help brands boost their online presence with engaging content tailored to your unique voice and goals.\n\nWould you be open to discussing whether this could be beneficial for you? If so, I’d love to schedule a consultation call to explore your content needs.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you're not interested, feel free to let me know, and I'll ensure not to follow up again.",
+        "discovery_questions": [
+          "What specific challenges are you currently facing with your social media content?",
+          "Can you describe your brand's voice and the message you want to convey?",
+          "What platforms do you primarily use for your social media presence?",
+          "Who is your target audience, and what type of content do they engage with most?",
+          "Have you previously used any content creation services, and if so, what was your experience?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Content Launch Package",
+          "Deliverables Breakdown",
+          "Pricing Structure",
+          "Timeline for Delivery",
+          "Next Steps and Consultation Arrangement",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to take your content to the next level? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Details for Your Content Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Content Launch Package! To proceed, could you please confirm the preferred method of payment? Once that's done, we'll initiate the next steps to get started on your tailored content. \n\nFeel free to reach out if you have any questions or need further details.\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
