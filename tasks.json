@@ -4754,6 +4754,62 @@
         "payment_template": "Subject: Next Steps for Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Video Engagement Package! To proceed with the next steps, please let me know when you’re ready to make the payment, and I’ll provide you with the relevant details. Rest assured, your satisfaction is our priority.\n\nIf you have any questions or would prefer not to continue, please feel free to let me know. \n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790270076831",
+      "created_at": "2026-09-24T17:14:36.831610+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Toolkit",
+        "target_customer": "Small businesses and content creators seeking to enhance their online visibility",
+        "customer_problem": "Struggling to increase engagement and followers across social media platforms, leading to limited reach and customer interaction.",
+        "solution": "A comprehensive toolkit that provides tailored short-form video scripts, social media post captions, and a content strategy plan to effectively engage and grow your audience.",
+        "deliverables": [
+          "5 custom short-form video scripts designed for TikTok or Instagram Reels",
+          "5 engaging captions for social media posts",
+          "A personalized content strategy plan outlining posting frequency and types of content"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock the potential of your social media presence with customized content that captivates your audience and drives engagement.",
+        "sales_angle": "Transform your social media strategy and boost audience interaction with our tailored content growing your brand organically.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Willingness to implement provided strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our **Social Media Growth Toolkit**! Perfect for small businesses and content creators looking to enhance visibility and engagement. Get 5 custom video scripts, captivating captions, and a personalized content strategy for just $150! 🌟 Ready to transform your brand? DM us to learn more! #SocialMediaGrowth #ContentCreators #SmallBusinessGrowth",
+        "website_description": "Unlock the potential of your social media presence with our comprehensive Social Media Growth Toolkit. Designed for small businesses and content creators, this toolkit includes 5 custom short-form video scripts, engaging captions, and a personalized content strategy plan—everything you need to captivate your audience and drive engagement. All for just $150, delivered in 7 days!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Strategy!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to enhance your social media presence with our Social Media Growth Toolkit. \n\nOur comprehensive toolkit includes:\n- 5 custom short-form video scripts\n- 5 engaging social media post captions\n- A personalized content strategy plan\n\nAll for just $150! \n\nIf you're interested in boosting your engagement and followers organically, I'd love to discuss how we can support your goals.\n\nIf you'd prefer not to hear from me again, just let me know, and I’ll respect your wishes.\n\nBest,\n[Your Name]",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "How often do you post content on your social media channels?",
+          "What types of content have you found most engaging for your audience?",
+          "What specific challenges are you facing in growing your online presence?",
+          "Are there any particular goals you wish to achieve with your social media strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Social Media Presence",
+          "Identified Challenges and Needs",
+          "Proposed Solutions: Social Media Growth Toolkit",
+          "Deliverables Breakdown",
+          "Pricing and Delivery Timeline",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to transform your social media strategy? Contact us via email or WhatsApp today!",
+        "payment_template": "Subject: Quick Update on Your Order\n\nHi [Name],\n\nJust a quick note to inform you that we’re preparing to deliver your Social Media Growth Toolkit. Once everything is in place, I’ll share the details with you.\n\nIf you have any questions or need further assistance, feel free to reach out!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
