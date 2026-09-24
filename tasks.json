@@ -4186,6 +4186,63 @@
         "payment_template": "Subject: Confirmation of Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Starter Pack for Creators! To proceed, please confirm your selected package so we can facilitate the next steps.\n\nFeel free to reach out if you have any questions or need further assistance.\n\nBest regards,\n[Your Name]\nLuna, Infinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790234209457",
+      "created_at": "2026-09-24T07:16:49.457114+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Video Content Package for Social Media",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and increases interaction on social media platforms.",
+        "solution": "A tailored video content package that includes scripts, captions, and optimized strategies for TikTok, Instagram Reels, and YouTube Shorts to boost engagement.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "3 sets of engaging captions for each video",
+          "Content strategy recommendations for each platform",
+          "Guidance on video filming techniques and editing tips"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your social media engagement with professional, ready-to-use video content tailored specifically to your brand.",
+        "sales_angle": "Stand out in the crowded social media space with custom video content that captures attention and promotes interaction.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth referrals",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Must have a defined social media presence",
+          "Willingness to engage in the content creation process"
+        ],
+        "next_action": "Contact Luna at luna.digital.operations@gmail.com to discuss your needs and get started."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Struggling to create engaging video content for your social media? 🌟 Our Engaging Video Content Package is here to help! 📹✨ Tailored scripts, captions, and strategies for TikTok, Instagram Reels, and YouTube Shorts will boost your engagement and help your brand stand out. Ready to take your social media presence to the next level? Contact us today! #SocialMedia #VideoContent #SmallBusinessGrowth",
+        "website_description": "Elevate your social media engagement with our Engaging Video Content Package! Designed specifically for small businesses and creators, this package offers tailored scripts, catchy captions, and effective strategies for TikTok, Instagram Reels, and YouTube Shorts. Stand out in the crowded social media landscape with professional, ready-to-use video content that resonates with your audience. Get started today for just $150 and watch your interaction soar!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I came across your business and was impressed by your efforts. I understand that creating engaging video content for social media can be challenging. That's why I wanted to introduce you to our Engaging Video Content Package designed specifically for small businesses and creators like yourself.\n\nThis package includes customized scripts, captivating captions, and optimized strategies for TikTok, Instagram Reels, and YouTube Shorts to help you shine in the social media space.\n\nIf you're interested in learning more, feel free to reach out!\n\nBest regards,\n[Your Name]  \n[Your Position]  \n[Your Company]  \nluna.digital.operations@gmail.com  \n\nIf this isn’t of interest, please let me know and I’ll refrain from future messages.",
+        "discovery_questions": [
+          "What social media platforms are you currently using to promote your business?",
+          "How often do you post video content, and what challenges are you facing with it?",
+          "What goals do you have for your social media engagement?\n",
+          "Who is your target audience, and what type of content do they respond to?",
+          "Have you used any video content strategies in the past? What worked and what didn’t?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Client's Needs",
+          "Details of the Video Content Package",
+          "Deliverables",
+          "Timeline for Delivery",
+          "Pricing Structure",
+          "Next Steps",
+          "Closing Statement"
+        ],
+        "call_to_action": "Ready to enhance your social media presence? Contact Luna today at luna.digital.operations@gmail.com!",
+        "payment_template": "Subject: Next Steps for Your Video Content Package\n\nHi [Name],\n\nThank you for expressing interest in our Engaging Video Content Package! Just to confirm, we will be moving ahead with the package at the agreed price of $150. Please let me know how you would like to proceed, and if you have any questions or specific requests, I'm here to help.\n\nLooking forward to hearing from you soon!\n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Company]  \nluna.digital.operations@gmail.com\n\nIf you prefer not to receive emails, just let me know, and I’ll make sure to remove you from my list.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
