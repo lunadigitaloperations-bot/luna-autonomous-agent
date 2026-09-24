@@ -4583,6 +4583,62 @@
         "payment_template": "Subject: Next Steps in Our Collaboration\n\nHi [Name],\n\nThank you for your interest in our Social Media Growth Bundle! To proceed, let's discuss payment options and finalize the details of our engagement. Please let me know when you would be available to continue our conversation.\n\nLooking forward to your response! If you wish to opt-out of further communications, feel free to let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790259396322",
+      "created_at": "2026-09-24T14:16:36.322300+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Booster Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create engaging social media content that drives followers and engagement.",
+        "solution": "A comprehensive package providing tailored short-form video scripts and content strategy to elevate your social media engagement.",
+        "deliverables": [
+          "3 custom short-form video scripts (30-60 seconds each)",
+          "Content strategy guide for a month (including posting schedule and content themes)",
+          "10 engaging captions tailored for each video",
+          "Performance tips to optimize engagement on platforms like TikTok and Instagram"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Gain a consistent and engaging social media presence with tailored video scripts and expert strategies.",
+        "sales_angle": "Transform your social media from passive to active; engage your audience with compelling content designed to grow your brand.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing sample scripts",
+          "Testimonials from previous clients",
+          "Content marketing through blog posts about social media engagement"
+        ],
+        "qualification_criteria": [
+          "Must have existing social media profiles",
+          "Looking to increase engagement and followers",
+          "Willing to invest time in executing the provided strategies"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your social media to the next level? Our Social Media Growth Booster Package is designed for small businesses and content creators looking to engage their audience effectively. Get 3 custom video scripts, a month-long content strategy, and more—all for just $250! Let's transform your social media presence! 📈✨ #SocialMediaGrowth #ContentCreation",
+        "website_description": "Elevate your social media game with our Social Media Growth Booster Package! Perfect for small businesses and content creators, this tailored solution includes 3 custom short-form video scripts, a comprehensive content strategy, and captions that captivate. All of this can help you transform your engagement and grow your following for just $250. Don’t miss out on the chance to elevate your online presence in just 7 days!",
+        "outreach_template": "Subject: Boost Your Social Media Presence 🌟\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Social Media Growth Booster Package, designed to help small businesses and content creators like yourself enhance their online presence. If you’re struggling to create engaging content that drives followers and engagement, our comprehensive package might be the perfect solution for you.\n\nI would love to discuss how we can help you reach your goals. If you're interested, please let me know a convenient time for a quick chat.\n\nBest,\nLuna\n\nP.S. If you're not interested, just let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What are your primary goals for improving your social media presence?",
+          "Which social media platforms are you currently using?",
+          "What type of content has performed best for you in the past?",
+          "How much time can you dedicate to implementing new content strategies?",
+          "Have you previously used any social media growth strategies or tools?"
+        ],
+        "proposal_outline": [
+          "Introduction\n  - Overview of the proposal\n  - Brief introduction to Infinite Sauce",
+          "Understanding Your Needs\n  - Discussion of current challenges\n  - Goals for social media engagement",
+          "Proposed Solution\n  - Overview of the Social Media Growth Booster Package\n  - Detailed breakdown of deliverables",
+          "Pricing and Timeline\n  - Cost of the package\n  - Estimated delivery time",
+          "Next Steps\n  - Call to action to schedule a consultation",
+          "Contact Information\n  - How to get in touch"
+        ],
+        "call_to_action": "Contact us today at luna.digital.operations@gmail.com to schedule your consultation and start transforming your social media presence!",
+        "payment_template": "Subject: Invoice Update\n\nHi [Name],\n\nI hope you're doing well! I wanted to touch base regarding the payment for our Social Media Growth Booster Package. Once you're ready, we can move forward with the next steps. If you have any questions or need further details, feel free to reach out!\n\nBest,\nLuna\n\nP.S. If you prefer not to receive any further messages, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
