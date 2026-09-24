@@ -4527,6 +4527,62 @@
         "payment_template": "Subject: Next Steps for Your Video Content Package\n\nHi [Recipient's Name],\n\nThank you for choosing our Short-Form Video Boost Package! We're excited to start this journey with you. Please let me know if you have any questions regarding the process. Once we finalize the details, we'll share the payment options to get started.\n\nLooking forward to working together!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790255834805",
+      "created_at": "2026-09-24T13:17:14.805290+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Bundle for Creators",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and drives engagement.",
+        "solution": "A tailored content creation service focused on short-form video scripts and strategy to increase engagement and visibility on social media platforms.",
+        "deliverables": [
+          "Three custom short-form video scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "A content calendar for one month with posting strategies",
+          "One-on-one consultation session to discuss content themes and audience engagement strategies"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your online engagement with tailored video content designed to connect with your audience and increase visibility.",
+        "sales_angle": "Transform your social media strategy with engaging content that captivates your audience and drives interactions.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Website or blog promotions",
+          "Network referrals"
+        ],
+        "qualification_criteria": [
+          "Business owners or creators with existing social media accounts",
+          "Willingness to invest time in implementing the content strategy",
+          "Openness to creative collaboration"
+        ],
+        "next_action": "Contact us via email or WhatsApp to book your consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Attention Small Business Owners and Content Creators! Are you struggling to create engaging short-form video content? Our Social Media Growth Bundle is designed just for you! 📈 Get three custom video scripts, a one-month content calendar, and a one-on-one consultation to elevate your social media presence. Transform your strategy and connect with your audience today! DM us to learn more! #ContentCreation #SocialMediaGrowth #ShortFormVideo",
+        "website_description": "Unlock the full potential of your social media with our Social Media Growth Bundle for Creators! Designed for small business owners and content creators, this package offers three custom short-form video scripts tailored for TikTok, Instagram Reels, or YouTube Shorts, a comprehensive one-month content calendar, and a personalized consultation session. Boost your online engagement and visibility with engaging, tailored content that resonates with your audience. Get started today for just $250!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to share an exciting opportunity to elevate your social media strategy. We offer a Social Media Growth Bundle that includes custom short-form video scripts and a tailored content calendar designed specifically for small business owners and content creators.\n\nIf you're interested, I would love to schedule a brief consultation to discuss how we can help you enhance your online engagement.\n\nThank you for considering this! If you prefer not to receive such information, please let me know. \n\nBest regards,\n[Your Name]",
+        "discovery_questions": [
+          "What are your current challenges with social media content creation?",
+          "Which platforms do you primarily focus on for your audience engagement?",
+          "What type of content resonates most with your audience?",
+          "Have you previously invested in any content creation services? If yes, what was your experience?",
+          "How open are you to creative collaboration for your social media strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Growth Bundle",
+          "Description of Deliverables",
+          "Suggested Timeline for Delivery",
+          "Pricing Details",
+          "Value Proposition",
+          "Next Steps and Contact Information"
+        ],
+        "call_to_action": "Ready to transform your social media strategy? Contact us via email or WhatsApp to book your consultation now!",
+        "payment_template": "Subject: Next Steps in Our Collaboration\n\nHi [Name],\n\nThank you for your interest in our Social Media Growth Bundle! To proceed, let's discuss payment options and finalize the details of our engagement. Please let me know when you would be available to continue our conversation.\n\nLooking forward to your response! If you wish to opt-out of further communications, feel free to let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
