@@ -4300,6 +4300,62 @@
         "payment_template": "Subject: Confirmation of Your Order\n\nHi [Recipient's Name],\n\nThank you for choosing our Social Media Video Starter Kit! We appreciate your trust in us to enhance your online presence. We will provide further details shortly regarding the next steps.\n\nIf you have any questions or need clarification, feel free to reach out.\n\nBest regards,\n[Your Name]  \n[Your Position]  \n[Company Name]  \n[Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790241390168",
+      "created_at": "2026-09-24T09:16:30.168054+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Kickstart Package",
+        "target_customer": "Small business owners or content creators looking to boost their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content consistently and effectively for platforms like TikTok and Instagram.",
+        "solution": "A comprehensive social media strategy with short-form video scripts tailored for your brand, aimed at increasing engagement and visibility.",
+        "deliverables": [
+          "5 short-form video scripts (up to 60 seconds each)",
+          "Content calendar for 30 days",
+          "10 engaging captions for posts",
+          "1 tailored content strategy document"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Increase your online engagement and save time with professionally crafted scripts and a strategic plan tailored to your brand.",
+        "sales_angle": "Empower your brand with custom content that resonates with your audience, designed specifically to maximize impact in just 30 days.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Business or creator has an existing social media presence",
+          "Willingness to actively engage with their audience"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your social media game to the next level? The *30-Day Social Media Kickstart Package* is here! 📈 Get tailored short-form video scripts, a 30-day content calendar, and more to boost your engagement and visibility! Don’t miss out – let’s empower your brand together! 💪 #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Unlock the potential of your social media presence with our *30-Day Social Media Kickstart Package*. Designed for small business owners and content creators, this comprehensive solution includes 5 custom short-form video scripts, a 30-day content calendar, engaging captions, and a tailored content strategy document. Elevate your engagement and save time – all for just $299. Get started today and transform your online impact!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHello [Name],\n\nI hope this message finds you well. I wanted to reach out to share an exciting opportunity that could enhance your social media engagement. Our *30-Day Social Media Kickstart Package* offers tailored short-form video scripts and a strategic content plan designed specifically for your brand.\n\nIf you’re interested, let’s schedule a free consultation to discuss how we can help you resonate with your audience. \n\nBest regards,\n[Your Name]\n\nP.S. If this isn’t relevant to you, feel free to opt-out!",
+        "discovery_questions": [
+          "What are your current challenges with social media content creation?",
+          "How often do you post short-form videos on platforms like TikTok and Instagram?",
+          "What type of content resonates most with your audience?",
+          "Have you used any content strategies in the past? If so, what were the results?",
+          "What are your goals for your social media presence in the next month?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Client's Current Situation",
+          "Description of the 30-Day Social Media Kickstart Package",
+          "Deliverables Breakdown",
+          "Value Proposition",
+          "Investment Details",
+          "Next Steps"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule your free consultation and kickstart your social media journey!",
+        "payment_template": "Subject: Next Steps for Your Social Media Kickstart\n\nHi [Name],\n\nI appreciate your interest in our *30-Day Social Media Kickstart Package*. To proceed, please let me know your preferred payment method, and I will provide you with the necessary details.\n\nLooking forward to working together to elevate your brand!\n\nBest,\n[Your Name]\n\nP.S. If you no longer wish to receive updates, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
