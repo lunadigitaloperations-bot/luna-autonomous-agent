@@ -5975,6 +5975,63 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Recipient's Name],\n\nThank you for expressing interest in our **30-Day Social Media Boost Package**! I wanted to touch base regarding the next steps in our process. If you have any questions about the payment options or need assistance, please don’t hesitate to reach out.\n\nLooking forward to your response!\n\nBest, \n[Your Name]\n[Your Contact Information]  \n\n*If you’d prefer not to receive further communications, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790349433681",
+      "created_at": "2026-09-25T15:17:13.681026+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Eye-Catching TikTok Content Package",
+        "target_customer": "Small business owners or creators looking to increase their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention on TikTok.",
+        "solution": "A comprehensive TikTok content creation package that provides tailored video scripts and production guidance, enabling clients to connect with their target audience effectively.",
+        "deliverables": [
+          "5 custom TikTok video scripts tailored to the client's brand and target audience",
+          "Guidelines for video production, including tips on filming, editing, and best practices",
+          "A one-hour virtual consultation to discuss content strategy and optimize the client's TikTok profile",
+          "Access to a personalized content calendar for scheduling posts"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Enhance your brand's visibility on TikTok with tailored video content that resonates with your audience, all delivered remotely.",
+        "sales_angle": "Unlock the power of short-form video content without the hassle—let us do the heavy lifting while you focus on your business.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Networking within small business communities",
+          "Content marketing through blog posts about TikTok strategies"
+        ],
+        "qualification_criteria": [
+          "Must have an active TikTok account",
+          "Open to implementing suggested changes and strategies",
+          "Willingness to collaborate on content ideas"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your consultation and start creating engaging TikTok content!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your TikTok game! 🌟 Our Eye-Catching TikTok Content Package provides tailored scripts & guidance to help you create engaging videos that resonate with your audience. Perfect for small business owners & creators! Get started today! #TikTokMarketing #SmallBusiness #CreativeContent",
+        "website_description": "Struggling with TikTok content creation? Our Eye-Catching TikTok Content Package offers you five custom video scripts, production tips, a one-hour consultation, and a personalized content calendar—all designed to boost your social media presence effectively. For just $150, enhance your brand visibility and connect with your audience like never before.",
+        "outreach_template": "Subject: Let's Enhance Your TikTok Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Eye-Catching TikTok Content Package, tailored specifically for small business owners and creators like you. It includes custom scripts, production guidance, and a consultation to help you captivate your audience. \n\nIf you're interested or have any questions, feel free to respond. If not, please let me know and I'll make sure not to reach out again.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What challenges do you face when creating TikTok videos?",
+          "Who is your target audience on TikTok?",
+          "What type of content has worked well for you in the past?",
+          "Are there specific topics or themes you would like to explore?",
+          "How often do you currently post on TikTok?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Outline of Deliverables",
+          "Timeline and Delivery",
+          "Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to create engaging TikTok content? Contact us via email or WhatsApp to schedule your consultation today!",
+        "payment_template": "Subject: Your TikTok Package Order\n\nHi [Name],\n\nThank you for choosing our Eye-Catching TikTok Content Package! We're excited to help you elevate your TikTok presence. Please confirm your preferred payment method, and let us know if you have any questions about the next steps.\n\nLooking forward to your response.\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
