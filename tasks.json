@@ -5549,6 +5549,62 @@
         "payment_template": "Subject: Payment Details for Your Order\n\nHi [Name],\n\nThank you for choosing our 30-Day Social Media Content Sprint! To proceed, please let me know your preferred method of payment. Once we finalize the payment, we'll kickstart your content journey immediately! \n\nIf you have any questions or prefer not to continue, just let me know. \n\nLooking forward to hearing from you!\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790324186259",
+      "created_at": "2026-09-25T08:16:26.259605+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Short-Form Video Strategy Package",
+        "target_customer": "Small business owners and content creators looking to boost online presence and engagement.",
+        "customer_problem": "Many small businesses struggle to create engaging video content consistently, leading to low audience interaction and ineffective marketing efforts.",
+        "solution": "A structured 30-day plan that provides tailored short-form video scripts and content ideas specifically designed for TikTok, Instagram Reels, and YouTube Shorts, helping to enhance viewer engagement.",
+        "deliverables": [
+          "4 custom short-form video scripts per week for 4 weeks",
+          "Content calendar outlining posting schedule",
+          "Weekly feedback on video performance",
+          "Brand-specific content strategy guide"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Unlock the potential of short-form video content tailored to your brand, driving engagement and growth in just one month.",
+        "sales_angle": "Empower your marketing with professionally crafted video scripts that resonate with your audience and simplify your content creation process.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Partnerships with influencers"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or active content creator",
+          "Willingness to implement suggested video strategies",
+          "Active on social media platforms"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and kickstart your video content transformation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your online presence with our 30-Day Short-Form Video Strategy Package! 📹 Tailored video scripts, a content calendar, and weekly feedback to skyrocket your engagement on TikTok, Instagram Reels, and YouTube Shorts. Perfect for small business owners and content creators! 💡 Ready to transform your content? Contact us today! #VideoMarketing #ContentCreation #SmallBusinessGrowth",
+        "website_description": "Unlock the power of short-form video with our 30-Day Short-Form Video Strategy Package. Perfectly crafted for small business owners and content creators, this package includes 4 custom video scripts per week, a content calendar, and ongoing feedback to enhance your online engagement. Transform your marketing efforts today and watch your audience grow!",
+        "outreach_template": "Subject: Let's Discuss Boosting Your Video Content!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to introduce you to our 30-Day Short-Form Video Strategy Package designed specifically for small businesses and content creators like you. If you're looking to elevate your online presence, this could be a great fit. \n\nWould you be open to scheduling a consultation to explore how we can assist you?\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you’d prefer not to receive further emails, just let me know!",
+        "discovery_questions": [
+          "What social media platforms are you currently utilizing for your business?",
+          "How often do you create video content, and what challenges do you face?",
+          "What goals do you have for your video marketing strategy?",
+          "Who is your target audience, and how do you currently engage with them?",
+          "Are you open to implementing new video strategies for better results?"
+        ],
+        "proposal_outline": [
+          "Introduction\n  - Brief overview of the package\n  - Target audience identification\n",
+          "Customer Problem\n  - Discussion of common challenges faced in video content creation\n",
+          "Proposed Solution\n  - Detailed explanation of deliverables\n  - How it addresses customer needs\n",
+          "Value Proposition\n  - Benefits of engaging short-form video content\n",
+          "Pricing and Payment Terms\n  - Suggested price and estimated delivery\n",
+          "Next Steps\n  - Call to action for consultation"
+        ],
+        "call_to_action": "Contact us via email or WhatsApp today to schedule your consultation and start your video content transformation!",
+        "payment_template": "Subject: Follow-Up on Payment Details\n\nHi [Name],\n\nI hope you’re doing well! I wanted to check in regarding the payment process for the 30-Day Short-Form Video Strategy Package. Please let me know if you have any questions or require further information.\n\nLooking forward to hearing from you soon!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
