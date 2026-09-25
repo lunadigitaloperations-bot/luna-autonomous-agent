@@ -5665,6 +5665,63 @@
         "payment_template": "Subject: Payment Confirmation \n\nHi [Recipient's Name],\n\nThank you for choosing to work with us! We appreciate your commitment. I wanted to touch base regarding the payment process—please let us know if you have any further questions or need assistance.\n\nLooking forward to collaborating with you!\n\nBest, \n[Your Name]\n[Your Position]\n[Your Contact Information]\n\nP.S. If you’re not ready to proceed at this time, please don’t hesitate to let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790331358889",
+      "created_at": "2026-09-25T10:15:58.889819+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly TikTok Content Creation Package",
+        "target_customer": "Small businesses and creators looking to grow their TikTok presence",
+        "customer_problem": "Struggling to create engaging TikTok content consistently due to time constraints or lack of expertise",
+        "solution": "A comprehensive content creation package that includes tailored short-form video scripts and editing for TikTok, aimed at boosting audience engagement and brand visibility",
+        "deliverables": [
+          "4 custom short-form video scripts (1 per week)",
+          "Edited videos ready for posting",
+          "Hashtag and caption suggestions for optimal reach",
+          "Content calendar for the month"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Save time and elevate your TikTok strategy with professional-grade content designed to engage your audience",
+        "sales_angle": "Transform your TikTok feed with creative content crafted just for your brand, without the hassle of doing it yourself",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Email newsletters"
+        ],
+        "qualification_criteria": [
+          "Business or creator focused on TikTok",
+          "Willingness to collaborate and provide feedback",
+          "Active on social media platforms"
+        ],
+        "next_action": "Contact us via email to schedule a consultation"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your TikTok game! 🌟 Introducing our Monthly TikTok Content Creation Package—4 custom video scripts, edited videos, hashtag suggestions, and a content calendar all tailored for your brand! 📈✨ Save time and boost engagement without the hassle. Email us now to get started! #TikTokMarketing #ContentCreation #SmallBusiness",
+        "website_description": "Unlock your TikTok potential with our Monthly TikTok Content Creation Package! Designed for small businesses and creators, this comprehensive service includes 4 custom short-form video scripts, professionally edited videos, strategic hashtag and caption suggestions, and a monthly content calendar. Say goodbye to the stress of content creation and hello to increased audience engagement and brand visibility. Get started today!",
+        "outreach_template": "Subject: Let's Boost Your TikTok Presence! \n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out and introduce our Monthly TikTok Content Creation Package designed specifically for small businesses and creators like you. We understand the challenges of consistently creating engaging TikTok content, and our service offers a tailored solution to elevate your presence.\n\nWould you be interested in learning more? Please feel free to opt-out of future messages if this isn’t of interest.\n\nThank you!\n[Your Name]  \n[Your Contact Information]",
+        "discovery_questions": [
+          "What specific challenges do you face in creating TikTok content?",
+          "How often do you currently post on TikTok?",
+          "What type of content resonates most with your audience?",
+          "Are there any particular brand messages or themes you want to focus on?",
+          "How do you measure success on your TikTok account?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Monthly TikTok Content Creation Package",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Investment Cost",
+          "Value Proposition",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to transform your TikTok feed? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Details for Your TikTok Package \n\nHi [Name],\n\nThank you for your decision to move forward with our Monthly TikTok Content Creation Package! To proceed, please let us know your preferred payment method, and we will send you the details.\n\nAs always, if you’d like to opt-out of further messages, just let us know. \n\nLooking forward to working with you!\n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
