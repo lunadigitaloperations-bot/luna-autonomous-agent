@@ -6675,6 +6675,65 @@
         "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for considering our Engaging Social Media Video Package! We’re excited to help you enhance your social media presence with tailored video content. Once you’re ready to move forward, please let us know, and we’ll share the payment details to secure your package.\n\nLooking forward to hearing from you. If you’re not interested, feel free to opt out from further communications.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790392478652",
+      "created_at": "2026-09-26T03:14:38.652293+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Sprint",
+        "target_customer": "Small businesses or content creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create consistent and engaging content for social media platforms, resulting in lower audience engagement.",
+        "solution": "A structured 30-day content strategy aimed at generating daily short-form video content tailored to the customer's brand and audience.",
+        "deliverables": [
+          "30 short-form video scripts (1 per day for a month)",
+          "Content calendar with posting schedule",
+          "Tips for filming and editing the videos",
+          "Hashtag and caption suggestions for each video"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Transform your social media engagement by delivering fresh, tailored video content daily for an entire month.",
+        "sales_angle": "Revitalize your social media with easy-to-follow video scripts, helping you stay relevant without the stress of content creation.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Networking in local business groups",
+          "Referrals from satisfied customers"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or creator",
+          "Looking to improve social media presence",
+          "Willing to invest in content creation"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your goals and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your online presence in just 30 days! Our Social Media Content Sprint delivers tailored video scripts that engage your audience daily. Perfect for small businesses and content creators looking to enhance their impact. Ready to revitalize your content? 🌟 #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Transform your social media engagement with our 30-Day Social Media Content Sprint! Receive 30 days of custom short-form video scripts, a detailed content calendar, filming tips, and effective hashtag suggestions—all designed for small businesses and content creators. Get started for only $299 and watch your online presence grow!",
+        "outreach_template": "Subject: Ready to Boost Your Social Media? \n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out and share an exciting opportunity for small businesses and creators looking to enhance their social media presence. Our 30-Day Social Media Content Sprint offers a structured plan to create consistent, engaging content tailored to your brand. \n\nWould you be open to discussing how this could benefit you? \n\nLooking forward to hearing from you!\n\nBest regards, \n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n[Your Contact Information]  \n\nIf you'd prefer not to receive updates, feel free to let me know.",
+        "discovery_questions": [
+          "Can you describe the current challenges you face in creating social media content?",
+          "What platforms do you primarily focus on for your online presence?",
+          "How often do you currently post content on your social media?",
+          "What type of content resonates most with your audience?",
+          "Are you looking for any specific themes or topics for your upcoming content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Customer's Current Situation",
+          "Identified Needs",
+          "Proposed Solution: 30-Day Social Media Content Sprint",
+          "Deliverables",
+          "Timeline",
+          "Investment",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to take your social media to the next level? Contact us today to get started with our 30-Day Social Media Content Sprint!",
+        "payment_template": "Subject: Next Steps for Your 30-Day Social Media Content Sprint  \n\nHi [Name],  \n\nThank you for your interest in our program! To move forward, we'll need to discuss the details and finalize our agreement.  \n\nPlease let me know a convenient time for you to continue our conversation. Looking forward to working with you!  \n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
