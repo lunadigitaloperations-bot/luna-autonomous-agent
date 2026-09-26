@@ -6790,6 +6790,80 @@
         "payment_template": "Subject: Payment Details for Your Social Media Kickstart Package\n\nHi [Name],\n\nI hope you're doing well! I wanted to provide you with the payment details for your Social Media Kickstart Package. Please let me know if you have any questions or need further assistance.\n\nThank you for choosing us to help enhance your social media presence!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790399670961",
+      "created_at": "2026-09-26T05:14:30.961362+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly Content Boost Package",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content consistently.",
+        "solution": "A package providing tailored short-form video scripts, content strategy guidance, and social media captions to streamline your posting schedule and increase engagement.",
+        "deliverables": [
+          "Four short-form video scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "A comprehensive content strategy outline for the month",
+          "Four sets of engaging captions for each video"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your brand's social media presence with customized, engaging content that resonates with your audience.",
+        "sales_angle": "Relieve the pressure of content creation with monthly support tailored to your unique brand voice.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Networking in online creator communities",
+          "SEO-optimized blog content"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Open to adopting a new content strategy",
+          "Willing to collaborate on creative ideas"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your social media game to the next level? Check out our Monthly Content Boost Package! 📈 Tailored short-form video scripts, engaging captions, and a solid content strategy—all designed for small businesses and creators like you. Let's focus on what matters most: enhancing your presence and engaging your audience! DM us to learn more! #SocialMedia #ContentCreation #SmallBusinessSupport",
+        "website_description": "Transform your social media presence with our Monthly Content Boost Package. Perfect for small businesses and creators, this package includes four tailored short-form video scripts, a comprehensive content strategy outline, and engaging captions for each video. At an affordable price of $200, delivered within just 7 days, our goal is to elevate your brand and relieve the pressure of consistent content creation. Get started today to tap into your audience's engagement!",
+        "outreach_template": "Subject: Elevate Your Social Media with Our Monthly Content Boost Package\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Monthly Content Boost Package, designed specifically for small businesses and creators looking to enhance their social media presence.\n\nWe understand the struggle of consistently creating engaging short-form video content. With our package, you’ll receive four tailored video scripts, a comprehensive content strategy, and captivating captions—everything you need to streamline your posting and boost engagement!\n\nIf this sounds interesting, I’d love to set up a time to discuss how we can support your brand while respecting your unique voice.\n\nBest regards,\n\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n\nIf this doesn't resonate, feel free to let me know, and I'll be sure not to reach out again.",
+        "discovery_questions": [
+          "What social media platforms do you currently use for your business?",
+          "How often do you post content on your social media channels?",
+          "What type of content has engaged your audience the most in the past?",
+          "Are there specific themes or messages you want to convey through your content?",
+          "What challenges do you face when creating content for social media?"
+        ],
+        "proposal_outline": [
+          {
+            "section": "Introduction",
+            "description": "Brief overview of the client and their current social media presence."
+          },
+          {
+            "section": "Objectives",
+            "description": "Define the goals for the Monthly Content Boost Package."
+          },
+          {
+            "section": "Proposed Solution",
+            "description": "Detailed explanation of the deliverables, including video scripts, content strategy, and captions."
+          },
+          {
+            "section": "Timeline",
+            "description": "Outline the estimated delivery time and any milestones."
+          },
+          {
+            "section": "Pricing",
+            "description": "List the cost of the package and any additional terms."
+          },
+          {
+            "section": "Next Steps",
+            "description": "Provide instructions for how to proceed if the client is interested."
+          }
+        ],
+        "call_to_action": "Ready to enhance your social media presence? Contact us at luna.digital.operations@gmail.com to get started today!",
+        "payment_template": "Subject: Setting Up Your Payment for the Monthly Content Boost Package\n\nHi [Recipient's Name],\n\nThank you for discussing our Monthly Content Boost Package! To proceed, let's arrange the payment details to secure your spot.\n\nPlease let me know your preferred payment method, and I can provide the necessary information.\n\nLooking forward to working together!\n\nBest regards,\n\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n\nIf this isn't the right time, please feel free to opt-out, and I'll refrain from further messages.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
