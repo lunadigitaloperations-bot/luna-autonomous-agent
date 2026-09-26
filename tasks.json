@@ -7830,6 +7830,65 @@
         "payment_template": "Hi [Recipient's Name],\n\nI hope you're doing well! I wanted to discuss the next steps regarding the project we talked about. Please let me know how you’d like to proceed, and if you have any questions or need further information. \n\nThank you, and I look forward to hearing from you! \n\nBest regards, \nLuna",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790464441582",
+      "created_at": "2026-09-26T23:14:01.582753+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Content Boost Package",
+        "target_customer": "Small business owners and content creators looking to increase their online presence",
+        "customer_problem": "Struggling to create engaging content consistently and boost audience engagement on social media platforms.",
+        "solution": "A personalized 30-day content strategy that includes tailored short-form video scripts and social media post ideas to enhance engagement and connect with the target audience.",
+        "deliverables": [
+          "10 short-form video scripts for TikTok or Instagram Reels",
+          "30 engaging post ideas with captions for Instagram and Facebook",
+          "1 tailored content calendar for 30 days",
+          "Feedback session via Zoom to refine strategy"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Providing a crystal-clear content roadmap that empowers small businesses and creators to engage their audience effectively.",
+        "sales_angle": "Unlock your creative potential with a structured approach to content, tailored just for you!",
+        "organic_discovery_methods": [
+          "Social media platforms (Instagram, Facebook, TikTok)",
+          "Word-of-mouth referral",
+          "Online business communities and forums"
+        ],
+        "qualification_criteria": [
+          "Must be a small business owner or content creator",
+          "Active on at least one social media platform",
+          "Willing to implement the content strategy"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and kickstart your content journey!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Small business owners and content creators! Struggling to maintain engaging content? Our 30-Day Content Boost Package is designed just for you! 🎥 Get 10 custom video scripts, 30 captivating post ideas, and a structured calendar to elevate your social media presence. Ready to unlock your creative potential? Let's get started! ✨ #ContentCreation #SocialMediaSuccess #SmallBusinessGrowth",
+        "website_description": "Boost your online presence with our 30-Day Content Boost Package! Tailored specifically for small business owners and content creators, this package provides a comprehensive strategy that includes 10 custom short-form video scripts, 30 engaging post ideas for Instagram and Facebook, and a personalized content calendar. Schedule a feedback session to refine your strategy and watch your audience engagement soar!",
+        "outreach_template": "Subject: Let's Elevate Your Content Strategy! \n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to introduce an offer we have designed specifically for small business owners like you. Our 30-Day Content Boost Package is here to help you create engaging content consistently and enhance your online presence.\n\nIf you're interested in exploring how this can benefit your business, I'd love to schedule a consultation. Feel free to reply to this email or contact me on WhatsApp.\n\nBest, \n[Your Name]\n\nP.S. If this isn't relevant, just let me know and I'll gladly remove you from my list!",
+        "discovery_questions": [
+          "What specific content challenges are you currently facing?",
+          "Which social media platforms do you use most often?",
+          "How often do you post content currently?",
+          "What type of audience are you trying to connect with?",
+          "Are you open to implementing a structured content strategy?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Understanding Your Needs",
+          "3. Overview of the 30-Day Content Boost Package",
+          "   - Deliverables",
+          "   - Timeline",
+          "4. Value Proposition",
+          "5. Pricing Details",
+          "6. Next Steps",
+          "7. Q&A Session"
+        ],
+        "call_to_action": "Ready to transform your content strategy? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Details for Your Upcoming Package \n\nHi [Name],\n\nThank you for your interest in our 30-Day Content Boost Package! To finalize your order, we’ll need to discuss the payment options available. Please let me know your preferred time for a brief conversation.\n\nLooking forward to hearing from you soon!\n\nBest, \n[Your Name]\n\nP.S. If this isn't the right time for you, just let me know, and I'll respect your decision.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
