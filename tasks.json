@@ -7774,6 +7774,62 @@
         "payment_template": "Subject: Payment Process for Your Package\n\nHi [Name],\n\nThank you for your interest in our Engaging Social Media Content Package! To initiate the process, please let us know how you'd like to proceed with the payment of $150. We accept various payment methods and would be happy to guide you through the process.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Company Name]\n\nP.S. If this service is not what you’re looking for, please feel free to let me know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790460861887",
+      "created_at": "2026-09-26T22:14:21.887702+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Creation Package",
+        "target_customer": "Small businesses and individual creators looking to boost their social media presence",
+        "customer_problem": "Struggling to create engaging short-form videos that capture attention and promote brand awareness effectively.",
+        "solution": "Develop a series of tailored short-form video scripts and content ideas optimized for platforms like TikTok and Instagram Reels.",
+        "deliverables": [
+          "5 customized short-form video scripts",
+          "Content strategy document with posting schedule",
+          "1 caption suggestion per video",
+          "Guide on video production and editing basics"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Increase your brand visibility and engagement with professionally crafted video content tailored specifically for your audience.",
+        "sales_angle": "Capture your audience's attention in under a minute with engaging content that reflects your unique brand voice.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "SEO optimized content on business website",
+          "Networking in creator communities"
+        ],
+        "qualification_criteria": [
+          "Small businesses or creators with a social media presence",
+          "Willingness to collaborate and provide brand details"
+        ],
+        "next_action": "Contact Luna at lunar.digital.operations@gmail.com to schedule a consultation and discuss your needs."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Elevate your brand with our Short-Form Video Content Creation Package! 🚀 Get 5 customized scripts and a complete content strategy designed to boost your social media presence. Perfect for small businesses and individual creators! DM us to learn more! #VideoMarketing #BrandAwareness #SocialMediaGrowth",
+        "website_description": "Transform your social media presence with our Short-Form Video Content Creation Package! Designed for small businesses and individual creators, this package offers 5 tailored video scripts, a comprehensive content strategy, caption suggestions, and a beginner's guide to video production. Enhance your brand visibility and engagement today!",
+        "outreach_template": "Subject: Enhance Your Brand with Engaging Video Content\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to share our Short-Form Video Content Creation Package, designed specifically for small businesses and creators like you. \n\nIf you're struggling to create engaging short-form videos that effectively promote your brand, our package includes 5 customized video scripts, a detailed content strategy, and production guides that can make a real difference.\n\nWould you be open to discussing how we can collaborate to elevate your social media presence? \n\nThank you for considering this, and feel free to opt-out if this isn’t a fit! \n\nBest, \nLuna\nlunar.digital.operations@gmail.com",
+        "discovery_questions": [
+          "What social media platforms are you currently active on?",
+          "What types of content do you feel resonate most with your audience?",
+          "Have you used video content in your marketing strategy before? If so, what was your experience?",
+          "What is your primary goal with video content? (e.g., brand awareness, engagement, sales)",
+          "Can you share details about your brand's unique voice and style?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Proposed Solution",
+          "Deliverables Overview",
+          "Timeline and Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Contact Luna today to schedule your consultation and start transforming your social media presence!",
+        "payment_template": "Hi [Recipient's Name],\n\nI hope you're doing well! I wanted to discuss the next steps regarding the project we talked about. Please let me know how you’d like to proceed, and if you have any questions or need further information. \n\nThank you, and I look forward to hearing from you! \n\nBest regards, \nLuna",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
