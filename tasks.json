@@ -6864,6 +6864,63 @@
         "payment_template": "Subject: Setting Up Your Payment for the Monthly Content Boost Package\n\nHi [Recipient's Name],\n\nThank you for discussing our Monthly Content Boost Package! To proceed, let's arrange the payment details to secure your spot.\n\nPlease let me know your preferred payment method, and I can provide the necessary information.\n\nLooking forward to working together!\n\nBest regards,\n\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n\nIf this isn't the right time, please feel free to opt-out, and I'll refrain from further messages.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790403555294",
+      "created_at": "2026-09-26T06:19:15.294348+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Creation Package",
+        "target_customer": "Small businesses and independent creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create consistent and engaging social media content to attract and retain followers.",
+        "solution": "A monthly subscription service that provides a tailored content calendar and creative assets for Instagram Reels and TikTok videos.",
+        "deliverables": [
+          "A 30-day content calendar tailored to the business or creator's brand and audience",
+          "4 Instagram Reels scripts (including hashtags and captions)",
+          "4 TikTok video scripts (including hashtags and captions)",
+          "1 Instagram and TikTok video template for branding consistency"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Streamline your social media presence with customized, engaging content tailored for your brand.",
+        "sales_angle": "Invest in your brand's voice and visibility without the hassle of constant content creation.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Networking in online communities"
+        ],
+        "qualification_criteria": [
+          "Client must provide business information and target audience details",
+          "Client should be open to feedback and iteration on content"
+        ],
+        "next_action": "Contact Luna via email or WhatsApp to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your online presence with our Social Media Content Creation Package! 🌟 Tailored 30-day content calendars, engaging Instagram Reels and TikTok scripts, plus branding templates—all crafted just for your brand! 💼✨ Invest in your voice and visibility today! 📈 #SmallBusiness #ContentCreation #SocialMediaStrategy",
+        "website_description": "Unlock your brand's potential with our tailored Social Media Content Creation Package. Perfect for small businesses and independent creators, this monthly subscription includes a personalized 30-day content calendar, captivating Instagram Reels and TikTok video scripts, and a branding template to ensure consistency. Streamline your social media presence without the headache of constant content production. Join us and engage your audience effortlessly!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to introduce our Social Media Content Creation Package, designed specifically for small businesses and independent creators like yourself. We help streamline social media with tailored content strategies, enabling you to focus on what you do best.\n\nWould you be open to a conversation about how we can support your brand's online visibility? If not, I completely understand and appreciate your time.\n\nBest regards,\n[Your Name]\n",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Who is your target audience, and what challenges do they face?",
+          "What types of content have you tried in the past?",
+          "How often do you currently post on social media?",
+          "What tone or voice do you want to convey through your social media content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Business and Goals",
+          "Overview of the Social Media Content Creation Package",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Investment and Payment Terms",
+          "Next Steps and Consultation Scheduling",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to elevate your social media game? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Details for Your Subscription\n\nHi [Name],\n\nThank you for your interest in our Social Media Content Creation Package. To continue with the process, please let us know if you have any questions regarding the payment terms or next steps. We're here to assist!\n\nLooking forward to your response.\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
