@@ -7718,6 +7718,62 @@
         "payment_template": "Subject: Social Media Starter Kit Details\n\nHi [Name],\n\nThank you for considering our Social Media Starter Kit! We’re excited to help you enhance your online presence. Once you're ready to proceed, we can discuss the payment options and any details needed to get started.\n\nLooking forward to your response!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n[Your Company Name]\n\n*If this message isn't relevant to you, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790457283738",
+      "created_at": "2026-09-26T21:14:43.738623+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Social Media Content Package",
+        "target_customer": "Small business owners and content creators looking to boost their online presence",
+        "customer_problem": "Struggling to create consistent, engaging social media content that attracts and retains followers",
+        "solution": "A curated package of short-form video scripts and content strategy to streamline your social media presence",
+        "deliverables": [
+          "5 custom short-form video scripts tailored to your brand",
+          "Content calendar for 1 month",
+          "5 optimized captions for each video",
+          "15-minute consultation to discuss strategy and revisions"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your social media engagement with professionally crafted content that resonates with your audience.",
+        "sales_angle": "Save time and effort while maximizing your social media impact with tailored guidance and content.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth",
+          "Content marketing (blog posts about social media tips)"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator with an active social media presence",
+          "Must have a budget of $150 for the service"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started on crafting your engaging content!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to keep your social media engaging? Check out our Engaging Social Media Content Package designed for small business owners and content creators! Get tailored video scripts, a content calendar, and more to boost your online presence. 📈✨  Contact us today to elevate your social strategy! #SocialMedia #SmallBusiness #ContentCreation",
+        "website_description": "Transform your social media presence with our Engaging Social Media Content Package! Perfect for small business owners and content creators, this curated package includes custom short-form video scripts, a one-month content calendar, optimized captions, and a 15-minute consultation to refine your strategy. Save time and enhance your engagement with professional content tailored to resonate with your audience—all for just $150. Get started today!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Engagement!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our Engaging Social Media Content Package specially designed for small business owners and content creators like you. If you're struggling to create consistent and engaging content, this package includes everything you need to amplify your social media presence.\n\nHave a look at what we offer:\n- 5 custom short-form video scripts tailored to your brand\n- A content calendar for 1 month\n- 5 optimized captions for each video\n- A 15-minute consultation to discuss strategy and revisions\n\nWould you be interested in discussing this further? Please feel free to reach out!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Company Name]\n\nP.S. If you're not interested, just let me know, and I'll remove you from my list!",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media content?",
+          "How often do you post on your social media platforms?",
+          "What type of content has resonated with your audience in the past?",
+          "Do you have a specific theme or message you want to convey through your content?",
+          "What are your primary goals for your social media presence over the next few months?"
+        ],
+        "proposal_outline": [
+          "Introduction: Overview of the client's needs",
+          "Objective: Understand and address their social media challenges",
+          "Proposed Solution: Detailed description of the Engaging Social Media Content Package",
+          "Deliverables: Breakdown of what the client will receive",
+          "Timeline: Estimated delivery time (7 days)",
+          "Investment: Cost of the package ($150)",
+          "Conclusion: Invitation to discuss further and answer any questions"
+        ],
+        "call_to_action": "Ready to elevate your social media game? Contact us via email or WhatsApp to get started on crafting your engaging content!",
+        "payment_template": "Subject: Payment Process for Your Package\n\nHi [Name],\n\nThank you for your interest in our Engaging Social Media Content Package! To initiate the process, please let us know how you'd like to proceed with the payment of $150. We accept various payment methods and would be happy to guide you through the process.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Company Name]\n\nP.S. If this service is not what you’re looking for, please feel free to let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
