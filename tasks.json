@@ -6507,6 +6507,62 @@
         "payment_template": "Subject: Payment Details for Your TikTok Boost Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day TikTok Content Boost Package! To proceed, please find the payment details below:\n\n[Payment Instructions]\n\nOnce you complete the payment, let us know, and we'll get started on transforming your TikTok presence!\n\nBest regards,\n[Your Name]\n\nP.S. If this service isn't for you, no worries—just let us know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790382021351",
+      "created_at": "2026-09-26T00:20:21.351412+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "3-Week Social Media Content Sprint",
+        "target_customer": "Small businesses or solo creators looking to boost their online presence.",
+        "customer_problem": "Struggling to consistently create engaging social media content that captures audience attention.",
+        "solution": "A focused, three-week program providing tailored short-form video scripts and content ideas for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "Three custom short-form video scripts (one for each platform)",
+          "Content strategy guide for three weeks",
+          "Weekly check-in calls (30 minutes each)",
+          "Caption suggestions for each video"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 21,
+        "value_proposition": "Regular and engaging content tailored to your brand that saves you time and enhances your social media presence.",
+        "sales_angle": "Increase your brand engagement with a consistent content strategy designed for your unique audience without the overwhelm.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media promotions",
+          "Online communities and forums related to business growth"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or creator in need of social media content",
+          "Willingness to collaborate and provide feedback"
+        ],
+        "next_action": "Contact us to schedule a free consultation and discuss how we can tailor the service to your needs."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Struggling to keep up with social media content? Join our 3-Week Social Media Content Sprint! 🎥 Get tailored video scripts, a strategic guide, and weekly check-ins to boost your online presence. Let's make your content shine! DM us for a free consultation! #ContentCreation #SocialMediaStrategy",
+        "website_description": "Ready to elevate your brand's online presence? Our 3-Week Social Media Content Sprint offers personalized video scripts and content strategies designed for small businesses and solo creators. With tailored guidance and weekly check-ins, you'll create engaging content that resonates with your audience—without the stress. Discover the power of consistent, engaging social media today!",
+        "outreach_template": "Subject: Let’s Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because I believe our 3-Week Social Media Content Sprint could really benefit your business. This program provides tailored short-form video scripts, strategy guides, and weekly check-ins to ensure you consistently engage your audience.\n\nIf you’re interested, I’d love to schedule a time for a free consultation to discuss how we can customize this service for your unique needs.\n\nBest regards,\n[Your Name]  \n[Your Title]  \n[Your Contact Information]\n\nP.S. If this isn’t of interest, just let me know and I won’t reach out again.",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media content?",
+          "Which platforms do you primarily use for your business?",
+          "How often do you currently post content on social media?",
+          "What type of content resonates most with your audience?",
+          "Are you open to collaborating on creative ideas and feedback?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 3-Week Social Media Content Sprint",
+          "Identified needs and challenges",
+          "Proposed deliverables",
+          "Timeline and milestones",
+          "Costs involved",
+          "Conclusion and next steps"
+        ],
+        "call_to_action": "Contact us today to schedule your free consultation and tailor our services to fit your needs!",
+        "payment_template": "Subject: Next Steps for Your Content Sprint\n\nHi [Name],\n\nThank you for considering our 3-Week Social Media Content Sprint! We’re excited to help you enhance your online presence. Before we proceed, please let us know if you have any questions about the program or need further information.\n\nLooking forward to your reply!\n\nBest,  \n[Your Name]  \n[Your Title]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
