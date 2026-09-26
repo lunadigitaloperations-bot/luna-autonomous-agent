@@ -7664,6 +7664,60 @@
         "payment_template": "Subject: Payment Information for Your Order\n\nHi [Name],\n\nThank you for your interest in our **Social Media Boost Package**! We’re excited to help you elevate your online presence. To proceed, please let us know your preferred payment method, and we'll guide you through the next steps.\n\nThank you!\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nP.S. If you'd like to opt out of future communications, just let us know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790453662860",
+      "created_at": "2026-09-26T20:14:22.860292+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Starter Kit",
+        "target_customer": "Small businesses and creators looking to enhance their online presence",
+        "customer_problem": "Many small businesses lack the time or expertise to create engaging short-form video content that resonates with their audience.",
+        "solution": "A comprehensive package that provides a tailored content strategy along with ready-to-use short-form video scripts and social media captions for different platforms.",
+        "deliverables": [
+          "5 short-form video scripts tailored to the business's niche",
+          "5 engaging captions for social media posts",
+          "A custom content strategy document outlining posting frequency, themes, and audience engagement tips"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Empower your social media presence with unique content created specifically for your brand, enabling you to connect with your audience effortlessly.",
+        "sales_angle": "Stand out on social media with professional scripts and strategies that drive engagement without the hassle.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Networking within online business groups",
+          "Referrals from satisfied clients"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or creator looking to improve social media presence",
+          "Must be open to collaboration and providing brand information"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your business needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your online presence with our Social Media Starter Kit! 🎥✨ Get 5 tailored short-form video scripts & captions designed to engage your audience effortlessly. Transform your social media game today! #SmallBusiness #SocialMedia #ContentCreation",
+        "website_description": "Introducing the Social Media Starter Kit—your all-in-one solution for enhancing your online presence! Specifically designed for small businesses and creators, this package includes 5 custom video scripts and captivating social media captions, alongside a strategic content plan. Don’t let the hassle of content creation hold you back; empower your brand and connect with your audience today for only $250!",
+        "outreach_template": "Subject: Unlock Your Social Media Potential\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our Social Media Starter Kit, designed specifically for small businesses and creators like yourself. This comprehensive package will help you enhance your online presence with tailored video scripts and social media captions.\n\nIf you're interested in discussing how we can collaborate to boost your social media engagement, please let me know!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n[Your Company Name]\n\n*If you’d prefer not to receive updates, feel free to let me know.*",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms do you currently use, and how often do you post?",
+          "What type of content resonates most with your audience?",
+          "Have you used video content in your marketing before? If so, what was your experience?",
+          "Are there particular challenges you've faced in creating social media content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding your business and audience",
+          "Overview of the Social Media Starter Kit",
+          "Deliverables: Video scripts, captions, content strategy",
+          "Proposed timeline and pricing",
+          "Next steps and contact information"
+        ],
+        "call_to_action": "Ready to supercharge your social media? Contact us today to get started!",
+        "payment_template": "Subject: Social Media Starter Kit Details\n\nHi [Name],\n\nThank you for considering our Social Media Starter Kit! We’re excited to help you enhance your online presence. Once you're ready to proceed, we can discuss the payment options and any details needed to get started.\n\nLooking forward to your response!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n[Your Company Name]\n\n*If this message isn't relevant to you, please let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
