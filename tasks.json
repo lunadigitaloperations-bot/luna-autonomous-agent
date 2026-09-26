@@ -7151,6 +7151,63 @@
         "payment_template": "Subject: Invoice for Your Order\n\nHi [Name],\n\nThank you for your interest in our *Social Media Content Boost Package*! Your order is being processed. We will follow up soon with the next steps. \n\nIf you have any questions or would like to discuss any details, feel free to reach out. \n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790421254357",
+      "created_at": "2026-09-26T11:14:14.357781+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Reels Boost Package",
+        "target_customer": "Small business owners or social media creators looking to increase engagement and visibility on Instagram.",
+        "customer_problem": "Struggling to create engaging video content consistently and effectively to attract more followers and potential customers.",
+        "solution": "A tailored content package that includes scripts, concepts, and video editing guidance to help you produce short, captivating Reels that resonate with your target audience.",
+        "deliverables": [
+          "4 customized short-form video scripts (1 per week)",
+          "Content calendar with suggested posting times and themes",
+          "Guidance on video editing and best practices for Reels",
+          "4 sets of engaging captions tailored for each video"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Increase your Instagram presence with a consistent flow of engaging content designed to connect with your audience and boost interactions.",
+        "sales_angle": "Unlock the potential of your business's Instagram with strategic and creative video content that drives engagement. Perfect for busy entrepreneurs who want to maintain an active online presence without the hassle.",
+        "organic_discovery_methods": [
+          "Instagram hashtags",
+          "Networking within local business communities",
+          "Word of mouth"
+        ],
+        "qualification_criteria": [
+          "Small business or active creator with an existing Instagram account",
+          "Seeking to improve online engagement and brand visibility"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your Instagram game? Our **30-Day Reels Boost Package** is here to help small business owners and creators like you produce engaging video content effortlessly! Get 4 tailored video scripts, an organized content calendar, editing tips, and captivating captions—all designed to increase your visibility and engagement. 💡✨ Connect with your audience and watch your followers grow. Ready to get started? Contact us at luna.digital.operations@gmail.com!",
+        "website_description": "Boost your Instagram presence with our **30-Day Reels Boost Package**! This comprehensive content solution is tailored for small business owners and social media creators aiming to enhance engagement and visibility. The package includes 4 customized short-form video scripts, a strategic content calendar, expert video editing guidance, and engaging captions. All delivered in just 7 days for only $299. Unlock the potential of your Instagram and connect with your audience effectively!",
+        "outreach_template": "Subject: Elevate Your Instagram Engagement\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity for small business owners and creators looking to enhance their Instagram presence. Our **30-Day Reels Boost Package** offers tailored content that can significantly increase your engagement and visibility on the platform.\n\nIf you're interested in learning more about how we can help you craft engaging video content and maintain an active online presence without the hassle, please let me know!\n\nBest regards,\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n\nP.S. If this isn't of interest to you, feel free to opt-out, and I won’t reach out again.",
+        "discovery_questions": [
+          "What specific goals do you have for your Instagram engagement?",
+          "How often do you currently post video content on Instagram?",
+          "What challenges do you face when creating video content?",
+          "Who is your target audience, and what types of content resonate with them?",
+          "Have you utilized Instagram Reels in your strategy before, and if so, what was your experience?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Goals",
+          "Overview of the 30-Day Reels Boost Package",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Investment Details",
+          "Next Steps",
+          "Q&A Session"
+        ],
+        "call_to_action": "Contact us today at luna.digital.operations@gmail.com to unlock the potential of your Instagram with our tailored content package!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for your interest in our services! To proceed with the **30-Day Reels Boost Package**, please let us know your preferred payment method, and we will provide you with the necessary details to complete the transaction. \n\nLooking forward to your response!\n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
