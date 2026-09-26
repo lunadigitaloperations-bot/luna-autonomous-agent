@@ -6619,6 +6619,62 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Recipient's Name],\n\nThank you for your interest in our Engaging Social Media Content Package! To proceed, we can discuss the payment details at your earliest convenience. Please let me know a time that works for you.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790388897424",
+      "created_at": "2026-09-26T02:14:57.424039+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Social Media Video Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create captivating video content that draws engagement and boosts visibility.",
+        "solution": "A tailored short-form video content creation package designed to capture the essence of your brand and attract your target audience.",
+        "deliverables": [
+          "Three short-form video scripts (up to 60 seconds each)",
+          "Three TikTok or Instagram Reels video edits based on the scripts",
+          "Catchy captions for each video",
+          "Content strategy outline for consistent posting"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your brand's online presence with engaging video content that resonates with your audience, without the hassle of content creation.",
+        "sales_angle": "Unlock the power of social media engagement without spending hours on content creation. Let us help you shine with tailored video content!",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Organic search",
+          "Networking in online communities"
+        ],
+        "qualification_criteria": [
+          "Small businesses or creators with an active social media account",
+          "Aiming to improve engagement and brand visibility"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand's social media presence with our Engaging Social Media Video Package! 🎥 Perfect for small businesses and creators, our tailored video content will captivate your audience and boost visibility. Get 3 dynamic short-form videos and a content strategy to keep you consistent! 💡 Ready to shine? Let us take the hassle out of content creation. DM or contact us to schedule a consultation! #SocialMediaMarketing #VideoContent #BrandEngagement",
+        "website_description": "Are you a small business or content creator struggling to capture your audience's attention? Our Engaging Social Media Video Package is designed just for you! For only $300, you’ll receive three captivating short-form video scripts, stunning edits for TikTok or Instagram Reels, and a detailed content strategy. Elevate your online presence and connect with your audience like never before—all without the stress of content creation. Let’s get started!",
+        "outreach_template": "Subject: Enhance Your Social Media Engagement\n\nHi [Name],\n\nI hope this message finds you well! I’m reaching out to share an exciting opportunity that could significantly enhance your social media presence. Our Engaging Social Media Video Package is tailored for small businesses and content creators like yourself. With captivating short-form videos designed to resonate with your audience, we can help boost your visibility and engagement effortlessly.\n\nIf this interests you, I’d love to discuss it further and see how we can tailor the package to your specific needs. Feel free to opt out if this doesn’t resonate with you!\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nP.S. Looking forward to your thoughts!",
+        "discovery_questions": [
+          "What are your current goals for social media engagement?",
+          "What platforms do you primarily use for your business?",
+          "How often do you currently post video content?",
+          "What challenges do you face in creating video content for social media?",
+          "Who is your target audience and what types of content resonate with them?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer's Current Situation and Goals",
+          "Details of the Engaging Social Media Video Package",
+          "Deliverables and Timeline",
+          "Pricing Information",
+          "Next Steps",
+          "Questions and Feedback Section"
+        ],
+        "call_to_action": "Ready to captivate your audience? Contact us today to schedule your consultation and elevate your social media game!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for considering our Engaging Social Media Video Package! We’re excited to help you enhance your social media presence with tailored video content. Once you’re ready to move forward, please let us know, and we’ll share the payment details to secure your package.\n\nLooking forward to hearing from you. If you’re not interested, feel free to opt out from further communications.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
