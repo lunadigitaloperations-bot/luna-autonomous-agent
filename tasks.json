@@ -6563,6 +6563,62 @@
         "payment_template": "Subject: Next Steps for Your Content Sprint\n\nHi [Name],\n\nThank you for considering our 3-Week Social Media Content Sprint! We’re excited to help you enhance your online presence. Before we proceed, please let us know if you have any questions about the program or need further information.\n\nLooking forward to your reply!\n\nBest,  \n[Your Name]  \n[Your Title]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790385342758",
+      "created_at": "2026-09-26T01:15:42.758796+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Social Media Content Package",
+        "target_customer": "Small businesses and creators looking to boost their online presence",
+        "customer_problem": "Struggling to create consistent, engaging content that resonates with their audience on social media platforms",
+        "solution": "A tailored content package that includes short-form video scripts and optimized captions specifically designed for TikTok and Instagram Reels to enhance engagement and visibility.",
+        "deliverables": [
+          "3 short-form video scripts (60 seconds each)",
+          "3 caption suggestions for TikTok",
+          "3 caption suggestions for Instagram Reels",
+          "Content strategy outline for audience engagement"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Save time and elevate your social media presence with engaging video scripts and captions designed to capture your audience's attention.",
+        "sales_angle": "Transform your social media strategy without the hassle of content creation. Focus on your business while we provide you with high-quality scripts and captions.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Word of mouth",
+          "Online communities and groups"
+        ],
+        "qualification_criteria": [
+          "Must have a presence on TikTok and/or Instagram",
+          "Looking for a consistent content strategy"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your specific needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our Engaging Social Media Content Package! 🎥✨ Tailored for small businesses and creators, we provide short-form video scripts and optimized captions for TikTok and Instagram Reels that boost engagement and visibility. Ready to transform your strategy? Contact us today! #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Struggling to keep your social media vibrant and engaging? Our Engaging Social Media Content Package is designed for small businesses and creators like you. For just $150, you'll receive 3 short-form video scripts, caption suggestions for TikTok and Instagram Reels, and a content strategy outline. Save time and focus on your business while we help capture your audience's attention. Delivery within 7 days!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to share an exciting opportunity to enhance your online presence. Our Engaging Social Media Content Package offers tailored video scripts and captions specifically for TikTok and Instagram Reels. \n\nWould you be open to a brief conversation about how we can support your social media strategy? If you're not interested, feel free to let me know, and I won't reach out again.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What platforms are you currently using for social media?",
+          "How often do you post content on your social media?",
+          "What type of engagement are you looking to achieve with your audience?",
+          "Have you tried any content strategies before? If so, what worked or didn't work?",
+          "What are your primary goals (increased visibility, sales, community engagement, etc.) for your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Customer's Current Challenges",
+          "Overview of Our Solution",
+          "Deliverables",
+          "Timeline and Pricing",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us via email or WhatsApp to get started!",
+        "payment_template": "Subject: Payment Confirmation\n\nHi [Recipient's Name],\n\nThank you for your interest in our Engaging Social Media Content Package! To proceed, we can discuss the payment details at your earliest convenience. Please let me know a time that works for you.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
