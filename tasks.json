@@ -8002,6 +8002,62 @@
         "payment_template": "Subject: Follow-Up on Your Social Media Boost Package\n\nHi [Name],\n\nThank you for your interest in our *Social Media Boost Package*. I wanted to follow up regarding our previous conversation and confirm the next steps for your order. \n\nPlease let me know if you have any questions or if there's anything specific you'd like to discuss further.\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790475304457",
+      "created_at": "2026-09-27T02:15:04.457189+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Package",
+        "target_customer": "Small business owners or content creators looking to increase their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that attracts followers and enhances brand visibility",
+        "solution": "A tailored short-form video content strategy that includes scriptwriting and editing for TikTok, Instagram Reels, and YouTube Shorts to boost engagement",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "3 edited videos ready for posting",
+          "Content strategy document outlining best practices and posting schedule",
+          "Captions optimized for each platform"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Enhance your online visibility and engage your audience with professional-grade short-form video content tailored for your brand.",
+        "sales_angle": "Transform your social media presence and connect with your audience through captivating video content that tells your story.",
+        "organic_discovery_methods": [
+          "Social media channels",
+          "Word of mouth",
+          "Online creator communities"
+        ],
+        "qualification_criteria": [
+          "Business or creator with existing social media accounts",
+          "Committed to implementing the provided strategy and content"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your social media goals and start boosting your presence today."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Attention Small Business Owners & Content Creators! 🌟 Struggling to engage your audience on social media? Our Social Media Growth Package is here to help! 🎥✨ Get tailored short-form video content that elevates your brand's visibility. Includes scripts, edited videos, and a content strategy! 📈💪 Contact us today to start your journey to social media success! #SocialMediaGrowth #ContentCreation #EngagementBoost",
+        "website_description": "Unlock your brand's potential with our Social Media Growth Package! Designed for small business owners and content creators, this package offers a custom strategy focused on creating captivating short-form videos for TikTok, Instagram Reels, and YouTube Shorts. You'll receive three professionally crafted scripts, three edited videos ready for posting, a comprehensive content strategy document, and optimized captions. Elevate your social media presence and engage more meaningfully with your audience today, all for just $299!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share a valuable opportunity for you as a small business owner/content creator. Our Social Media Growth Package is designed to help you enhance your online visibility through captivating short-form video content.\n\nIf you're facing challenges in creating engaging videos that resonate with your audience, we can tailor a strategy just for you!\n\nI'd love to discuss your social media goals further. Please let me know a convenient time for us to connect.\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this is not of interest, feel free to let me know and I'll be happy to remove you from future outreach.",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms do you currently use, and what challenges are you facing on them?",
+          "Have you created any short-form video content before? If so, what was your experience?",
+          "How frequently do you post on social media, and what type of content gets the best engagement?",
+          "Are you open to following a structured content strategy to boost your online visibility?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of the client's goals and challenges\n",
+          "2. Proposed Solution\n   - Description of the Social Media Growth Package and its components\n",
+          "3. Deliverables\n   - List of items included in the package\n",
+          "4. Strategy Overview\n   - Outline of the proposed content strategy and posting schedule\n",
+          "5. Pricing\n   - Clear mention of the package cost ($299)\n",
+          "6. Next Steps\n   - How to proceed with the project\n",
+          "7. Contact Information\n   - Providing clear channels for communication"
+        ],
+        "call_to_action": "Ready to elevate your social media? Contact us via email or WhatsApp to get started!",
+        "payment_template": "Subject: Next Steps for Your Social Media Growth Package\n\nHi [Name],\n\nThank you for considering our Social Media Growth Package! We're excited to work with you.\n\nTo proceed, we can discuss the payment options available and the next steps to take. Please let me know a convenient time for you to talk further.\n\nLooking forward to connecting soon!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this is not the right time for you, just let me know and I can follow up later.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
