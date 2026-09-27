@@ -9080,6 +9080,63 @@
         "payment_template": "Subject: Payment Details for Your Short-Form Video Package\n\nHi [Recipient's Name],\n\nThank you for considering our Short-Form Video Content Creation Package! The total cost is $300, and we can start the process as soon as you're ready. Please let me know your preferred method of payment, and I will send you the necessary details.\n\nFeel free to reach out if you have any questions or need further information!\n\nBest,\nLuna\nluna.digital.operations@gmail.com\nWhatsApp: +14735341956",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790543695603",
+      "created_at": "2026-09-27T21:14:55.603766+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Social Media Starter Pack",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create consistent, engaging content for platforms like TikTok and Instagram, leading to low audience engagement and visibility.",
+        "solution": "A tailored content strategy and a set of short-form video scripts that align with your brand voice, aimed at increasing audience interaction and follower growth.",
+        "deliverables": [
+          "3 short-form video scripts for TikTok or Instagram Reels",
+          "1 content calendar for 1 month",
+          "5 engaging captions for various posts",
+          "General content strategy guide with tips and best practices"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Kickstart your online presence with engaging, ready-to-use content that connects with your audience and boosts your brand visibility.",
+        "sales_angle": "Transform your social media game with expertly crafted content that resonates with your target audience, helping you stand out in a crowded market.",
+        "organic_discovery_methods": [
+          "Social media platforms",
+          "Online forums and communities related to content creation",
+          "Word of mouth"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media profile",
+          "Open to experimenting with new content formats",
+          "Desire to enhance brand visibility"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Are you a small business or content creator struggling to engage with your audience on social media? Our Engaging Social Media Starter Pack is designed just for you! 📈 Get 3 short-form video scripts, a 1-month content calendar, 5 engaging captions, and a comprehensive strategy guide—all for just $150! 🌟 Start boosting your brand visibility today. DM us or contact via email to learn more! #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Transform your social media presence with our Engaging Social Media Starter Pack! Designed for small businesses and content creators, this package includes 3 expertly crafted short-form video scripts for TikTok or Instagram Reels, a comprehensive 1-month content calendar, 5 engaging captions for your posts, and a general content strategy guide. For only $150, you'll have everything you need to connect with your audience and enhance your brand visibility within just 7 days!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! My name is Luna from Infinite Sauce, and I wanted to reach out because we specialize in helping small businesses and content creators like you elevate their social media game. \n\nWe offer the Engaging Social Media Starter Pack, which includes tailored video scripts, a content calendar, and much more to help you connect with your audience effectively. If you're interested, I’d love to discuss how we can assist you in enhancing your brand visibility.\n\nFeel free to reach out at your convenience! If you prefer not to receive further communications, just let me know.\n\nBest regards,\n[Your Name]  \nInfinite Sauce",
+        "discovery_questions": [
+          "What are your primary goals for your social media presence?",
+          "Which platforms are you currently active on?",
+          "What type of content has performed well for you in the past?",
+          "How often do you post and what is the general theme of your content?",
+          "Are you open to experimenting with new content formats, like short-form videos?"
+        ],
+        "proposal_outline": [
+          "1. Introduction  \n   - Brief overview of your business  \n   - Purpose of the proposal",
+          "2. Customer Challenge  \n   - Identify the specific issues faced in social media engagement",
+          "3. Proposed Solution  \n   - Overview of the Engaging Social Media Starter Pack",
+          "4. Deliverables  \n   - Detailed list of what is included in the package",
+          "5. Implementation Timeline  \n   - Estimated delivery timeline and milestones",
+          "6. Pricing  \n   - Total cost and payment schedule",
+          "7. Call to Action  \n   - Encourage the client to contact for further discussion"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to kickstart your journey toward enhanced social media engagement!",
+        "payment_template": "Hi [Name],\n\nThank you for discussing your social media enhancement needs with us. If you're ready to proceed, we can provide you with the payment details to get started on your Engaging Social Media Starter Pack. Please let us know if you have any questions or require further information!\n\nIf you'd like to opt-out of future communications, please feel free to inform us.\n\nBest regards,\n[Your Name]  \nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
