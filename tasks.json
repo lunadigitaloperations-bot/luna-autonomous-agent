@@ -8226,6 +8226,63 @@
         "payment_template": "Subject: Follow-Up on Your Social Media Boost Package\n\nHi [Recipient's Name],\n\nI hope you're doing well! I wanted to touch base regarding the payment for your Social Media Boost Package. Please let me know if you have any questions or need assistance with the next steps. \n\nLooking forward to getting started!\n\nBest,\nLuna\n\nP.S. If you've changed your mind about proceeding, please feel free to let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790489999968",
+      "created_at": "2026-09-27T06:19:59.968795+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Sprint Package",
+        "target_customer": "Small business owners and content creators struggling to maintain a consistent social media presence.",
+        "customer_problem": "Many small businesses and creators find it challenging to create engaging short-form video content regularly, which leads to decreased online visibility and audience growth.",
+        "solution": "A package that provides a week's worth of tailored short-form video scripts and content ideas that can be easily adapted for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "5 short-form video scripts (up to 60 seconds each)",
+          "Content ideas tailored to the customer’s niche",
+          "Captions for each video script",
+          "Basic content strategy for posting schedule"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your online presence with professionally crafted content that drives engagement and resonates with your audience.",
+        "sales_angle": "Transform your social media in just one week with engaging, audience-focused video scripts.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media advertising",
+          "Networking in online business communities"
+        ],
+        "qualification_criteria": [
+          "Must have a social media presence (e.g., TikTok, Instagram, YouTube)",
+          "Willing to follow suggested guidelines",
+          "Open to feedback and adjustments"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Transform your social media in just one week! 🌟 Our Social Media Sprint Package is designed for small business owners and content creators who want to boost their online presence. Get 5 tailored short-form video scripts, content ideas, captions, and a smart posting strategy—all for just $150! 📈 Ready to elevate your content game? Contact us today! #SocialMedia #ContentCreation #SmallBusiness #Engagement",
+        "website_description": "Introducing the Social Media Sprint Package—a one-stop solution for small business owners and content creators who struggle to maintain a consistent social media presence. For just $150, receive a week's worth of customized short-form video scripts, content ideas tailored to your niche, and a basic content strategy. Enhance your online visibility and engage your audience with professionally crafted content, all delivered within 7 days.",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out and share our Social Media Sprint Package, designed specifically for small business owners and content creators like yourself. If you're looking to create engaging short-form video content but find it challenging, this package could be just what you need!\n\nWe offer tailored scripts, content ideas, and a basic posting strategy to help elevate your online presence.\n\nIf you’re interested or have any questions, please feel free to reply. \n\nIf this isn’t something you want right now, no worries at all—just let me know.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "discovery_questions": [
+          "What social media platforms are you currently using to promote your business?",
+          "How often do you post short-form video content?",
+          "What specific challenges do you face with your social media content?",
+          "Are there any styles or themes you prefer for your video content?",
+          "What does success look like for you regarding your social media engagement?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Social Media Sprint Package",
+          "Deliverables and Timeline",
+          "Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Contact us at luna.digital.operations@gmail.com to get started on transforming your social media today!",
+        "payment_template": "Subject: Next Steps for Your Order\n\nHi [Name],\n\nThank you for considering the Social Media Sprint Package! To proceed, we can discuss payment options that work for you. Once we finalize the details, I'll send over an invoice for your review.\n\nLooking forward to kicking off this project with you! \n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
