@@ -7889,6 +7889,63 @@
         "payment_template": "Subject: Payment Details for Your Upcoming Package \n\nHi [Name],\n\nThank you for your interest in our 30-Day Content Boost Package! To finalize your order, we’ll need to discuss the payment options available. Please let me know your preferred time for a brief conversation.\n\nLooking forward to hearing from you soon!\n\nBest, \n[Your Name]\n\nP.S. If this isn't the right time for you, just let me know, and I'll respect your decision.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790468562493",
+      "created_at": "2026-09-27T00:22:42.493758+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Rapid Reel Creation Package",
+        "target_customer": "Small businesses and content creators looking to increase their online engagement",
+        "customer_problem": "Struggling to produce engaging short-form video content consistently",
+        "solution": "A streamlined video content creation service that delivers high-quality scripts and edit-ready footage tailored for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "Three custom short-form video scripts (up to 60 seconds each)",
+          "One 30-second edited video based on the chosen script",
+          "Three engaging captions for social media posts",
+          "Content strategy guide for optimizing video performance"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Maximize your online presence with engaging video content tailored for your brand, helping you attract and engage your target audience without the hassle of production.",
+        "sales_angle": "Get a jumpstart on your video content creation and stand out from the competition with professional-quality videos designed to captivate your audience.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Content marketing (blog posts about video marketing)",
+          "Collaborations with influencers"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Open to video marketing strategies",
+          "Willing to provide brand guidelines and target audience information"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🎥 Ready to elevate your engagement? Introducing our Rapid Reel Creation Package! Perfect for small businesses and content creators looking to produce high-quality short-form video content with ease. Get 3 custom scripts, an edited video, social media captions, and a content strategy guide—all for just $250. Let us help you stand out and attract your audience! 🚀 #VideoMarketing #ContentCreation #InfiniteSauce",
+        "website_description": "Transform your online presence with our Rapid Reel Creation Package! Designed for small businesses and content creators, this service offers expertly crafted video scripts, a ready-to-post video, engaging captions, and a strategy guide—all curated to ensure your short-form content shines on platforms like TikTok, Instagram Reels, and YouTube Shorts. Start captivating your audience effortlessly for just $250. Deliverables ready within 10 days!",
+        "outreach_template": "Subject: Elevate Your Online Content with Our Video Solution\n\nHi [Name],\n\nI hope this message finds you well! I wanted to share a unique opportunity that could enhance your engagement on social media. Our Rapid Reel Creation Package is tailored for small businesses and content creators, providing everything you need for compelling short-form videos without the hassle of production.\n\nWould you be open to discussing your content needs? I'd love to explore how we can support your video marketing strategy.\n\nIf you'd prefer not to receive messages like this, please let me know, and I'll make sure to respect your preferences.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce\n[Your Contact Information]",
+        "discovery_questions": [
+          "What type of content do you currently create for your social media platforms?",
+          "What challenges have you faced in producing short-form video content?",
+          "Who is your target audience, and what type of videos do they engage with most?",
+          "How do you currently measure the success of your video content?",
+          "Are there any specific brand guidelines or themes you want us to follow?"
+        ],
+        "proposal_outline": [
+          "Introduction & Overview",
+          "Understanding Your Needs",
+          "Proposed Solution: Rapid Reel Creation Package",
+          "Deliverables Detail",
+          "Timeline for Delivery",
+          "Pricing",
+          "Next Steps & Contact Information"
+        ],
+        "call_to_action": "Ready to take your content to the next level? Contact us today to get started!",
+        "payment_template": "Subject: Quick Update on Your Package\n\nHi [Name],\n\nI wanted to follow up regarding the Rapid Reel Creation Package. Once you're ready, we’ll discuss the next steps for payment processing.\n\nIf you have any questions or need more information, please feel free to reach out. And, as always, if you prefer not to receive updates like this, just let me know!\n\nBest,\n[Your Name]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
