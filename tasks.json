@@ -8684,6 +8684,64 @@
         "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for expressing interest in our Social Media Growth Package. Once you've finalized your commitment, I'll send over the payment details for you to review. Let me know if you have any questions or need further information!\n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790518449667",
+      "created_at": "2026-09-27T14:14:09.667276+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Boost Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to consistently create engaging content that captures audience attention and increases brand visibility.",
+        "solution": "A tailored 30-day content strategy focusing on short-form video scripts and social media posts designed to improve engagement and reach on platforms like TikTok and Instagram.",
+        "deliverables": [
+          "4 TikTok video scripts (one per week)",
+          "4 Instagram Reels scripts (one per week)",
+          "30 captions for daily posts on social media",
+          "1 content calendar for 30 days",
+          "1 strategy session (via Zoom) to discuss the content plan"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Unlock consistent engagement and a clear content strategy that saves you time and effort, boosting your online presence without the overwhelm.",
+        "sales_angle": "Transform your social media outreach in just 30 days with engaging content that resonates with your audience.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth",
+          "Networking within small business communities"
+        ],
+        "qualification_criteria": [
+          "Target audience is active on social media",
+          "Willingness to engage with the content strategy",
+          "Basic knowledge of social media platforms"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule your initial consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your online presence with our 30-Day Social Media Content Boost Package! Tailored scripts for TikTok & Instagram, daily captions, and expert strategy sessions await. Don't let content struggles hold you back! 💪✨ #SmallBusiness #ContentCreation #SocialMediaMarketing #EngageYourAudience",
+        "website_description": "Transform your social media outreach in just 30 days! Our 30-Day Social Media Content Boost Package is designed for small businesses and content creators looking to enhance their online presence. Get weekly TikTok and Instagram video scripts, daily captions, and a comprehensive content calendar to unlock consistent engagement and save time. Join us and watch your brand visibility soar!",
+        "outreach_template": "Subject: Elevate Your Social Media Game\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an opportunity tailored for small businesses like yours. Our 30-Day Social Media Content Boost Package is designed to help you create engaging content that resonates with your audience. \n\nWould you be open to a conversation about how we can enhance your online presence? \n\nLooking forward to connecting!\n\nBest,\n[Your Name] \n\nP.S. If this doesn’t interest you, feel free to let me know, and I'll be sure to keep you updated on relevant opportunities.",
+        "discovery_questions": [
+          "What specific challenges are you facing in creating engaging content?",
+          "Which social media platforms do you currently prioritize for your business?",
+          "Are you familiar with short-form video content and its benefits?",
+          "How often are you currently posting on social media?",
+          "What are your goals for enhancing your online presence in the next 30 days?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of the purpose of the proposal\n",
+          "2. Understanding Your Needs\n   - Summary of the challenges discussed\n",
+          "3. Proposed Solution\n   - Overview of the 30-Day Social Media Content Boost Package\n",
+          "4. Deliverables\n   - Details on TikTok scripts, Instagram scripts, captions, and strategy session\n",
+          "5. Timeline & Investment\n   - Estimated delivery time and total cost\n",
+          "6. Next Steps\n   - Call to action for scheduling an initial consultation\n",
+          "7. Conclusion\n   - Reiterate value proposition and benefits"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today at luna.digital.operations@gmail.com to schedule your initial consultation!",
+        "payment_template": "Subject: Payment Details for Our Recent Discussion\n\nHi [Recipient's Name],\n\nThank you for considering the 30-Day Social Media Content Boost Package! To proceed with the next steps, please let me know if you have any questions regarding the payment process.\n\nLooking forward to working together!\n\nBest,\n[Your Name] \n\nP.S. If you're not interested at this time, just let me know, and I'll be happy to respect your decision.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
