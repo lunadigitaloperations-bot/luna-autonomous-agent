@@ -8797,6 +8797,63 @@
         "payment_template": "Subject: Next Steps for Your Order\n\nHi [Name],\n\nThank you for your interest in our Social Media Video Boost Package! To proceed with your order, we can discuss the payment options available to you. Please let me know a convenient time for you to reconnect.\n\nLooking forward to your response!  \nBest,  \n[Your Name]  \n[Your Contact Information]  \n*If you no longer wish to receive communication, please feel free to opt out.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790525718479",
+      "created_at": "2026-09-27T16:15:18.479793+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Blueprint",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging content consistently for social media platforms",
+        "solution": "A tailored content strategy and a package of ready-to-use short-form video scripts designed to boost engagement and simplify content creation.",
+        "deliverables": [
+          "Custom content strategy document outlining posting schedule and content themes",
+          "Five short-form video scripts for platforms like TikTok and Instagram Reels",
+          "Additional caption suggestions for each video",
+          "Tips for optimizing content based on current trends"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Save time and hassle with a clear plan and professional scripts designed to enhance audience engagement.",
+        "sales_angle": "Transform your social media feed with expert-crafted content that resonates with your audience without the stress.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media posts",
+          "Referral programs"
+        ],
+        "qualification_criteria": [
+          "Business or creator with an active social media account",
+          "Demonstrated interest in enhancing online presence"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule an initial consultation."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Struggling to keep your social media fresh and engaging? Our **Social Media Content Blueprint** is here to help! 📈 Get a custom content strategy and five ready-to-use short-form video scripts tailored just for you. Transform your online presence and connect with your audience effortlessly! DM us to learn more! 💬 #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Enhance your social media presence effortlessly with our **Social Media Content Blueprint**! Perfect for small businesses and creators, this package includes a custom content strategy, five engaging short-form video scripts, caption suggestions, and optimization tips—all designed to simplify your content creation process and boost audience engagement. Get started for just $200 and receive your materials within 7 days!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Game! \n\nHi [Name], \n\nI hope this message finds you well! I wanted to share an exciting opportunity that could help enhance your social media presence. Our **Social Media Content Blueprint** offers a tailored strategy and ready-to-use short-form video scripts to simplify your content creation. \n\nIf you're interested, let's schedule an initial consultation to discuss how we can assist you! \n\nFeel free to opt-out of future messages if this isn't of interest to you. \n\nBest, \n[Your Name]",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What challenges do you encounter when creating content?",
+          "Have you previously used any content creation strategies?",
+          "What are your goals for your social media presence?",
+          "How do you currently engage with your audience on social media?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer Challenges",
+          "Proposed Solution (Social Media Content Blueprint)",
+          "Deliverables Breakdown",
+          "Timelines for Delivery",
+          "Pricing Information",
+          "Next Steps",
+          "Closing Remarks"
+        ],
+        "call_to_action": "Ready to transform your social media feed? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Next Steps for Your Social Media Content Blueprint \n\nHi [Name], \n\nThank you for your interest in our Social Media Content Blueprint! To move forward, we can discuss the payment details and finalize your consultation. \n\nPlease let me know your availability for a quick chat!\n\nFeel free to opt-out of future messages if this isn't of interest to you. \n\nBest, \n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
