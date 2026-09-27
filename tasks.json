@@ -8570,6 +8570,61 @@
         "payment_template": "Subject: Payment Confirmation for Your Social Media Boost Package\n\nHi [Name],\n\nThank you for choosing our 30-Day Social Media Boost Package! We’re excited to help you enhance your social media presence. We will provide you with further details and next steps shortly.\n\nIf you have any questions or need assistance, feel free to reach out!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n[Your Business Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790511562752",
+      "created_at": "2026-09-27T12:19:22.752079+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Boost Package",
+        "target_customer": "Small businesses and creators looking to increase social media engagement",
+        "customer_problem": "Struggling to create engaging short-form video content consistently for platforms like TikTok and Instagram.",
+        "solution": "A tailored content creation service that provides professionally written scripts and video ideas specifically designed for your brand.",
+        "deliverables": [
+          "5 short-form video scripts (up to 60 seconds each)",
+          "Content strategy overview for TikTok and Instagram",
+          "2 ready-to-use captions for each video script",
+          "Email support for content-related queries for 2 weeks"
+        ],
+        "suggested_price_usd": 199,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Empower your brand with catchy, engaging content without the hassle of brainstorming and writing.",
+        "sales_angle": "Maximize your social media presence with minimal effort through our professionally crafted scripts and strategies.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Content marketing through blogs"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or creator active on TikTok and Instagram",
+          "Require help with content creation but have a basic understanding of video production"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and secure your package."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media engagement with our Social Media Boost Package! Perfect for small businesses and creators! Get 5 short-form video scripts tailored just for you! 🎥✨ Let's turn those ideas into engaging content! DM us to learn more! #SocialMedia #ContentCreation #SmallBizGrowth",
+        "website_description": "Transform your social media presence with our Social Media Boost Package! Designed for small businesses and creators, this package includes 5 engaging short-form video scripts, strategic content ideas for TikTok and Instagram, and two ready-to-use captions for each script. Plus, enjoy two weeks of email support for all your content-related questions. Empower your brand effortlessly—secure yours today for just $199 and receive your package in just 7 days!",
+        "outreach_template": "Subject: Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because we have an exciting offer that could help elevate your social media engagement. Our Social Media Boost Package is designed specifically for small businesses and creators like you, who are looking to enhance their content without the hassle of brainstorming. \n\nWould you be open to discussing how our tailored service can fit your needs? If not, no worries! \n\nBest, \n[Your Name]",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media content?",
+          "Which platforms do you prioritize, and why?",
+          "How often do you post short-form video content?",
+          "What themes or topics resonate best with your audience?",
+          "Are there specific goals you wish to achieve through your social media engagement?"
+        ],
+        "proposal_outline": [
+          "Introduction\n - Brief overview of the client's needs\n - Introduction of our Social Media Boost Package",
+          "Deliverables\n - List and details of the video scripts\n - Content strategy overview\n - Captions provided",
+          "Timeline\n - Estimated delivery time of 7 days",
+          "Pricing\n - Outline of the $199 cost",
+          "Next Steps\n - Contact details for discussion and package confirmation",
+          "Closing\n - Reassurance of support and value provided"
+        ],
+        "call_to_action": "Ready to amplify your social presence? Contact us today via email or WhatsApp to get started!",
+        "payment_template": "Subject: Confirmation of Your Package Interest\n\nHi [Name],\n\nThank you for your interest in our Social Media Boost Package! We're excited to assist you. Could you please let us know your preferred payment method? Once we receive your details, we'll move forward with the arrangements.\n\nIf you have any questions or need more information, please feel free to reach out. \n\nBest regards, \n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
