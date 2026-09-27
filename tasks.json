@@ -8115,6 +8115,62 @@
         "payment_template": "Subject: Payment Details for Your Order\n\nHi [Name],\n\nThank you for your interest in our Social Media Video Content Package! To proceed, we’d like to discuss payment details and ensure everything is set up properly. Please let me know a convenient time for you to discuss.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\n*If you’d prefer not to receive any further communication, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790482517083",
+      "created_at": "2026-09-27T04:15:17.083487+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "90-Day TikTok Growth Content Package",
+        "target_customer": "Small businesses and content creators looking to grow their TikTok presence.",
+        "customer_problem": "Many small businesses and creators struggle to create engaging TikTok content that attracts followers and increases brand visibility.",
+        "solution": "A tailored content strategy that includes short-form video scripts, creator guidance, and editing tips to enhance engagement on TikTok.",
+        "deliverables": [
+          "15 short-form video scripts tailored to the brand's voice and target audience",
+          "2 TikTok content calendar templates for planning posts",
+          "Guide to best TikTok practices and trends",
+          "1 personalized consultation session (30 minutes) for content review and strategy adjustments"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Transform your TikTok presence with strategic, engaging content tailored just for your brand.",
+        "sales_angle": "Stand out in a crowded market with professionally crafted content that resonates with your audience.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Referrals from satisfied clients",
+          "Collaborations with influencers"
+        ],
+        "qualification_criteria": [
+          "Owner of a small business or active content creator on TikTok",
+          "Willingness to engage with provided strategies",
+          "Basic understanding of TikTok interface"
+        ],
+        "next_action": "Reach out via email to schedule an initial consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your TikTok presence to new heights? 🌟 Our 90-Day TikTok Growth Content Package is designed for small businesses and creators like you! Get 15 tailored video scripts, a content calendar, insider tips, and a personalized consultation—all for just $250! Don’t miss out on the chance to stand out with engaging content. Reach out today! #TikTokGrowth #ContentCreation #SmallBusiness",
+        "website_description": "Are you a small business or content creator struggling to make your mark on TikTok? Our 90-Day TikTok Growth Content Package offers a comprehensive solution that includes 15 custom video scripts, content calendar templates, and best practices to elevate your TikTok game. Plus, enjoy a 30-minute personalized consultation to refine your strategy. Transform your presence with content crafted specifically for you!",
+        "outreach_template": "Subject: Let's Boost Your TikTok Presence!\n\nHi [Name],\n\nI hope this message finds you well! I came across your TikTok content and noticed the potential for even greater engagement. We specialize in helping small businesses and creators like you grow their TikTok presence with tailored content strategies.\n\nI’d love to discuss how our 90-Day TikTok Growth Content Package can help enhance your visibility and attract more followers. Would you be open to a quick chat?\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\n*If you would prefer not to receive further messages, please let me know.*",
+        "discovery_questions": [
+          "What specific challenges are you facing with your TikTok content?",
+          "Who is your target audience on TikTok?",
+          "What goals do you hope to achieve on TikTok in the next 90 days?",
+          "How familiar are you with TikTok's features and trends?",
+          "Are there particular styles of content that resonate well with your audience?"
+        ],
+        "proposal_outline": [
+          "Introduction\n   - Brief overview of the proposal\n",
+          "Understanding Your Needs\n   - Discussion of discovery questions\n",
+          "Proposed Solution\n   - 90-Day TikTok Growth Content Package\n   - Deliverables breakdown\n",
+          "Implementation Timeline\n   - Estimated delivery schedule\n",
+          "Investment\n   - Suggested price\n",
+          "Next Steps\n   - Call to action and consultation scheduling\n"
+        ],
+        "call_to_action": "Ready to elevate your TikTok game? Email us to schedule your initial consultation and kickstart your growth journey!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for your interest in our 90-Day TikTok Growth Content Package! To proceed, please let me know if you'd like to finalize the details so we can initiate the process.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\n*If you would like to opt out of future communications, feel free to let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
