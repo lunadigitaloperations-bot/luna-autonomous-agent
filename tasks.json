@@ -8171,6 +8171,61 @@
         "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for your interest in our 90-Day TikTok Growth Content Package! To proceed, please let me know if you'd like to finalize the details so we can initiate the process.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\n*If you would like to opt out of future communications, feel free to let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790486065980",
+      "created_at": "2026-09-27T05:14:25.980852+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Boost Package",
+        "target_customer": "Small businesses and content creators looking to increase online engagement",
+        "customer_problem": "Struggling to create attention-grabbing content that boosts engagement on social media platforms like TikTok and Instagram.",
+        "solution": "A tailored content package that includes short-form video scripts and ready-to-use video concepts designed to capture audience interest.",
+        "deliverables": [
+          "3 custom short-form video scripts for TikTok or Instagram Reels",
+          "3 engaging captions tailored to the videos",
+          "1 personalized content strategy overview to maximize reach and engagement"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 5,
+        "value_proposition": "Get creative, unique content that resonates with your audience and enhances your online presence without the hassle of ideation.",
+        "sales_angle": "Invest in your social media presence with this affordable and effective package, crafted specifically for small businesses and creators.",
+        "organic_discovery_methods": [
+          "Social media word of mouth",
+          "Online community forums",
+          "Networking in small business groups"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator",
+          "Active on TikTok or Instagram"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to set up a consultation and kick off your Social Media Boost Package."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Is your small business or content struggling to capture attention on social media? Our Social Media Boost Package is here to elevate your engagement on TikTok and Instagram! 🎥✨ Get 3 custom video scripts, engaging captions, and a tailored strategy—all for just $150! Perfect for creators & small biz owners. Let’s connect! 💬 #SocialMediaMarketing #ContentCreation #BoostYourBrand",
+        "website_description": "Transform your social media presence with our Social Media Boost Package! Specifically designed for small businesses and content creators, this package offers 3 tailored short-form video scripts, 3 engaging captions, and a personalized content strategy overview. For just $150, attract the right audience and elevate your online engagement seamlessly. Get started today and leave the ideation to us!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to introduce our Social Media Boost Package, perfectly tailored for small businesses and content creators like yourself. Our goal is to help you generate captivating content for TikTok and Instagram that elevates your online engagement.\n\nWould you be open to discussing this further? I’d love to set up a consultation to explore how we can assist you in achieving your social media goals.\n\nThank you, and have a great day!\n\nBest,\nLuna\n\nP.S. If you're not interested, just let me know and I won't reach out again.",
+        "discovery_questions": [
+          "What specific challenges do you face in creating engaging content for social media?",
+          "Which platforms do you primarily use to reach your audience?",
+          "How often do you currently post on TikTok or Instagram?",
+          "What type of content has worked best for you in the past?",
+          "Are there any specific goals you have for your social media presence in the coming months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Social Media Boost Package",
+          "Deliverables Breakdown",
+          "Pricing Details",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to enhance your online presence? Contact us at luna.digital.operations@gmail.com to kick off your Social Media Boost Package!",
+        "payment_template": "Subject: Follow-Up on Your Social Media Boost Package\n\nHi [Recipient's Name],\n\nI hope you're doing well! I wanted to touch base regarding the payment for your Social Media Boost Package. Please let me know if you have any questions or need assistance with the next steps. \n\nLooking forward to getting started!\n\nBest,\nLuna\n\nP.S. If you've changed your mind about proceeding, please feel free to let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
