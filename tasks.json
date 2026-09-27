@@ -8968,6 +8968,61 @@
         "payment_template": "Subject: Next Steps for Your Social Media Boost Package\n\nHi [Name],\n\nThank you for your interest in our **30-Day Social Media Video Boost Package**! To move forward, we can discuss the payment options and finalize the package tailored to your needs. Please let me know a convenient time for us to connect. \n\nLooking forward to diving in with you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\n*If you’d prefer not to receive further emails, please feel free to unsubscribe.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790536382276",
+      "created_at": "2026-09-27T19:13:02.276285+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Sprint",
+        "target_customer": "Small businesses and creators looking to boost social media engagement",
+        "customer_problem": "Many small businesses struggle to consistently create engaging content for their social media platforms, leading to decreased visibility and interaction with their audience.",
+        "solution": "A one-time content creation service to produce a week's worth of engaging short-form video content tailored for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "5 short-form video scripts (up to 60 seconds each)",
+          "5 tailored video captions optimized for social media",
+          "Content strategy outline for distribution and engagement"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media presence with tailored, engaging content designed to capture attention and foster audience interaction.",
+        "sales_angle": "Fill your content calendar with high-quality, ready-to-post videos that resonate with your target audience without the stress of creation.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online community engagements"
+        ],
+        "qualification_criteria": [
+          "Must have at least one active social media account",
+          "Willingness to share brand vision and goals"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation for your Social Media Content Sprint."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Social Media Content Sprint is designed for small businesses and creators like you! Get a week's worth of engaging short-form video content tailored for TikTok, Instagram Reels, and YouTube Shorts— all for just $200! 🎥✨\n\n✅ 5 engaging video scripts\n✅ 5 tailored captions\n✅ Content strategy outline\n\nDon’t let content creation stress you out! Reach out today to schedule your consultation! #SocialMediaMarketing #ContentCreation #SmallBusinessGrowth\n\n👉 [Contact us here] (insert your contact link) \n\n*We respect your privacy; if you wish to opt-out of future updates, please let us know.*",
+        "website_description": "Transform your social media presence with our Social Media Content Sprint! Designed specifically for small businesses and creators, this one-time service delivers a week's worth of engaging short-form video content—ideal for TikTok, Instagram Reels, and YouTube Shorts. For just $200, receive 5 expertly crafted video scripts, 5 optimized captions, and a clear content strategy outline. Elevate your brand without the hassle of content creation. Schedule your consultation today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity for small businesses and creators looking to boost their social media engagement.\n\nOur Social Media Content Sprint offers a one-time service to create tailored short-form video content designed to resonate with your audience. With engaging scripts, optimized captions, and a comprehensive content strategy, we make it easy for you to fill your content calendar with high-quality videos.\n\nIf you're interested in learning more, I'd be delighted to schedule a consultation at your convenience.\n\nThank you for your time, and please feel free to opt out of further communication if you wish.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What social media platforms do you currently use?",
+          "How often do you post content on your social media accounts?",
+          "What type of content has previously engaged your audience the most?",
+          "What are your brand's key goals for social media engagement?",
+          "Do you have any specific themes or topics you want to focus on for your video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Content Sprint",
+          "Deliverables Explained",
+          "Timeline and Process",
+          "Investment and Pricing",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to supercharge your social media? Contact us today to schedule your consultation for the Social Media Content Sprint!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for considering our Social Media Content Sprint! We're excited to get started on creating engaging content for your brand.\n\nOnce you're ready to proceed, please let us know, and we can discuss payment options and next steps!\n\nThank you, and we look forward to your response.\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
