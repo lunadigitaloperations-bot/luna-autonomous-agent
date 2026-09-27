@@ -9195,6 +9195,63 @@
         "payment_template": "Hi [Name],\n\nThank you for your interest in our Social Media Kickstart Package! We can discuss payment options and finalize the details at your convenience.\n\nLooking forward to hearing from you!\n\nBest,\nLuna",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790550842975",
+      "created_at": "2026-09-27T23:14:02.975590+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "60-Second Social Media Boost Package",
+        "target_customer": "Small business owners and content creators looking to increase engagement on social media platforms",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience, leading to low engagement rates.",
+        "solution": "A comprehensive content creation package focused on developing short-form video scripts tailored to the client's brand, facilitating increased engagement and interaction.",
+        "deliverables": [
+          "3 tailored short-form video scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "2 sets of engaging captions for each video",
+          "Content strategy outline with posting schedule and audience targeting tips"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Professionally crafted short-form videos that capture attention and drive engagement, designed to resonate with your unique audience.",
+        "sales_angle": "Elevate your social media presence with professional short-form video scripts that turn views into interactions, all tailored to your brand identity.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing previous work",
+          "Word of mouth from satisfied clients",
+          "Online community involvement (forums, groups related to social media marketing)"
+        ],
+        "qualification_criteria": [
+          "Must have active social media accounts",
+          "Open to adjusting content strategy based on trends",
+          "Willingness to engage with audience and respond to feedback"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our 60-Second Social Media Boost Package! 🎥✨ Get 3 tailored short-form video scripts, engaging captions, and a content strategy outline designed just for your brand. Perfect for small business owners and content creators ready to increase engagement! 💬📈 #SocialMediaMarketing #VideoContent #EngagementBoost",
+        "website_description": "Transform your social media presence with our 60-Second Social Media Boost Package! This all-inclusive service provides you with 3 professionally crafted short-form video scripts, 2 sets of engaging captions for each video, and a comprehensive content strategy outline. Designed specifically for small business owners and content creators, our package aims to create captivating content that resonates with your audience and drives interaction. Get ready to elevate your engagement!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Engagement!\n\nHi [Prospect's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to enhance your social media presence. Our 60-Second Social Media Boost Package is designed specifically for small business owners and content creators like yourself, helping you create engaging short-form video content that resonates with your audience.\n\nIf you're interested, I'd love to chat about how we can tailor this package to suit your needs. Please let me know a good time to connect!\n\nBest regards,\n[Your Name]\n[Your Title]\n\nP.S. If this isn’t of interest, just let me know, and I'll respect your wishes.",
+        "discovery_questions": [
+          "What social media platforms are you currently using to promote your business?",
+          "How often do you post short-form video content?",
+          "What challenges are you facing when trying to engage your audience with video content?",
+          "Have you tested different types of content to see what resonates best with your audience?",
+          "What specific goals do you hope to achieve with increased engagement on social media?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Overview of Client's Current Situation",
+          "3. Proposed Solution: 60-Second Social Media Boost Package",
+          "4. Deliverables Detail",
+          "5. Pricing Structure",
+          "6. Estimated Delivery Timeline",
+          "7. Next Steps",
+          "8. Conclusion"
+        ],
+        "call_to_action": "Ready to boost your social media engagement? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Follow-up\n\nHi [Client's Name],\n\nI hope you're doing well! I wanted to follow up regarding the next steps for your order. Once you're ready, we can discuss the payment arrangement to get started on tailoring your 60-Second Social Media Boost Package.\n\nPlease let me know if you have any questions or if there's anything else I can assist you with.\n\nThanks,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
