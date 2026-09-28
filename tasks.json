@@ -9878,6 +9878,80 @@
         "payment_template": "Subject: Next Steps for Your Order\n\nHi [Name],\n\nThank you for considering our 30-Day Video Content Blitz! To move forward, we would need to discuss the payment process and options that work best for you. Please let me know a convenient time to chat!\n\nLooking forward to your response!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790594157938",
+      "created_at": "2026-09-28T11:15:57.938730+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Jumpstart Package",
+        "target_customer": "Small businesses and content creators looking to boost their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content to attract and retain followers, leading to low engagement rates.",
+        "solution": "A tailored short-form video content strategy that includes scriptwriting and video concepts designed for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "4 custom short-form video scripts (1 for each platform)",
+          "Video content concepts and themes",
+          "Hashtag and caption suggestions for each video",
+          "Content posting schedule"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your brand's online presence with engaging and shareable videos tailored for your target audience, built on a solid content strategy.",
+        "sales_angle": "Get noticed with captivating videos that speak directly to your audience while saving time and effort in content creation.",
+        "organic_discovery_methods": [
+          "Social media platforms (Instagram, TikTok, YouTube)",
+          "Networking in online business forums or groups",
+          "Referrals from happy customers"
+        ],
+        "qualification_criteria": [
+          "Business or creator has an active social media presence",
+          "Willing to provide insights into their target audience",
+          "Open to adopting new content strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss your needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Social Media Jumpstart Package is designed for small businesses and content creators looking to boost engagement with captivating short-form videos! 🎥✨ Get 4 custom scripts and video ideas tailored for TikTok, Instagram Reels, and YouTube Shorts—delivered in just 7 days! 💡 Ready to start your journey? Contact us today! #SocialMedia #ContentCreation #SmallBusinessGrowth",
+        "website_description": "Unlock the potential of your brand with our Social Media Jumpstart Package! Tailored specifically for small businesses and content creators, this package offers a strategic approach to creating engaging short-form videos for TikTok, Instagram Reels, and YouTube Shorts. With 4 custom video scripts, innovative content concepts, and a handy posting schedule, you’ll attract and retain followers like never before. Get ready to make your mark! Estimated delivery in 7 days for just $250.",
+        "outreach_template": "Subject: Elevate Your Social Media Presence! \n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to reach out to introduce our Social Media Jumpstart Package, designed for businesses and creators eager to boost their social media engagement through captivating short-form video content. \n\nIf you’re interested, I’d love to schedule a consultation to discuss how we can tailor our services to meet your needs. \n\nPlease let me know your availability!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n[Company Name]  \n\nIf you wish to opt out of future communications, please let me know.",
+        "discovery_questions": [
+          "What platforms are you currently using for your social media marketing?",
+          "Can you describe your target audience and their interests?",
+          "What specific challenges are you facing with your current social media content?",
+          "Have you tried short-form video content before? If so, what was your experience?",
+          "What goals do you have for your social media presence in the next few months?"
+        ],
+        "proposal_outline": [
+          {
+            "section_title": "Introduction",
+            "content": "Overview of the proposal and objectives."
+          },
+          {
+            "section_title": "Client Overview",
+            "content": "Insights into the client's business and target audience."
+          },
+          {
+            "section_title": "Proposed Solutions",
+            "content": "Details of the Social Media Jumpstart Package deliverables."
+          },
+          {
+            "section_title": "Timeline",
+            "content": "Estimated delivery time and key milestones."
+          },
+          {
+            "section_title": "Investment",
+            "content": "Breakdown of costs and payment terms."
+          },
+          {
+            "section_title": "Next Steps",
+            "content": "Call to action for approval and communication."
+          }
+        ],
+        "call_to_action": "Contact us today to schedule your consultation and take the first step towards engaging your audience with captivating videos!",
+        "payment_template": "Subject: Payment Details for Your Service \n\nHi [Recipient's Name],\n\nThank you for choosing our Social Media Jumpstart Package! To move forward, we kindly request the payment to be arranged. Please let us know if you need any assistance or additional details regarding the payment process. \n\nBest, \n[Your Name]  \n[Your Contact Information]  \n[Company Name]  \n\nIf you wish to opt out of future communications, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
