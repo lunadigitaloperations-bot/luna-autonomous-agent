@@ -10524,6 +10524,62 @@
         "payment_template": "Subject: Confirmation of Your Package Order\n\nHi [Name],\n\nThank you for choosing our Social Media Video Launch Package! We're excited to kickstart your journey to engaging video content. Please let us know the best time to connect and finalize the details. \n\nLooking forward to working together!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790633750487",
+      "created_at": "2026-09-28T22:15:50.487639+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly Social Media Content Booster",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to consistently create engaging content that resonates with their audience and boosts engagement on social media platforms",
+        "solution": "A comprehensive content package that provides high-quality short-form video scripts and tailored captions for various social media platforms to maintain a steady posting schedule.",
+        "deliverables": [
+          "4 short-form video scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "4 engaging captions tailored for each platform",
+          "Content calendar layout for publication schedule",
+          "One 30-minute content strategy consultation"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your brand's online presence with consistent, creative content designed to engage your audience and drive interaction.",
+        "sales_angle": "Eliminate the stress of content creation with our Monthly Social Media Content Booster, designed specifically for busy entrepreneurs.",
+        "organic_discovery_methods": [
+          "Social media sharing",
+          "Word of mouth",
+          "Online community referrals"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator looking for active social media engagement",
+          "Willing to provide insights on target audience and brand voice"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and kickstart your content strategy."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your brand's online presence? Our Monthly Social Media Content Booster offers high-quality video scripts and tailored captions to keep your audience engaged! Perfect for small businesses and content creators looking to overcome content creation hurdles. 💡👉 DM us or click the link in our bio to learn more! #SocialMediaMarketing #ContentCreation #SmallBusinessSupport",
+        "website_description": "Boost your social media game with our Monthly Social Media Content Booster! This comprehensive package is designed for small businesses and content creators looking to enhance their online presence with consistent, engaging content. Get 4 short-form video scripts, customized captions, a content calendar, and a 30-minute strategy consultation—all for just $200! Elevate your brand and drive interaction with ease.",
+        "outreach_template": "Subject: Let's Boost Your Social Media Engagement!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out because I believe our Monthly Social Media Content Booster could be a perfect fit for your needs. We specialize in creating engaging content tailored for small businesses and content creators like yourself. \n\nWould you be open to a quick chat to discuss how we can support your social media efforts? If you’d prefer not to receive these updates, just let me know, and I’ll remove you from our list.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name] \n[Your Contact Information]",
+        "discovery_questions": [
+          "What platforms are you currently using for your social media marketing?",
+          "What challenges do you face when it comes to content creation?",
+          "Who is your target audience, and what kind of content do they engage with most?",
+          "How often are you looking to post on social media?",
+          "What is your brand voice or personality, and how do you want that to be reflected in your content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding the Client's Needs",
+          "Overview of the Monthly Social Media Content Booster",
+          "Deliverables Breakdown",
+          "Timeline and Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to take your content strategy to the next level? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Confirmation of Payment Details\n\nHi [Recipient's Name],\n\nThank you for your interest in our Monthly Social Media Content Booster! To proceed, could you please confirm your preferred payment method? Once we receive your confirmation, we will finalize the details and set up your consultation.\n\nIf you have any questions or need further assistance, feel free to reach out. And if you wish to opt out of future communications, just let me know.\n\nBest,\n[Your Name] \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
