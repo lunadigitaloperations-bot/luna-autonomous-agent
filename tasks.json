@@ -9252,6 +9252,62 @@
         "payment_template": "Subject: Payment Follow-up\n\nHi [Client's Name],\n\nI hope you're doing well! I wanted to follow up regarding the next steps for your order. Once you're ready, we can discuss the payment arrangement to get started on tailoring your 60-Second Social Media Boost Package.\n\nPlease let me know if you have any questions or if there's anything else I can assist you with.\n\nThanks,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790555036171",
+      "created_at": "2026-09-28T00:23:56.171485+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Content Kickstart Package",
+        "target_customer": "Small business owners and creators seeking to boost their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content consistently for social media platforms.",
+        "solution": "A tailored 30-day content strategy including scriptwriting and content ideas to streamline video creation.",
+        "deliverables": [
+          "30 short-form video scripts (1 for each day)",
+          "Content calendar with posting schedule",
+          "5 engaging captions tailored for Instagram and TikTok",
+          "1 introductory consultation to tailor the strategy"
+        ],
+        "suggested_price_usd": 399,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Transform your social media presence with custom scripts and a clear content strategy, designed to engage and attract your audience.",
+        "sales_angle": "Many creators struggle with content consistency; this package provides a clear roadmap and saves time to focus on production.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Networking within creator communities",
+          "SEO-optimized blog posts"
+        ],
+        "qualification_criteria": [
+          "Must have an established niche or area of content focus",
+          "Willingness to engage with a content strategy"
+        ],
+        "next_action": "Email to schedule a consultation and discuss your content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our 30-Day Content Kickstart Package offers custom video scripts and a tailored content strategy to keep your audience engaged! Perfect for small business owners and creators looking for consistency and creativity! ✨ DM us to learn more! #ContentCreation #SocialMediaStrategy #SmallBusinessGrowth",
+        "website_description": "Transform your social media presence with our 30-Day Content Kickstart Package! Designed specifically for small business owners and creators, this package includes 30 short-form video scripts, a content calendar, engaging captions, and a personalized consultation. Say goodbye to content struggles and hello to a clear content strategy that saves you time and boosts engagement!",
+        "outreach_template": "Subject: Elevate Your Content Strategy\n\nHi [Name],\n\nI hope this message finds you well. I'm reaching out to share an opportunity that could help enhance your social media presence. Our 30-Day Content Kickstart Package includes tailored video scripts and a structured content strategy to streamline your video creation process.\n\nWould you be open to a conversation to see how this could benefit your business? \n\nBest regards,\n[Your Name] \n[Your Title] \n[Your Contact Information]  \n\nP.S. If you're not interested, just let me know, and I won't follow up again.",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media content?",
+          "How often do you post videos on social media?",
+          "What platforms are most important for your audience?",
+          "Do you have specific topics or themes in mind for your content?",
+          "How do you envision increasing engagement with your audience?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Understanding the Client's Needs",
+          "3. Overview of the 30-Day Content Kickstart Package",
+          "4. Detailed Deliverables",
+          "5. Proposed Timeline and Pricing",
+          "6. Next Steps",
+          "7. Q&A"
+        ],
+        "call_to_action": "Email us today to schedule your consultation and kickstart your content strategy!",
+        "payment_template": "Subject: Follow-Up on Your Content Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day Content Kickstart Package. To proceed with your order, please let me know if you have any questions or need more information. Once you confirm, we can finalize the details.\n\nLooking forward to hearing from you!\n\nBest, \n[Your Name] \n[Your Title] \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
