@@ -10357,6 +10357,62 @@
         "payment_template": "Subject: Next Steps for Your 30-Day TikTok Content Sprint\n\nHi [Name],\n\nThank you for your interest! To proceed, please let me know your preferred payment method, and I will share the necessary details.\n\nLooking forward to working together!\n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Company]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790622927009",
+      "created_at": "2026-09-28T19:15:27.009139+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Video Launch Package for Creators",
+        "target_customer": "Small business owners and content creators looking to increase their online presence",
+        "customer_problem": "Struggling to create engaging video content that drives audience engagement and brand awareness",
+        "solution": "A tailored service delivering short-form video scripts and fully produced videos for platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 short-form video scripts (30-60 seconds each)",
+          "3 edited video clips based on the scripts",
+          "3 engaging captions tailored for each platform",
+          "Content strategy consultation (30 minutes via video call)"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your social media game with professionally crafted videos that resonate with your audience.",
+        "sales_angle": "Position your brand as a leader in your niche with engaging video content that captures attention and drives interaction.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referrals from satisfied clients",
+          "Content sharing on creator communities"
+        ],
+        "qualification_criteria": [
+          "Business or creator needs to have a social media presence",
+          "Must be open to video content as a marketing strategy"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand's online presence with our Video Launch Package for Creators! 🌟 Are you a small business owner or content creator struggling to create engaging video content? We provide tailored video scripts and professionally produced videos for TikTok, Instagram Reels, and YouTube Shorts. 📹✨ Let’s captivate your audience together! Contact us today to learn more! #VideoMarketing #BrandAwareness #SocialMediaSuccess",
+        "website_description": "Unlock the potential of your brand with our Video Launch Package for Creators! Designed for small business owners and content creators, we offer three engaging short-form video scripts, edited video clips, captivating captions, and a 30-minute content strategy consultation. Stand out on TikTok, Instagram Reels, and YouTube Shorts with videos that drive audience engagement and awareness. Start your journey towards becoming a leader in your niche today!",
+        "outreach_template": "Subject: Transform Your Video Content Strategy\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I'm reaching out to introduce our Video Launch Package tailored for creators and small business owners like yourself. If you're looking to enhance your online presence with engaging video content, I believe we can help!\n\nOur package includes everything from custom scripts to fully produced videos for social media platforms. I'd love to schedule a brief consultation to discuss your needs and how we can assist you.\n\nIf you're interested, please let me know a suitable time for you.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n*If you prefer not to receive further messages, just let me know.*",
+        "discovery_questions": [
+          "What type of video content have you created in the past, if any?",
+          "Which platforms are you currently using for your brand presence?",
+          "What goals do you have for your video marketing strategy?",
+          "How do you currently engage with your audience on social media?",
+          "What challenges are you facing in creating video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding the Client's Needs",
+          "Overview of Our Video Launch Package",
+          "Detailed Deliverables",
+          "Timeline and Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to enhance your online presence? Contact us via email or WhatsApp to schedule your consultation!",
+        "payment_template": "Subject: Payment Confirmation Needed\n\nHi [Client's Name],\n\nI hope you're doing well! I wanted to follow up regarding the payment for the Video Launch Package. If you could let me know the best way to proceed, that would be great. If you have any questions or need assistance, feel free to reach out!\n\nThank you!\n[Your Name]\n*If you prefer not to receive further communications, please let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
