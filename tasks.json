@@ -9952,6 +9952,63 @@
         "payment_template": "Subject: Payment Details for Your Service \n\nHi [Recipient's Name],\n\nThank you for choosing our Social Media Jumpstart Package! To move forward, we kindly request the payment to be arranged. Please let us know if you need any assistance or additional details regarding the payment process. \n\nBest, \n[Your Name]  \n[Your Contact Information]  \n[Company Name]  \n\nIf you wish to opt out of future communications, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790598096018",
+      "created_at": "2026-09-28T12:21:36.018987+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Launch Package",
+        "target_customer": "Small businesses and creators looking to enhance their online presence",
+        "customer_problem": "Struggling to consistently create engaging content for social media platforms, resulting in low audience engagement and visibility.",
+        "solution": "A comprehensive content creation package that provides tailored short-form videos and captions designed for platforms like TikTok, Instagram Reels, and YouTube Shorts, ensuring vibrant and engaging content across channels.",
+        "deliverables": [
+          "4 short-form video scripts (1 per week)",
+          "4 short-form videos (edited and ready for upload)",
+          "8 engaging captions for the videos",
+          "1 personalized content strategy document"
+        ],
+        "suggested_price_usd": 350,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Increase your social media engagement with high-quality, tailored content delivered consistently over 30 days.",
+        "sales_angle": "Transform your online presence with engaging short-form videos that showcase your brand's personality, without the hassle of content creation.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Small business or creator with an active social media presence",
+          "Willingness to collaborate and provide brand insights"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss how we can elevate your social media content."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Ready to boost your social media game? Introducing our 30-Day Social Media Content Launch Package! 🚀 Tailored short-form videos and engaging captions designed just for you! Perfect for small businesses and creators wanting to shine online. Let's transform your presence without the hassle of content creation! 📝✨ #SocialMediaMarketing #ContentCreation #SmallBusiness",
+        "website_description": "Elevate your online presence with our 30-Day Social Media Content Launch Package. Designed specifically for small businesses and creators, this package delivers tailored short-form videos and engaging captions that will keep your audience coming back for more. In just 30 days, watch your social media engagement soar with consistent, high-quality content that showcases your brand’s personality. Let’s get started today!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Together!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our 30-Day Social Media Content Launch Package, perfect for small businesses and creators looking to enhance their online presence. \n\nAre you struggling to maintain engaging content for your platforms? Our package offers custom short-form videos and captions tailored just for you. \n\nIf you’re interested, I’d love to discuss how we can elevate your social media content!\n\nBest,\n[Your Name]\n\nP.S. If this isn’t of interest, please feel free to opt-out of future messages.",
+        "discovery_questions": [
+          "What specific challenges are you facing in your current social media strategy?",
+          "Which platforms do you primarily use to connect with your audience?",
+          "What type of content resonates the most with your followers?",
+          "How often are you currently posting on social media?",
+          "What goals do you have for your social media presence in the next 30 days?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer Challenges",
+          "Presentation of the 30-Day Social Media Content Launch Package",
+          "Detailed Deliverables",
+          "Timeline for Delivery",
+          "Investment Overview",
+          "Next Steps and Follow-Up",
+          "Q&A Section"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule your consultation and start elevating your social media content!",
+        "payment_template": "Subject: Payment Confirmation - Next Steps\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Content Launch Package! I wanted to touch base regarding the payment process. Once you're ready to proceed, I can provide you with the details for payment options. \n\nLooking forward to enhancing your social media presence together!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
