@@ -9821,6 +9821,63 @@
         "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Client's Name],\n\nI hope you're doing well! I wanted to follow up regarding the Engaging Short-Form Video Package we discussed. Once you're ready to move forward, we can finalize the details and start the exciting process of creating your engaging videos.\n\nLet me know if you have any questions, or if you’re ready to proceed!\n\nBest regards,\n[Your Name]\n[Your Contact Info]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790590662944",
+      "created_at": "2026-09-28T10:17:42.944144+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Video Content Blitz",
+        "target_customer": "Small businesses and creators looking to boost their online presence",
+        "customer_problem": "Struggling to create consistent engaging video content for social media platforms",
+        "solution": "A tailored 30-day content plan featuring short-form video scripts and ideas to enhance engagement across TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "A personalized 30-day content calendar",
+          "30 short-form video scripts (1 script for each day)",
+          "Video caption suggestions for each post",
+          "Monthly performance tips for video engagement"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Consistent and engaging video content to grow your brand's social media presence.",
+        "sales_angle": "Transform your social media strategy with a month of ready-to-use video content.",
+        "organic_discovery_methods": [
+          "Social media outreach",
+          "Networking in online communities",
+          "Content marketing through blogging"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or a creator",
+          "Active presence on at least one social media platform",
+          "Willing to engage with the content plan"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your brand's online presence? Our 30-Day Video Content Blitz is designed specifically for small businesses and creators like you! Get a tailored content plan with 30 engaging video scripts and everything you need to shine on TikTok, Instagram Reels, and YouTube Shorts. 📹✨ DM us to learn more or get started! #VideoContent #SocialMediaGrowth #SmallBusinessSupport",
+        "website_description": "Unlock your brand's potential with our 30-Day Video Content Blitz! Designed for small businesses and creators struggling to produce consistent and engaging video content, you'll receive a personalized 30-day content calendar, 30 short-form video scripts, video caption suggestions, and monthly performance tips. Transform your social media strategy and watch your engagement soar in just 7 days for only $250!",
+        "outreach_template": "Subject: Elevate Your Social Media Game\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because we have a special offer tailored for small businesses and creators looking to enhance their online presence. Our 30-Day Video Content Blitz includes a personalized content calendar, engaging video scripts, and tips to maximize your performance. \n\nIf this sounds interesting to you, I'd love to schedule a consultation to discuss how we can help boost your social media engagement. Please let me know if you're available for a quick chat!\n\nBest regards,\n[Your Name]\n\nP.S. If you're not interested, feel free to let me know, and I'll not reach out again.",
+        "discovery_questions": [
+          "What specific social media platforms are you currently active on?",
+          "What challenges do you face when creating video content?",
+          "How often do you currently post video content?",
+          "What goals do you have for your social media presence in the next month?",
+          "Are there any particular themes or topics you want to focus on in your video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Video Content Blitz",
+          "Understand Your Needs",
+          "Deliverables Breakdown",
+          "Timeline and Payment Structure",
+          "Next Steps",
+          "Respectful Opt-out Option"
+        ],
+        "call_to_action": "Ready to transform your social media strategy? Contact us via email or WhatsApp to schedule your consultation today!",
+        "payment_template": "Subject: Next Steps for Your Order\n\nHi [Name],\n\nThank you for considering our 30-Day Video Content Blitz! To move forward, we would need to discuss the payment process and options that work best for you. Please let me know a convenient time to chat!\n\nLooking forward to your response!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
