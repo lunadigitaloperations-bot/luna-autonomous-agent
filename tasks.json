@@ -9656,6 +9656,63 @@
         "payment_template": "Subject: Next Steps for Your Social Media Growth Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Growth Package! To proceed smoothly, we can discuss the payment details during our upcoming call. \n\nIf you have any questions or need clarification, feel free to reach out. If you prefer not to continue, please let me know, and I will respect your decision.\n\nLooking forward to speaking with you soon!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790579889269",
+      "created_at": "2026-09-28T07:18:09.269642+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Mini Video Marketing Kit for Creators",
+        "target_customer": "Small business owners or content creators looking to boost online engagement",
+        "customer_problem": "Struggling to create consistent and engaging video content for social media that resonates with their audience",
+        "solution": "A curated video marketing kit that provides tailored scripts and content strategies for TikTok and Instagram Reels, making it easier to create engaging videos.",
+        "deliverables": [
+          "5 short-form video scripts (30-60 seconds each)",
+          "Content strategy guide tailored to the user's brand",
+          "Template for creating Instagram captions",
+          "Personalized tips for maximizing video engagement"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Get a personalized video marketing kit that saves time and elevates your content game, allowing you to connect better with your audience.",
+        "sales_angle": "Transform your social media presence with tailored video content that stands out and engages your audience.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online community groups"
+        ],
+        "qualification_criteria": [
+          "Must be a small business owner or content creator with a social media presence",
+          "Willingness to implement suggested strategies"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com or WhatsApp at +14735341956 to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Transform your social media presence with our Mini Video Marketing Kit for Creators! Customized scripts and strategies for TikTok & Instagram Reels to boost your engagement. Perfect for small business owners and content creators! 💡✨ Contact us today! #VideoMarketing #SocialMedia #ContentCreation",
+        "website_description": "Elevate your online engagement with our Mini Video Marketing Kit for Creators. Designed specifically for small business owners and content creators, this kit includes tailored video scripts, a personalized content strategy guide, and engagement tips to make creating videos a breeze. Save time and connect better with your audience!",
+        "outreach_template": "Subject: Unlock Your Video Marketing Potential\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to introduce you to our Mini Video Marketing Kit for Creators, designed specifically for small business owners like yourself. If you're struggling to create engaging video content for social media, this curated kit could be a game changer.\n\nWould you be open to discussing how we can help enhance your video marketing strategy?\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]  \nP.S. If you're not interested, just let me know and I'll keep you updated on other offerings!",
+        "discovery_questions": [
+          "What challenges do you face when creating video content for social media?",
+          "Which platforms are you currently using to engage with your audience?",
+          "Have you tried any video marketing strategies in the past? If so, what were the results?",
+          "What specific goals do you have for your social media presence?",
+          "Are you open to implementing new content strategies to enhance engagement?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Overview of Video Marketing Kit",
+          "3. Deliverables Overview",
+          "4. Customized Strategy for Your Brand",
+          "5. Pricing Details",
+          "6. Timeline for Delivery",
+          "7. Next Steps",
+          "8. Q&A"
+        ],
+        "call_to_action": "Ready to take your video marketing to the next level? Contact us today to get started!",
+        "payment_template": "Subject: Payment Confirmation Pending\n\nHi [Recipient's Name],\n\nThank you for your interest in our Mini Video Marketing Kit! We’re excited to work with you. Please let us know your preferred payment method, and we can proceed accordingly. \n\nLooking forward to your response!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
