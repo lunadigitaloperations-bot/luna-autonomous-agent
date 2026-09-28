@@ -9713,6 +9713,56 @@
         "payment_template": "Subject: Payment Confirmation Pending\n\nHi [Recipient's Name],\n\nThank you for your interest in our Mini Video Marketing Kit! We’re excited to work with you. Please let us know your preferred payment method, and we can proceed accordingly. \n\nLooking forward to your response!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790583583163",
+      "created_at": "2026-09-28T08:19:43.163076+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Presence Boost Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media engagement",
+        "customer_problem": "Struggling to create engaging and consistent short-form video content for platforms like TikTok and Instagram, leading to low visibility and interaction",
+        "solution": "Develop a tailored content strategy with four short-form video scripts for TikTok and Instagram Reels, designed to improve audience engagement and showcase the customer's brand effectively.",
+        "deliverables": [
+          "Four short-form video scripts tailored for TikTok and Instagram Reels",
+          "A content calendar outlining the best posting times and themes",
+          "Basic tips for shooting and editing videos to maximize impact",
+          "One month of email support for additional questions and feedback"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your online presence with engaging video content that reflects your brand's unique voice, driving interaction and visibility.",
+        "sales_angle": "Take your social media game to the next level with professional video scripts and a personalized content strategy designed for your audience.",
+        "organic_discovery_methods": [
+          "SEO-optimized blog posts",
+          "Social media promotion on relevant platforms",
+          "Word of mouth and referrals from satisfied clients"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator with an active social media presence",
+          "Must have a clear idea of their brand identity and target audience"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation to discuss your needs and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media presence with our Social Media Presence Boost Package! Perfect for small businesses and content creators struggling to crack the code on engaging short-form video content. 🌟 Get four tailored video scripts, a content calendar, pro tips for shooting/editing, and one month of email support—all for just $200! 😍 Let's make your brand shine on TikTok and Instagram! 💥 #SocialMediaMarketing #VideoContent #TikTok #Instagram #SmallBusiness",
+        "website_description": "Transform your social media engagement with our Social Media Presence Boost Package! Designed for small businesses and content creators, this package offers four tailored short-form video scripts for TikTok and Instagram, a strategic content calendar, essential shooting tips, and a month of personalized email support. All for just $200! Enhance your online visibility and connect with your audience like never before!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I’m reaching out to introduce our Social Media Presence Boost Package, designed specifically for small businesses and content creators like yourself. It helps turn social media challenges into opportunities with tailored video scripts and a strategic content plan.\n\nIf you're interested, I would love to schedule a free consultation to discuss your unique needs and how we can assist you. \n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n\nP.S. If you prefer not to receive further emails, please let me know.",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media strategy?",
+          "Who is your target audience, and how do you currently engage with them?",
+          "Can you share the type of content that has resonated best with your audience so far?",
+          "What platforms are you currently using, and which ones do you find most effective?",
+          "How do you define success on social media for your brand?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of the client's background and needs\n   - Purpose of the proposal\n\n2. Understanding Your Challenges\n   - Key pain points in current strategy\n   - Goals for social media engagement\n\n3. Proposed Solution\n   - Overview of the Social Media Presence Boost Package\n   - Individual components and deliverables\n\n4. Implementation Plan\n   - Step-by-step process and timeline (7 days)\n   - Key milestones\n\n5. Pricing\n   - Detailed cost breakdown ($200)\n\n6. Conclusion\n   - Recap of the value proposition\n   - Encouragement to move forward\n\n7. Next Steps\n   - Call to action for scheduling the consultation"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us today for a free consultation!",
+        "payment_template": "Subject: Follow-up on Your Recent Order\n\nHi [Customer's Name],\n\nThank you for choosing our Social Media Presence Boost Package! I wanted to confirm that we are all set to begin developing your tailored strategies. Once we finalize the details, we can process the payment and schedule your consultation. \n\nIf you have any questions or need further clarification, don’t hesitate to reach out. \n\nBest,\n[Your Name]  \n[Your Contact Information]\n\nIf you'd like to opt out of our future communications, please let us know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
