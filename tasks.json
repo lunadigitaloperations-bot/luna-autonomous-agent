@@ -10468,6 +10468,62 @@
         "payment_template": "Subject: Next Steps for Your Social Media Kickstart Package \n\nHi [Client's Name],\n\nThank you for showing interest in our Social Media Kickstart Package! If you're ready to proceed, we can discuss the payment details at your convenience. Just let me know how you’d like to move forward.\n\nLooking forward to hearing from you!\n\nBest, \n[Your Name]\n",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790630151960",
+      "created_at": "2026-09-28T21:15:51.960808+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Video Launch Package",
+        "target_customer": "Small businesses and creators looking to increase their online presence through engaging video content.",
+        "customer_problem": "Struggling to create engaging video content that resonates with their audience and grows their social media following.",
+        "solution": "Provide a comprehensive package that includes scriptwriting, video concepts, and editing tips tailored for social media platforms, enabling the client to create impactful videos.",
+        "deliverables": [
+          "3 Short-form video scripts (up to 60 seconds each)",
+          "Content strategy outline for 1 month",
+          "Editing guidelines for self-produced videos",
+          "20 ready-to-use captions for Instagram/TikTok posts"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Enhance social media engagement with professional video content without the need for expensive production tools.",
+        "sales_angle": "Empower your brand's storytelling with concise and engaging video content tailored for your audience.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Content collaborations"
+        ],
+        "qualification_criteria": [
+          "Must have existing social media accounts",
+          "Willingness to engage in feedback and revisions"
+        ],
+        "next_action": "Contact us to schedule a consultation and discuss your video content needs."
+      },
+      "sales_assets": {
+        "social_post": "🎥 Ready to elevate your brand's storytelling? Our Social Media Video Launch Package is designed for small businesses and creators looking to create engaging video content that resonates with your audience! 🌟 For just $250, you'll receive 3 short-form video scripts, a month-long content strategy, editing guidelines, and 20 ready-to-use captions. Let's make your social media shine! 📈✨ #VideoMarketing #ContentCreation #SocialMediaGrowth",
+        "website_description": "Boost your online presence with our Social Media Video Launch Package! Tailored for small businesses and creators, this comprehensive package provides engaging video scripts, a content strategy outline, editing tips, and ready-to-use captions. For only $250, you can captivate your audience and enhance social media engagement without breaking the bank. Start your journey toward impactful video content today!",
+        "outreach_template": "Subject: Enhance Your Brand with Engaging Video Content\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our Social Media Video Launch Package, designed specifically for small businesses and creators like yourself who want to boost their online presence through engaging video content.\n\nThis package includes 3 short-form video scripts, a month-long content strategy, editing guidelines, and ready-to-use captions, all for just $250. \n\nIf you're looking to empower your brand's storytelling, I'd love to schedule a consultation with you to discuss your video content needs.\n\nIf this isn't something you're interested in, please feel free to let me know, and I'll remove you from my list. \n\nBest regards,\n[Your Name]",
+        "discovery_questions": [
+          "What type of video content have you created in the past, if any?",
+          "What are your main goals for your social media presence?",
+          "Who is your target audience, and what type of content resonates with them?",
+          "What challenges have you faced in creating engaging video content?",
+          "How often do you plan to post video content on your social media channels?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Video Launch Package",
+          "Deliverables breakdown",
+          "Estimated timeline for delivery",
+          "Investment details",
+          "Next steps for collaboration",
+          "Contact information"
+        ],
+        "call_to_action": "Ready to take your social media to the next level? Contact us now to schedule your consultation!",
+        "payment_template": "Subject: Confirmation of Your Package Order\n\nHi [Name],\n\nThank you for choosing our Social Media Video Launch Package! We're excited to kickstart your journey to engaging video content. Please let us know the best time to connect and finalize the details. \n\nLooking forward to working together!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
