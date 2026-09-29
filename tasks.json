@@ -10864,6 +10864,64 @@
         "payment_template": "Hi [Name],\n\nThank you for considering our Social Media Content Boost Package! To proceed, we will need to finalize the details of our collaboration. Please let us know if you have any questions or would like to discuss further.\n\nLooking forward to hearing from you!\n\nBest, \n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790655390273",
+      "created_at": "2026-09-29T04:16:30.273163+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Growth Package",
+        "target_customer": "Small business owners and content creators looking to boost their social media presence",
+        "customer_problem": "Struggling to create engaging social media content that attracts followers and increases engagement.",
+        "solution": "A 30-day content plan with tailored video scripts and posting strategies to enhance social media visibility.",
+        "deliverables": [
+          "A customized 30-day social media content calendar",
+          "12 short-form video scripts suitable for TikTok, Instagram Reels, or YouTube Shorts",
+          "Daily captions for each post",
+          "Weekly performance analysis and recommendations for improvement"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 5,
+        "value_proposition": "Streamline your social media strategy with professional, engaging content designed to enhance your online presence.",
+        "sales_angle": "Transform your social media channels and attract more followers with a strategic approach tailored to your unique brand.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Online community engagement"
+        ],
+        "qualification_criteria": [
+          "Must have existing social media accounts",
+          "Open to implementing new strategies",
+          "Available for weekly feedback sessions"
+        ],
+        "next_action": "Contact via email at luna.digital.operations@gmail.com to schedule a consultation and discuss your needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to amplify your social media presence? Our 30-Day Social Media Growth Package is designed just for small business owners and content creators! 📈 Get a customized strategy, engaging video scripts, and expert tips—all in one comprehensive package! Contact us today to start transforming your online presence! 🌟 #SocialMediaGrowth #ContentCreators #SmallBusinessSupport",
+        "website_description": "Boost your social media presence with our 30-Day Social Media Growth Package! Tailored for small business owners and content creators, this package includes a customized content calendar, engaging video scripts, daily captions, and weekly analysis to optimize your strategy. Enhance your online visibility and attract more followers with our professional approach!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Game!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to enhance your social media presence with our 30-Day Social Media Growth Package. It’s specifically tailored for small business owners and content creators looking to engage their audience effectively.\n\nWould you be open to a brief consultation to discuss how we can help you achieve your social media goals? If you're interested, please let me know a convenient time for you.\n\nBest regards,\nLuna\n\nP.S. If you'd prefer not to receive communications from us, please let me know, and I'll respect your preference.",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which social media platforms are you currently using?",
+          "What type of content do you find resonates most with your audience?",
+          "Have you implemented any social media strategies in the past? If so, what worked or didn't work?",
+          "How frequently are you able to engage with your social media channels?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Customer's Needs",
+          "Proposed Solution: 30-Day Social Media Growth Package",
+          "Deliverables Outline",
+          "Implementation Timeline",
+          "Pricing Structure",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Contact us to schedule your consultation and start growing your social media presence today!",
+        "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Growth Package! We're excited to begin this journey with you. To proceed, we can discuss the payment options available. Please let me know if you have any questions or if there’s a specific method you prefer.\n\nLooking forward to your response!\nBest,\nLuna",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
