@@ -10808,6 +10808,62 @@
         "payment_template": "Subject: Next Steps for Your TikTok Growth\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day TikTok Growth Boost Package! To proceed, we can discuss the payment details at your earliest convenience.\n\nPlease let me know a time that works for you.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\n*If you'd prefer not to receive future messages, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790651801197",
+      "created_at": "2026-09-29T03:16:41.197775+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Boost Package",
+        "target_customer": "Small business owners or content creators looking to increase engagement and visibility on social media.",
+        "customer_problem": "Struggling to create consistent, high-quality social media content that resonates with their audience.",
+        "solution": "Provide a tailored social media content package focusing on engaging short-form video scripts and posts designed to boost interaction and visibility across platforms.",
+        "deliverables": [
+          "5 short-form video scripts (TikTok, Instagram Reels, or YouTube Shorts)",
+          "10 compelling captions for social media posts",
+          "A week-long content strategy plan for social media posting"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Empower your online presence with professionally crafted content that engages your audience and elevates your brand.",
+        "sales_angle": "Take the stress out of content creation and watch your engagement soar with our Social Media Content Boost Package.",
+        "organic_discovery_methods": [
+          "Social media ads targeted at local businesses",
+          "Leverage Instagram and Facebook groups for small business owners",
+          "Collaborate with influencers in your niche to spread the word"
+        ],
+        "qualification_criteria": [
+          "Must have active social media profiles",
+          "Willingness to implement the provided content strategy"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started and schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our Social Media Content Boost Package! 🎥 Create stunning, engaging content effortlessly. Say goodbye to content creation stress and hello to increased engagement! 🌟 DM us or click the link in bio to learn more! #SmallBusiness #SocialMediaSuccess #ContentCreation",
+        "website_description": "Are you a small business owner or content creator struggling to maintain engagement on social media? Our Social Media Content Boost Package is designed just for you! Get 5 captivating short-form video scripts, 10 compelling social media captions, and a week-long content strategy plan, all for just $150. Empower your brand with engaging content that resonates with your audience and elevates your online presence. Let's make your social media shine!",
+        "outreach_template": "Subject: Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to offer a solution for those looking to enhance their engagement on social media. Our Social Media Content Boost Package provides tailored content designed specifically for small business owners like yourself.\n\nIf you're interested in learning more, please let me know a good time for us to connect. \n\nBest, \n[Your Name]\n\nP.S. If this isn’t relevant to you, please feel free to let me know and I won’t reach out again.",
+        "discovery_questions": [
+          "What type of content do you currently share on your social media?",
+          "What are your primary goals for your social media presence?",
+          "Who is your target audience, and how do you engage with them?",
+          "Have you tried any specific strategies to increase your social media engagement in the past?",
+          "What platforms do you use for your business, and where have you seen the most success?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Business Needs",
+          "Overview of the Social Media Content Boost Package",
+          "Deliverables",
+          "Content Strategy Details",
+          "Timeline and Next Steps",
+          "Investment",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule your consultation and elevate your social media presence!",
+        "payment_template": "Hi [Name],\n\nThank you for considering our Social Media Content Boost Package! To proceed, we will need to finalize the details of our collaboration. Please let us know if you have any questions or would like to discuss further.\n\nLooking forward to hearing from you!\n\nBest, \n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
