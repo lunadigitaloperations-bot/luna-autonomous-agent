@@ -11826,6 +11826,64 @@
         "payment_template": "Subject: Payment Process for Your Short-Form Video Boost Package\n\nHi [Name],\n\nThank you for choosing our Short-Form Video Boost Package! To move forward, please let us know if you have any questions about the payment process or our services. We’re here to assist you.\n\nLooking forward to working together!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790716535672",
+      "created_at": "2026-09-29T21:15:35.672671+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Content Boost Package",
+        "target_customer": "Small business owners or creators looking to grow their presence on TikTok",
+        "customer_problem": "Struggling to create engaging TikTok content consistently, leading to low visibility and engagement.",
+        "solution": "A tailored content strategy and video scripts for daily TikTok posts to increase engagement and boost brand awareness.",
+        "deliverables": [
+          "30 short-form video scripts designed for TikTok",
+          "Content calendar for daily posting",
+          "Tips for video creation and editing",
+          "One hour of personalized strategy consultation"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Increase your TikTok engagement with a structured plan tailored to your brand, saving you time and fostering creativity.",
+        "sales_angle": "Transform your TikTok into a powerful marketing tool with consistent, engaging content that resonates with your audience.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Content marketing on other platforms"
+        ],
+        "qualification_criteria": [
+          "Must have an existing TikTok account",
+          "Willingness to commit to daily posting",
+          "Open to trying new content ideas"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and secure your package."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your TikTok game to the next level? Our 30-Day TikTok Content Boost Package is here to help small business owners and creators like you grow your presence with engaging content! 🌟 Get 30 tailored video scripts, a daily content calendar, and personalized strategy consultation. DM us to learn more! #TikTokGrowth #SmallBusiness #ContentCreation",
+        "website_description": "Struggling with TikTok content? Our 30-Day TikTok Content Boost Package offers small business owners and creators a structured plan that includes 30 engaging video scripts, a daily content calendar, valuable video creation tips, and a one-hour personalized strategy consultation. Save time and foster creativity while increasing your brand's visibility and engagement!",
+        "outreach_template": "Subject: Let's Elevate Your TikTok Presence!\n\nHi [Name],\n\nI hope this message finds you well. I came across your TikTok account, and I believe we can help you enhance your engagement and visibility. Our 30-Day TikTok Content Boost Package provides tailored video scripts, a content calendar, and personalized strategy consultation. \n\nIf you're interested, I'd love to discuss how we can work together. Please let me know!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn't the right time for you, feel free to let me know, and I'll be happy to respect your wishes.",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current TikTok content?",
+          "How often do you currently post on TikTok?",
+          "Who is your target audience on TikTok?",
+          "What types of content have you tried in the past, and how have they performed?",
+          "How comfortable are you with trying new content ideas and formats?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Current TikTok Strategy",
+          "Proposed Solutions: 30-Day TikTok Content Boost Package",
+          "Deliverables Overview",
+          "Timeline for Delivery",
+          "Investment Required",
+          "Next Steps",
+          "Questions & Feedback"
+        ],
+        "call_to_action": "Ready to elevate your TikTok presence? Contact us via email or WhatsApp to schedule a consultation and secure your package!",
+        "payment_template": "Subject: Invoice for Your TikTok Content Boost Package\n\nHi [Name],\n\nI hope you're doing well! I'm reaching out to confirm your interest in our 30-Day TikTok Content Boost Package. Once you’re ready to proceed, I'll share the payment details.\n\nPlease let me know if you have any questions!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
