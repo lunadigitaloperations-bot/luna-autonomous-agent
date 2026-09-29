@@ -11710,6 +11710,63 @@
         "payment_template": "Subject: Payment Information for Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Content Boost Package! To proceed, I'd like to share our payment details. Once I receive your confirmation, I will provide the necessary payment link.\n\nPlease let me know if you have any questions!\n\nBest,\n[Your Name]\n[Your Position]\n[Your Company]\n\n*If you prefer not to receive further communication, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790709396885",
+      "created_at": "2026-09-29T19:16:36.886008+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Strategy Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging content consistently that aligns with their brand and attracts followers.",
+        "solution": "A comprehensive 30-day content strategy that outlines daily themes, post ideas, and formats specifically tailored for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "A 30-day content calendar with daily themes and post suggestions",
+          "10 short-form video scripts tailored for TikTok and Instagram Reels",
+          "3 YouTube Shorts scripts",
+          "Optimized captions for each post idea",
+          "1 social media audit report to identify areas for improvement"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Streamlined, effective content planning to boost engagement and save time for busy entrepreneurs.",
+        "sales_angle": "Stay ahead of the competition by implementing a proven content strategy designed for today's digital landscape.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Email marketing"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator with at least 100 followers",
+          "Open to adapting and testing new content formats"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our 30-Day Social Media Content Strategy Package is designed for small business owners and content creators like YOU! 📈👩‍💻 Get a customized content calendar, video scripts, optimized captions, and a social media audit to unlock engagement and save time. 🌟 Don't miss out! Contact us today to transform your online presence! #ContentStrategy #SocialMediaMarketing #SmallBusiness",
+        "website_description": "Unlock your brand's potential with our 30-Day Social Media Content Strategy Package, designed specifically for small business owners and content creators. Say goodbye to content creation struggles and hello to a comprehensive plan that includes a daily content calendar, tailored video scripts, and optimized captions. Elevate your social media presence, boost engagement, and save valuable time. Get started today!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to share an exciting opportunity that could help improve your social media strategy. Our 30-Day Social Media Content Strategy Package offers a tailored approach to boost your engagement and streamline your content creation process.\n\nIf you're interested in learning more, please let me know!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n[Contact Information]\n\nIf you'd prefer not to receive further communications, please reply with 'opt-out.'",
+        "discovery_questions": [
+          "What are your current social media goals?",
+          "Which platforms do you primarily focus on, and why?",
+          "How do you currently plan your content? What tools do you use?",
+          "What type of content has resonated most with your audience so far?",
+          "Are there specific challenges you face when creating content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Objective: Enhance social media presence",
+          "Current Challenges: Identify pain points",
+          "Proposed Solution: 30-Day Content Strategy Details",
+          "Deliverables: Breakdown of included elements",
+          "Investment: Pricing and value proposition",
+          "Next Steps: How to proceed and contact information"
+        ],
+        "call_to_action": "Ready to take your social media presence to the next level? Contact us today to get started!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nI hope you're doing well! I wanted to follow up regarding the payment process for your 30-Day Social Media Content Strategy Package. Please let me know if you have any questions or if you need assistance with the next steps.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n[Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
