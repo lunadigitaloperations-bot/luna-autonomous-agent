@@ -11372,6 +11372,62 @@
         "payment_template": "Hi [Name],\n\nThank you for considering our Social Media Growth Package! To move forward, we can discuss the payment options and finalize the details. Please let me know a convenient time for you.\n\nLooking forward to your response!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790687983413",
+      "created_at": "2026-09-29T13:19:43.413573+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Content Boost Package",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content consistently, leading to low audience interaction and visibility.",
+        "solution": "A comprehensive content creation service that provides tailored short-form video scripts and strategies to elevate online engagement.",
+        "deliverables": [
+          "5 short-form video scripts tailored to your business goals",
+          "10 engaging captions for social media posts",
+          "1 content strategy document outlining posting schedules and themes",
+          "Feedback session to refine content approach"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Boost your social media engagement with professionally crafted content that resonates with your audience.",
+        "sales_angle": "Transform your audience interaction into meaningful connections with our tailored content solutions.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Referrals from existing clients",
+          "Collaborations with influencers in your niche"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Open to feedback and collaboration"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and kickstart your content journey."
+      },
+      "sales_assets": {
+        "social_post": "📈 Ready to take your social media game to the next level? Our 30-Day Content Boost Package is here to help! 🌟 Get 5 tailored short-form video scripts, engaging captions, and a strategic content plan to elevate your online presence. Let's connect and transform your audience interaction! #ContentCreation #SocialMediaStrategy",
+        "website_description": "Enhance your social media presence with our 30-Day Content Boost Package. Designed for small businesses and creators, we provide 5 tailored short-form video scripts, 10 engaging captions, and a strategy document to boost your engagement and visibility. Kickstart your journey towards meaningful audience connections with us today!",
+        "outreach_template": "Subject: Exploring a Collaborative Opportunity\n\nHi [Name],\n\nI hope this message finds you well! My name is [Your Name], and I represent Infinite Sauce. We are excited to introduce our 30-Day Content Boost Package designed specifically for small businesses and creators looking to enhance their social media presence. \n\nWould you be open to a conversation to discuss how our tailored short-form video solutions can help amplify your engagement?\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\n*If you would prefer not to receive these updates, please let me know.*",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which social media platforms do you currently use, and how often do you post?",
+          "What type of content have you found resonates most with your audience?",
+          "Are there any challenges you've faced in creating or sharing content?",
+          "How open are you to receiving feedback and collaborating on content strategies?"
+        ],
+        "proposal_outline": [
+          "Introduction - Brief overview of your business",
+          "Understanding Your Needs - Summary of discovery insights",
+          "Our Solution - Detailed description of the 30-Day Content Boost Package",
+          "Deliverables - Breakdown of what you'll receive",
+          "Timeline - Estimated delivery schedule",
+          "Investment - Pricing details",
+          "Next Steps - How to proceed with the proposal"
+        ],
+        "call_to_action": "Ready to elevate your content? Contact us today to schedule your consultation and let's get started!",
+        "payment_template": "Subject: Payment Information for Your Content Boost Package\n\nHi [Client's Name],\n\nThank you for choosing our 30-Day Content Boost Package! To proceed, please let us know your preferred payment method, and we will provide the necessary details. \n\nWe look forward to starting this exciting journey with you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\n*If you would like to opt-out of further communications, please let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
