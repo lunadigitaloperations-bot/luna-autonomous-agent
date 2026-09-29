@@ -11147,6 +11147,62 @@
         "payment_template": "Subject: Payment Information Needed\n\nHi [Name],\n\nThank you for your interest in our 30-Day TikTok Content Boost Package! To proceed and secure your spot, please share your preferred payment method at your convenience. We're looking forward to assisting you!\n\nBest,\n[Your Name]\n[Your Position]\n[Your Company]\n\nIf you'd like to opt out of future communications, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790673482483",
+      "created_at": "2026-09-29T09:18:02.483824+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Buzz Booster Package",
+        "target_customer": "Small businesses or content creators looking to increase engagement on social media platforms.",
+        "customer_problem": "Struggling to create engaging content that resonates with their audience, leading to low interaction rates and visibility.",
+        "solution": "A tailored short-form video content package that provides engaging video scripts and edits to boost interaction and presence on social media.",
+        "deliverables": [
+          "3 Custom Video Scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "3 Edited Videos (up to 60 seconds each)",
+          "Audience Engagement Strategy Guide (1-page PDF)"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Transform your social media presence with engaging content that connects and resonates with your audience without overwhelming your schedule.",
+        "sales_angle": "Don't let your great ideas go unseen. Let us craft captivating content that will inspire interaction!",
+        "organic_discovery_methods": [
+          "Word of Mouth",
+          "Social Media Promotion",
+          "Online Community Groups"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Open to using video content as part of their strategy"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and get started on elevating your content game!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost Your Social Media Engagement! 🎥 Is your content going unnoticed? Our Social Media Buzz Booster Package offers tailored video scripts and edits that resonate with your audience! Perfect for small businesses and content creators. Let's create content that connects! 📈🙌 #SocialMedia #ContentCreation #Engagement #SmallBusiness #VideoMarketing",
+        "website_description": "Transform your social media presence with our Social Media Buzz Booster Package! Designed for small businesses and content creators, this package includes 3 custom video scripts, 3 edited videos, and a one-page audience engagement strategy guide. Boost interaction and visibility without overwhelming your schedule. Start captivating your audience today!",
+        "outreach_template": "Subject: Elevate Your Social Media Content\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to introduce our Social Media Buzz Booster Package, designed specifically for small businesses and content creators like yourself. \n\nIf you’re struggling to create engaging content that resonates with your audience, our package offers tailored video scripts and edits that can significantly enhance your social media engagement. \n\nWould you be open to scheduling a consultation to discuss your content needs? Feel free to reach out via email or WhatsApp!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you’d prefer not to receive future emails, just let me know.",
+        "discovery_questions": [
+          "What social media platforms are you currently using to engage your audience?",
+          "How often do you post content, and what type of content do you usually create?",
+          "What challenges do you face in creating engaging content for your audience?",
+          "Have you experimented with video content before? If so, what was your experience?",
+          "What are your main goals for your social media presence over the next few months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Customer Needs",
+          "Overview of the Social Media Buzz Booster Package",
+          "Deliverables Details",
+          "Value Proposition",
+          "Suggested Pricing",
+          "Next Steps",
+          "Q&A Section"
+        ],
+        "call_to_action": "Ready to elevate your social media content game? Contact us today to schedule a consultation!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for your interest in our Social Media Buzz Booster Package! To proceed, I’d like to discuss the payment details with you. Please let me know when would be a good time for us to connect.\n\nLooking forward to hearing from you soon!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you'd prefer not to receive further emails, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
