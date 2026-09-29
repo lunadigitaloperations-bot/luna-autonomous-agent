@@ -11767,6 +11767,65 @@
         "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nI hope you're doing well! I wanted to follow up regarding the payment process for your 30-Day Social Media Content Strategy Package. Please let me know if you have any questions or if you need assistance with the next steps.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n[Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790713037761",
+      "created_at": "2026-09-29T20:17:17.761139+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Boost Package",
+        "target_customer": "Small businesses or creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create engaging short-form videos that attract and engage their target audience.",
+        "solution": "A focused service that provides tailored short-form video scripts and post-production guidance for platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "Three custom short-form video scripts (up to 60 seconds each)",
+          "Two revisions based on client feedback",
+          "Content strategy advice for video deployment",
+          "Basic caption guidelines for each video"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock the potential of short-form video marketing with engaging, tailored content that captures attention and encourages sharing.",
+        "sales_angle": "Transform your social media presence with our Short-Form Video Boost Package and make video content creation stress-free and impactful.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Partnerships with influencers",
+          "Content sharing in relevant online communities"
+        ],
+        "qualification_criteria": [
+          "Must have a defined brand identity",
+          "Willingness to engage with the video creation process",
+          "A target audience on social media platforms"
+        ],
+        "next_action": "Contact us via email or WhatsApp to kickstart your video content strategy."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your brand's online presence? Our Short-Form Video Boost Package is designed for small businesses and creators looking to attract their audience with engaging content! 📹✨ Unlock your potential today! #ShortFormVideo #ContentCreation #SocialMediaSuccess",
+        "website_description": "Transform your social media presence with our Short-Form Video Boost Package! Tailored specifically for small businesses and creators, this service includes custom video scripts, content strategy advice, and more—all designed to engage your target audience on platforms like TikTok and Instagram Reels. Get started today!",
+        "outreach_template": "Subject: Boost Your Video Content Strategy\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to enhance your brand’s presence through engaging short-form videos. Our Short-Form Video Boost Package provides tailored scripts and guidance to help you connect with your audience effectively. \n\nIf this sounds interesting, I would love to discuss how we can work together. Please feel free to reach out!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn’t the right time for you, just let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What specific goals do you want to achieve with your video content?",
+          "Who is your target audience, and what platforms do they use?",
+          "Do you currently have any video content, and what has been your experience with it?",
+          "What challenges have you faced in creating short-form videos?",
+          "How do you envision short-form videos fitting into your overall marketing strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solution (Short-Form Video Boost Package)",
+          "Deliverables",
+          "Pricing and Payment Terms",
+          "Estimated Timeline",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Contact us via email or WhatsApp to kickstart your video content strategy today!",
+        "payment_template": "Subject: Payment Process for Your Short-Form Video Boost Package\n\nHi [Name],\n\nThank you for choosing our Short-Form Video Boost Package! To move forward, please let us know if you have any questions about the payment process or our services. We’re here to assist you.\n\nLooking forward to working together!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
