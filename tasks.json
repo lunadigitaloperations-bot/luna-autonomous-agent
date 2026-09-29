@@ -11597,6 +11597,63 @@
         "payment_template": "Subject: Payment Information for Your Order\n\nHi [Name],\n\nThank you for your interest in our 'Social Media Boost Package.' To proceed, I'll provide you with the payment details as soon as you're ready. Please let me know if you have any questions or need further assistance.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790702087000",
+      "created_at": "2026-09-29T17:14:47.000296+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly Social Media Video Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create engaging short-form videos that attract attention and build audience engagement.",
+        "solution": "A monthly package offering four custom short-form videos tailored for platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "Four 30-second professionally scripted and edited short-form videos",
+          "Accompanying captions optimized for engagement",
+          "Strategy document with tips for effective posting and engagement"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Boost your online visibility and engagement with tailored visuals designed for your brand.",
+        "sales_angle": "Capture your audience’s attention with eye-catching videos, crafted specifically to showcase your unique offerings without the hassle.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Organic social media posts",
+          "Word of mouth"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willing to collaborate on video concepts",
+          "Open to feedback and adjustments for optimal results"
+        ],
+        "next_action": "Contact us via email or WhatsApp to set up a consultation and discuss your video needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand's online presence! Our Monthly Social Media Video Package offers 4 custom short-form videos tailored for TikTok, Instagram Reels, and YouTube Shorts. Get noticed, grow engagement, and showcase your uniqueness effortlessly. 🌟 DM us for more details! #SocialMediaMarketing #VideoContent",
+        "website_description": "Transform your online visibility with our Monthly Social Media Video Package. For just $300, receive four expertly crafted 30-second videos designed specifically for platforms like TikTok, Instagram Reels, and YouTube Shorts. Each package includes optimized captions and a comprehensive strategy document, ensuring your content not only attracts attention but also engages your audience. Let’s make your brand shine!",
+        "outreach_template": "Subject: Let’s Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity for small businesses and content creators like yourself who are looking to enhance their online presence through engaging video content. \n\nOur Monthly Social Media Video Package includes four custom short-form videos tailored specifically for platforms such as TikTok, Instagram Reels, and YouTube Shorts. \n\nIf this sounds interesting to you, I’d love to set up a consultation to discuss how we can create impactful visuals for your brand. \n\nFeel free to let me know a convenient time for you, or if you prefer, you can always opt-out of these emails by letting me know.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms are you currently using to engage with your audience?",
+          "What type of content has resonated the most with your audience in the past?",
+          "How often do you currently post videos on social media?",
+          "Are there any particular styles or themes you’re interested in for your videos?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding of Your Needs",
+          "Solution Overview: Monthly Social Media Video Package",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Pricing Details",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to take your social media to the next level? Contact us today via email or WhatsApp to discuss your video needs!",
+        "payment_template": "Hi [Name],\n\nI hope you’re well! I wanted to confirm the next steps regarding our Monthly Social Media Video Package. Once you're ready to proceed, we will discuss the details and finalize the arrangement.\n\nPlease let me know if you have any questions or need further information.\n\nThank you!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
