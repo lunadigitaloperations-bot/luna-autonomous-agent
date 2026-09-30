@@ -12566,6 +12566,65 @@
         "payment_template": "Subject: Payment Confirmation for Your Package\n\nHi [Client's Name],\n\nThank you for choosing our Social Media Growth Package! We're excited to get started on enhancing your online presence. \n\nWhen you're ready, please let us know how you'd like to proceed with the payment details. Once confirmed, we'll begin the process right away!\n\nBest regards,\nLuna \n[Your Contact] \n\nP.S. If you have any questions or concerns, feel free to ask. If you wish to opt out of further communication, just let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790763458740",
+      "created_at": "2026-09-30T10:17:38.740831+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Engagement Boost Package",
+        "target_customer": "Small businesses and content creators looking to increase social media engagement",
+        "customer_problem": "Low engagement rates on social media platforms, leading to reduced visibility and limited audience growth.",
+        "solution": "A tailored content strategy and short-form video creation designed to boost engagement on TikTok and Instagram.",
+        "deliverables": [
+          "Initial consultation to understand brand and goals",
+          "10 short-form video scripts tailored for TikTok and Instagram",
+          "2 customized video editing sessions (up to 30 seconds each)",
+          "Weekly content calendar for one month",
+          "Captions for all videos",
+          "A final report with engagement analytics and recommendations"
+        ],
+        "suggested_price_usd": 350,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Drive higher engagement rates through strategic content designed to resonate with your audience and boost visibility.",
+        "sales_angle": "Elevate your social media presence without the hassle of content creation; leave it to an expert!",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Referrals from satisfied clients",
+          "Networking in online creator communities"
+        ],
+        "qualification_criteria": [
+          "Must have active social media accounts",
+          "Willingness to collaborate and provide brand insights"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your free consultation!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Join our 30-Day Social Media Engagement Boost Package! Perfect for small businesses and content creators looking to increase their visibility and engagement without the hassle. Get tailored video content and strategies for TikTok and Instagram. Let's connect! 📈✨ #SocialMediaBoost #TikTok #Instagram #SmallBusiness #ContentCreation",
+        "website_description": "Transform your social media presence with our 30-Day Social Media Engagement Boost Package! Designed for small businesses and content creators facing low engagement rates, this package offers a comprehensive solution including tailored content strategies and short-form video creation for TikTok and Instagram. Our expert team will work with you to enhance your brand's visibility and resonate with your audience. Sign up today to drive higher engagement rates and grow your online community!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Engagement! \n\nHi [Recipient's Name], \n\nI hope this message finds you well! I wanted to reach out and introduce our 30-Day Social Media Engagement Boost Package, designed specifically for small businesses and content creators like yourself. With tailored video strategies for TikTok and Instagram, we can help increase your engagement rates and visibility online. \n\nIf you’re interested in a free consultation to see how we can support your goals, please let me know! \n\nBest regards, \n[Your Name] \n[Your Contact Information] \n\nP.S. If this isn't of interest, feel free to let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What are your primary goals for your social media presence?",
+          "Who is your target audience, and what content resonates with them?",
+          "What social media platforms do you currently focus on?",
+          "Have you previously tried any strategies to increase engagement? If so, what were they?",
+          "Are you open to collaborating and sharing insights about your brand for tailored content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Brand and Goals",
+          "Overview of Deliverables",
+          "Strategic Approach to Content Creation",
+          "Engagement Analytics and Reporting",
+          "Timeline and Estimated Delivery",
+          "Pricing and Payment Terms",
+          "Next Steps"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule your free consultation and elevate your social media presence!",
+        "payment_template": "Subject: Your Payment Details \n\nHi [Recipient's Name], \n\nThank you for your interest in our 30-Day Social Media Engagement Boost Package! To proceed further, please let us know your preferred payment method, and we'll guide you through the steps. \n\nIf you have any questions or need assistance, feel free to reach out! \n\nBest regards, \n[Your Name] \n[Your Contact Information] \n\nP.S. If you wish to opt-out of further communications, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
