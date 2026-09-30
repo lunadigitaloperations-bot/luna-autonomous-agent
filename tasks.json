@@ -12961,6 +12961,65 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Client's Name],\n\nThank you for choosing our services! To begin work on your *Social Media Growth Booster Package*, please let us know the preferred method for processing the initial payment. We're excited to help you transform your social media presence!\n\nIf you have any questions or need further assistance, feel free to reach out. If you prefer not to continue, that's perfectly fine too!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790788609398",
+      "created_at": "2026-09-30T17:16:49.398821+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Kickstart Your Short-Form Video Presence",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence through short-form video content.",
+        "customer_problem": "Struggling to create engaging short-form videos that attract and retain an audience, leading to minimal online engagement and brand visibility.",
+        "solution": "A tailored service that provides video scripts, content ideas, and guidance on optimizing short-form video content for platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 custom short-form video scripts (up to 60 seconds each)",
+          "Content strategy guide specific to the customer's niche",
+          "Tips for optimizing video posts across different platforms",
+          "Detailed caption recommendations for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 5,
+        "value_proposition": "Empower your brand with engaging short-form video content that resonates with your audience, tailored to your unique voice and style.",
+        "sales_angle": "Elevate your online presence and drive engagement by transforming your ideas into compelling short videos that capture attention.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Content marketing through blogs",
+          "Word of mouth",
+          "Networking in online communities"
+        ],
+        "qualification_criteria": [
+          "Must have a viable business or content creation niche",
+          "Willingness to implement suggested strategies",
+          "Open to collaborating remotely"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to discuss your short-form video needs and kickstart your content journey."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your online presence? Our 'Kickstart Your Short-Form Video Presence' service helps small businesses and content creators create engaging videos that connect with audiences! Get 3 custom scripts, a tailored strategy, and optimization tips for just $150! 💡✨ DM us to learn more! #ShortFormVideo #ContentCreation #SocialMediaMarketing",
+        "website_description": "Unlock your brand's potential with our 'Kickstart Your Short-Form Video Presence' service! Tailored for small businesses and content creators, we provide 3 custom short-form video scripts, a niche-specific content strategy guide, and tips for optimizing your videos on platforms like TikTok, Instagram Reels, and YouTube Shorts—all for just $150. Elevate your online engagement today!",
+        "outreach_template": "Subject: Enhancing Your Video Presence\n\nHello [Name],\n\nI hope this message finds you well! I wanted to reach out to discuss how our 'Kickstart Your Short-Form Video Presence' service could benefit your business. We specialize in helping small businesses and content creators create engaging short-form videos tailored to their unique style.\n\nWe'd love to understand more about your video content needs and explore how we can assist you. If you're interested, please feel free to reply to this email.\n\nIf this is not the right time for you, no worries at all! Just let us know if you'd like to opt-out of future communications.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "discovery_questions": [
+          "What specific goals do you have for your short-form video content?",
+          "Which platforms are you currently using to share your video content?",
+          "What challenges have you faced in creating engaging videos?",
+          "Do you have a specific niche or target audience in mind?",
+          "How do you currently measure the success of your video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Proposed Solution",
+          "Deliverables Overview",
+          "Pricing and Payment Terms",
+          "Delivery Timeline",
+          "Next Steps",
+          "Conclusion and Contact Information"
+        ],
+        "call_to_action": "Contact us today at luna.digital.operations@gmail.com to discuss your short-form video needs and begin your content journey!",
+        "payment_template": "Subject: Payment for Short-Form Video Service\n\nHello [Name],\n\nThank you for considering our 'Kickstart Your Short-Form Video Presence' service! To move forward, please let us know the best way for you to proceed with payment. We're here to assist you with any questions or details you may need.\n\nIf you prefer to opt out of this conversation, please let us know, and we’ll respect your choice.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
