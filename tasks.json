@@ -13020,6 +13020,64 @@
         "payment_template": "Subject: Payment for Short-Form Video Service\n\nHello [Name],\n\nThank you for considering our 'Kickstart Your Short-Form Video Presence' service! To move forward, please let us know the best way for you to proceed with payment. We're here to assist you with any questions or details you may need.\n\nIf you prefer to opt out of this conversation, please let us know, and we’ll respect your choice.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790792314423",
+      "created_at": "2026-09-30T18:18:34.423334+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Quick Start Package",
+        "target_customer": "Small business owners or individual creators looking to enhance their social media presence quickly.",
+        "customer_problem": "Many small businesses struggle to create consistent, engaging content for social media, which hinders their growth and visibility.",
+        "solution": "A streamlined social media content package that includes tailored short-form video scripts and a content calendar to help businesses maintain a consistent posting schedule without the stress.",
+        "deliverables": [
+          "5 ready-to-use short-form video scripts (suitable for TikTok, Instagram Reels, or YouTube Shorts)",
+          "A 14-day content calendar outlining when and how to post the scripts",
+          "A guide with tips for filming and editing the videos"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Eliminate the hassle of content creation and posting schedules, helping you focus on running your business while boosting your online engagement.",
+        "sales_angle": "Unlock your social media potential with tailored content that resonates with your audience, making it easier than ever to connect and grow.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online business forums",
+          "Networking events"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or individual creator",
+          "Willing to invest in social media growth",
+          "Open to implementing suggested changes"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started on enhancing your social media strategy today!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Social Media Quick Start Package is designed for small business owners and individual creators looking to enhance visibility and engagement without the stress! 🌟 Get 5 tailored video scripts, a 14-day content calendar, and expert tips—all for just $150. Let's transform your online presence today! 📈💬 #SocialMediaGrowth #SmallBusiness #ContentCreation #InfiniteSauce",
+        "website_description": "Unlock your social media potential with our Social Media Quick Start Package, specifically crafted for small business owners and individual creators. For just $150, receive 5 ready-to-use short-form video scripts, a comprehensive 14-day content calendar, and a practical guide for filming and editing. Focus on running your business while we handle the content creation hassle. Delivered in just 7 days, this package is your key to consistent engagement and visibility online.",
+        "outreach_template": "Subject: Enhance Your Social Media Strategy!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Social Media Quick Start Package, designed for small business owners and individual creators like yourself. This package includes 5 ready-to-use video scripts, a 14-day content calendar, and expert filming tips—all aimed at boosting your social media presence.\n\nIf you're looking to enhance your online engagement and visibility without the stress of content creation, I’d love to discuss how we can help you!\n\nFeel free to reply or opt out if this isn't relevant to you.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "discovery_questions": [
+          "What challenges do you currently face with your social media content?",
+          "How often do you post on social media, and what platforms do you use?",
+          "Are there specific types of content that have resonated well with your audience?",
+          "What goals do you hope to achieve through your social media efforts?",
+          "How much time do you currently spend on creating and scheduling your content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Social Media Quick Start Package",
+          "Deliverables and Timeline",
+          "Investment and Pricing",
+          "Benefits of the Package",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to enhance your social media strategy? Contact us via email or WhatsApp today!",
+        "payment_template": "Subject: Payment Confirmation\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Quick Start Package! To proceed further, please confirm your preferred payment method. Once we receive your confirmation, we'll initiate the package process accordingly.\n\nIf you'd prefer not to receive further messages, please let us know.\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
