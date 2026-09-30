@@ -13307,6 +13307,60 @@
         "payment_template": "Subject: Payment Details for Your Short-Form Video Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Engaging Short-Form Video Package! To proceed, please find the payment details below:\n\n[Payment Instructions]\n\nIf you have any questions or need further assistance, feel free to reach out. \n\nThank you,\n[Your Name]\n[Your Contact Information] \n\nIf you no longer wish to receive emails from me, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790810062899",
+      "created_at": "2026-09-30T23:14:22.899790+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Short-Form Video Package",
+        "target_customer": "Small business owners or content creators looking to grow their online presence",
+        "customer_problem": "Struggling to create engaging short-form videos to capture audience attention and boost engagement on social media platforms.",
+        "solution": "Provide tailored scripts and video concepts that align with their brand, enabling them to produce engaging content consistently without the stress of brainstorming ideas.",
+        "deliverables": [
+          "5 short-form video scripts (30-60 seconds each)",
+          "Content strategy outline for social media platforms",
+          "One-on-one consultation to discuss brand alignment and goals"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your social media presence with tailored, engaging short-form video content that resonates with your audience and enhances brand visibility.",
+        "sales_angle": "Unlock the potential of short-form video marketing and save time with expertly crafted content that speaks to your brand's unique voice.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online portfolios"
+        ],
+        "qualification_criteria": [
+          "Must have an established business or content creation presence",
+          "Willingness to collaborate and provide brand insights"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation and kickstart your journey to captivating short-form content."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your online presence? Check out our Engaging Short-Form Video Package! 🎥✨ With tailored scripts and concepts, we help small business owners and content creators create consistent, captivating video content. Let’s transform your social strategy today! 💡 #VideoMarketing #SmallBusinessGrowth #ContentCreation",
+        "website_description": "Unlock the power of short-form video marketing with our Engaging Short-Form Video Package! Designed specifically for small business owners and content creators, we provide tailored scripts and video concepts that resonate with your audience, enhancing your brand visibility. With five video scripts, a content strategy outline, and a one-on-one consultation, you’ll be set to consistently engage your audience. Start your journey toward impactful content now!",
+        "outreach_template": "Subject: Elevate Your Content Strategy\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to share an exciting opportunity for small business owners and content creators looking to grow their online presence. \n\nOur Engaging Short-Form Video Package offers tailored scripts and video concepts to help you capture your audience's attention on social media effortlessly. \n\nIf this resonates with you, I’d love to schedule a consultation to discuss how we can align with your brand goals. Please let me know if you’re interested!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this is not of interest to you, please feel free to opt out of future communications.",
+        "discovery_questions": [
+          "What are your current challenges in creating video content?",
+          "Who is your target audience and what type of content resonates with them?",
+          "What goals do you have for your brand's online presence in the next 6 months?",
+          "Which social media platforms do you prioritize for engagement?",
+          "What unique qualities make your brand stand out in your industry?"
+        ],
+        "proposal_outline": [
+          "Introduction to the Engaging Short-Form Video Package",
+          "Summary of Customer Needs and Objectives",
+          "Detailed Breakdown of Deliverables",
+          "Timeline for Delivery",
+          "Cost Analysis and Value Proposition",
+          "Next Steps and Call to Action"
+        ],
+        "call_to_action": "Ready to captivate your audience? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Engaging Short-Form Video Package! I wanted to follow up regarding the next steps in getting started. Once you're ready, we can discuss the payment options and finalize your order.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
