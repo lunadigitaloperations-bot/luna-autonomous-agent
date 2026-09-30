@@ -12625,6 +12625,63 @@
         "payment_template": "Subject: Your Payment Details \n\nHi [Recipient's Name], \n\nThank you for your interest in our 30-Day Social Media Engagement Boost Package! To proceed further, please let us know your preferred payment method, and we'll guide you through the steps. \n\nIf you have any questions or need assistance, feel free to reach out! \n\nBest regards, \n[Your Name] \n[Your Contact Information] \n\nP.S. If you wish to opt-out of further communications, just let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790766928701",
+      "created_at": "2026-09-30T11:15:28.701561+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Reels Package for Small Businesses",
+        "target_customer": "Local small businesses looking to enhance social media presence",
+        "customer_problem": "Struggling to create engaging video content that resonates with their target audience on social media platforms.",
+        "solution": "Provide a tailored package that includes scriptwriting and editing for a series of Instagram Reels that highlight their products or services in an engaging way.",
+        "deliverables": [
+          "3 custom short-form video scripts (each up to 60 seconds)",
+          "3 edited Instagram Reels in MP4 format",
+          "Optimized captions for each Reel",
+          "Content strategy outline for ongoing video creation"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media engagement and attract more customers with professional, ready-to-use video content.",
+        "sales_angle": "Transform your online presence with captivating Reels that showcase your brand’s unique personality and offerings.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referral programs",
+          "Local networking"
+        ],
+        "qualification_criteria": [
+          "Business must have an established social media account",
+          "Willingness to collaborate on ideas and provided content"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your specific needs and get started."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Transform your online presence! 🌟 Our Engaging Reels Package is designed specifically for local small businesses wanting to boost their social media engagement. Get 3 professional short-form video scripts and edited Instagram Reels, all crafted to showcase your unique offerings. 📈✨ Ready to attract more customers? Contact us today! #SmallBusiness #InstagramReels #SocialMediaMarketing",
+        "website_description": "Elevate your social media game with our Engaging Reels Package tailored for local small businesses! Struggling to create captivating video content? Our package includes scriptwriting, editing, and strategic content planning to boost engagement and attract more customers. Get 3 custom short-form videos, optimized captions, and a content strategy outline, all for just $150. Let’s bring your brand’s personality to life on social media!",
+        "outreach_template": "Subject: Enhance Your Social Media with Engaging Video Content\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Engaging Reels Package, a tailored solution designed for local small businesses like yours to enhance your social media presence. \n\nIncluded in the package are 3 custom video scripts and 3 edited Instagram Reels, perfectly crafted to showcase your products and draw in more customers. \n\nIf you're interested, I would love to discuss how we can align this offering with your specific needs. Please let me know a convenient time for us to connect. \n\nThank you for your time, and if this isn’t of interest, just let me know, and I won’t reach out again.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What are your current challenges with creating engaging video content?",
+          "Who is your target audience, and what platforms do they use most?",
+          "Have you used video content in your marketing before? If so, what worked well?",
+          "What specific goals do you hope to achieve with this video content?",
+          "Are there particular products or services you'd like to highlight in these Reels?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solution: Engaging Reels Package",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Pricing Structure",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Contact us via email or WhatsApp to get started on transforming your social media presence today!",
+        "payment_template": "Subject: Next Steps for Your Engaging Reels Package\n\nHi [Recipient's Name],\n\nThank you for discussing our Engaging Reels Package! To move forward, we will need to finalize the details and confirm your order. Please let me know if you have any questions or if there’s anything else I can assist you with at this time.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
