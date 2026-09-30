@@ -12394,6 +12394,64 @@
         "payment_template": "Subject: Payment Process Information\n\nHi [Recipient's Name],\n\nThank you for your interest in our services! To proceed, we would be happy to discuss the payment options available. Once we confirm the details, we can set up the payment process that works best for you.\n\nPlease let me know if you have any questions!\n\nBest regards,  \n[Your Name]  \n[Your Contact Information]  \n\nIf you wish to opt out of these communications, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790752694759",
+      "created_at": "2026-09-30T07:18:14.759062+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Booster Package",
+        "target_customer": "Small businesses or independent creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging content that attracts followers and promotes brand awareness on platforms like TikTok and Instagram.",
+        "solution": "A curated package of short-form video scripts and content strategy tailored to the client's brand and audience, designed to drive engagement and attract new followers.",
+        "deliverables": [
+          "3 customized short-form video scripts for TikTok or Instagram Reels",
+          "1 content strategy guide outlining best practices for posting frequency, themes, and engagement",
+          "10 ready-to-use captions for social media posts",
+          "1 follow-up consultation to review content performance and make adjustments"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your online presence with tailored content that resonates with your audience, boosts engagement, and supports your growth objectives.",
+        "sales_angle": "Transform your social media strategy without the overwhelm and foster genuine connections with your ideal audience.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Community engagement in relevant online groups"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence on TikTok or Instagram",
+          "Willingness to implement suggested strategies and content"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started on elevating your social media presence!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost Your Social Media Growth! 🌟 Struggling to create engaging content for TikTok and Instagram? Our Social Media Growth Booster Package is tailored for small businesses and independent creators. Get 3 customized video scripts, a content strategy guide, 10 ready-to-use captions, and a follow-up consultation! Elevate your online presence and foster genuine connections with your audience. DM us to get started! #SocialMediaGrowth #ContentStrategy #SmallBusiness #Creators",
+        "website_description": "Elevate your social media presence with our Social Media Growth Booster Package! Designed specifically for small businesses and independent creators, this package includes tailored video scripts for TikTok and Instagram, a comprehensive content strategy guide, ready-to-use captions, and a follow-up consultation. Engage your audience, attract followers, and enhance brand awareness effortlessly. Start transforming your social media strategy today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to share an exciting opportunity to enhance your social media strategy. If you're looking to foster genuine connections and attract new followers, our Social Media Growth Booster Package may be just what you need.\n\nIf you have any questions or would like to learn more, please feel free to reply. I'm here to help!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn’t of interest to you, please let me know, and I’ll gladly remove you from my list.",
+        "discovery_questions": [
+          "What specific challenges are you facing in your current social media strategy?",
+          "Which social media platforms are you most active on, and why?",
+          "What type of content resonates best with your audience?",
+          "How often do you currently post on social media?",
+          "What are your primary goals for using social media in your business?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Your Current Social Media Presence",
+          "Identified Challenges",
+          "Proposed Solution: Social Media Growth Booster Package",
+          "Deliverables",
+          "Timeline and Estimated Delivery",
+          "Investment",
+          "Call to Action",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today via email or WhatsApp to get started!",
+        "payment_template": "Subject: Next Steps Regarding Your Order\n\nHi [Name],\n\nThank you for choosing our Social Media Growth Booster Package! We're excited to work with you on enhancing your online presence. To move forward, we just need to discuss the payment details. Please let me know your preferred payment method, and I can guide you from there.\n\nIf you have any questions, feel free to reach out.\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you're not interested right now, just let me know, and I can stop contacting you.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
