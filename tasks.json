@@ -12287,6 +12287,56 @@
         "payment_template": "Subject: Confirmation of Our Discussion  \n\nHi [Customer's Name],  \n\nThank you for expressing interest in our 30-Day Social Media Boost Package! To proceed further, could you provide confirmation of your preferred payment method? We aim to ensure a seamless process for our clients.  \n\nShould you have any questions or need more information, feel free to reach out!  \n\nLooking forward to hearing from you.  \nBest,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790745433468",
+      "created_at": "2026-09-30T05:17:13.468347+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Sprint",
+        "target_customer": "Small business owners or content creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to consistently create engaging social media content that resonates with their audience.",
+        "solution": "A structured plan to produce short-form videos and captions for TikTok, Instagram Reels, and YouTube Shorts over 30 days.",
+        "deliverables": [
+          "One personalized content strategy document outlining weekly themes and content ideas.",
+          "30 short-form video scripts tailored to each platform.",
+          "30 engaging captions for the videos.",
+          "Weekly check-in and feedback sessions via Zoom to tweak and optimize content."
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Boost your social media engagement with a tailored 30-day plan that provides all the content you need to stay consistent.",
+        "sales_angle": "Stop stressing over what to post daily—get a comprehensive content plan and execution support to build your brand online.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word-of-mouth referrals",
+          "Online business forums"
+        ],
+        "qualification_criteria": [
+          "Must have active social media accounts on at least two platforms.",
+          "Commitment to implementing the provided strategies."
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Are you a small business owner or content creator struggling to keep your social media fresh? Join our 30-Day Social Media Content Sprint! 🎥 Get a tailored content strategy, 30 short-form video scripts, and captions that resonate with your audience. Stop stressing over what to post daily! DM us or visit our website to learn more! #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Transform your online presence with our 30-Day Social Media Content Sprint! Designed for small business owners and content creators, this comprehensive package includes a personalized content strategy, 30 ready-to-use video scripts, engaging captions, and weekly feedback sessions. Say goodbye to content struggles and hello to consistent engagement! Reach out today to elevate your brand.",
+        "outreach_template": "Subject: Elevate Your Social Media with Our 30-Day Sprint!  \n\nHi [Recipient's Name],  \nI hope this message finds you well! I'm excited to introduce our 30-Day Social Media Content Sprint, designed specifically for small business owners and content creators. This program aims to alleviate the struggle of consistent content creation while enhancing your online presence.  \nWe offer you a tailored content strategy, 30 engaging video scripts, and weekly feedback sessions to ensure your success.  \nIf you're interested in learning more, I'd love to schedule a free consultation. Please let me know what works for you!  \nBest regards,  \n[Your Name]  \n[Your Contact Information]  \nIf you would like to opt-out of further communications, just let me know!",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "How often do you publish new content on these platforms?",
+          "What challenges do you face when creating content?",
+          "What type of audience are you looking to engage with?",
+          "Have you used any content plans or strategies in the past?"
+        ],
+        "proposal_outline": [
+          "Introduction  \n - Brief overview of the proposal  \n - Objectives of the 30-Day Sprint  \n\nBackground  \n - Summary of client needs and challenges  \n\nSolution Overview  \n - Outline of deliverables (content strategy, scripts, etc.)  \n\nTimeline  \n - Estimated delivery schedule  \n\nInvestment  \n - Pricing details  \n\nNext Steps  \n - Call to action for scheduling a consultation"
+        ],
+        "call_to_action": "Ready to boost your social media engagement? Contact us today to schedule your free consultation!",
+        "payment_template": "Subject: Payment Information for Your 30-Day Sprint  \n\nHi [Recipient's Name],  \nThank you for choosing our 30-Day Social Media Content Sprint! To move forward, we will need to process your payment. Please let me know how you would like to proceed.  \nIf you have any questions or concerns, don't hesitate to reach out.  \nBest,  \n[Your Name]  \n[Your Contact Information]  \nIf you prefer not to receive further messages, simply reply \"opt-out.\"",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
