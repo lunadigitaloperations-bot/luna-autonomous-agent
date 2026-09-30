@@ -13194,6 +13194,62 @@
         "payment_template": "Subject: Payment Arrangement\n\nHi [Name],\n\nThank you for your interest in our Social Media Engagement Booster Package! To take the next steps, we can discuss the payment options available to you. Please let me know your preferred method of communication, and we can arrange a time that works for you.\n\nLooking forward to your reply!\n\nBest,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790802948404",
+      "created_at": "2026-09-30T21:15:48.404077+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Content Starter Kit for Small Businesses",
+        "target_customer": "Small business owners or creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create consistent and engaging content for social media platforms.",
+        "solution": "A tailored content strategy that includes short-form video scripts, captions, and a posting schedule for TikTok and Instagram Reels, designed to attract and engage their target audience.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "3 engaging captions for social media posts",
+          "Content posting schedule for 4 weeks"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media engagement and attract more customers with custom content designed specifically for your brand.",
+        "sales_angle": "Unlock the potential of social media marketing with professional-grade content delivered straight to you.",
+        "organic_discovery_methods": [
+          "Social media bounce-back posts",
+          "Word of mouth",
+          "Online community referrals"
+        ],
+        "qualification_criteria": [
+          "Must have an existing business or creative venture",
+          "Willingness to engage in strategy collaboration",
+          "Looking for improvements in social media presence"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to discuss your needs and start your journey towards effective social media engagement."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Small Business Owners! Struggling to create consistent and engaging content for your social media? Our Engaging Content Starter Kit is here to help! Get tailored video scripts, engaging captions, and a content posting schedule—all designed to boost your social media presence! 🌟 Let's take your brand to the next level! #SocialMedia #SmallBusiness #ContentCreation",
+        "website_description": "Transform your social media game with our Engaging Content Starter Kit designed specifically for small businesses and creators. Struggling to keep your audience engaged? We provide 3 short-form video scripts, catchy captions, and a comprehensive posting schedule, all aimed at attracting your target audience. At just $150 and delivered within 7 days, watch your social media presence thrive!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity for small businesses like yours. If you're looking to enhance your social media presence, our Engaging Content Starter Kit might be just what you need. \n\nIt includes tailored video scripts, engaging captions, and a 4-week posting schedule designed to boost your engagement and attract new customers.\n\nIf you're interested, feel free to reply to discuss how this could benefit your brand. If not, no worries at all—just let me know, and I'll refrain from reaching out further.\n\nBest regards,\n[Your Name]  \n[Your Title]  \nInfinite Sauce",
+        "discovery_questions": [
+          "What challenges are you currently facing in your social media strategy?",
+          "Who is your target audience, and how do you currently engage with them?",
+          "What platforms do you primarily focus on for your social media efforts?",
+          "Have you previously used any content strategies for your social media, and how effective were they?",
+          "What are your goals for increasing engagement on your social media profiles?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solutions and Deliverables",
+          "Timeline for Delivery",
+          "Investment Overview",
+          "Next Steps",
+          "Q&A Section"
+        ],
+        "call_to_action": "Ready to boost your social media engagement? Contact us today to get started!",
+        "payment_template": "Subject: Regarding Your Purchase\n\nHi [Name],\n\nThank you for choosing the Engaging Content Starter Kit! We're excited to get started. To proceed further, could you please confirm the payment details or preferred method? Let me know if you have any questions about the process.\n\nLooking forward to your response!  \n\nBest regards,  \n[Your Name]  \n[Your Title]  \nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
