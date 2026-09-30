@@ -13078,6 +13078,65 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Quick Start Package! To proceed further, please confirm your preferred payment method. Once we receive your confirmation, we'll initiate the package process accordingly.\n\nIf you'd prefer not to receive further messages, please let us know.\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790795838172",
+      "created_at": "2026-09-30T19:17:18.172051+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Package for Creators",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and increases followers.",
+        "solution": "A tailored content strategy and creation service focused on producing high-quality short-form video scripts and social media content.",
+        "deliverables": [
+          "4 TikTok video scripts (up to 60 seconds each)",
+          "4 Instagram Reels scripts (up to 60 seconds each)",
+          "4 YouTube Shorts scripts (up to 60 seconds each)",
+          "10 engaging captions tailored for posts",
+          "1 customized content strategy plan"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Elevate your brand's online presence with compelling video content that engages your audience and drives growth.",
+        "sales_angle": "Take the guesswork out of content creation with a professional scriptwriting service tailored to your brand's voice.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth referrals",
+          "Collaborations with other creators"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media account",
+          "Willingness to implement suggested strategies"
+        ],
+        "next_action": "Contact Luna via email or WhatsApp to discuss your needs and get started."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Is your social media presence lacking sparkle? Introducing our **Social Media Growth Package for Creators**! 🚀 Tailored specifically for small business owners and content creators, we'll help you produce engaging short-form video content that captures attention! 💡 Get 4 TikTok scripts, 4 Instagram Reels scripts, 4 YouTube Shorts scripts, and more—all for just $250! Enhance your brand and drive growth today! 📈 #SocialMediaGrowth #ContentCreation #VideoMarketing",
+        "website_description": "Unlock your brand's potential with our **Social Media Growth Package for Creators**! Designed for small business owners and content creators, this package offers a tailored content strategy and high-quality short-form video scripts for TikTok, Instagram Reels, and YouTube Shorts. Elevate your online presence, engage your audience, and enjoy a hassle-free content creation experience—all for just $250. Let's get started on your journey to social media success!",
+        "outreach_template": "Subject: Boost Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share our **Social Media Growth Package** designed for small business owners and content creators who are looking to enhance their social media presence. \n\nThis package includes tailored short-form video scripts and a comprehensive content strategy to engage your audience effectively. If this sounds like something you might be interested in, I’d love to discuss how we can help you achieve your goals.\n\nOf course, if you’re not looking for this service at the moment, feel free to let me know, and I won’t reach out again.\n\nLooking forward to your thoughts!\n\nBest,\nLuna",
+        "discovery_questions": [
+          "What specific challenges are you facing in your social media content creation?",
+          "Which social media platforms do you currently use to engage with your audience?",
+          "What type of content have you found resonates best with your audience so far?",
+          "Are you open to implementing new strategies to enhance your online presence?",
+          "What goals do you hope to achieve with your social media growth?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Growth Package",
+          "Customer needs and challenges",
+          "Proposed solutions and deliverables",
+          "Value proposition",
+          "Pricing details ($250)",
+          "Estimated delivery timeline (14 days)",
+          "Next steps for engagement",
+          "Conclusion and call to action"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact Luna via email or WhatsApp to get started!",
+        "payment_template": "Subject: Follow-up on Your Order\n\nHi [Recipient's Name],\n\nThank you for choosing to enhance your social media presence with our **Social Media Growth Package**! I wanted to confirm the details and ensure everything is in order for your upcoming content.\n\nPlease let me know if you have any questions or if there's anything specific you'd like to discuss.\n\nBest,\nLuna",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
