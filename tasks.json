@@ -12796,6 +12796,57 @@
         "payment_template": "Subject: Invoice for Your Recent Purchase\n\nHi [Name],\n\nThank you for choosing our Social Media Booster Package! I'm reaching out to confirm your interest and discuss the next steps. Once we finalize details, we'll provide the payment link for your convenience.\n\nIf you have any questions or need further information, feel free to ask. If you're no longer interested, please let me know, and I’ll ensure no further communication.\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790777977306",
+      "created_at": "2026-09-30T14:19:37.306559+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Video Launch Pack",
+        "target_customer": "Small business owners and creators looking to boost their social media presence.",
+        "customer_problem": "Struggling to create engaging video content consistently for social media platforms.",
+        "solution": "A tailored package that provides scripts, editing, and strategy to produce eye-catching short-form videos for TikTok and Instagram Reels.",
+        "deliverables": [
+          "Three short-form video scripts (30-60 seconds each)",
+          "Two edited video clips ready for upload",
+          "Content strategy document with posting schedule and hashtags",
+          "One set of engaging captions for each video"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your social media presence with tailored video content that engages your audience and promotes your brand effectively.",
+        "sales_angle": "Transform your social media strategy with minimal effort – we handle the creative process so you can focus on your business!",
+        "organic_discovery_methods": [
+          "Social media posts showcasing video examples",
+          "Blog posts about the importance of video content",
+          "Collaborations with influencers for testimonial videos"
+        ],
+        "qualification_criteria": [
+          "Business or creator with an established online presence (social media accounts)",
+          "Willingness to collaborate and provide brand guidelines",
+          "Open to trying new content strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your social media presence with our Social Media Video Launch Pack! 🎥✨ Get tailored scripts, edited clips, and a comprehensive strategy to engage your audience and promote your brand. Perfect for small businesses and creators looking to shine on TikTok and Instagram Reels. DM us to learn more! #SocialMedia #VideoMarketing #SmallBusiness",
+        "website_description": "Introducing our Social Media Video Launch Pack designed specifically for small business owners and creators! Transform your social media strategy effortlessly with our tailored package, which includes scripts, editing, and a content strategy for eye-catching short-form videos on TikTok and Instagram Reels. Get started today and elevate your online presence!",
+        "outreach_template": "Subject: Elevate Your Social Media with Engaging Video Content\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an opportunity to enhance your social media presence through tailored video content. Our Social Media Video Launch Pack includes everything you need to create engaging videos consistently.\n\nIf this sounds interesting, I'd love to discuss it more with you. Please let me know if you’re available for a quick chat.\n\nBest,\n[Your Name]  \n[Your Contact Information]\n\nP.S. If you’re not interested, feel free to let me know, and I won’t follow up.",
+        "discovery_questions": [
+          "What types of video content have you created in the past for your social media?",
+          "Which social media platforms are you currently using, and how are they performing?",
+          "What specific goals do you have for your social media presence?",
+          "How often do you post video content, and what challenges do you face?",
+          "Are you open to experimenting with new content strategies for better engagement?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of your business and goals\n\n2. Understanding Your Needs\n   - Summary of discussions and needs assessment\n\n3. Proposed Solution\n   - Details of the Social Media Video Launch Pack\n\n4. Deliverables\n   - List of all deliverables included in the package\n\n5. Timeline\n   - Estimated delivery timeline and milestones\n\n6. Pricing\n   - Breakdown of costs and payment terms\n\n7. Next Steps\n   - Call to action and how to proceed"
+        ],
+        "call_to_action": "Ready to transform your social media strategy? Contact us today to get started!",
+        "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Video Launch Pack! To move forward, please review the details we've discussed, and let us know if you have any questions. Once you're ready, we can proceed with the next steps.\n\nLooking forward to hearing from you soon!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you aren’t ready to proceed, simply let me know, and I’ll be here whenever you need us.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
