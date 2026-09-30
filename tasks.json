@@ -11997,6 +11997,67 @@
         "payment_template": "Subject: Payment Details for Your Social Media Starter Package\n\nHi [Client's Name],\n\nThank you for choosing our Social Media Starter Package! To move forward, please let us know your preferred payment method, and we'll provide the necessary details to complete the transaction.\n\nWe appreciate your trust in our services and look forward to collaborating with you!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n\nP.S. If you prefer not to receive this type of communication, simply let us know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790727820934",
+      "created_at": "2026-09-30T00:23:40.934105+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Video Marketing Momentum Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging short-form videos consistently that resonate with their audience.",
+        "solution": "A structured 30-day plan that provides tailored video scripts, content strategy, and posting schedule to help maintain consistency and engagement.",
+        "deliverables": [
+          "10 short-form video scripts tailored to the brand",
+          "A content strategy plan for 30 days",
+          "Posting schedule with optimal times for each video",
+          "Two revision consultations via email or WhatsApp"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Consistency in content creation can enhance engagement and grow your audience organically.",
+        "sales_angle": "Elevate your online presence with a clear, actionable plan that keeps your content flowing without the overwhelm.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing client results",
+          "Testimonials from satisfied customers",
+          "Inquiries through social media platforms"
+        ],
+        "qualification_criteria": [
+          "Business or creator must have a platform audience",
+          "Commitment to implementing the delivered strategy",
+          "Willingness to provide feedback for revisions"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Are you a small business or content creator struggling to create engaging short-form videos? Our 30-Day Video Marketing Momentum Package is here to help! Get tailored video scripts, a comprehensive content strategy, and a posting schedule, all designed to elevate your social media presence. Let’s get you on the path to consistent content creation that resonates with your audience! 📈✨ #VideoMarketing #ContentCreation #SmallBusiness #SocialMediaGrowth",
+        "website_description": "Introducing our 30-Day Video Marketing Momentum Package! Tailored for small businesses and content creators, this package offers a structured plan to conquer the challenge of consistent and engaging video content. Within just 7 days, receive 10 custom video scripts, a 30-day content strategy, and an optimized posting schedule to ensure your videos get the visibility they deserve. With two revision consultations included, we ensure you stay on track to grow your audience organically. Elevate your online presence today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to share an exciting opportunity that could boost your content creation efforts. Our 30-Day Video Marketing Momentum Package is designed specifically for small businesses and content creators like yourself, struggling with consistent video content. \n\nThis package includes tailored video scripts, a content strategy, and a posting schedule to keep your content engaging and your audience growing. \n\nFeel free to reach out if you have any questions or would like to learn more! \n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]\n\nP.S. If this isn’t of interest, please let me know, and I’ll respect your preferences.",
+        "discovery_questions": [
+          "What types of content are you currently producing, and how often do you post?",
+          "What platforms do you find most effective for reaching your audience?",
+          "Have you used short-form videos before, and what challenges have you faced with them?",
+          "Where do you see the biggest opportunities for improvement in your social media strategy?",
+          "What specific goals do you aim to achieve through enhanced video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer's Needs",
+          "Proposed Solution: 30-Day Video Marketing Momentum Package",
+          "Detailed Deliverables",
+          "10 Tailored Video Scripts",
+          "30-Day Content Strategy Plan",
+          "Posting Schedule",
+          "Revision Consultations",
+          "Timeline and Pricing",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to enhance your video marketing? Contact us today via email or WhatsApp to schedule your consultation!",
+        "payment_template": "Subject: Payment Details for Your Package\n\nHi [Recipient's Name],\n\nI hope you're doing well! As we proceed with getting started on the 30-Day Video Marketing Momentum Package, please let me know a suitable time for you to discuss payment options and final details. Looking forward to your feedback.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]\n\nP.S. If this doesn’t align with your goals, simply let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
