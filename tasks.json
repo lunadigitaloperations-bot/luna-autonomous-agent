@@ -12337,6 +12337,63 @@
         "payment_template": "Subject: Payment Information for Your 30-Day Sprint  \n\nHi [Recipient's Name],  \nThank you for choosing our 30-Day Social Media Content Sprint! To move forward, we will need to process your payment. Please let me know how you would like to proceed.  \nIf you have any questions or concerns, don't hesitate to reach out.  \nBest,  \n[Your Name]  \n[Your Contact Information]  \nIf you prefer not to receive further messages, simply reply \"opt-out.\"",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790749273677",
+      "created_at": "2026-09-30T06:21:13.677798+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Engagement Booster Package",
+        "target_customer": "Small business owners or content creators looking to improve their online presence",
+        "customer_problem": "Struggling to create engaging content that resonates with their audience, leading to low engagement and visibility on social media platforms.",
+        "solution": "An engagement-optimized content creation service that helps enhance social media visibility through targeted short-form video scripts and tailored content strategies.",
+        "deliverables": [
+          "Three 30-second short-form video scripts tailored to the business's niche",
+          "Five custom captions for social media posts",
+          "A content calendar for one month, outlining posting schedule and themes",
+          "One 30-minute consultation call to discuss strategy and implementation"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media engagement with tailored content that speaks directly to your audience, crafted by professionals who understand your niche.",
+        "sales_angle": "Transform your social media presence with engaging content that drives interaction and builds community without needing extra time or expertise.",
+        "organic_discovery_methods": [
+          "Social media",
+          "Word of mouth",
+          "Online forums and groups related to small businesses and content creation"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator",
+          "Willingness to provide necessary information about their brand and audience"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and begin your engagement journey."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to engage your audience on social media? Our Social Media Engagement Booster Package can help! 🎥 Get tailored short-form video scripts, custom captions, and a content calendar to elevate your online presence. Start transforming your social media today! #SmallBusiness #ContentCreation #SocialMedia #EngagementBoost",
+        "website_description": "Unlock the potential of your brand with our Social Media Engagement Booster Package! Designed for small business owners and content creators, this package includes three tailored 30-second video scripts, five custom social media captions, a one-month content calendar, and a 30-minute consultation to strategize your content approach. Say goodbye to low engagement and hello to a vibrant online presence!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity for small business owners and content creators looking to boost their social media engagement. Our Social Media Engagement Booster Package is designed to help you create content that truly resonates with your audience.\n\nIf you're interested, I would love to discuss how we can collaborate to enhance your online visibility. Please let me know a convenient time for you, or feel free to reach out if you have any questions!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n\nIf you prefer not to receive further correspondence, please let me know.",
+        "discovery_questions": [
+          "What social media platforms are you currently using for your business?",
+          "Can you describe your target audience and their preferences?",
+          "What types of content have you found to be most engaging in the past?",
+          "Are there specific goals you hope to achieve with your social media presence?",
+          "How do you currently plan and schedule your social media content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the client's current social media engagement",
+          "Introduction to the Social Media Engagement Booster Package",
+          "Detailed breakdown of deliverables",
+          "Timeline and estimated delivery",
+          "Investment and payment terms",
+          "Next steps",
+          "Closing remarks"
+        ],
+        "call_to_action": "Get started on transforming your social media engagement! Contact us today to discuss your needs.",
+        "payment_template": "Subject: Payment Process Information\n\nHi [Recipient's Name],\n\nThank you for your interest in our services! To proceed, we would be happy to discuss the payment options available. Once we confirm the details, we can set up the payment process that works best for you.\n\nPlease let me know if you have any questions!\n\nBest regards,  \n[Your Name]  \n[Your Contact Information]  \n\nIf you wish to opt out of these communications, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
