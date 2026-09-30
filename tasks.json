@@ -12116,6 +12116,63 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for your interest in our Social Media Video Content Package! When you’re ready, we will provide payment instructions to ensure a smooth process. Please let us know if you have any questions!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790734538028",
+      "created_at": "2026-09-30T02:15:38.028155+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Toolkit",
+        "target_customer": "Small business owners and content creators",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and increases visibility.",
+        "solution": "A comprehensive toolkit to craft effective short-form video content tailored to boost engagement and attract followers on platforms like TikTok and Instagram Reels.",
+        "deliverables": [
+          "Three tailored short-form video scripts based on customer goals",
+          "One month of content calendar for posting schedule",
+          "Five engaging captions to promote the videos",
+          "A 30-minute remote consultation to discuss strategy and content plans"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock your brand's potential with a strategic approach to short-form video content that attracts and retains audience attention.",
+        "sales_angle": "Transform your social media presence and engage your audience with professionally crafted video content without the overwhelm.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referral programs",
+          "Content collaborations"
+        ],
+        "qualification_criteria": [
+          "A business or creator looking to enhance their online presence",
+          "Existing social media profiles with some level of engagement"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started and schedule your consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Social Media Growth Toolkit is designed specifically for small business owners and content creators! 🎥✨ Unlock your potential with tailored short-form video scripts, a personalized content calendar, and strategic consultations to make your brand shine on TikTok and Instagram Reels! 💡💪 Click the link in our bio to learn more! #SocialMediaGrowth #ContentCreators #VideoMarketing",
+        "website_description": "Struggling to create impactful short-form video content that captivates your audience? Our Social Media Growth Toolkit empowers small business owners and content creators with everything needed to boost engagement and increase visibility. Enjoy three customized video scripts, a month-long content calendar, five engaging captions, and a 30-minute strategy consultation—all for just $150! Transform your online presence and connect with your followers meaningfully in just 7 days.",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to share an exciting opportunity for small business owners and content creators looking to enhance their online presence. Our Social Media Growth Toolkit can help you craft engaging short-form video content that resonates with your audience. \n\nIf you’re interested, I’d be thrilled to discuss how we can work together. Please let me know a convenient time for you!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you’d prefer not to receive future messages, just let me know!",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms are you currently using for your content?",
+          "What kind of engagement are you hoping to achieve with your audience?",
+          "Have you previously created any short-form video content? If so, what was the response?",
+          "What challenges have you faced in creating engaging content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Goals",
+          "Overview of the Social Media Growth Toolkit",
+          "Tailored Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Pricing Information",
+          "Next Steps and Consultation Scheduling",
+          "Closing Remarks"
+        ],
+        "call_to_action": "Contact us via email or WhatsApp to kickstart your social media transformation today!",
+        "payment_template": "Subject: Next Steps for Your Social Media Growth Toolkit\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Growth Toolkit! I'm excited to discuss the next steps with you. Once we finalize the details, I'll provide you with the payment information to secure your order.\n\nLooking forward to your response!\n\nBest, \n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
