@@ -13137,6 +13137,63 @@
         "payment_template": "Subject: Follow-up on Your Order\n\nHi [Recipient's Name],\n\nThank you for choosing to enhance your social media presence with our **Social Media Growth Package**! I wanted to confirm the details and ensure everything is in order for your upcoming content.\n\nPlease let me know if you have any questions or if there's anything specific you'd like to discuss.\n\nBest,\nLuna",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790799454603",
+      "created_at": "2026-09-30T20:17:34.603365+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Engagement Booster Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and increases interaction",
+        "solution": "A comprehensive package that provides tailored short-form video scripts and content strategy for increased engagement on platforms like TikTok and Instagram",
+        "deliverables": [
+          "Three original short-form video scripts tailored to the customer's brand and audience",
+          "A content strategy guide outlining best practices for posting and engaging with followers",
+          "One week of caption suggestions for the delivered video scripts"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost engagement and connect with your audience through tailored content that speaks directly to them",
+        "sales_angle": "Transform your social media presence with tailored short-form video content that captures attention and encourages interaction",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Networking in local business groups"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Willingness to collaborate and provide feedback for content creation"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Social Media Engagement Booster Package is designed for small businesses and content creators who want to create captivating short-form video content that resonates! Get three original video scripts, a content strategy guide, and caption suggestions—all tailored to your brand. 📱✨ Let’s connect and boost your engagement today! #SocialMedia #ContentCreation #EngagementBooster",
+        "website_description": "Unlock the full potential of your social media presence with our Social Media Engagement Booster Package! Specifically crafted for small businesses and content creators, this package offers three original short-form video scripts, a comprehensive content strategy guide, and a week’s worth of caption suggestions. Drive engagement and foster connections with your audience through tailored content that speaks directly to them. Start your journey towards social media success today!",
+        "outreach_template": "Subject: Enhance Your Social Media Engagement\n\nHi [Name],\n\nI hope this message finds you well! I’m reaching out to share a solution tailored specifically for small businesses and content creators like you, who are keen to enhance their social media presence. Our Social Media Engagement Booster Package offers original short-form video scripts and a content strategy designed to resonate with your audience and boost engagement.\n\nWould you be open to a conversation about how we can help? \n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n\nP.S. If now isn't the right time, feel free to let me know, and I won't reach out again.",
+        "discovery_questions": [
+          "What platforms are you currently using for your social media?",
+          "How often do you post content on your social media?",
+          "What type of content do you believe resonates most with your audience?",
+          "Have you ever utilized short-form video content in your strategy?",
+          "What specific goals do you have for increasing engagement on social media?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Customer's Current Situation",
+          "Description of the Engagement Booster Package",
+          "Deliverables Details",
+          "Value Proposition",
+          "Estimated Delivery Timeline",
+          "Investment Required",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to enhance your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Payment Arrangement\n\nHi [Name],\n\nThank you for your interest in our Social Media Engagement Booster Package! To take the next steps, we can discuss the payment options available to you. Please let me know your preferred method of communication, and we can arrange a time that works for you.\n\nLooking forward to your reply!\n\nBest,  \n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
