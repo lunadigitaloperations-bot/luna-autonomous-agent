@@ -13931,6 +13931,63 @@
         "payment_template": "Subject: Payment Details for Your Social Media Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Video Content Package! To proceed, please let me know if you have any questions or would like to discuss payment options further.\n\nLooking forward to working together!\n\nBest regards,\n[Your Name]\n\n*If you prefer not to receive further information, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790849895691",
+      "created_at": "2026-10-01T10:18:15.691165+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Micro Video Package",
+        "target_customer": "Small business owners or content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with audiences on platforms like TikTok and Instagram.",
+        "solution": "A tailored package providing four short-form video scripts and edits designed to boost viewer engagement and brand recognition.",
+        "deliverables": [
+          "Four 30-second video scripts tailored to target audience",
+          "Four short videos edited for TikTok, Instagram Reels, or YouTube Shorts",
+          "Platform-specific captions for each video",
+          "Content calendar suggesting optimal posting times"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Boost your online presence with professional video content that connects with your audience without the hassle of production.",
+        "sales_angle": "Transform your brand’s story into captivating short videos that capture attention and drive engagement.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Networking in creative communities"
+        ],
+        "qualification_criteria": [
+          "Business or personal brand aiming to grow online engagement",
+          "Basic familiarity with social media platforms",
+          "Commitment to use provided content"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started on your video package."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your online presence with our Social Media Micro Video Package! 🎥 Perfect for small business owners and content creators, we help you engage your audience with tailored video scripts and edits. Ready to transform your story into captivating short videos? Reach out today! #VideoMarketing #SocialMedia #ContentCreation",
+        "website_description": "Struggling to capture attention on social media? Our Social Media Micro Video Package offers four expertly crafted 30-second video scripts and edits tailored to your audience. With platform-specific captions and a content calendar for optimal posting, boost your brand recognition without the hassle of production. Start transforming your engagement today for just $299!",
+        "outreach_template": "Subject: Enhance Your Brand's Online Impact\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity for small business owners and content creators like yourself. Our Social Media Micro Video Package is designed to help you create engaging short-form videos that resonate with your audience on platforms like TikTok and Instagram. \n\nIf you're interested in discussing how this can benefit your brand, I’d love to connect. Please let me know when a good time for you might be.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\n*If you would prefer not to receive further communications, please let me know.*",
+        "discovery_questions": [
+          "What specific challenges are you facing in creating engaging video content?",
+          "What social media platforms are you currently focusing on for your brand?",
+          "How often do you currently share video content with your audience?",
+          "What are your goals for using video in your marketing strategy?",
+          "Are there any specific themes or topics you’d like us to address in the video scripts?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Micro Video Package",
+          "Detailed description of deliverables",
+          "Value proposition and expected outcomes",
+          "Timeline for delivery",
+          "Pricing information",
+          "Next steps for collaboration"
+        ],
+        "call_to_action": "Ready to boost your online presence? Contact us today to get started on your Social Media Micro Video Package!",
+        "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Recipient's Name],\n\nThank you for choosing our Social Media Micro Video Package! We appreciate your interest and are excited to start crafting engaging video content for your brand. Please let us know how you'd like to proceed with the payment process at your earliest convenience.\n\nLooking forward to collaborating!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\n*If you'd prefer not to move forward, please feel free to let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
