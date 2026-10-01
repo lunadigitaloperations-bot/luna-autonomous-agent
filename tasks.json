@@ -13530,6 +13530,64 @@
         "payment_template": "Subject: Payment Details for Your Video Content Package\n\nHi [Name],\n\nThank you for choosing our Engaging Video Content Package! To proceed, please let me know your preferred payment method. Once the payment is processed, we'll kick off the project right away!\n\nLooking forward to collaborating with you!\n\nBest,\n[Your Name]\n\nP.S. If you have any questions about the payment process, feel free to ask!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790824662313",
+      "created_at": "2026-10-01T03:17:42.313650+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "4-Week Short-Form Video Boost Package",
+        "target_customer": "Small businesses or content creators looking to increase engagement on social media.",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and boosts visibility.",
+        "solution": "A comprehensive package that includes scriptwriting, video content ideas, and editing guidance tailored to their brand and audience.",
+        "deliverables": [
+          "4 short-form video scripts (one per week) tailored to brand style",
+          "Content strategy guide outlining video themes and posting schedule",
+          "Tips for recording and editing videos effectively",
+          "Two engagement-focused caption options per video"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Transform your social media presence with tailored video content that captivates your audience and encourages interaction.",
+        "sales_angle": "Enhance your engagement without the stress of content creation—let us handle the scripts and strategy while you focus on bringing your brand to life.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Email marketing",
+          "Online forums and groups"
+        ],
+        "qualification_criteria": [
+          "Must have an active presence on at least one social media platform",
+          "Open to exploring new content themes and formats"
+        ],
+        "next_action": "Email us at luna.digital.operations@gmail.com to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our 4-Week Short-Form Video Boost Package! 🌟 Designed for small businesses and content creators, we provide tailored scripts, engaging content ideas, and editing tips to help you captivate your audience. Ready to increase your visibility? Let’s boost your engagement together! 💬 Email us at luna.digital.operations@gmail.com to get started! #VideoMarketing #SocialMediaEngagement #ContentCreation",
+        "website_description": "Transform your social media presence with our 4-Week Short-Form Video Boost Package. Perfect for small businesses and content creators, this comprehensive offering includes weekly video scripts tailored to your brand, a content strategy guide, and recording tips. Elevate your engagement without the hassle of content creation—let us handle the scripts while you focus on what you do best!",
+        "outreach_template": "Subject: Quick Inquiry About Your Social Media Strategy\n\nHi [Name],\n\nI hope this message finds you well! I came across your profile and noticed your interest in enhancing your social media engagement. We offer a tailored 4-Week Short-Form Video Boost Package that focuses on creating engaging content to help businesses like yours increase their visibility.\n\nWould you be open to discussing how we can support your goals? If so, I’d love to chat!\n\nBest regards,\n[Your Name]  \nP.S. If this isn't of interest, feel free to opt-out, and I won't reach out again.",
+        "discovery_questions": [
+          "What platforms are you currently using for social media?",
+          "What challenges are you facing in creating video content?",
+          "Have you experimented with short-form video content before? If so, what were the results?",
+          "Are there specific themes or styles you prefer for your video content?",
+          "What is your target audience, and what types of content do they engage with the most?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Goals",
+          "Overview of the 4-Week Short-Form Video Boost Package",
+          "Detailed Deliverables",
+          "Timeline and Process",
+          "Investment and Value Proposition",
+          "Next Steps and Call to Action",
+          "Q&A Section"
+        ],
+        "call_to_action": "Ready to increase your engagement? Email us at luna.digital.operations@gmail.com to start your journey today!",
+        "payment_template": "Subject: Follow-Up on Our Recent Discussion\n\nHi [Name],\n\nI hope you're doing well! I wanted to follow up regarding our conversation about the 4-Week Short-Form Video Boost Package. When you're ready to proceed or if you have any questions, feel free to reach out.\n\nLooking forward to hearing from you!\nBest,  \n[Your Name]  \nP.S. If you'd like to opt-out of future communications, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
