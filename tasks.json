@@ -13702,6 +13702,63 @@
         "payment_template": "Subject: Regarding Your Recent Order\n\nHi [Name],\n\nThank you for considering our services! We wanted to reach out to discuss the next steps regarding the payment for your order. Please let us know if you have any questions or if there's anything we can assist you with as we move forward.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790835763877",
+      "created_at": "2026-10-01T06:22:43.877914+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Video Content Plan",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content consistently for social media platforms",
+        "solution": "A tailored 30-day video content plan that includes script ideas, shot lists, and editing tips to boost engagement and visibility",
+        "deliverables": [
+          "30 short-form video scripts (15-60 seconds each)",
+          "Daily posting schedule",
+          "Tips for shooting and editing",
+          "Hashtag recommendations",
+          "Weekly check-in for feedback and adjustments"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Empower your brand with engaging content that connects with your audience and enhances your social media presence.",
+        "sales_angle": "Say goodbye to content creation chaos! Streamline your video strategy and focus on what you do best—running your business.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Networking in local business groups"
+        ],
+        "qualification_criteria": [
+          "Must have existing social media profiles",
+          "Open to experimenting with video content"
+        ],
+        "next_action": "Contact me via email at luna.digital.operations@gmail.com or WhatsApp at +14735341956 to discuss your needs and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to create engaging short-form video content for your social media? Our 30-Day Social Media Video Content Plan is here to help! Get 30 tailored video scripts, posting schedules, and editing tips to boost your brand's online presence. Let's streamline your video strategy together! 🌟 #SocialMedia #ContentCreation #SmallBusiness #VideoMarketing",
+        "website_description": "Transform your online presence with our 30-Day Social Media Video Content Plan! Designed for small businesses and content creators, this package includes 30 short-form video scripts, a daily posting schedule, expert tips for shooting and editing, and hashtag recommendations. Say goodbye to content chaos and focus on what you do best—running your business.",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHello [Recipient's Name],\n\nI hope this message finds you well. I wanted to reach out to introduce a solution designed for small businesses and content creators struggling with consistent video content for social media. Our 30-Day Social Media Video Content Plan offers tailored scripts, posting schedules, and editing tips to help you connect with your audience more effectively.\n\nIf this sounds interesting to you, I would love to discuss it further. Please feel free to opt-out if this isn't the right time for you.\n\nBest regards,\nLuna\nluna.digital.operations@gmail.com\n+14735341956",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media video content?",
+          "Do you have specific goals in mind for your social media presence?",
+          "How frequently do you post content on your social media channels?",
+          "Are you currently using any video content? If so, which formats work best for you?",
+          "What tools or resources do you currently use for content creation?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solution: 30-Day Social Media Video Content Plan",
+          "Deliverables Explained",
+          "Estimated Pricing and Timeline",
+          "Next Steps",
+          "Closing Remarks"
+        ],
+        "call_to_action": "Ready to elevate your social media content? Contact me today to get started!",
+        "payment_template": "Subject: Payment Follow-Up\n\nHello [Recipient's Name],\n\nI hope you're doing well! I wanted to follow up regarding our recent discussion. Could you please confirm the payment details for the 30-Day Social Media Video Content Plan? If you have any questions, feel free to reach out.\n\nThank you, and I look forward to hearing from you soon!\n\nBest regards,\nLuna\nluna.digital.operations@gmail.com\n+14735341956",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
