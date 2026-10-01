@@ -13361,6 +13361,63 @@
         "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Engaging Short-Form Video Package! I wanted to follow up regarding the next steps in getting started. Once you're ready, we can discuss the payment options and finalize your order.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790814292826",
+      "created_at": "2026-10-01T00:24:52.826575+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly TikTok & Instagram Reels Content Package",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create consistent, engaging short-form video content that resonates with their audience",
+        "solution": "A curated content package that provides tailored short-form video scripts and video editing guidance designed to boost engagement and brand awareness on TikTok and Instagram.",
+        "deliverables": [
+          "4 custom video scripts (1 for each week of the month)",
+          "2 edited video templates (quick guides for editing their videos)",
+          "Content calendar for posting schedule",
+          "30 minutes of strategy consultation via video call"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Unlock your brand’s potential with professionally crafted video content that drives audience interaction and elevates your social media footprint.",
+        "sales_angle": "Stay ahead in the competitive landscape by consistently delivering engaging content that captivates your audience without the stress of content creation.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Networking in local business groups"
+        ],
+        "qualification_criteria": [
+          "Must have a business or brand presence on TikTok or Instagram",
+          "Willing to collaborate and provide feedback",
+          "Open to implementing new content strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and start boosting your social media presence today!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand's social media presence with our Monthly TikTok & Instagram Reels Content Package! 🎥 Get 4 custom video scripts, 2 edited video templates, a content calendar, and a 30-min strategy consultation. Perfect for small businesses and creators looking to captivate their audience without the stress of content creation. 💡 Start boosting your engagement today! DM us for details! #SocialMediaMarketing #TikTok #InstagramReels #ContentCreation",
+        "website_description": "Unlock your brand’s potential with our Monthly TikTok & Instagram Reels Content Package! Tailored for small businesses and creators, this package includes 4 custom video scripts, 2 edited video templates, a content calendar, and a 30-minute strategy consultation. Say goodbye to content creation stress and hello to engaging videos that resonate with your audience!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Prospect's Name],\n\nI hope this message finds you well! My name is [Your Name], and I'm with Infinite Sauce. We specialize in helping small businesses and creators enhance their social media presence through engaging video content. \n\nIf you're struggling to create consistent and captivating TikTok and Instagram Reels, we have a Monthly Content Package tailored just for you. It includes custom video scripts, editing templates, a content calendar, and a strategy consultation. \n\nWould you be open to a conversation about how this can benefit your brand? \n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Position] \nInfinite Sauce\n\nP.S. If you'd like to opt-out of future communications, just let me know.",
+        "discovery_questions": [
+          "What are your main goals for your social media presence on TikTok and Instagram?",
+          "What types of content have resonated with your audience in the past?",
+          "How frequently do you currently post on these platforms?",
+          "What challenges have you faced in creating video content?",
+          "Are you open to new content strategies that may enhance engagement?"
+        ],
+        "proposal_outline": [
+          "Introduction: Overview of the offer",
+          "Understanding Your Needs: Summary of discovery questions and insights",
+          "Proposed Solution: Details of the Monthly Content Package",
+          "Deliverables: List of the components included",
+          "Benefits: Value proposition and how it addresses customer issues",
+          "Investment: Suggested price and payment terms",
+          "Next Steps: Outline of the collaboration process"
+        ],
+        "call_to_action": "Ready to transform your social media strategy? Contact us today via email or WhatsApp!",
+        "payment_template": "Subject: Next Steps for Your Content Package\n\nHi [Prospect's Name],\n\nThank you for your interest in our Monthly TikTok & Instagram Reels Content Package! We’re excited to help you enhance your social media presence. Please let me know if you have any questions about the package or if you're ready to proceed, and I will share the details to begin the process.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Position] \nInfinite Sauce\n\nIf you’d prefer not to receive further messages, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
