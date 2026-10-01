@@ -13418,6 +13418,62 @@
         "payment_template": "Subject: Next Steps for Your Content Package\n\nHi [Prospect's Name],\n\nThank you for your interest in our Monthly TikTok & Instagram Reels Content Package! We’re excited to help you enhance your social media presence. Please let me know if you have any questions about the package or if you're ready to proceed, and I will share the details to begin the process.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Position] \nInfinite Sauce\n\nIf you’d prefer not to receive further messages, just let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790817445695",
+      "created_at": "2026-10-01T01:17:25.695611+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Mini Video Boost Package",
+        "target_customer": "Small businesses or creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging video content that captures attention and drives engagement on platforms like TikTok and Instagram.",
+        "solution": "A package that provides tailored short-form video scripts and content ideas, designed to resonate with your target audience.",
+        "deliverables": [
+          "3 custom short-form video scripts for TikTok or Instagram Reels",
+          "1 content strategy guide outlining best practices for posting and engagement",
+          "3 suggested captions tailored for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Maximize your social media engagement with professionally tailored video content that speaks to your audience.",
+        "sales_angle": "Transform your social media presence with engaging videos that captivate and connect.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referral from current clients",
+          "Online workshops or webinars"
+        ],
+        "qualification_criteria": [
+          "Must have a social media account with at least 100 followers",
+          "Open to feedback and revisions on video scripts"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and place your order."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Mini Video Boost Package is here to help small businesses and creators like you engage your audience with custom short-form video scripts and tailored content strategies! 💡✨ Let’s transform your social media presence together! DM us for more information! #VideoMarketing #SocialMediaGrowth #EngagementBoost",
+        "website_description": "Enhance your social media presence with our Mini Video Boost Package! Tailored specifically for small businesses and creators, this package includes 3 custom short-form video scripts for TikTok or Instagram Reels, a comprehensive content strategy guide, and suggested captions. Connect with your audience and maximize engagement for just $150. Let’s get started today to transform your social media! Delivery in just 7 days!",
+        "outreach_template": "Subject: Elevate Your Social Media Engagement\n\nHi [Name],\n\nI hope this message finds you well. I'm reaching out to you because I believe our Mini Video Boost Package could be a great fit for [their business/brand name]. With tailored video scripts and content strategies, we can help enhance your social media presence significantly.\n\nWould you be open to a brief discussion to explore this idea further? \n\nBest regards,\n\n[Your Name]  \n[Your Contact Information]  \n\nP.S. If you're not interested, just let me know, and I won't follow up again.",
+        "discovery_questions": [
+          "What type of video content do you currently create for your social media?",
+          "How often do you post on social media platforms like TikTok or Instagram?",
+          "What are your primary goals for using video content in your marketing strategy?",
+          "Who is your target audience, and how do they typically engage with video content?",
+          "Are there specific challenges you face when creating video content for your brand?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Explanation of Mini Video Boost Package",
+          "Deliverables Breakdown",
+          "Projected Outcomes",
+          "Pricing Information",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us via email or WhatsApp today to get started!",
+        "payment_template": "Subject: Payment Details for Your Order\n\nHi [Name],\n\nThank you for your interest in our Mini Video Boost Package! Once you confirm your order, I'll provide the payment details. Please let me know if you have any questions or if you’d like to proceed. \n\nLooking forward to your response!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
