@@ -14046,6 +14046,62 @@
         "payment_template": "Subject: Payment Details for Your Social Media Boost Package\n\nHi [Name],\n\nThank you for choosing the 30-Day Social Media Boost Package! To proceed, please let me know your preferred payment method, and I'll provide the necessary details.\n\nLooking forward to working together!\n\nBest regards,  \n[Your Name]  \n[Your Contact Information]  \n*If you would like to opt-out of future communications, just let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790857340165",
+      "created_at": "2026-10-01T12:22:20.165386+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Kickstart Package",
+        "target_customer": "Small businesses and creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and promotes brand awareness.",
+        "solution": "A structured content creation package that helps businesses and creators launch their social media presence with professionally crafted short-form video scripts and digital asset templates.",
+        "deliverables": [
+          "5 short-form video scripts tailored to the brand's voice",
+          "2 ready-to-use video templates for Instagram Reels and TikTok",
+          "Captions for all videos and a basic content strategy outline"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Launch your social media presence confidently with content tailored to grab your audience's attention.",
+        "sales_angle": "Transform your online engagement with compelling and professionally structured video content.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Referrals from satisfied customers",
+          "Participation in online creator communities"
+        ],
+        "qualification_criteria": [
+          "Has an existing social media account or willing to create one",
+          "Open to brand collaboration and feedback during the process"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your online presence? Our Social Media Kickstart Package offers tailored short-form video scripts and templates to help small businesses and creators shine on platforms like Instagram and TikTok!✨✨ Get started today and watch your engagement soar! #SocialMedia #VideoContent #KickstartYourBrand",
+        "website_description": "Introducing the Social Media Kickstart Package – the perfect solution for small businesses and creators looking to make a splash online! With tailored video scripts, stylish templates for Instagram Reels and TikTok, and a basic content strategy, you can launch your social media presence with confidence. Let’s turn your audience into fans!",
+        "outreach_template": "Subject: Let’s Enhance Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity to help you elevate your online presence through engaging video content. Our Social Media Kickstart Package offers tailored scripts and templates that can revolutionize your brand's engagement.\n\nIf this sounds interesting, I’d love to discuss it further. Please let me know a convenient time for you!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you’d prefer not to receive further messages, just let me know!",
+        "discovery_questions": [
+          "What are your main goals for your social media presence?",
+          "What platforms are you currently utilizing for your business?",
+          "Have you tried creating video content before? If so, what was your experience?",
+          "Are there specific messages or themes you want to convey through your videos?",
+          "How open are you to collaborating on brand messaging and feedback during the content creation process?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer's Needs",
+          "Our Solution: Social Media Kickstart Package",
+          "Deliverables: Video Scripts, Templates, Captions, Strategy",
+          "Timeline and Estimated Delivery",
+          "Pricing Details",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to take your social media to the next level? Contact us today to learn more!",
+        "payment_template": "Subject: Payment Method Discussion\n\nHi [Name],\n\nThank you for your interest in our Social Media Kickstart Package! I’d like to discuss the payment methods we offer to ensure it’s convenient for you. Once we're set on that, we can start bringing your vision to life.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you’d like me to remove you from this list, please let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
