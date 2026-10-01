@@ -13642,6 +13642,66 @@
         "payment_template": "Subject: Next Steps for Your Social Media Kickstart Package\n\nHi [Name],\n\nThank you for your interest in our Social Media Kickstart Package! To proceed, I'll need to confirm the payment details. Once we finalize this, we can begin tailoring your content right away!\n\nPlease let me know if you have any questions.\n\nBest, \n[Your Name]\n[Your Contact Info]\n\nIf this doesn’t align with your needs, feel free to let me know, and I’ll make sure to adjust my communication accordingly.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790831809471",
+      "created_at": "2026-10-01T05:16:49.471277+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Booster Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that drives audience engagement and growth on social media platforms.",
+        "solution": "A comprehensive content strategy and video production service focusing on short-form videos tailored for TikTok, Instagram Reels, and YouTube Shorts to help increase visibility and engagement.",
+        "deliverables": [
+          "A content strategy outline tailored to the customer's brand and audience",
+          "Three short-form video scripts customized for TikTok and Instagram Reels",
+          "One YouTube Shorts script",
+          "Five engaging captions for social media posts",
+          "Consultation session to discuss content application and best practices"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your social media presence with tailored video content that captivates and engages your target audience.",
+        "sales_angle": "By investing in professionally crafted short-form videos, you can amplify your brand's voice and connect with your audience in a meaningful way.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing past successful projects",
+          "Testimonials from previous clients",
+          "Networking in online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Customer has an existing social media presence",
+          "Customer is looking to invest in content creation",
+          "Customer is open to collaboration on ideas"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation and discuss how we can elevate your social media strategy."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your online presence? Our Social Media Growth Booster Package is here to help small businesses and content creators thrive! 🎥✨ With tailored short-form videos optimized for platforms like TikTok, Instagram Reels, and YouTube Shorts, you'll captivate your audience and drive engagement! 📈💬 Contact us today to learn more! #SocialMediaGrowth #ContentCreation #VideoMarketing",
+        "website_description": "Introducing the Social Media Growth Booster Package, designed for small businesses and content creators eager to enhance their online presence. Our comprehensive service focuses on creating engaging short-form videos tailored for TikTok, Instagram Reels, and YouTube Shorts, helping you increase visibility and engagement. With a personalized content strategy and professional scripts, we ensure your brand stands out in the crowded social media landscape.",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our Social Media Growth Booster Package, specifically crafted for small businesses and content creators like yourself. If you're interested in boosting your online presence with engaging short-form video content, I'd love to discuss how we can assist you.\n\nIf this isn't something you're interested in at the moment, please feel free to let me know, and I'll make sure not to reach out again.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce\n[Your Contact Information]",
+        "discovery_questions": [
+          "What specific challenges are you facing in creating short-form video content?",
+          "Which social media platforms are you currently active on?",
+          "What type of engagement are you looking to achieve with your audience?",
+          "Are there specific themes or messages you want to convey in your videos?",
+          "What has been your experience with video content in the past?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Social Media Presence",
+          "Identification of Customer's Challenges",
+          "Proposed Solution: Social Media Growth Booster Package",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Pricing Information",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to boost your social media presence? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Regarding Your Recent Order\n\nHi [Name],\n\nThank you for considering our services! We wanted to reach out to discuss the next steps regarding the payment for your order. Please let us know if you have any questions or if there's anything we can assist you with as we move forward.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
