@@ -13474,6 +13474,62 @@
         "payment_template": "Subject: Payment Details for Your Order\n\nHi [Name],\n\nThank you for your interest in our Mini Video Boost Package! Once you confirm your order, I'll provide the payment details. Please let me know if you have any questions or if you’d like to proceed. \n\nLooking forward to your response!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790820994527",
+      "created_at": "2026-10-01T02:16:34.527029+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Video Content Package",
+        "target_customer": "Small businesses or independent creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that captures attention and drives audience interaction.",
+        "solution": "A tailored package providing short-form video scripts and content strategies specifically designed for platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "Three personalized short-form video scripts (30-60 seconds each)",
+          "Content strategy guide outlining posting schedule and engagement tips",
+          "Captions for each video to enhance viewer accessibility"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Create captivating video content that engages your audience and showcases your brand in an authentic way.",
+        "sales_angle": "Transform your social media strategy with professional scripts and tailored guidance without spending hours on content creation.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Online communities (Facebook groups, Reddit)"
+        ],
+        "qualification_criteria": [
+          "Must have a clear brand identity",
+          "Active on at least one social media platform",
+          "Open to experimenting with video content"
+        ],
+        "next_action": "Contact via email or WhatsApp to discuss your specific needs and start the journey towards vibrant video content."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Elevate your social media game with our Engaging Video Content Package! 🚀 Small businesses and independent creators, are you struggling to create captivating videos? Let us help! Get three personalized short-form video scripts, a content strategy guide, and captions that enhance accessibility—all for just $150! Ready to transform your content? DM us to start! 🎥✨ #VideoContent #SocialMediaStrategy #SmallBusiness",
+        "website_description": "Unlock the potential of your social media presence with our Engaging Video Content Package! Designed for small businesses and independent creators, this package includes three tailored short-form video scripts, a comprehensive content strategy guide, and viewer-friendly captions to enhance engagement. For just $150, you can create authentic, captivating videos in just 7 days. Start attracting and engaging your audience today!",
+        "outreach_template": "Subject: Elevate Your Video Content!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce our Engaging Video Content Package, tailored specifically for small businesses and independent creators like yourself. If you're looking to enhance your social media presence with captivating short-form video content, this package might be a perfect fit for you.\n\nIt includes three personalized video scripts, a content strategy guide, and captions to maximize viewer engagement—all for just $150!\n\nIf this sounds interesting or if you have any questions, feel free to reach out. I'm here to help!\n\nBest,\n[Your Name]\n\nP.S. If this isn't something you're interested in right now, just let me know, and I'll make sure not to follow up. Thank you!",
+        "discovery_questions": [
+          "What are your primary goals for your social media content?",
+          "Which platforms are you currently most active on?",
+          "Have you created any video content in the past? What was your experience?",
+          "What types of engagement do you hope to achieve with your videos?",
+          "Do you have any specific themes or messages you'd like to convey in your video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of current social media challenges",
+          "Presentation of the Engaging Video Content Package",
+          "Detailed deliverables: scripts, strategy guide, and captions",
+          "Timeline for delivery",
+          "Investment and payment terms",
+          "Next steps and contact information"
+        ],
+        "call_to_action": "Ready to transform your video content? Contact us via email or WhatsApp today!",
+        "payment_template": "Subject: Payment Details for Your Video Content Package\n\nHi [Name],\n\nThank you for choosing our Engaging Video Content Package! To proceed, please let me know your preferred payment method. Once the payment is processed, we'll kick off the project right away!\n\nLooking forward to collaborating with you!\n\nBest,\n[Your Name]\n\nP.S. If you have any questions about the payment process, feel free to ask!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
