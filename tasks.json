@@ -15254,6 +15254,64 @@
         "payment_template": "Subject: Next Steps for Your TikTok Package \n\nHi [Name],\n\nThank you for your interest in our 30-Day TikTok Growth Content Package! To move forward, please let me know if you have any questions or if you would like to proceed with the payment process. \n\nLooking forward to your response! \n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790932642690",
+      "created_at": "2026-10-02T09:17:22.690465+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Instagram Reels Content Package",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to consistently create engaging video content for Instagram that attracts followers and drives engagement.",
+        "solution": "Provide a 30-day plan of curated, engaging Instagram Reels concepts with scripts, ensuring a steady stream of content to maintain engagement and grow audience.",
+        "deliverables": [
+          "30 scripted video concepts for Instagram Reels",
+          "Daily posting schedule",
+          "5 custom hashtags per Reel",
+          "Tips for filming and editing",
+          "Guidance on performance tracking"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 5,
+        "value_proposition": "Transform your Instagram with engaging Reels designed to attract and retain your target audience.",
+        "sales_angle": "Unlock the potential of your Instagram with a professionally curated content plan that saves you time and boosts engagement.",
+        "organic_discovery_methods": [
+          "Social media",
+          "Word-of-mouth",
+          "Email marketing"
+        ],
+        "qualification_criteria": [
+          "Must have an active Instagram account",
+          "Open to trying new content strategies",
+          "Willing to commit to daily posting"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and kick-start your Instagram journey."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Ready to elevate your Instagram game? 🚀 Our 30-Day Instagram Reels Content Package offers you 30 scripted video concepts, a daily posting schedule, and tips for filming and editing. Perfect for small businesses and creators looking to engage their audience and grow! DM us to learn more! #InstagramReels #SocialMediaStrategy #EngagementBoost",
+        "website_description": "Transform your Instagram with our 30-Day Instagram Reels Content Package! Designed for small businesses and creators, this package includes 30 engaging video concepts with scripts, a daily posting schedule, and expert tips for filming and editing. Unleash the potential of your Instagram and watch your audience grow!",
+        "outreach_template": "Subject: Let's Elevate Your Instagram Together!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because we've developed a fantastic 30-Day Instagram Reels Content Package that could really help enhance your social media presence. It includes 30 scripted video concepts and all the resources you'll need to engage your audience effectively. \n\nWould you be open to discussing this further? If so, please let me know a convenient time for you!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\n*If you prefer not to receive messages, just let me know!*",
+        "discovery_questions": [
+          "What type of content do you currently post on your Instagram?",
+          "Have you used video content on Instagram before? If yes, how has it performed?",
+          "What are your primary goals for your Instagram account?",
+          "How often do you post on Instagram currently?",
+          "Are you open to experimenting with new content strategies and formats?"
+        ],
+        "proposal_outline": [
+          "Introduction: Overview of your current Instagram situation",
+          "Problem Statement: Challenges faced in content creation",
+          "Solution: Introduction to the 30-Day Instagram Reels Content Package",
+          "Deliverables: Breakdown of what’s included",
+          "Value Proposition: Benefits of adopting this package",
+          "Pricing: Detail the cost and what it covers",
+          "Next Steps: Call to action for scheduling a consultation"
+        ],
+        "call_to_action": "Ready to transform your Instagram? Contact us via email or WhatsApp to schedule your consultation today!",
+        "payment_template": "Subject: Confirmation of Your Order\n\nHi [Name],\n\nThank you for choosing our 30-Day Instagram Reels Content Package! We’re excited to help you elevate your Instagram presence. Once the payment is processed, we will confirm the details and get started on your content. \n\nPlease feel free to reach out if you have any questions in the meantime!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n\n*If you wish to opt-out of further communications, just let me know!*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
