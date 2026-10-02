@@ -14851,6 +14851,63 @@
         "payment_template": "Subject: Follow-Up on Consultation\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Content Creation Package. We look forward to starting your content journey! When you’re ready, please let us know, and we can discuss the payment options available.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790907348554",
+      "created_at": "2026-10-02T02:15:48.554671+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Mini-Content Package",
+        "target_customer": "Small businesses and creators looking to enhance their online presence",
+        "customer_problem": "Struggling to consistently create engaging short-form video content for social media platforms",
+        "solution": "A comprehensive package offering tailored short-form video scripts, content ideas, and video editing guidelines to boost your social media engagement.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "Content calendar for one week",
+          "Guidelines for shooting and editing the videos",
+          "3 tailored captions for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 5,
+        "value_proposition": "Increase your social media engagement with authentic, tailored video content that resonates with your audience.",
+        "sales_angle": "Transform your social media strategy with professionally crafted video scripts and content guidance, making it effortless to connect with your followers.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Online forums or small business groups"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to commit to a content schedule"
+        ],
+        "next_action": "Reach out via email or WhatsApp to discuss your specific needs and start enhancing your online presence."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your online presence with our Social Media Mini-Content Package! 📈✨ Get tailored short-form video scripts, a content calendar, and editing guidelines designed just for your business. Perfect for small businesses and creators looking to engage their audience effortlessly! 💡🌟 #SocialMedia #VideoContent #SmallBusiness",
+        "website_description": "Transform your social media engagement with our Social Media Mini-Content Package! Designed for small businesses and creators, this comprehensive solution offers three tailored short-form video scripts, a week's worth of content ideas, and essential video editing guidelines. Enhance your online presence with authentic content that resonates with your audience—all delivered in just 5 days for only $150!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Social Media Mini-Content Package that could help your business create engaging short-form video content for your social media platforms.\n\nOur package includes:\n- 3 short-form video scripts (up to 60 seconds each)\n- A content calendar for one week\n- Guidelines for shooting and editing the videos\n- Tailored captions for each video.\n\nWe believe this could significantly boost your social media engagement and make it easier for you to connect with your audience. \n\nIf you're interested in learning more, please feel free to reach out!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \nP.S. If this isn't the right time for you, please let me know, and I'll be sure to respect your space.",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media strategy?",
+          "How often do you post video content, and what types do you find most engaging for your audience?",
+          "What social media platforms do you primarily focus on, and how is your current engagement rate?",
+          "Are there any specific themes or topics you want to highlight in your video content?",
+          "How important is consistency in your content creation for your overall business goals?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Social Media Mini-Content Package",
+          "Detailed Breakdown of Deliverables",
+          "Timeline and Estimated Delivery",
+          "Pricing Information",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to elevate your social media game? Reach out today to discuss how our package can specifically benefit your business!",
+        "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for your interest in our Social Media Mini-Content Package! Once you're ready to move forward, we can discuss the payment details to secure your package.\n\nLooking forward to hearing back!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
