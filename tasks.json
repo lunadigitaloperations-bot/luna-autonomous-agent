@@ -15139,6 +15139,62 @@
         "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Engagement Booster! To proceed, please let us know how you would like to handle the payment.\n\nOnce we finalize the details, we can begin creating engaging content together.\n\nLooking forward to your response. \n\nBest,\nLuna\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790925485009",
+      "created_at": "2026-10-02T07:18:05.009595+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30 Days of TikTok Content Creation",
+        "target_customer": "Small businesses or creators looking to grow their TikTok presence",
+        "customer_problem": "Struggling to create engaging content consistently to gain followers and increase engagement.",
+        "solution": "A tailored content strategy and creation plan that provides a month's worth of TikTok video scripts and ideas tailored to the target audience.",
+        "deliverables": [
+          "30 unique TikTok video scripts",
+          "Content calendar for scheduling posts",
+          "Guidelines for filming and editing",
+          "Tips for leveraging TikTok trends"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your TikTok presence with expertly crafted content that resonates with your audience.",
+        "sales_angle": "Unlock the potential of TikTok to connect with more customers and grow your brand without sacrificing your time.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Content sharing on relevant forums"
+        ],
+        "qualification_criteria": [
+          "Must have a TikTok account set up",
+          "Willingness to engage with their audience"
+        ],
+        "next_action": "Reach out via email or WhatsApp to discuss your needs and start growing your TikTok presence today!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your TikTok game? 🎥 Our \"30 Days of TikTok Content Creation\" package offers your business a tailored strategy with 30 unique video scripts, a content calendar, filming tips, and more! Engage your audience and watch your followers grow without sacrificing your time. Get started for just $250! 📈✨ #TikTokGrowth #ContentCreation",
+        "website_description": "Struggling to create engaging TikTok content? Our \"30 Days of TikTok Content Creation\" service is here to help! For only $250, receive 30 customized video scripts, a detailed content calendar, filming and editing guidelines, plus tips for leveraging trends. Within just 7 days, unlock the potential to connect with more customers and grow your brand effortlessly!",
+        "outreach_template": "Subject: Let's Boost Your TikTok Presence!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity to help you grow your TikTok presence effortlessly. Our \"30 Days of TikTok Content Creation\" package provides tailored video scripts and strategies designed for your target audience.\n\nIf you're interested, I'd love to discuss your goals and how we can support your journey on TikTok!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you're not interested, simply reply with 'opt-out'.",
+        "discovery_questions": [
+          "What are your current challenges in creating TikTok content?",
+          "Who is your target audience on TikTok?",
+          "Have you identified any specific goals for your TikTok presence?",
+          "What types of content have resonated well with your audience in the past?",
+          "How often would you like to post content on TikTok?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solutions",
+          "Deliverables (30 video scripts, content calendar, guidelines, tips)",
+          "Implementation Timeline",
+          "Investment Details",
+          "Next Steps and Contact Information"
+        ],
+        "call_to_action": "Ready to grow your TikTok presence? Reach out today to discuss how we can help you succeed!",
+        "payment_template": "Subject: Payment Details for Your Order\n\nHi [Name],\n\nThank you for your interest in our \"30 Days of TikTok Content Creation\" package. To proceed, please let me know your preferred payment method and we can get everything set up for you. \n\nIf you have any questions or need assistance, feel free to ask!\n\nBest, \n[Your Name]\n[Your Contact Information]\n\nP.S. If you're not interested, just reply with 'opt-out'.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
