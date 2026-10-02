@@ -14795,6 +14795,62 @@
         "payment_template": "Subject: Next Steps for Your Video Content Package\n\nHi [Name],\n\nI wanted to follow up regarding our recent discussion about the Mini Video Content Package. Please let me know if you have any questions or if you're ready to move forward, and we can discuss the payment details then.\n\nLooking forward to hearing from you!\n\nBest,\n[Luna]\n\nP.S. If you prefer not to proceed, just let me know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790903805438",
+      "created_at": "2026-10-02T01:16:45.438188+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Creation Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to consistently create engaging video content for social media platforms",
+        "solution": "A comprehensive content package that includes scripted short-form videos tailored to your brand, aimed at boosting engagement and visibility.",
+        "deliverables": [
+          "Three short-form video scripts (up to 60 seconds each)",
+          "Twenty tailored captions for social media posts",
+          "A personalized content strategy outline for the next month"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your brand's visibility and engagement with well-crafted video content that resonates with your audience.",
+        "sales_angle": "Save time and effort while ensuring your brand stands out with personalized video content designed for maximum impact.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Networking with local businesses"
+        ],
+        "qualification_criteria": [
+          "Must have an established social media presence",
+          "Willingness to collaborate and provide brand details",
+          "Ready to engage with the content creation process"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and kickstart your content creation journey."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to create engaging video content for your social media? Our Social Media Content Creation Package is here to help! 🎥✅ For just $250, get three tailored short-form video scripts, 20 captivating captions, and a personalized content strategy outline – all delivered in just 7 days! Elevate your brand's visibility and engagement today! 🌟 #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Transform your online presence with our Social Media Content Creation Package designed for small businesses and content creators. For $250, receive three expertly crafted short-form video scripts, twenty tailored captions, and a personalized content strategy outline delivered within 7 days. Save time and enhance your brand visibility with content that resonates!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity for enhancing your online presence. Our Social Media Content Creation Package offers small businesses and content creators like yourself an easy way to boost engagement with tailored video content.\n\nIf you're interested, I'd love to discuss this further. Please let me know a convenient time for a consultation.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you'd prefer not to receive updates like this, just let me know.",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "What types of video content have you tried creating in the past?",
+          "Who is your target audience, and what type of content do they engage with?",
+          "How often do you plan to post content on social media?",
+          "What challenges have you faced in the content creation process?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Goals",
+          "Proposed Solutions (Deliverables)",
+          "Timeline and Delivery",
+          "Pricing Details",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to enhance your content strategy? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Follow-Up on Consultation\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Content Creation Package. We look forward to starting your content journey! When you’re ready, please let us know, and we can discuss the payment options available.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
