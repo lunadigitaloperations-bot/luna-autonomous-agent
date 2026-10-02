@@ -14739,6 +14739,62 @@
         "payment_template": "Subject: Next Steps for Your Social Media Package\n\nHi [Name],\n\nThank you for our recent conversation about the Social Media Content Kickstart Package. We’re excited to help you elevate your social media presence!\n\nTo finalize things, please confirm your preferred payment method, and we can proceed. If you have any questions or need further clarification, feel free to reach out.\n\nLooking forward to working together!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790900592508",
+      "created_at": "2026-10-02T00:23:12.508119+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Mini Video Content Package for Social Media Growth",
+        "target_customer": "Small businesses and creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that attracts and retains followers",
+        "solution": "A comprehensive package that includes short-form video scripts and tailored content for platforms like TikTok, Instagram Reels, and YouTube Shorts to increase audience engagement.",
+        "deliverables": [
+          "3 custom short-form video scripts (each up to 60 seconds)",
+          "1 edited sample video for each script (optimized for TikTok, Instagram Reels, or YouTube Shorts)",
+          "Social media captions tailored to each video",
+          "Basic content strategy consultation (up to 30 minutes) to align videos with brand goals"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Transform your social media presence with engaging video content that speaks to your audience and enhances your brand identity.",
+        "sales_angle": "Invest in short-form videos that captivate viewers and boost your online visibility without the hassle of figuring it out yourself.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth referrals",
+          "Networking in local business communities"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Open to creative input and collaboration"
+        ],
+        "next_action": "Contact Luna via email or WhatsApp to schedule an initial consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Elevate your online presence with our Mini Video Content Package! 🎥✨ Perfect for small businesses & creators struggling with engaging short-form video content. 🚀 Get 3 custom scripts, edited sample videos, tailored captions, and a 30-minute strategy consultation—all for just $300! Let's transform your social media today! 🌈 #SocialMediaGrowth #VideoContent #EngagementStrategy",
+        "website_description": "Unlock the power of short-form video content with our Mini Video Content Package! Designed for small businesses and creators looking to enhance their online presence, this package includes 3 custom video scripts, edited sample videos optimized for TikTok, Instagram Reels, and YouTube Shorts, personalized captions, and a 30-minute consultation to align your videos with brand goals—all for just $300. Boost your audience engagement and transform your social media presence today!",
+        "outreach_template": "Subject: Boost Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity: our Mini Video Content Package, designed specifically for small businesses and creators like yourself. This comprehensive package can help you overcome the challenge of creating engaging short-form video content, tailored to platforms that resonate with your audience.\n\nIf you're interested, I would love to schedule a brief consultation to discuss your specific needs and how we can align our services with your goals.\n\nBest regards,\n[Luna]\n\nP.S. If this isn't of interest, feel free to let me know, and I won't follow up again.",
+        "discovery_questions": [
+          "What is your current approach to creating video content for social media?",
+          "Which platforms do you primarily focus on for your content?",
+          "Who is your target audience, and what types of content resonate with them?",
+          "What are your specific goals regarding audience engagement and growth?",
+          "Are there any brand values or themes you'd like your video content to convey?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Objectives and Goals",
+          "Proposed Deliverables",
+          "Timeline and Estimated Delivery (10 days)",
+          "Pricing Structure ($300)",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact Luna today to schedule your initial consultation!",
+        "payment_template": "Subject: Next Steps for Your Video Content Package\n\nHi [Name],\n\nI wanted to follow up regarding our recent discussion about the Mini Video Content Package. Please let me know if you have any questions or if you're ready to move forward, and we can discuss the payment details then.\n\nLooking forward to hearing from you!\n\nBest,\n[Luna]\n\nP.S. If you prefer not to proceed, just let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
