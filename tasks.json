@@ -16056,6 +16056,63 @@
         "payment_template": "Subject: Payment for Your Short-Form Video Content Package\n\nHi [Name],\n\nI wanted to touch base regarding the payment for the Short-Form Video Content Package. If you have any questions about the invoice or need assistance, please let me know.\n\nThank you for your collaboration!\n\nBest,\n[Your Name]\nLuna Digital Operations",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790982768299",
+      "created_at": "2026-10-02T23:12:48.299315+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Package for Creators",
+        "target_customer": "Small business owners or content creators looking to boost their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and drives organic growth",
+        "solution": "A tailored short-form video content package that includes scripting, producing, and optimizing videos for TikTok, Instagram Reels, and YouTube Shorts",
+        "deliverables": [
+          "3 short-form video scripts tailored to the brand's voice",
+          "3 completed videos (up to 60 seconds each) optimized for TikTok, Instagram Reels, and YouTube Shorts",
+          "Basic captions for each video to enhance engagement",
+          "Content strategy recommendations for future posts"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your brand's online presence with professionally crafted short-form videos designed to engage your audience and encourage organic growth.",
+        "sales_angle": "Unlock the potential of your social media with visually compelling videos that attract viewers and increase brand awareness.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Must have a defined target audience",
+          "Willingness to share brand values and key messaging",
+          "Existing social media accounts"
+        ],
+        "next_action": "Contact via email or WhatsApp to schedule a consultation and discuss your needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your online presence to the next level? Our Social Media Growth Package for Creators is designed just for you! 📈✨ Get 3 tailored short-form videos that resonate with your audience and unlock organic growth! DM us to learn more! #SocialMediaGrowth #ContentCreators #InfiniteSauce",
+        "website_description": "Elevate your brand with our Social Media Growth Package for Creators! Tailored specifically for small business owners and content creators struggling with engaging content, this package includes professionally crafted short-form videos optimized for TikTok, Instagram Reels, and YouTube Shorts. Enhance your online presence and drive organic growth today!",
+        "outreach_template": "Subject: Transform Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to enhance your online presence through our Social Media Growth Package tailored for creators like you. \n\nIf you're struggling to create engaging short-form video content, we can help with our comprehensive package that includes scripting, producing, and optimizing videos for various platforms. \n\nWould you be open to a discussion about this? If not, please let me know, and I’ll respect your choice.\n\nBest regards,\n[Your Name]",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "Who is your target audience, and how do you connect with them?",
+          "What challenges have you faced in creating engaging content?",
+          "What type of content has resonated the most with your audience so far?",
+          "How often do you plan to post video content in the future?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the customer's current situation",
+          "Presentation of the Social Media Growth Package",
+          "Detailed deliverables",
+          "Value proposition",
+          "Timeline and next steps",
+          "Call to action"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule your consultation and boost your social media presence!",
+        "payment_template": "Subject: Next Steps\n\nHi [Name],\n\nThank you for your interest in our Social Media Growth Package! To proceed, we can discuss the details and finalize arrangements. Please let me know your preferred time for a quick chat. \n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
