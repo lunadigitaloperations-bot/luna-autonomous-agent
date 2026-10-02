@@ -15657,6 +15657,63 @@
         "payment_template": "Subject: Invoice for Your Recent Order\n\nHi [Name],\n\nThank you for your interest in our Social Media Content Booster Package! We are currently preparing the details for your order. Once everything is finalized, I'll send you an invoice for the total amount of $150. \n\nIf you have any questions or specific requirements, feel free to reach out!\n\nBest,\n[Your Name]  \n[Your Company]  \n[Your Contact Information] \n\nP.S. You can choose not to receive these messages any longer—just let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790957808360",
+      "created_at": "2026-10-02T16:16:48.360332+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Weekly Social Media Content Creation Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to provide consistent, engaging social media content that resonates with their audience",
+        "solution": "A tailored content creation package that delivers captivating short-form videos and captions for social media platforms, specifically designed to increase engagement and visibility.",
+        "deliverables": [
+          "2 short-form video scripts (for TikTok or Instagram Reels) per week",
+          "2 completed short-form videos (including editing) per week",
+          "4 engaging captions for social media posts per week"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your social media presence with consistent, professionally crafted content that speaks to your audience and boosts engagement.",
+        "sales_angle": "Eliminate the stress of content creation with our tailored service, allowing you to focus on running your business while we enhance your online presence.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online portfolios",
+          "Networking with local business communities"
+        ],
+        "qualification_criteria": [
+          "Business or creator has a presence on social media",
+          "Target audience of at least 500 followers",
+          "Willingness to collaborate and provide feedback"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com to schedule a consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate Your Social Media Game! 🚀 Are you a small business or content creator struggling to keep your audience engaged? Our Weekly Social Media Content Creation Package is designed just for you! Get two captivating short-form videos and four engaging captions every week - all tailored to boost your online presence! 💡 Focus on what you love, and let us handle the content. DM us to learn more! #SocialMediaMarketing #ContentCreation #SmallBusinessSupport",
+        "website_description": "Enhance your online presence with our Weekly Social Media Content Creation Package! Designed for small businesses and content creators, our tailored service provides 2 short-form video scripts and 2 completed videos each week, along with 4 engaging social media captions. Say goodbye to the stress of content creation and hello to increased engagement and visibility. Transform your social media strategy today!",
+        "outreach_template": "Subject: Let’s Boost Your Online Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! My name is Luna, and I work with small businesses and content creators to enhance their social media engagement. \n\nI’d love to explore how our Weekly Social Media Content Creation Package can help you provide consistent, engaging content that resonates with your audience. \n\nIf you're interested, could we schedule a brief consultation to discuss your specific needs? If this isn’t something you're currently looking for, please feel free to let me know. \n\nBest regards,\n\nLuna \n[luna.digital.operations@gmail.com]",
+        "discovery_questions": [
+          "What social media platforms do you currently use?",
+          "How often do you post on social media each week?",
+          "What kind of engagement do you see from your audience?",
+          "What content formats have you found to resonate most with your audience?",
+          "Are there any specific themes or topics you would like us to focus on?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of Our Package",
+          "Deliverables and Timeline",
+          "Pricing Details",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to enhance your social media presence? Contact us today at luna.digital.operations@gmail.com to schedule your consultation!",
+        "payment_template": "Subject: Payment Information\n\nHi [Recipient's Name],\n\nThank you for considering our Weekly Social Media Content Creation Package! If you have any questions regarding the payment process or need further details, please feel free to reach out. We're here to assist you in any way possible. \n\nLooking forward to your response!\n\nBest, \nLuna\n[luna.digital.operations@gmail.com]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
