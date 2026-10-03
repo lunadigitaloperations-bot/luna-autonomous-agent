@@ -16734,6 +16734,62 @@
         "payment_template": "Subject: Payment Details for Your Content Package\n\nHi [Recipient's Name],\n\nThank you for choosing our Engaging Short-Form Content Package! To proceed, please find the details for the payment. Let me know if you have any questions or need further assistance.\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n*If you prefer not to receive further communication, feel free to let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791052251225",
+      "created_at": "2026-10-03T18:30:51.225587+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Mini-Boost Package",
+        "target_customer": "Small local businesses or emerging creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to consistently create engaging content that resonates with their audience and increases brand awareness",
+        "solution": "A tailored package that provides engaging short-form video scripts and content strategy for TikTok and Instagram Reels, designed to elevate their social media engagement.",
+        "deliverables": [
+          "3 short-form video scripts (TikTok or Instagram Reels)",
+          "Content strategy guide for posting schedule and audience engagement",
+          "3 engaging captions for the videos",
+          "Basic tips for optimizing social media profiles"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Quick and effective content solutions to help small businesses and creators stand out online without the need for extensive resources or expertise.",
+        "sales_angle": "Unlock the potential of your social media platforms with engaging content that speaks directly to your audience.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth referrals",
+          "Partnerships with local influencers or creators"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to engage and implement provided strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation and discuss your needs."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Boost Your Social Media Presence! 🌟 Small local businesses and emerging creators, elevate your TikTok and Instagram Reels with our Mini-Boost Package! Get 3 engaging short-form video scripts, a content strategy guide, and more—all for just $150! 🚀 Let's unlock your potential together! 📈 Contact us today! #SocialMedia #SmallBusiness #ContentCreation",
+        "website_description": "Introducing our Social Media Mini-Boost Package, specifically designed for small local businesses and emerging creators! Struggling to create engaging content? Our tailored package includes 3 short-form video scripts for TikTok or Instagram Reels, a content strategy guide, engaging captions, and tips to optimize your profiles—all for just $150 and delivered in 7 days. Unlock the potential of your social media platforms quickly and effectively!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our Social Media Mini-Boost Package, which is specifically designed to help small local businesses and emerging creators like you enhance their online presence. Our package includes tailored short-form video scripts, a comprehensive content strategy, and more!\n\nWould you be interested in scheduling a free consultation to discuss your needs? \n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you’d prefer not to receive further messages, please let me know.",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media strategy?",
+          "Have you tried using short-form videos on platforms like TikTok or Instagram Reels before?",
+          "Who is your target audience, and what do you believe resonates with them?",
+          "What types of content have received the best engagement in the past?",
+          "Are there particular social media objectives you're aiming to achieve in the next few months?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Understanding Your Needs",
+          "3. Overview of the Social Media Mini-Boost Package",
+          "4. Deliverables Breakdown",
+          "5. Pricing & Delivery Timeline",
+          "6. Value Proposition",
+          "7. Next Steps & Call to Action"
+        ],
+        "call_to_action": "Contact us today to unlock your social media potential and schedule your free consultation!",
+        "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for your interest in our Social Media Mini-Boost Package! Once we finalize our discussion, I will send you the payment details to proceed. \n\nFeel free to reach out with any questions or to schedule our consultation!\n\nBest, \n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
