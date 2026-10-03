@@ -16448,6 +16448,66 @@
         "payment_template": "Subject: Regarding Your Payment\n\nHi [Recipient's Name],\n\nI wanted to follow up regarding the payment for our service. If you're ready to proceed, please let me know so we can finalize the details and get started on enhancing your social media presence.\n\nThank you for considering us, and I look forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791011893522",
+      "created_at": "2026-10-03T07:18:13.522797+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Starter Package",
+        "target_customer": "Small business owners and creators looking to boost their social media presence",
+        "customer_problem": "Struggling to create engaging social media content that attracts and retains followers.",
+        "solution": "We provide a tailored content plan and ready-to-post videos designed to enhance online engagement and visibility.",
+        "deliverables": [
+          "5 short-form video scripts (up to 60 seconds each)",
+          "5 video concepts for TikTok or Instagram Reels",
+          "5 engaging captions for posts",
+          "A week-long content calendar",
+          "1 consultation session to refine the approach"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Kickstart your social media presence with professionally crafted content that reflects your brand's voice.",
+        "sales_angle": "Stand out in a crowded market with unique, relatable content that speaks to your audience.",
+        "organic_discovery_methods": [
+          "Social media platforms",
+          "Word-of-mouth referrals",
+          "Online forums and communities",
+          "Content marketing via blog posts"
+        ],
+        "qualification_criteria": [
+          "Must have an active profile on at least one social media platform",
+          "Open to receive creative suggestions",
+          "Ready to engage with their audience"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free discovery call."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Ready to elevate your social media game? 🚀 Our Social Media Content Starter Package offers tailored video scripts, engaging captions, and a week-long content calendar, all designed to boost your online presence! Perfect for small business owners and creators. Let’s create content that truly resonates! 💬 Contact us today to kickstart your journey! #SocialMedia #ContentCreation #SmallBusiness #Engagement",
+        "website_description": "Transform your social media presence with our Social Media Content Starter Package! Perfect for small business owners and creators, this package includes 5 engaging video scripts, concepts for TikTok or Instagram Reels, captivating captions, a week-long content calendar, and a consultation to refine your strategy. All crafted to enhance your engagement and visibility online. Get started today for just $299!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share how our Social Media Content Starter Package can help boost your online engagement and visibility. We offer a tailored plan designed specifically for small business owners and creators struggling with content creation.\n\nIf you’re interested, I’d love to schedule a free discovery call to discuss how we can support your social media goals. Please let me know a convenient time for you.\n\nFeel free to opt-out if this isn’t relevant to you.\n\nBest regards,\n[Your Name]",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which social media platforms are you currently using, and which ones do you wish to explore?",
+          "Can you describe your brand’s voice and how you want to communicate with your audience?",
+          "Have you had any past experiences with social media content that were particularly successful or unsuccessful?",
+          "Are you open to creative suggestions in your social media strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Social Media Content Starter Package",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Investment and Value Proposition",
+          "Next Steps and Next Actions",
+          "Q&A Session"
+        ],
+        "call_to_action": "Contact us today to schedule your free discovery call and take the first step in elevating your social media presence!",
+        "payment_template": "Subject: Invoice for Your Review\n\nHi [Name],\n\nI hope you’re doing well! Attached is the invoice for the services we've discussed. Please review it at your convenience.\n\nIf you have any questions or need further information, feel free to reach out. I’m here to help!\n\nThank you,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
