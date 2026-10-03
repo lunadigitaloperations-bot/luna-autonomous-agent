@@ -16224,6 +16224,62 @@
         "payment_template": "Subject: Payment Details for Your Purchase\n\nHi [Name],\n\nThank you for your interest in our Engaging Short-Form Video Content Package! To proceed, please confirm that you want to move forward, and I'll provide you with the payment details.\n\nLooking forward to your reply!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790997744611",
+      "created_at": "2026-10-03T03:22:24.611442+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Package for Creators",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to consistently create engaging content that attracts new followers and retains existing ones.",
+        "solution": "Develop a tailored content plan that includes short-form video scripts and social media strategies to boost engagement and follower growth.",
+        "deliverables": [
+          "1 personalized content strategy document",
+          "3 short-form video scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "5 engaging captions for social media posts",
+          "1 detailed content calendar for the month"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your social media presence with engaging content tailored to your audience, saving you time and effort.",
+        "sales_angle": "Unlock the potential of your social media with expertly crafted content that resonates with your audience.",
+        "organic_discovery_methods": [
+          "Social media outreach",
+          "Word of mouth",
+          "Online forums and groups"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Willing to invest in their online growth"
+        ],
+        "next_action": "Contact via email or WhatsApp to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your social media presence to the next level? Our Social Media Growth Package for Creators is crafted to help small business owners and content creators like you develop engaging content that attracts followers and enhances engagement! 💡📈 Contact us today to get started! #SocialMediaGrowth #ContentCreators #EngagementBoost",
+        "website_description": "Transform your social media strategy with our Social Media Growth Package designed for small business owners and content creators. We provide a personalized content strategy, engaging video scripts, captivating captions, and a detailed content calendar—all tailored to boost your online engagement and follower growth. Invest in your online presence today!",
+        "outreach_template": "Subject: Elevate Your Social Media Game\n\nHi [Name],\n\nI hope this message finds you well! As a small business owner/content creator, you may find it challenging to maintain an engaging social media presence. We're excited to introduce our Social Media Growth Package tailored just for you!\n\nOur package includes personalized content strategies, video scripts, engaging captions, and more to help you grow your followers and enhance your engagement. If you’re interested in learning more, please reply to this email or contact us via WhatsApp.\n\nIf this doesn't resonate with you, feel free to let us know, and we'll remove you from our outreach list.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which social media platforms are you currently using?",
+          "How often do you post content, and what type do you typically share?",
+          "What challenges do you face when creating engaging content?",
+          "Are there any competitors you admire for their social media strategies?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of current social media challenges",
+          "Proposed solution (Social Media Growth Package)",
+          "Detailed breakdown of deliverables",
+          "Timeline and estimated delivery",
+          "Investment amount and payment options",
+          "Next steps and call to action"
+        ],
+        "call_to_action": "Contact us today to schedule your consultation and start growing your social media presence!",
+        "payment_template": "Subject: Payment Reminder\n\nHi [Name],\n\nThank you for considering our Social Media Growth Package! If you have any questions about the payment process or would like to discuss further details, please don't hesitate to reach out. We're here to help!\n\nPlease confirm when you are ready to proceed so we can finalize everything.\n\nIf you wish not to engage at this time, let us know, and we’ll ensure not to follow up.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
