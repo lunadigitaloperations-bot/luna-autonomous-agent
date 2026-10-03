@@ -16167,6 +16167,63 @@
         "payment_template": "Subject: Payment Process for Your Short-Form Video Content Package\n\nHi [Recipient's Name],\n\nThank you for moving forward with our Short-Form Video Content Package! To ensure a smooth process, I’d like to discuss the payment options available to you.\n\nPlease let me know how you’d prefer to proceed, and don’t hesitate to reach out with any questions or clarifications.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]\n(Opt-out option: If you wish to stop receiving communication from me, please kindly let me know.)",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1790993771077",
+      "created_at": "2026-10-03T02:16:11.077424+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Short-Form Video Content Package",
+        "target_customer": "Small businesses or content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and drives interaction.",
+        "solution": "A tailored short-form video content package that includes scriptwriting, content planning, and editing guidance designed to improve audience engagement on social media platforms like TikTok, Instagram, and YouTube.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "Content calendar for posting schedule",
+          "Editing guidelines for video creation",
+          "One 30-minute consultation for feedback and strategy."
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your online presence with professionally crafted video content that resonates with your audience without the hassle of full production.",
+        "sales_angle": "Stand out in a crowded market by harnessing the power of storytelling through engaging video content, designed specifically for your brand identity.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Networking with local business communities"
+        ],
+        "qualification_criteria": [
+          "Must have a business or personal brand presence on social media",
+          "Willingness to implement video content strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free discovery call and discuss your content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand with our Engaging Short-Form Video Content Package! 🎥 Transform your social media presence with tailored scripts, editing guidelines, and a personalized consultation to drive audience engagement. Perfect for small businesses and content creators! 📈💡 Ready to stand out? Let's chat! #VideoMarketing #ContentCreation #SocialMedia",
+        "website_description": "Unlock the potential of your social media with our Engaging Short-Form Video Content Package, specially designed for small businesses and content creators. Get three professionally crafted video scripts, a scheduling calendar, editing guidance, and a 30-minute consultation. Boost engagement and tell your brand's story effectively – all for just $250! Delivery in 10 days. Contact us today to begin your journey to enhanced online presence.",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our Engaging Short-Form Video Content Package designed for small businesses and content creators like yourself. \n\nWe understand the challenges of producing captivating video content that truly connects with your audience. Our package includes scriptwriting, content planning, and editing guidance to help you stand out in a crowded market. \n\nIf you’re interested in exploring how we can help you enhance your social media, I’d love to schedule a discovery call. \n\nLooking forward to hearing from you!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n\nP.S. If you’re not interested, just let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms do you currently use for your video content?",
+          "Have you previously created video content? If so, what challenges did you face?",
+          "What type of audience are you trying to engage with your videos?",
+          "Do you have a specific style or theme in mind for your video content?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Understanding Your Needs",
+          "3. Proposed Solution",
+          "   - Overview of Deliverables",
+          "   - Timeline for Delivery",
+          "4. Pricing and Payment Terms",
+          "5. Next Steps",
+          "6. Conclusion"
+        ],
+        "call_to_action": "Contact us now to schedule your free discovery call and take the first step toward transforming your social media presence!",
+        "payment_template": "Subject: Payment Details for Your Purchase\n\nHi [Name],\n\nThank you for your interest in our Engaging Short-Form Video Content Package! To proceed, please confirm that you want to move forward, and I'll provide you with the payment details.\n\nLooking forward to your reply!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
