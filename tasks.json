@@ -16335,6 +16335,63 @@
         "payment_template": "Subject: Confirmation Regarding Your Order\n\nHi [Client's Name],\n\nThank you for expressing interest in our Short-Form Video Content Package! I wanted to follow up regarding the next steps. Once you’re ready, we’ll proceed with the details to finalize everything. \n\nLooking forward to your response!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791004489416",
+      "created_at": "2026-10-03T05:14:49.416341+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Package",
+        "target_customer": "Small businesses and independent creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to maintain consistent and engaging content on social media platforms.",
+        "solution": "Provide a tailored content strategy and 30 days of planned, ready-to-post content for TikTok and Instagram Reels, helping to boost visibility and engagement.",
+        "deliverables": [
+          "Content strategy overview document",
+          "30 short-form video scripts (15-60 seconds each)",
+          "30 accompanying captions for each video",
+          "Hashtag suggestions for each post",
+          "Content calendar detailing post schedule"
+        ],
+        "suggested_price_usd": 350,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Save time and enhance your online engagement with professionally crafted content that aligns with your brand's voice.",
+        "sales_angle": "Avoid the social media burnout—get a month’s worth of engaging content that connects with your audience!",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Networking in online entrepreneur communities"
+        ],
+        "qualification_criteria": [
+          "Must be an active user of TikTok and/or Instagram",
+          "Has a defined target audience"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to keep your social media fresh and engaging? Boost your visibility with our 30-Day Social Media Content Package! Get a custom content strategy, 30 ready-to-post video scripts for TikTok and Instagram, captions, hashtags, and a posting schedule—all for just $350! Don't let social media burnout hold you back! 💡 DM us to learn more! #SocialMedia #ContentCreation #SmallBusinessSupport",
+        "website_description": "Transform your social media presence with our 30-Day Social Media Content Package! Designed for small businesses and independent creators, this package includes a tailored content strategy, 30 short-form video scripts for TikTok and Instagram, captivating captions, hashtag suggestions, and a content calendar. Save time and engage your audience with professional, custom-crafted content for only $350. Delivered within 7 days, let us help you connect with your target market and enhance your online visibility.",
+        "outreach_template": "Subject: Transform Your Social Media Experience!\n\nHello [Name],\n\nI hope this message finds you well! I wanted to share a solution that might help you tackle the challenge of consistent social media content creation. Our 30-Day Social Media Content Package provides tailored strategies and ready-to-post content for TikTok and Instagram, designed specifically for small businesses and independent creators like yourself.\n\nInterested in learning more? Feel free to reply, and I’d be happy to discuss how we can assist you! \n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\n*If you wish to opt-out of future communications, please let me know.*",
+        "discovery_questions": [
+          "What platforms are you currently using for your social media marketing?",
+          "How often do you post content on your social media accounts?",
+          "What type of content has resonated most with your audience?",
+          "Do you have specific goals for your social media presence?",
+          "Who is your target audience, and how do you currently engage with them?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Customer's Current Situation",
+          "Identify Challenges",
+          "Proposed Solution Overview",
+          "Deliverables and Timeline",
+          "Investment Details",
+          "Next Steps and Call to Action"
+        ],
+        "call_to_action": "Contact us now at luna.digital.operations@gmail.com to schedule your consultation and elevate your social media game!",
+        "payment_template": "Subject: Confirmation of Your Package Interest\n\nHello [Name],\n\nThank you for your interest in our 30-Day Social Media Content Package! We're excited to help you enhance your online presence. Before we proceed, let's discuss the details further to ensure everything meets your expectations.\n\nFeel free to reach out if you have any questions!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\n*If you wish to opt-out of future communications, please let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
