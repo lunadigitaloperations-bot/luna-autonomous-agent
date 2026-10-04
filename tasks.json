@@ -16790,6 +16790,65 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for your interest in our Social Media Mini-Boost Package! Once we finalize our discussion, I will send you the payment details to proceed. \n\nFeel free to reach out with any questions or to schedule our consultation!\n\nBest, \n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791090637191",
+      "created_at": "2026-10-04T05:10:37.191131+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Boost Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to consistently create engaging short-form video content to attract and retain followers",
+        "solution": "A tailored monthly content strategy and production package focused on short-form videos for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "Four 60-second scripted video concepts",
+          "One edited video for TikTok",
+          "One edited video for Instagram Reels",
+          "One edited video for YouTube Shorts",
+          "Customized captions for each video",
+          "Content calendar outlining posting schedule"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Transform your social media with a ready-to-post video strategy that resonates with your audience, saving you time and enhancing engagement.",
+        "sales_angle": "Unlock the power of short-form video as a vital tool for growing your brand's visibility and connection with your audience.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing past work",
+          "Testimonials from satisfied clients",
+          "Educational content about the importance of video marketing"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Open to exploring short-form video content",
+          "Willingness to provide feedback and collaborate"
+        ],
+        "next_action": "Contact Luna at luna.digital.operations@gmail.com to schedule a free consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to boost your social media presence? 📱 Our 30-Day Social Media Content Boost Package is designed for small business owners and content creators eager to enhance engagement with captivating short-form videos! Get customized video strategies for TikTok, Instagram Reels, and YouTube Shorts that resonate with your audience! 🌟 Schedule a free consultation today! #SocialMediaMarketing #ContentCreation #ShortFormVideo #BoostYourBrand",
+        "website_description": "Transform your social media presence with our 30-Day Social Media Content Boost Package! Tailored for small business owners and content creators, our package includes a comprehensive strategy for creating engaging short-form videos for TikTok, Instagram Reels, and YouTube Shorts. With four scripted video concepts, edited videos for each platform, and a content calendar, you’ll save time while increasing your brand visibility. Dive into the power of video marketing today!",
+        "outreach_template": "Subject: Let’s Amplify Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I’m reaching out to introduce you to our 30-Day Social Media Content Boost Package, specifically designed for small business owners and content creators looking to enhance their social media impact through engaging short-form videos.\n\nIf this sounds interesting, I’d love to schedule a free consultation to discuss how we can help you stand out online. Please let me know a convenient time for you!\n\nIf you’re not interested, feel free to let me know to opt out of future communications.\n\nBest regards,\n[Luna]\n\nluna.digital.operations@gmail.com",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media content?",
+          "Which social media platforms are you using to engage your audience?",
+          "Have you explored short-form video content before? If so, what was your experience?",
+          "How often do you currently post on social media?",
+          "What goals do you hope to achieve with your social media strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Social Media Content Boost Package",
+          "Deliverables (video concepts, edited videos, captions, content calendar)",
+          "Timeline and estimated delivery of 30 days",
+          "Pricing details",
+          "FAQs",
+          "Next steps and contact information"
+        ],
+        "call_to_action": "Contact Luna today to schedule your free consultation and take the first step towards transforming your social media presence!",
+        "payment_template": "Subject: Next Steps for Your Social Media Boost Package\n\nHi [Recipient's Name],\n\nThank you for considering our 30-Day Social Media Content Boost Package! To move forward, we can discuss the details, including payment options, to secure your spot. \n\nPlease let me know if you have any questions or if you'd like to set up a time for us to connect.\n\nThank you!\n\nBest, \n[Luna] \nluna.digital.operations@gmail.com",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
