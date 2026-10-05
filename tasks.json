@@ -18213,6 +18213,61 @@
         "payment_template": "Subject: Next Steps for Your Order\n\nHi [Recipient's Name],\n\nThank you for considering our 30-Day Social Media Content Boost Package! Once you're ready to move forward, please let us know, and we can discuss the payment details to kickstart your order.\n\nLooking forward to working together!\n[Your Name]\n\nP.S. If you prefer not to engage further, just let me know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791242056973",
+      "created_at": "2026-10-05T23:14:16.973225+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Social Media Content Package",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging content consistently for social media platforms, leading to low engagement and reduced visibility.",
+        "solution": "A tailored content package that provides structured short-form video scripts and captions optimized for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "5 unique short-form video scripts tailored to the brand's voice",
+          "5 engaging captions optimized for social media algorithms",
+          "Content strategy outline with posting schedule and target audience tips"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your social media presence with compelling scripts and captions designed to attract and engage your audience.",
+        "sales_angle": "Unlock the potential of your social media with professionally crafted content that resonates with your audience, all delivered remotely!",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Content previews on social media channels"
+        ],
+        "qualification_criteria": [
+          "Established social media accounts",
+          "Willingness to engage with content for better results"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🌟 Boost Your Brand's Social Media Game! 🌟 Struggling to create engaging content consistently? Our Engaging Social Media Content Package offers tailored short-form video scripts and captions crafted just for you! Unlock your social potential and elevate your online presence today! 💥✨ #SocialMedia #ContentCreation #SmallBusiness #EngageYourAudience",
+        "website_description": "Transform your social media presence with our Engaging Social Media Content Package! Designed for small businesses and creators, this package includes 5 unique short-form video scripts and 5 optimized captions, all tailored to resonate with your brand's voice. Plus, get a content strategy outline complete with a posting schedule and target audience tips. Elevate your engagement and visibility today, all for just $250!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Prospect's Name],\n\nI hope this message finds you well! I’m reaching out to share our Engaging Social Media Content Package designed specifically for small businesses and creators like yourself. We understand that crafting consistent, engaging content can be a challenge, and our tailored solutions can help you overcome that hurdle.\n\nWould you be open to a brief consultation to explore how we can elevate your social media strategy? \n\nLooking forward to hearing from you!\n\nBest regards,\n[Your Name]\n[Your Position] \nInfinite Sauce\n\n*If you're not interested, please let me know and I’ll update my records.*",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What goals do you have for your social media presence?",
+          "What type of content has resonated most with your audience in the past?",
+          "How often do you currently post content on social media?",
+          "What challenges are you facing in creating engaging content?"
+        ],
+        "proposal_outline": [
+          "Introduction\n  - Brief introduction of services\n  - Purpose of the proposal",
+          "Understanding Your Needs\n  - Overview of the client’s current social media challenges\n  - Specific goals from the client's perspective",
+          "Our Solution\n  - Detailed description of the Engaging Social Media Content Package\n    - Unique short-form video scripts\n    - Engaging captions\n    - Content strategy outline",
+          "Deliverables\n  - List of deliverables with descriptions",
+          "Timeline\n  - Estimated delivery time of 7 days",
+          "Investment\n  - Total cost of $250",
+          "Next Steps\n  - Call to action for consultation or project kickoff"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Confirmation for Your Engagement\n\nHi [Client's Name],\n\nThank you for choosing our Engaging Social Media Content Package! We look forward to working with you. Please find the payment details below to proceed with the project:\n\n[Payment Instructions]\n\nIf you have any questions or require additional information, feel free to reach out. \n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
