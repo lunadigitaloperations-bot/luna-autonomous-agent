@@ -17641,6 +17641,64 @@
         "payment_template": "Subject: Payment Details for Your Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Kickstart Package. We can discuss the payment details at your convenience. Please let me know how you would like to proceed!\n\nLooking forward to working with you!  \nBest regards,  \n[Your Name]  \nInfinite Sauce\n\nP.S. If you would like to opt out of further communication, simply let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791195550251",
+      "created_at": "2026-10-05T10:19:10.251450+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Video Sprint",
+        "target_customer": "Small business owners and content creators looking to boost their online presence.",
+        "customer_problem": "Many small businesses struggle to create engaging video content that captures their audience's attention and showcases their brand.",
+        "solution": "A 30-day service to develop, script, and produce short-form videos tailored for platforms like TikTok, Instagram Reels, and YouTube Shorts, aimed at enhancing online engagement.",
+        "deliverables": [
+          "Four short-form video scripts (one per week)",
+          "Four completed video edits ready for upload",
+          "Weekly content calendar with posting guidelines",
+          "Two catchy captions per video"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Transform your online engagement with professionally crafted video content that resonates with your audience.",
+        "sales_angle": "Stand out in a crowded market with visually appealing videos that drive traffic to your business.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word-of-mouth referrals",
+          "Content marketing",
+          "Networking in local business groups"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to provide feedback during the content creation process",
+          "Basic understanding of video posting on social media platforms"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and kickstart your video marketing journey."
+      },
+      "sales_assets": {
+        "social_post": "🎥✨ Ready to elevate your brand? Join our 30-Day Social Video Sprint! Create engaging, short-form videos for TikTok, Instagram Reels, and YouTube Shorts tailored just for you! 🚀 Boost your online presence and engage your audience like never before. DM us to learn more! #VideoMarketing #SmallBusinessGrowth #ContentCreators",
+        "website_description": "Transform your online engagement with our 30-Day Social Video Sprint! Designed for small business owners and content creators, we’ll help you develop, script, and produce short-form videos that captivate your audience. With four video scripts, completed edits, a content calendar, and catchy captions, we make it easy for you to stand out in a crowded market. Start enhancing your online presence today!",
+        "outreach_template": "Subject: Let's Boost Your Online Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! My name is [Your Name] from Infinite Sauce. I wanted to share an exciting opportunity for small business owners like you. Our 30-Day Social Video Sprint helps develop, script, and produce captivating short-form videos tailored for your brand. \n\nIf you're interested in enhancing your online engagement and would like to discuss this further, please feel free to reach out!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn’t of interest, just let me know, and I’ll make sure not to follow up. Thank you!",
+        "discovery_questions": [
+          "What specific goals do you have for your online presence?",
+          "Which social media platforms do you currently use to promote your business?",
+          "What challenges have you faced in creating video content in the past?",
+          "How do you currently engage with your audience online?",
+          "What type of videos do you think your audience would find most appealing?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Social Video Sprint",
+          "Understanding Your Goals",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Investment Details",
+          "Next Steps and Contact Information"
+        ],
+        "call_to_action": "Ready to get started? Contact us now to schedule a consultation and kickstart your video marketing journey!",
+        "payment_template": "Subject: Payment Follow-Up\n\nHi [Recipient's Name],\n\nI wanted to reach out about the payment details for our upcoming collaboration. Could you please let me know when you are ready to proceed? \n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
