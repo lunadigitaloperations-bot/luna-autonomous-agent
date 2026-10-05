@@ -17756,6 +17756,62 @@
         "payment_template": "Subject: Payment Details for Your Social Media Growth Package  \n\nHi [Recipient's Name],  \nThank you for your interest in our Social Media Growth Package! To proceed, please let us know how you would like to handle the payment, and we will ensure a smooth process for you.  \nLooking forward to your response!  \nBest,  \n[Your Name]  \n[Your Contact Information]  \n*If you’re not interested at this time, please let me know, and I’ll respect your wishes.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791202916790",
+      "created_at": "2026-10-05T12:21:56.790520+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Mini-Boost Package",
+        "target_customer": "Small business owners or content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that drives engagement and brand awareness on social media",
+        "solution": "A curated package of short-form video scripts and social media content strategy tailored to elevate brand visibility and connect with target audiences",
+        "deliverables": [
+          "3 custom short-form video scripts for TikTok or Instagram Reels",
+          "1 detailed content strategy document, including posting schedule and engagement tips",
+          "5 engaging captions tailored for the provided video scripts"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Attract more followers and enhance engagement with well-crafted, relatable video content and strategies designed for your brand",
+        "sales_angle": "Transform your social media presence with professional scripts and strategies tailored to your unique style, all from the comfort of your workspace.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media ads",
+          "Networking in online communities"
+        ],
+        "qualification_criteria": [
+          "Must have an established social media account",
+          "Willingness to collaborate and share brand details"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your specific needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate Your Online Presence with Our Social Media Mini-Boost Package! 📈 Struggling with engaging short-form video content? We’ve got you covered! Get customized video scripts, tailored content strategies, and catchy captions designed to connect with your audience! Discover how to attract more followers and drive brand awareness. 💡 Ready to transform your social media? Contact us today! #SocialMediaMarketing #SmallBusiness #ContentCreation",
+        "website_description": "Introducing the Social Media Mini-Boost Package, designed for small business owners and content creators who want to enhance their online presence. Our package includes custom short-form video scripts, a detailed content strategy, and engaging captions—all tailored to elevate your brand visibility. At just $150, we’ll help you connect with your target audience and attract more followers through professional, relatable video content. Let’s redefine your social media journey together!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well. My name is [Your Name] from Infinite Sauce, and I wanted to share an exciting opportunity that could benefit your brand. Our Social Media Mini-Boost Package offers tailored video scripts and content strategies to enhance your online engagement.\n\nIf you’re keen to explore how we can support your social media goals, please feel free to reach out!\n\nThank you,\n[Your Name]\n[Your Contact Information]  \n*If you're not interested, kindly let me know, and I won't reach out again.*",
+        "discovery_questions": [
+          "What specific challenges are you facing in creating short-form video content?",
+          "Who is your target audience, and what types of content resonate with them?",
+          "Have you tried any strategies in the past to boost your social media engagement?",
+          "What is your main goal for your social media presence (more followers, increased engagement, brand awareness)?",
+          "Are there any particular platforms you focus on, or are you open to multiple channels?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Brand",
+          "Challenges and Goals",
+          "Our Solution: Social Media Mini-Boost Package",
+          "Deliverables Overview",
+          "Timeline and Pricing",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to transform your social media? Contact us via email or WhatsApp to get started!",
+        "payment_template": "Subject: Payment Confirmation for Your Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Mini-Boost Package! As we move forward, I wanted to confirm details regarding the payment process so we can start creating some amazing content for you.\n\nPlease let us know your preferred payment method, and we can guide you through the next steps.\n\nBest regards,\n[Your Name]\n[Your Contact Information]  \n*If you're not interested, please feel free to let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
