@@ -17869,6 +17869,61 @@
         "payment_template": "Subject: Payment Details for Your Video Content Package\n\nHi [Name],\n\nThank you for moving forward with our **Engaging Video Content Package**! To secure your order, please let us know your preferred payment method and we will provide you with the necessary details.\n\nLooking forward to working together to elevate your social media presence!\n\nBest,\n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Contact Information]\n\nIf you're not interested in proceeding at this time, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791210069138",
+      "created_at": "2026-10-05T14:21:09.138346+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "TikTok Content Creation Package",
+        "target_customer": "Small businesses and creators looking to enhance their TikTok presence",
+        "customer_problem": "Struggling to create engaging TikTok videos that attract attention and drive engagement",
+        "solution": "A tailored content creation package specifically designed for TikTok that includes script writing, video ideas, and post caption suggestions to foster creativity and encourage viewer interaction.",
+        "deliverables": [
+          "Three short-form TikTok video scripts",
+          "Five TikTok video ideas with trending themes",
+          "Three engaging post captions tailored for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your TikTok game with professionally crafted content that resonates with your target audience, designed to maximize engagement and brand visibility.",
+        "sales_angle": "Unlock your TikTok potential and watch your audience grow with tailored content that speaks to your brand's voice.",
+        "organic_discovery_methods": [
+          "Social media ads",
+          "Word of mouth",
+          "Content marketing on Instagram and blogs"
+        ],
+        "qualification_criteria": [
+          "Must have an active TikTok account",
+          "Open to feedback and collaboration"
+        ],
+        "next_action": "Reach out via email or WhatsApp to discuss your specific needs and how we can help you grow your TikTok presence."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your TikTok game? Our TikTok Content Creation Package is designed for small businesses and creators who want to engage their audience with professionally crafted content! Get tailored video ideas, scripts, and post captions that resonate with your brand. 🌟 Let's unlock your TikTok potential together! DM us to learn more! #TikTok #ContentCreation #SocialMediaGrowth",
+        "website_description": "Transform your TikTok presence with our TikTok Content Creation Package! Perfect for small businesses and creators, this package includes three engaging video scripts, five trending video ideas, and three tailored captions aimed at maximizing your brand visibility. Elevate your content and connect with your audience today!",
+        "outreach_template": "Subject: Boost Your TikTok Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity that could enhance your presence on TikTok. Our TikTok Content Creation Package is specifically designed for businesses like yours, focusing on engaging scripts, trending video ideas, and compelling captions.\n\nI’d love to discuss how we can tailor this package to meet your needs. If this sounds interesting, feel free to reply or reach out via email or WhatsApp!\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nIf you're not interested, please let me know, and I'll be happy to remove you from future communications.",
+        "discovery_questions": [
+          "What are your current challenges with creating TikTok content?",
+          "Who is your target audience on TikTok?",
+          "What types of content have you previously tried, and what has worked best for you?",
+          "Are there specific themes or trends you would like to explore in your videos?",
+          "How do you currently measure success on your TikTok account?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of TikTok Content Creation Package",
+          "Deliverables",
+          "Value Proposition",
+          "Next Steps and Collaboration",
+          "Pricing and Payment Information",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to elevate your TikTok game? Reach out now to discuss how we can help!",
+        "payment_template": "Subject: Payment Details for Your TikTok Content Creation Package\n\nHi [Name],\n\nThank you for discussing our TikTok Content Creation Package with me! As we prepare to get started, I wanted to provide you with the details on the payment process. Please let me know your preferred method, and I’ll send you the necessary information to proceed.\n\nLooking forward to collaborating!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nIf you do not wish to engage further, please let me know, and I will respect your wishes.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
