@@ -17983,6 +17983,64 @@
         "payment_template": "Subject: Payment Process Details\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Content Boost! To proceed, we will need to discuss the payment details. Please let me know a convenient time for you to connect.\n\nLooking forward to your response!\n\nBest,\n[Your Name]  \n[Your Contact Information]  \nIf you prefer not to receive further messages, feel free to opt out.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791217095497",
+      "created_at": "2026-10-05T16:18:15.497794+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Short-Form Video Content Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create consistent and engaging short-form video content that captures audience attention and boosts brand awareness.",
+        "solution": "A comprehensive package providing tailored short-form video scripts and concepts ideal for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 engaging short-form video scripts tailored to the brand's voice",
+          "1 content strategy outline for optimizing posting schedules and trends",
+          "3 caption options for each video, designed to boost engagement",
+          "Remote support for any questions regarding implementation"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your social media engagement with customized, audience-focused video content that aligns with current trends, all while saving you time.",
+        "sales_angle": "Transform your social media presence with engaging content that resonates with your audience, without the hassle of video creation.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Networking with local businesses and creators"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Willingness to collaborate on content ideas"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your project and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media with our Engaging Short-Form Video Content Package! Tailored scripts, strategies, and support to captivate your audience and enhance your brand presence. Let's make your content shine! ✨ #InfinitySauce #SocialMediaSuccess #VideoMarketing",
+        "website_description": "Transform your social media with our Engaging Short-Form Video Content Package. Tailored for small business owners and content creators, this package includes custom video scripts, strategic outlines, and captions designed to resonate with your audience and boost engagement—saving you time and enhancing your online presence all for just $150!",
+        "outreach_template": "Subject: Let's Enhance Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! My name is [Your Name] from Infinite Sauce. We specialize in helping small businesses and content creators like yourself enhance their social media engagement through our tailored short-form video content package.\n\nIf you're struggling to create consistent and engaging video content, I'd love to discuss how we can assist you in producing captivating content that aligns with your brand's voice.\n\nWould you be open to a brief chat to explore this further?\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\n*If you’re not interested, please let me know, and I’ll happily remove you from my outreach list.*",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current video content?",
+          "Who is your target audience, and what platforms are you focusing on?",
+          "Have you previously created any short-form video content, and what was your experience?",
+          "What goals do you have for your social media presence in the next few months?",
+          "Are there any brands or styles of content that inspire you in your social media strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Proposed Solution Overview",
+          "Deliverables",
+          "Timeline for Delivery",
+          "Investment and Value Proposition",
+          "Next Steps",
+          "Q&A Section",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to elevate your social media game? Reach out to us via email or WhatsApp to discuss your project!",
+        "payment_template": "Subject: Payment Information for Your Project\n\nHi [Name],\n\nThank you for choosing our Engaging Short-Form Video Content Package! To get started, please let me know your preferred payment method so we can proceed smoothly.\n\nIf you have any questions or need assistance, feel free to reach out.\n\nLooking forward to working with you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\n*If you need more time to decide, just let me know!*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
