@@ -17238,6 +17238,60 @@
         "payment_template": "Subject: Next Steps for Your TikTok Package\n\nHi [Name],\n\nThank you for considering our 30-Day TikTok Content Boost Package! To proceed, we will need to confirm the payment details. Please let me know your preferred method of payment, and I can provide the necessary information.\n\nLooking forward to helping you with your TikTok journey!\n\nBest,\n[Your Name]\n[Your Company]\n\n*If you have any questions or wish to opt out, please feel free to let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791166625118",
+      "created_at": "2026-10-05T02:17:05.118968+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Engagement Booster Package",
+        "target_customer": "Small businesses and content creators looking to increase their online presence and audience engagement.",
+        "customer_problem": "Struggling to create consistent and engaging content that resonates with their audience and promotes interaction.",
+        "solution": "A tailored content strategy that includes short-form video scripts and engaging captions designed to boost engagement on social media platforms like TikTok and Instagram.",
+        "deliverables": [
+          "Three short-form video scripts tailored to the customer’s brand and goals",
+          "Three engaging captions for each video",
+          "A week-long social media content calendar"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your social media presence with engaging content designed to resonate with your audience and boost interaction.",
+        "sales_angle": "Perfect for small businesses and creators who want professional content without the hassle of a full-service agency.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing testimonials and content examples",
+          "Collaborating with micro-influencers for shout-outs",
+          "Utilizing community groups and forums relevant to small businesses and creators"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Open to experimenting with new content strategies"
+        ],
+        "next_action": "Contact Luna at luna.digital.operations@gmail.com to discuss your needs and how we can help enhance your social media engagement."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your social media presence with our Social Media Engagement Booster Package! Tailored short-form video scripts and engaging captions designed specifically for small businesses and content creators. Ready to resonate with your audience? Let’s connect! 📈✨ #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Elevate your online presence with our Social Media Engagement Booster Package! Designed for small businesses and content creators, this package offers a personalized content strategy that includes three tailored short-form video scripts and engaging captions, plus a week-long content calendar. Enhance your audience engagement effortlessly, all for just $150.",
+        "outreach_template": "Subject: Enhance Your Social Media Engagement\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to you regarding your social media engagement. Many small businesses and content creators are struggling with consistently producing engaging content that resonates with their audience. \n\nWe are offering a Social Media Engagement Booster Package that could be a great fit for enhancing your online presence. It includes tailored video scripts and engaging captions designed to boost interaction on platforms like TikTok and Instagram.\n\nWould you be open to discussing how we can assist you further?\n\nBest regards,\nLuna\nluna.digital.operations@gmail.com\n\n*If you'd prefer not to receive any further communication, just let me know!*",
+        "discovery_questions": [
+          "What are your current goals for your social media presence?",
+          "How often do you post content on your social media platforms?",
+          "What challenges do you face with your existing content strategy?",
+          "Which platforms do you find most effective for engaging your audience?",
+          "Are you open to trying new content formats, such as short-form videos?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Current Situation",
+          "Proposed Solution: Social Media Engagement Booster Package",
+          "Deliverables Overview",
+          "Timeline and Costs",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to enhance your social media engagement? Contact Luna today at luna.digital.operations@gmail.com!",
+        "payment_template": "Subject: Payment Instructions for Your Package\n\nHi [Recipient's Name],\n\nThank you for discussing the Social Media Engagement Booster Package with me. I'm excited to move forward! To ensure a smooth process, please see the payment instructions below:\n\n[Insert Payment Instructions]\n\nOnce the payment is made, we can begin tailoring your content strategy to boost your social media presence.\n\nLet me know if you have any questions or concerns.\n\nBest,\nLuna\n\n*If you'd like to opt-out of any future communication, just let me know!*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
