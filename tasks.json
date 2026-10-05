@@ -17292,6 +17292,65 @@
         "payment_template": "Subject: Payment Instructions for Your Package\n\nHi [Recipient's Name],\n\nThank you for discussing the Social Media Engagement Booster Package with me. I'm excited to move forward! To ensure a smooth process, please see the payment instructions below:\n\n[Insert Payment Instructions]\n\nOnce the payment is made, we can begin tailoring your content strategy to boost your social media presence.\n\nLet me know if you have any questions or concerns.\n\nBest,\nLuna\n\n*If you'd like to opt-out of any future communication, just let me know!*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791170302864",
+      "created_at": "2026-10-05T03:18:22.864538+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engagement Booster Package for Social Media",
+        "target_customer": "Small business owners and content creators",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and drives interaction.",
+        "solution": "A tailored content strategy and scriptwriting service to produce compelling short-form videos for platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "One-on-one consultation to understand brand and messaging (60 minutes)",
+          "Content strategy document outlining video themes, tone, and target audience",
+          "Three short-form video scripts (up to 60 seconds each)",
+          "Three sets of compelling captions for each video",
+          "Guidance on best practices for filming and posting"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Get expert guidance and ready-to-use content that enhances audience engagement without the guesswork.",
+        "sales_angle": "Elevate your online presence with a professional touch, helping you connect more authentically with your audience.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth",
+          "Referrals from satisfied customers",
+          "Networking groups for small businesses and creators"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Open to collaborating on content strategy",
+          "Willingness to invest in their brand visibility"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to create engaging short-form videos for your brand? Our **Engagement Booster Package** is designed for small business owners and content creators like you! Get tailored strategies, scriptwriting, and expert guidance to elevate your online presence. 🌟 Schedule your consultation today! Email: luna.digital.operations@gmail.com #SocialMediaSuccess #ContentCreation #EngagementBooster",
+        "website_description": "Unlock your brand's potential with our Engagement Booster Package tailored for small business owners and content creators. Overcome the challenge of creating captivating short-form videos with our comprehensive service, including personalized consultation, strategic content planning, and expertly crafted scripts. Elevate your social media engagement effortlessly. Get started today for just $299!",
+        "outreach_template": "Subject: Enhance Your Social Media Engagement!\n\nHi [Name],\n\nI hope this message finds you well. I wanted to introduce you to our **Engagement Booster Package**, designed specifically for small business owners and content creators. If you're looking to create engaging video content that connects with your audience, I'd love to discuss how we can help.\n\nLet me know if you’d be open to a brief consultation. If not, no worries—just hit reply to opt out of future messages.\n\nBest regards,\n[Your Name]\nLuna at Infinite Sauce",
+        "discovery_questions": [
+          "What social media platforms are you currently active on?",
+          "What challenges do you face when creating video content?",
+          "Who is your target audience and what do they engage with?",
+          "Have you set specific goals for your social media presence?",
+          "Are you open to exploring new content themes or styles?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Brand",
+          "Overview of the Engagement Booster Package",
+          "Deliverables",
+          "Timeline for Delivery",
+          "Investment and Next Steps",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Ready to boost your engagement? Email us at luna.digital.operations@gmail.com to schedule your consultation today!",
+        "payment_template": "Subject: Next Steps for Your Engagement Booster Package\n\nHi [Name],\n\nThank you for your interest in our Engagement Booster Package! To move forward, please let us know your preferred payment method, and we can get started on your consultation.\n\nIf you have any questions, feel free to ask. If you'd prefer not to proceed, just reply to opt out of future messages.\n\nLooking forward to hearing from you!\nBest, \n[Your Name]\nLuna at Infinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
