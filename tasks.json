@@ -19227,6 +19227,62 @@
         "payment_template": "Subject: Payment Instructions for Your Video Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Engaging Short-Form Video Content Package! To proceed, please let us know your preferred payment method, and we will provide you with the necessary details.\n\nLooking forward to working together to elevate your video content!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this package isn’t right for you, just let me know, and I’ll make sure not to reach out again.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791306917027",
+      "created_at": "2026-10-06T17:15:17.027654+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Boost Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging social media content that attracts and retains followers",
+        "solution": "Develop a tailored short-form video content strategy, including scripts and posting schedule to engage the target audience effectively.",
+        "deliverables": [
+          "1 customized content strategy document (PDF)",
+          "3 short-form video scripts tailored for TikTok, Instagram Reels, or YouTube Shorts",
+          "1 monthly social media posting schedule",
+          "3 caption suggestions for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your social media presence with engaging videos designed to captivate your audience and drive interaction.",
+        "sales_angle": "Unlock your social media potential with targeted, engaging content that speaks directly to your audience's interests.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Networking in local business groups"
+        ],
+        "qualification_criteria": [
+          "Small business or content creator with an established social media profile",
+          "Willingness to collaborate and provide input on target audience"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and kickstart your social media journey!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your social media presence with our Social Media Boost Package! 📈 Ideal for small businesses and content creators, this package delivers a tailored video content strategy to engage your audience like never before. Get ready for captivating content that drives interaction and grows your following! ✨ Contact us today to start your journey! #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Transform your social media presence with our Social Media Boost Package! Perfect for small businesses and content creators, this comprehensive service includes a customized content strategy, three engaging short-form video scripts, a monthly posting schedule, and tailored captions. Elevate your online identity and connect with your audience by unlocking the power of engaging video content. Get started in just 7 days for only $150!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to share an exciting opportunity to elevate your social media presence with our Social Media Boost Package. \n\nThis package is designed specifically for small businesses and content creators who wish to engage their audience through tailored video content strategies. We'd love to discuss how we can assist you in reaching your social media goals.\n\nIf you're interested in learning more, please feel free to reply to this email or reach out via WhatsApp.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you’d prefer not to receive further communication, please let us know.",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media content?",
+          "Who is your target audience, and what interests them most?",
+          "What platforms do you currently use to promote your business?",
+          "Have you experimented with video content before, and if so, what was the outcome?",
+          "What are your primary goals for your social media presence in the next 6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the client's current situation",
+          "Present the Social Media Boost Package solution",
+          "Detail deliverables",
+          "Explain the value proposition",
+          "Outline the pricing and estimated delivery time",
+          "Next steps and consultation details"
+        ],
+        "call_to_action": "Ready to elevate your social media? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Instructions\n\nHi [Name],\n\nThank you for your interest in our Social Media Boost Package! To proceed, I will send you the payment details. If you have any questions or prefer a different payment method, please let me know.\n\nLooking forward to working together!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you’d prefer not to receive further communication, please let us know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
