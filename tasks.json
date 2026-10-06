@@ -18437,6 +18437,57 @@
         "payment_template": "Subject: Payment Details for Your Social Media Growth Booster\n\nHi [Name],\n\nThank you for your interest in our **30-Day Social Media Growth Booster**! To move forward, we will need to arrange payment at your earliest convenience. Please let me know if you have any questions or need assistance with the payment process.\n\nLooking forward to helping you enhance your social media strategy!\n\nBest, \n[Your Name]\n[Your Position] \nInfinite Sauce\n\nIf you'd like to opt-out of future communications, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791256597524",
+      "created_at": "2026-10-06T03:16:37.524416+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Boost Package",
+        "target_customer": "Small business owners or individual creators looking to increase their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that effectively showcases their brand and products, leading to low visibility and engagement on social media.",
+        "solution": "A tailored service that includes the creation of short-form video scripts and content specifically designed for TikTok and Instagram Reels, along with captions to enhance engagement.",
+        "deliverables": [
+          "3 custom short-form video scripts (up to 60 seconds each)",
+          "3 video content ideas tailored for TikTok and Instagram Reels",
+          "Engaging captions for all video content",
+          "Content strategy suggestions for maximizing reach and engagement"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 5,
+        "value_proposition": "Engage your audience with professionally crafted short-form video content that enhances your brand's online presence and encourages interaction without the hassle of creating it yourself.",
+        "sales_angle": "Elevate your social media game with captivating video content tailored to your brand, even if you're short on time or don't have the expertise!",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth referrals",
+          "Content on social media platforms showcasing previous works"
+        ],
+        "qualification_criteria": [
+          "Must have existing social media accounts",
+          "Looking to increase engagement and reach",
+          "Open to implementing suggested content strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media presence? Our Social Media Boost Package is designed specifically for small business owners and creators! Get 3 custom short-form video scripts, engaging captions, and tailored content strategies for TikTok and Instagram Reels—all for just $150! 📈✨ Let’s enhance your brand's visibility and engagement without the hassle! 💡 Contact us today to get started! #SocialMediaBoost #ContentCreation #SmallBusinessSuccess",
+        "website_description": "Struggling to create engaging short-form video content that showcases your brand? Our Social Media Boost Package offers small business owners and individual creators tailored video scripts, content ideas, and strategic suggestions. For just $150, we deliver 3 custom scripts, captivating captions, and actionable strategies to enhance your social media presence in just 5 days! Elevate your brand's online visibility today!",
+        "outreach_template": "Subject: Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! My name is [Your Name], and I'm excited to share a unique opportunity that can elevate your social media presence.\n\nWe offer a Social Media Boost Package tailored specifically for small business owners like yourself. With this package, you receive 3 custom short-form video scripts and engaging captions, all designed to enhance your brand visibility on TikTok and Instagram Reels.\n\nIf you're interested, I’d love to discuss how we can tailor this service to suit your needs. Please let me know if you’d like to chat!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this doesn’t align with your current goals, feel free to let me know and I’ll refrain from sending more. Thanks!",
+        "discovery_questions": [
+          "What social media platforms are you currently using for your business?",
+          "What specific challenges are you facing with your current social media content?",
+          "How often do you post engaging video content?",
+          "What goals do you have for your social media presence in the next few months?",
+          "Are you open to implementing new strategies for improving engagement and reach?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of the proposal\n   - Purpose of the package\n\n2. Understanding Your Needs\n   - Summary of discovery discussion\n   - Identification of key challenges\n\n3. Package Details\n   - Description of deliverables (video scripts, content ideas, captions, strategies)\n\n4. Implementation Plan\n   - Timeline for delivery (5 days)\n   - Process of feedback and revisions\n\n5. Pricing\n   - Total Cost: $150\n\n6. Next Steps\n   - How to proceed if interested\n   - Option to ask questions or request modifications"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to discuss how we can help boost your social media presence!",
+        "payment_template": "Subject: Payment Process for Social Media Boost Package\n\nHi [Name],\n\nThank you for your interest in our Social Media Boost Package! To proceed, I’d like to guide you through our payment process.\n\nOnce you're ready, please let me know, and I’ll provide you with the payment details. \n\nIf you have any questions or need further assistance, feel free to reach out. Looking forward to working with you!\n\nBest,\n[Your Name]\n\nP.S. If this package isn't suitable for you right now, just let me know, and I won’t reach out again.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
