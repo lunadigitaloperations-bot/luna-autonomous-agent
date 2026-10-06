@@ -19283,6 +19283,68 @@
         "payment_template": "Subject: Payment Instructions\n\nHi [Name],\n\nThank you for your interest in our Social Media Boost Package! To proceed, I will send you the payment details. If you have any questions or prefer a different payment method, please let me know.\n\nLooking forward to working together!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you’d prefer not to receive further communication, please let us know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791310712733",
+      "created_at": "2026-10-06T18:18:32.733079+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Video Sprint",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging video content consistently for social media platforms like TikTok and Instagram.",
+        "solution": "A comprehensive 30-day plan that provides a steady stream of short-form video scripts tailored to the customer's brand, along with guidance on video execution and post strategies.",
+        "deliverables": [
+          "Initial consultation to understand brand and goals",
+          "30 unique short-form video scripts (TikTok, Instagram Reels, YouTube Shorts)",
+          "Custom content strategy for optimal posting times and engagement",
+          "Weekly feedback sessions for video performance optimization"
+        ],
+        "suggested_price_usd": 500,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Empower your brand with engaging video content that resonates with your audience, driving organic engagement and visibility.",
+        "sales_angle": "No more guesswork! Receive tailored video scripts and a strategy that keeps your content fresh and frequent, all from the comfort of your workspace.",
+        "organic_discovery_methods": [
+          "Instagram and TikTok organic growth strategies",
+          "Leveraging hashtags for increased visibility",
+          "Encouraging audience interaction through polls and Q&As"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator",
+          "Willingness to engage in a brief consultation",
+          "Access to basic video recording equipment (smartphone recommended)"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your initial consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to supercharge your social media presence? Join our 30-Day Social Media Video Sprint! 🎥 Get 30 tailored video scripts, a custom content strategy, and weekly feedback to enhance engagement on platforms like TikTok and Instagram. Perfect for small businesses and content creators! DM us to get started! #SocialMedia #VideoMarketing #EngagementBoost",
+        "website_description": "Transform your social media presence with our 30-Day Social Media Video Sprint! Designed for small businesses and content creators, this program delivers 30 unique short-form video scripts along with essential strategies and weekly feedback sessions. Say goodbye to content woes and hello to fresh, engaging video content tailored to your brand. Contact us to elevate your online visibility today!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Engagement!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to introduce our 30-Day Social Media Video Sprint, designed specifically for small businesses and content creators like you. \n\nThis comprehensive plan offers 30 tailored video scripts and a strategic approach to enhancing your social media engagement. If you're looking for consistent and engaging video content, I'd love to chat further about how we can support your goals.\n\nWould you be open to a brief consultation?\n\nBest regards,\n\n[Your Name]\n[Your Position] \nInfinite Sauce \n\nP.S. If you’d prefer not to receive updates, simply let me know!",
+        "discovery_questions": [
+          "What are your primary goals for enhancing your social media presence?",
+          "Which platforms do you currently use for social media marketing?",
+          "What challenges have you faced in creating video content?",
+          "Do you have specific themes or topics in mind for your video content?",
+          "What is your target audience, and how do you currently engage with them?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "   - Brief overview of the client's needs",
+          "2. Objectives",
+          "   - Define the goals of the 30-Day Video Sprint",
+          "3. Deliverables",
+          "   - List of services included in the offer",
+          "4. Timeline",
+          "   - Breakdown of the 30-day schedule",
+          "5. Investment",
+          "   - Pricing details for the service",
+          "6. Next Steps",
+          "   - Outline of how to get started"
+        ],
+        "call_to_action": "Contact us via email or WhatsApp to schedule your initial consultation and embark on your video content journey today!",
+        "payment_template": "Subject: Invoice Confirmation for Your Social Media Video Sprint\n\nHi [Name],\n\nThank you for choosing our 30-Day Social Media Video Sprint! We appreciate your interest in enhancing your social media content.\n\nYour initial consultation is the first step, and we’re excited to support you through this journey. Please let us know if you have any questions or need further information.\n\nLooking forward to our collaboration!\n\nBest,\n\n[Your Name]\n[Your Position] \nInfinite Sauce \n\nP.S. If you’d like to opt-out of future emails, just let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
