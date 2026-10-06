@@ -18322,6 +18322,62 @@
         "payment_template": "Subject: Payment Confirmation Needed\n\nHi [Client's Name],\n\nI hope you’re doing well! To proceed with your order of the **Social Media Boost Package**, please confirm that the payment details are as follows:\n[Insert payment details]\n\nLooking forward to your confirmation! If you have any questions, feel free to reach out.\n\nBest,\n[Your Name] \n[Your Position] \nInfinite Sauce\n\n*If you wish to opt-out of further communications, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791249385869",
+      "created_at": "2026-10-06T01:16:25.869220+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Boost Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and increases visibility on platforms like TikTok, Instagram, and YouTube.",
+        "solution": "A tailored package that provides scriptwriting and content ideas for 4 short-form videos designed to engage your audience and improve your online presence, all delivered remotely.",
+        "deliverables": [
+          "4 unique short-form video scripts (60 seconds each)",
+          "Content strategy tips for optimal posting times and formats",
+          "2 optimized captions for each video",
+          "Guidelines on best practices for filming and editing"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your audience engagement with tailored scripts that resonate with your target demographic, enhancing your online visibility.",
+        "sales_angle": "Transform your online presence with engaging content that draws followers and keeps them interested!",
+        "organic_discovery_methods": [
+          "Social Media Marketing",
+          "Referral from satisfied customers",
+          "Content Marketing"
+        ],
+        "qualification_criteria": [
+          "Client must have a social media presence",
+          "Client is looking to increase engagement and brand visibility",
+          "Client must provide basic information about their target audience and niche"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your online presence? Our Short-Form Video Boost Package is designed for small businesses and content creators! Get 4 unique scripts, expert content strategies, and more! 💡 Let's transform your engagement today! 💬 Contact us to learn more!",
+        "website_description": "Enhance your online visibility with our Short-Form Video Boost Package! Tailored for small businesses and content creators, this package includes 4 custom video scripts, posting strategies, and editing guidelines—everything you need to capture your audience's attention on platforms like TikTok, Instagram, and YouTube. Start boosting your engagement today!",
+        "outreach_template": "Subject: Enhance Your Online Engagement!\n\nHello [Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Short-Form Video Boost Package, designed specifically for small businesses and content creators like yourself. This package can help you create engaging content that captures audience attention across popular platforms.\n\nIf you’re interested, I would love to discuss how we can tailor our services to meet your needs.\n\nBest regards,\n[Your Name]  \n[Your Title]  \nInfinite Sauce  \n[Contact Information]\n\nP.S. If this isn't the right time for you, let me know, and I’ll be happy to remove you from our list.",
+        "discovery_questions": [
+          "What platforms do you currently use to share video content?",
+          "What is your primary goal with short-form videos?",
+          "Can you describe your target audience and their preferences?",
+          "What challenges have you faced in creating engaging video content?",
+          "Are there specific themes or topics you'd like the videos to focus on?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of the proposal\n   - Statement of understanding the client's needs\n",
+          "2. Objectives\n   - Outline of the goals of the Short-Form Video Boost Package\n",
+          "3. Deliverables\n   - Detailed description of what the package includes\n",
+          "4. Timeline\n   - Estimated delivery timeframes\n",
+          "5. Pricing\n   - Suggested price breakdown\n",
+          "6. Next Steps\n   - Call to action and contact information"
+        ],
+        "call_to_action": "Ready to boost your engagement? Contact us now to get started on your Short-Form Video Boost Package!",
+        "payment_template": "Subject: Payment Process Information\n\nHi [Name],\n\nThank you for expressing interest in our Short-Form Video Boost Package! To proceed, we can discuss payment options that are convenient for you. Please let me know a suitable time for us to chat further.\n\nWarm regards,\n[Your Name]  \n[Your Title]  \nInfinite Sauce  \n[Contact Information]\n\nP.S. If you prefer not to receive any more updates, just let me know, and I'll ensure your preferences are respected.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
