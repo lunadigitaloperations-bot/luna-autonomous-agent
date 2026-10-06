@@ -19512,6 +19512,62 @@
         "payment_template": "Subject: Next Steps for Your Content Sprint\n\nHi [Name],\n\nThank you for expressing interest in our Social Media Content Sprint! We're excited to start this journey with you. To proceed, we would need to discuss the payment options available. Please let me know your preferred method, and we can finalize the details.\n\nLooking forward to connecting!\n\nBest regards,\n[Your Name]\n[Your Contact Information]  \n(If you would prefer not to receive such emails, please let me know.)",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791324965085",
+      "created_at": "2026-10-06T22:16:05.085651+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Content Boost Package",
+        "target_customer": "Small businesses and creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that captures the audience's attention and drives engagement.",
+        "solution": "A tailored content strategy and execution plan that includes scriptwriting and video ideas to help increase brand awareness on social media platforms.",
+        "deliverables": [
+          "4 short-form video scripts (TikTok/Instagram Reels/YouTube Shorts) customized for the business/creator's brand.",
+          "1 content strategy document outlining themes, posting schedule, and audience engagement tips.",
+          "1 set of 5 engaging captions for each video to maximize reach and interaction."
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Empower your brand with professional short-form video content that connects with your audience and enhances your online visibility.",
+        "sales_angle": "Transform your social media presence with expert-crafted video content that resonates with your audience—all from the comfort of your remote workspace.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Email marketing to current subscribers",
+          "Word of mouth referrals"
+        ],
+        "qualification_criteria": [
+          "Must have an established social media presence or business.",
+          "Willingness to collaborate and provide feedback."
+        ],
+        "next_action": "Contact us to book your 30-Day Content Boost Package and start elevating your brand today!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your online presence with our 30-Day Content Boost Package! Struggling to create engaging short-form video content? Let us craft tailored videos that captivate your audience! Get 4 custom video scripts, a comprehensive content strategy, and engaging captions—all designed to enhance your brand visibility. Start transforming your social media today! Contact us now! 📈✨ #ContentCreation #SocialMedia #BrandAwareness",
+        "website_description": "Boost your online presence with our 30-Day Content Boost Package! Designed for small businesses and creators, this package includes tailored short-form video scripts, a comprehensive content strategy, and engaging captions to help you resonate with your audience. Elevate your brand and drive engagement — all for just $300. Begin your transformation today!",
+        "outreach_template": "Subject: Unlock Your Brand's Potential with Our 30-Day Content Boost Package\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to introduce our 30-Day Content Boost Package designed specifically for small businesses and creators like yours. \n\nIf you’re struggling to create engaging short-form video content, we can help! Our package includes customized video scripts, a tailored content strategy, and engaging captions—all aimed at enhancing your online visibility and audience connection.\n\nIf this sounds like something you'd be interested in, feel free to reply to this email or contact us directly! I'm happy to answer any questions you may have.\n\nIf not, please let me know, and I won’t reach out again.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "discovery_questions": [
+          "What challenges are you currently facing with your video content creation?",
+          "What platforms do you use to promote your business, and which ones are you looking to enhance?",
+          "How do you currently engage with your audience on social media?",
+          "What goals do you have for your brand's online presence in the next 6 months?",
+          "Are there specific themes or messages you want to communicate through your video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Content Boost Package",
+          "Understanding Your Business Needs",
+          "Proposed Deliverables",
+          "Implementation Timeline",
+          "Investment Details",
+          "Next Steps",
+          "Q&A Section"
+        ],
+        "call_to_action": "Contact us today to book your 30-Day Content Boost Package and start elevating your brand!",
+        "payment_template": "Subject: Next Steps for Your 30-Day Content Boost Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day Content Boost Package! To proceed, we’ll finalize the details and discuss the payment options that work best for you.\n\nPlease let me know a good time for us to connect or if you prefer to communicate via email.\n\nLooking forward to working together!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
