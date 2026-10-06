@@ -18378,6 +18378,65 @@
         "payment_template": "Subject: Payment Process Information\n\nHi [Name],\n\nThank you for expressing interest in our Short-Form Video Boost Package! To proceed, we can discuss payment options that are convenient for you. Please let me know a suitable time for us to chat further.\n\nWarm regards,\n[Your Name]  \n[Your Title]  \nInfinite Sauce  \n[Contact Information]\n\nP.S. If you prefer not to receive any more updates, just let me know, and I'll ensure your preferences are respected.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791252986424",
+      "created_at": "2026-10-06T02:16:26.424401+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Growth Booster",
+        "target_customer": "Small business owners or content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to consistently create engaging short-form video content that drives interaction and growth on social media platforms.",
+        "solution": "A tailored 30-day video content strategy focusing on short-form videos for TikTok, Instagram Reels, and YouTube Shorts to increase engagement and followers.",
+        "deliverables": [
+          "Initial 1-hour consultation to understand business goals and target audience",
+          "A custom 30-day content calendar with daily posting recommendations for TikTok, Instagram Reels, and YouTube Shorts",
+          "Five short-form video scripts (up to 60 seconds each) catered to specific posts",
+          "Catchy captions for each video, optimized for engagement",
+          "Weekly check-in via email to assess progress and make adjustments to strategy"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your online presence with tailored short-form video content designed for engagement without the hassle of figuring out what to post each day.",
+        "sales_angle": "Eliminate the guesswork in content creation and focus on building a community around your brand.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Small business or content creator with an active social media presence",
+          "Willingness to implement recommended strategies"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule your consultation!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Introducing our **30-Day Social Media Growth Booster**! Tailored video content strategies for TikTok, Instagram Reels, and YouTube Shorts will help you engage your audience and grow your online presence. 🌟 Contact us today to schedule your consultation! #SocialMediaGrowth #VideoContent #ContentCreators #SmallBusiness",
+        "website_description": "Transform your online presence with our **30-Day Social Media Growth Booster**! Designed for small business owners and content creators, this package offers a personalized video content strategy focusing on engaging short-form videos for TikTok, Instagram Reels, and YouTube Shorts. With an initial consultation, a custom content calendar, video scripts, optimized captions, and weekly progress check-ins, you'll eliminate guesswork and build your brand community seamlessly. Starting at just $299.",
+        "outreach_template": "Subject: Let's Enhance Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to introduce our **30-Day Social Media Growth Booster** designed specifically for small business owners and content creators like yourself.\n\nThis tailored strategy focuses on short-form video content to increase your engagement and followers on platforms such as TikTok, Instagram Reels, and YouTube Shorts.\n\nAre you interested in scheduling a consultation to discuss how we can support your social media goals? \n\nBest regards,\n[Your Name]\n[Your Position] \nInfinite Sauce\n\nIf you'd prefer not to receive further emails, just let me know.",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence over the next 30 days?",
+          "Which platforms are you currently using to promote your business?",
+          "What challenges do you face when creating engaging video content?",
+          "Who is your target audience, and how do they currently engage with your content?",
+          "Have you tried any specific strategies in the past to boost your social media engagement?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Social Media Landscape",
+          "Understanding of Your Business Goals and Audience",
+          "Proposed Solution: 30-Day Social Media Growth Booster",
+          "Deliverables Breakdown",
+          "Timeline for Delivery",
+          "Investment",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Contact us today at luna.digital.operations@gmail.com to schedule your consultation and start boosting your social media presence!",
+        "payment_template": "Subject: Payment Details for Your Social Media Growth Booster\n\nHi [Name],\n\nThank you for your interest in our **30-Day Social Media Growth Booster**! To move forward, we will need to arrange payment at your earliest convenience. Please let me know if you have any questions or need assistance with the payment process.\n\nLooking forward to helping you enhance your social media strategy!\n\nBest, \n[Your Name]\n[Your Position] \nInfinite Sauce\n\nIf you'd like to opt-out of future communications, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
