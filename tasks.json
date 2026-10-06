@@ -18829,6 +18829,63 @@
         "payment_template": "Subject: Next Steps for Your Social Media Boost Package\n\nHi [Name],\n\nThank you for discussing our Social Media Boost Package with me! To proceed, we can discuss the payment options to secure your order. Please let me know a convenient time for you to finalize the details.\n\nBest,\n[Your Name]\n\nP.S. If you're not interested, feel free to opt-out from our communications!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791281806748",
+      "created_at": "2026-10-06T10:16:46.748128+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Social Media Video Package",
+        "target_customer": "Small businesses and creators looking to boost engagement on social media",
+        "customer_problem": "Difficulty in creating engaging short-form video content that resonates with their audience",
+        "solution": "A tailored video package that includes scriptwriting and editing for three short-form videos (TikTok/Instagram Reels/YouTube Shorts) designed to increase audience engagement.",
+        "deliverables": [
+          "Three short-form video scripts",
+          "Three edited short-form videos (up to 60 seconds each)",
+          "Three catchy captions for social media posts"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Enhance your social media presence with tailored video content that captures attention and drives engagement.",
+        "sales_angle": "Stand out on social media with high-quality, engaging videos that speak directly to your audience.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Must have a clear niche or target audience",
+          "Willingness to collaborate and provide feedback"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your vision and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Engaging Social Media Video Package is designed specifically for small businesses and creators like you! Get three captivating videos, tailored scripts, and catchy captions to boost your engagement. Let’s make your content shine! 🌟 #SocialMedia #VideoMarketing #EngagementBoost",
+        "website_description": "Transform your social media presence with our Engaging Social Media Video Package. Created for small businesses and creators facing challenges in producing enticing short-form video content, this package offers tailored scriptwriting and editing for three engaging videos. Enhance your brand visibility and connect with your audience effectively today!",
+        "outreach_template": "Subject: Let’s Bring Your Vision to Life! \n\nHi [Name],\n\nI hope this message finds you well! I’m reaching out to share an exciting opportunity to amplify your social media presence. At Infinite Sauce, we specialize in helping small businesses and creators like yourself through our Engaging Social Media Video Package. \n\nWith tailored scripts and high-quality edited videos, we can help you create content that resonates with your audience and drives engagement.\n\nIf you’re interested, I’d love to discuss your vision further. Please feel free to reply or reach out via email or WhatsApp!\n\nBest regards,\n[Your Name]  \nInfinite Sauce \n\nP.S. If this doesn’t resonate with you, just let me know and I’ll respect your preferences!",
+        "discovery_questions": [
+          "What specific goals do you have for your social media engagement?",
+          "Who is your target audience, and what content do they typically engage with?",
+          "What has been your biggest challenge in creating video content so far?",
+          "Are there any specific themes or messages you want to convey in your videos?",
+          "What platforms do you currently use for your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Objectives and Goals",
+          "Proposed Video Package Details",
+          "Deliverables",
+          "Timeline and Delivery",
+          "Pricing and Payment Information",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to boost your engagement? Contact us via email or WhatsApp today!",
+        "payment_template": "Subject: Payment Information for Your Video Package \n\nHi [Name],\n\nThank you for choosing our Engaging Social Media Video Package! To get started, could you please confirm your preferred payment method? Once we have that, we can begin working on your project. \n\nLooking forward to collaborating with you!\n\nBest,  \n[Your Name]  \nInfinite Sauce \n\nP.S. If this isn’t the right time for you, please let me know and I’ll be happy to check back with you later.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
