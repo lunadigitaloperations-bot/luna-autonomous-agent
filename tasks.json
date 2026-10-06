@@ -19455,6 +19455,63 @@
         "payment_template": "Subject: Follow-up on Payment\n\nHi [Name],\n\nI wanted to reach out regarding the payment for the 30-Day TikTok Launch Package. Please let me know if you need any assistance or have any questions about the process.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n\nP.S. If you wish to opt-out of future communications, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791321335844",
+      "created_at": "2026-10-06T21:15:35.844922+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Sprint",
+        "target_customer": "Small Businesses and Creators",
+        "customer_problem": "Struggling to create engaging short-form video content consistently for social media platforms.",
+        "solution": "A dedicated content creation service focusing on producing high-quality short-form video scripts and content tailored for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 customized short-form video scripts",
+          "Formatting and editing suggestions for TikTok, Instagram Reels, and YouTube Shorts",
+          "SEO-friendly captions for each video",
+          "Content strategy guidelines to maintain consistency"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Keep your audience engaged and growing with relatable and trend-driven video content, freeing you to focus on other aspects of your business.",
+        "sales_angle": "Unlock the power of short-form video to boost your online presence without the hassle of content creation.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Online community forums"
+        ],
+        "qualification_criteria": [
+          "Has an active social media presence",
+          "Targets audiences on TikTok, Instagram, or YouTube",
+          "Open to experimenting with new content styles"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation and kickstart your content creation journey."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Small Businesses & Creators! Are you struggling to create engaging short-form video content for social media? Our Social Media Content Sprint offers personalized video scripts, editing suggestions, SEO-friendly captions, and a solid content strategy—all tailored for TikTok, Instagram Reels, and YouTube Shorts! 📲💡 Ready to unlock the power of video and elevate your online presence? 🙌 Contact us today! #SocialMedia #ContentCreation #SmallBusiness #VideoMarketing",
+        "website_description": "Transform your social media strategy with our Social Media Content Sprint tailored for small businesses and creators. In just 7 days, receive 3 customized short-form video scripts, expert editing tips for TikTok, Instagram Reels, and YouTube Shorts, SEO-friendly captions, and content strategy guidelines. No more struggles with content creation—focus on what matters while we help you engage and grow your audience.",
+        "outreach_template": "Subject: Elevate Your Social Media Game\n\nHi [Name],\n\nI hope this message finds you well. I'm reaching out to share an exciting opportunity for small businesses and creators like you who aim to enhance their social media presence. Our Social Media Content Sprint focuses on delivering high-quality short-form video scripts tailored for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nWould you be open to a conversation about how we can help streamline your content creation and keep your audience engaged?\n\nBest regards,\n[Your Name]\n[Your Contact Information]  \n(If you would prefer not to receive such emails, please let me know.)",
+        "discovery_questions": [
+          "What social media platforms do you currently use to engage your audience?",
+          "How often do you post short-form video content?",
+          "What challenges do you face in creating engaging video content?",
+          "Are you open to experimenting with new video styles or formats?",
+          "What are your primary goals with your social media content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Challenges",
+          "Proposed Solution: Social Media Content Sprint",
+          "Deliverables Breakdown",
+          "Pricing Details",
+          "Estimated Delivery Timeline",
+          "Call to Action"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today at luna.digital.operations@gmail.com!",
+        "payment_template": "Subject: Next Steps for Your Content Sprint\n\nHi [Name],\n\nThank you for expressing interest in our Social Media Content Sprint! We're excited to start this journey with you. To proceed, we would need to discuss the payment options available. Please let me know your preferred method, and we can finalize the details.\n\nLooking forward to connecting!\n\nBest regards,\n[Your Name]\n[Your Contact Information]  \n(If you would prefer not to receive such emails, please let me know.)",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
