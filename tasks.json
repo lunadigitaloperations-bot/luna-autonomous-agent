@@ -19345,6 +19345,61 @@
         "payment_template": "Subject: Invoice Confirmation for Your Social Media Video Sprint\n\nHi [Name],\n\nThank you for choosing our 30-Day Social Media Video Sprint! We appreciate your interest in enhancing your social media content.\n\nYour initial consultation is the first step, and we’re excited to support you through this journey. Please let us know if you have any questions or need further information.\n\nLooking forward to our collaboration!\n\nBest,\n\n[Your Name]\n[Your Position] \nInfinite Sauce \n\nP.S. If you’d like to opt-out of future emails, just let me know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791314114073",
+      "created_at": "2026-10-06T19:15:14.073558+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Package",
+        "target_customer": "Small businesses or content creators looking to boost their online presence",
+        "customer_problem": "Struggling to create consistent and engaging content for social media platforms, leading to decreased visibility and engagement.",
+        "solution": "A tailored social media content package that provides short-form video scripts, captions, and posting strategies to enhance engagement and brand presence.",
+        "deliverables": [
+          "5 short-form video scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "10 engaging captions for social media posts",
+          "1 content strategy document outlining best posting practices and engagement tips"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Get a month’s worth of content ideas and scripts designed to elevate your social media engagement without the hassle of brainstorming yourself.",
+        "sales_angle": "Transform your online presence with engaging content tailored specifically for your audience, ensuring you stay relevant in a fast-paced digital world.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word-of-mouth referrals",
+          "Networking in online communities"
+        ],
+        "qualification_criteria": [
+          "Must have an established social media account",
+          "Looking for ways to increase engagement and presence online"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🌟 Boost your online presence with our 30-Day Social Media Content Package! 🌟 Get 5 engaging video scripts, 10 captivating captions, and a complete content strategy tailored to your audience. Elevate your engagement and stay relevant in the digital world without the hassle. Ready to transform your social media game? Contact us today! 📩 #SocialMediaSuccess #ContentCreation #SmallBusiness",
+        "website_description": "Struggling to keep up with your social media content? Our 30-Day Social Media Content Package is designed specifically for small businesses and content creators. Receive 5 short-form video scripts, 10 engaging social media captions, and a comprehensive content strategy document aimed at boosting your online visibility and engagement. Start your journey to enhanced social media presence today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to introduce an exciting opportunity to boost your social media engagement with our 30-Day Social Media Content Package. \n\nThis package includes customized video scripts, engaging captions, and a strategic content plan designed for businesses like yours. If you're looking for innovative ways to enhance your online presence, I would love to discuss this further.\n\nPlease let me know a convenient time for you, or feel free to reach out directly.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn’t of interest, just let me know and I won’t reach out again.",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What specific goals do you have for your social media presence?",
+          "How often do you currently post content on your social media accounts?",
+          "What type of content do you feel resonates best with your audience?",
+          "Have you tried any content strategies in the past? If so, what were they?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Overview of the 30-Day Social Media Content Package",
+          "3. Deliverables Breakdown",
+          "4. Benefits of Engaging Content",
+          "5. Suggested Price and Value Proposition",
+          "6. Timeline for Delivery",
+          "7. Next Steps and Contact Information"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today to get started!",
+        "payment_template": "Hi [Recipient's Name],\n\nThank you for expressing interest in our 30-Day Social Media Content Package. To proceed with your order, we’ll need to arrange payment. Please let me know your preferred payment method, and I’ll provide you with the necessary details.\n\nLooking forward to assisting you!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
