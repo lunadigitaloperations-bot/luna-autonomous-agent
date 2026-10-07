@@ -19625,6 +19625,62 @@
         "payment_template": "Subject: Follow-Up on Your Engaging Short-Form Video Package\n\nHi [Recipient's Name],\n\nThank you for considering our Engaging Short-Form Video Package! Just checking in to confirm your interest in moving forward.\n\nPlease let me know if you have any questions or if you’d like to discuss further.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Position]\n[Your Contact Information]\n\n*If you’d like to opt-out of further messages, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791332775245",
+      "created_at": "2026-10-07T00:26:15.245266+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Momentum Boost Package",
+        "target_customer": "Small businesses and content creators looking to grow their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content consistently, leading to low engagement and reach on social media platforms.",
+        "solution": "A comprehensive mini content strategy package focusing on short-form video content tailored for TikTok and Instagram, designed to build brand awareness and engagement over time.",
+        "deliverables": [
+          "Two 30-second short-form video scripts per week for a month (8 scripts total)",
+          "Two video editing tips tailored for each script",
+          "Basic content strategy suggestions for optimal posting times and formats",
+          "A one-page guide on engaging with your audience effectively"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Boost your social media engagement and visibility with strategically crafted short-form video content, allowing your brand to stand out in a crowded digital landscape.",
+        "sales_angle": "Elevate your brand’s online presence with captivating short videos that resonate with your audience, making content creation less overwhelming and more effective.",
+        "organic_discovery_methods": [
+          "Social media outreach",
+          "Website landing page",
+          "Word of mouth referrals"
+        ],
+        "qualification_criteria": [
+          "Customer has an established social media account",
+          "Customer is committed to following the content strategy"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to schedule a consultation or to ask any questions about the package."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to boost your social media presence? Our Social Media Momentum Boost Package is designed for small businesses and content creators who want to engage their audience with captivating short-form video content! 🎥✨ Get started today and elevate your brand! #SocialMediaMarketing #ContentCreation #ShortFormVideo",
+        "website_description": "Transform your social media strategy with our Social Media Momentum Boost Package. Tailored for small businesses and content creators, this package offers a comprehensive approach to creating engaging short-form video content for TikTok and Instagram. Over the course of a month, receive eight custom scripts, personalized video editing tips, strategy insights, and a guide to effectively engage your audience. Elevate your brand today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence! \n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out because I believe our Social Media Momentum Boost Package could provide great value to you. This package focuses on creating engaging short-form video content tailored for platforms like TikTok and Instagram, which could help increase your audience engagement.\n\nWould you be open to discussing it further? I’d love to answer any questions you might have. \n\nBest regards,\nLuna  \n[Your Contact Information]  \n\nP.S. If you’d prefer not to receive these messages, just let me know!",
+        "discovery_questions": [
+          "What platforms are you currently using for your social media presence?",
+          "How often do you post short-form videos, if at all?",
+          "What challenges do you face when creating engaging video content?",
+          "Have you identified your target audience on social media?",
+          "What goals are you aiming to achieve with your social media strategy?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Overview of the Social Media Momentum Boost Package",
+          "3. Identified Customer Problems",
+          "4. Proposed Solutions and Deliverables",
+          "5. Timeline and Pricing",
+          "6. Case Studies or Examples",
+          "7. Next Steps"
+        ],
+        "call_to_action": "Email us at luna.digital.operations@gmail.com to schedule a consultation and take the first step toward enhancing your social media engagement!",
+        "payment_template": "Subject: Payment Confirmation \n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Momentum Boost Package! We’re excited to move forward. Please let me know if you have any questions about the payment process or if you need assistance. \n\nLooking forward to collaborating!\n\nBest, \nLuna  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
