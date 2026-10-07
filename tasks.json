@@ -20315,6 +20315,62 @@
         "payment_template": "Subject: Payment Process for Your Package - Next Steps \n\nDear [Name],\n\nThank you for your interest in our 30-Day Social Media Video Boost Package! To proceed, I'd like to guide you through our payment process. Once we finalize the details and confirm your order, we can provide you with the necessary instructions on how to complete the payment.\n\nIf you have any questions or require further information, please feel free to reach out!\n\nBest regards,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791375762355",
+      "created_at": "2026-10-07T12:22:42.355081+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Boost",
+        "target_customer": "Small businesses and creators looking to enhance their online presence",
+        "customer_problem": "Struggling to keep up with content creation for social media platforms, leading to decreased engagement and visibility.",
+        "solution": "A 30-day content calendar with tailored short-form video scripts and captions designed specifically for TikTok and Instagram Reels to increase engagement and reach.",
+        "deliverables": [
+          "30-day content calendar",
+          "30 short-form video scripts (1 for each day)",
+          "30 custom captions for each video",
+          "Platform-specific posting tips"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your social media engagement with custom content designed to resonate with your target audience.",
+        "sales_angle": "Stay consistent on social media without the stress of daily content creation.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Collaborations with influencers",
+          "Online forums and communities"
+        ],
+        "qualification_criteria": [
+          "Business or creator has an existing social media presence",
+          "Interest in using TikTok or Instagram for growth"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🌟 Struggling with social media content? Our 30-Day Social Media Content Boost is here to rescue your online presence! 🚀 Get a tailored content calendar packed with engaging video scripts and captions designed specifically for TikTok and Instagram Reels. Transform your engagement without the stress of daily content creation! 💥✨ DM us to learn more! #SocialMediaMarketing #SmallBusiness #ContentCreation",
+        "website_description": "Enhance your online presence with our 30-Day Social Media Content Boost! Designed for small businesses and creators, this offer includes a comprehensive content calendar, daily short-form video scripts, and engaging captions tailored for TikTok and Instagram Reels. Say goodbye to the struggle of content creation and hello to increased engagement and visibility in just one month!",
+        "outreach_template": "Subject: Elevate Your Social Media Game\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity for small businesses and creators looking to enhance their online presence. Our 30-Day Social Media Content Boost includes a tailored content calendar with video scripts and captions designed for TikTok and Instagram Reels.\n\nIf you’re interested, I’d love to discuss how this could fit into your strategy. Please feel free to reach out, or let me know if you prefer not to receive these updates.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce\nluna.digital.operations@gmail.com\n\n",
+        "discovery_questions": [
+          "What social media platforms are you currently using to promote your business?",
+          "How often do you post on your social media accounts?",
+          "What challenges do you face when it comes to content creation?",
+          "Have you tried using short-form videos on platforms like TikTok or Instagram Reels?",
+          "What specific goals do you have for your social media engagement?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of current social media landscape",
+          "Discussion of challenges faced by the client",
+          "Presentation of the 30-Day Social Media Content Boost offer",
+          "Deliverables detailed",
+          "Estimated timelines and pricing",
+          "Next steps and contact information"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Payment Confirmation for Your Order\n\nHi [Recipient's Name],\n\nThank you for choosing our 30-Day Social Media Content Boost! We're excited to start this journey with you. Once your payment is completed, we will share all the necessary details to kick off your project. If you have any questions or need assistance with the payment process, please don’t hesitate to reach out!\n\nThanks again, and looking forward to working together!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\nluna.digital.operations@gmail.com\n",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
