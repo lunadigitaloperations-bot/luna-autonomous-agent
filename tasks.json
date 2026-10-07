@@ -20141,6 +20141,65 @@
         "payment_template": "Subject: Next Steps for Your Short-Form Video Package\n\nHi [Name],\n\nThank you for your interest in our Short-Form Video Content Package. To move forward, we will need to finalize our agreement and discuss the payment options available. Please let me know a good time for you to connect, or if you'd prefer, I can send over the details for review.\n\nLooking forward to your response! Please also feel free to let me know if you'd like to opt out of future emails.\n\nBest regards,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791364685822",
+      "created_at": "2026-10-07T09:18:05.822113+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Sprint",
+        "target_customer": "Small businesses and creators looking to boost their online presence",
+        "customer_problem": "Struggling to create consistent and engaging social media content that resonates with their audience and drives engagement.",
+        "solution": "A comprehensive content strategy and execution plan to generate 30 short-form video scripts tailored for TikTok, Instagram Reels, or YouTube Shorts, aimed at increasing audience engagement and brand visibility.",
+        "deliverables": [
+          "30 customized short-form video scripts",
+          "Content calendar outlining posting schedule",
+          "3 revisions on video scripts",
+          "Tips for filming and editing to maximize engagement"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Elevate your social media presence with tailored content that engages your audience and enhances your brand visibility, all delivered remotely.",
+        "sales_angle": "Get 30 days of ready-to-post content designed to captivate your audience and grow your brand without the stress of daily content creation.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referrals",
+          "Search engine optimization (SEO) for service page",
+          "Content collaborations"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media account",
+          "Willingness to engage with content and respond to audience feedback",
+          "Commitment to follow the proposed posting schedule"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a free consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your online presence with our 30-Day Social Media Content Sprint! 📈 Get 30 tailored short-form video scripts designed for TikTok, Instagram Reels, or YouTube Shorts. Elevate your brand visibility without the stress of daily content creation! 🌟 Ready to captivate your audience? Let's chat! #SocialMediaMarketing #ContentCreation #SmallBusiness #Engagement",
+        "website_description": "Transform your social media strategy with our 30-Day Social Media Content Sprint! Designed for small businesses and creators, this package includes 30 customized short-form video scripts, a detailed content calendar, revision options, and filming tips. Elevate your engagement and brand visibility effortlessly. Schedule a free consultation today!",
+        "outreach_template": "Subject: Enhance Your Social Media Engagement\n\nDear [Recipient's Name],\n\nI hope this message finds you well. I wanted to reach out to discuss an exciting opportunity to elevate your social media presence. Our 30-Day Social Media Content Sprint offers a comprehensive strategy with tailored video scripts designed to maximize your audience engagement.\n\nIf you're interested in exploring this further, we can schedule a free consultation to understand your specific needs. \n\nPlease let me know if you're open to a conversation, and of course, feel free to opt out if this isn't the right fit. \n\nBest regards,\n[Your Name]  \nInfinite Sauce  \nEmail: luna.digital.operations@gmail.com",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What specific challenges are you facing with your current content strategy?",
+          "Who is your target audience, and what types of content resonate with them?",
+          "How often do you currently post on social media, and what scheduling do you prefer?",
+          "Are you open to collaboration or feedback on your content strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding the Customer's Needs",
+          "Proposed Solution Overview",
+          "Deliverables Breakdown",
+          "Timeline for Delivery",
+          "Investment and Payment Options",
+          "Next Steps",
+          "Q&A Session"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us today to schedule your free consultation!",
+        "payment_template": "Subject: Regarding Your Upcoming Payment\n\nHi [Recipient's Name],\n\nI hope you’re doing well. I wanted to touch base about the payment for our 30-Day Social Media Content Sprint. Please let me know if there’s anything you need from me to proceed.\n\nThank you for your attention, and feel free to reach out with any questions. If you wish to opt out of further communication, just let me know.\n\nBest,  \n[Your Name]  \nInfinite Sauce  \nEmail: luna.digital.operations@gmail.com",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
