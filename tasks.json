@@ -19796,6 +19796,62 @@
         "payment_template": "Subject: Confirmation of Your Order\n\nHi [Client's Name],\n\nThank you for your interest in our Social Media Growth Package! We're excited to assist you in enhancing your social media engagement.\n\nTo get started, please confirm your preferred payment method and once we receive that, we’ll proceed with your project. \n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf you wish to opt out of future communications, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791343023810",
+      "created_at": "2026-10-07T03:17:03.811018+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging TikTok Content Package",
+        "target_customer": "Small businesses and creators looking to boost their TikTok presence",
+        "customer_problem": "Struggling to create engaging and relevant TikTok content that resonates with their audience and drives engagement.",
+        "solution": "A tailored TikTok content package that includes short-form video scripts and strategic guidance on posting frequency and content themes.",
+        "deliverables": [
+          "5 short-form TikTok video scripts tailored to the brand's voice and audience",
+          "A content calendar with posting schedule and themes for one month",
+          "Tips for optimizing videos for engagement and reach"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your TikTok presence with engaging and tailored content that speaks to your audience.",
+        "sales_angle": "Let us handle the creative side while you focus on your business – get one month of engaging TikTok content and strategy in just a week!",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or a creator looking to establish a TikTok presence",
+          "Have a baseline understanding of social media"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your TikTok presence with our Engaging TikTok Content Package! Perfect for small businesses and creators looking to connect with their audience. Get 5 tailored video scripts, a content calendar for a month, and pro tips for optimization—all for just $150! Ready to elevate your TikTok game? 🌟 #TikTok #ContentCreation #SmallBusiness #Creators",
+        "website_description": "Struggling to create engaging TikTok content? Our Engaging TikTok Content Package offers you 5 customized short-form video scripts, a one-month content calendar with strategic posting themes, and expert tips to maximize your reach. Perfect for small businesses and creators who want to engage their audience effectively. Get started in just 7 days for only $150!",
+        "outreach_template": "Subject: Enhance Your TikTok Presence\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to introduce our Engaging TikTok Content Package designed specifically for small businesses and creators like yourself. This tailored package includes 5 short-form video scripts, a one-month content calendar, and tips for optimizing your reach.\n\nWould you be interested in learning how we can help enhance your TikTok strategy?\n\nIf you're not interested in this offer, please let me know, and I'll be sure to respect your preferences.\n\nBest,\nLuna\nluna.digital.operations@gmail.com",
+        "discovery_questions": [
+          "What challenges do you face when creating TikTok content?",
+          "Who is your target audience on TikTok?",
+          "What themes or topics resonate most with your audience?",
+          "How often do you currently post on TikTok?",
+          "What are your goals for your TikTok presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Current TikTok Strategy",
+          "Overview of the Engaging TikTok Content Package",
+          "Deliverables Breakdown",
+          "Timeline for Delivery",
+          "Pricing Information",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Contact us today at luna.digital.operations@gmail.com to elevate your TikTok game!",
+        "payment_template": "Subject: Payment Confirmation for Your Order\n\nHi [Name],\n\nThank you for expressing interest in our Engaging TikTok Content Package! To proceed, please let us know your preferred payment method. We will guide you through the process once you confirm.\n\nIf you have any questions, feel free to reach out. We're here to help!\n\nBest,\nLuna\nluna.digital.operations@gmail.com",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
