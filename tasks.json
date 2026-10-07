@@ -20827,6 +20827,62 @@
         "payment_template": "Subject: Payment Confirmation for Your 30-Day Content Boost Package\n\nHi [Name],\n\nThank you for choosing our 30-Day Content Boost Package! To confirm your engagement, we would like to discuss the next steps for the payment process. Please let us know your preferred arrangement, and we will guide you accordingly.\n\nIf you have any questions, don’t hesitate to reach out. If you’d prefer not to move forward, please feel free to opt-out.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791407808827",
+      "created_at": "2026-10-07T21:16:48.827358+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Instagram Reels Package",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create captivating and consistent video content for Instagram that resonates with their audience and boosts engagement.",
+        "solution": "A tailored service that produces high-quality, short-form video scripts and concepts specifically designed for Instagram Reels, aimed at increasing audience interaction and visibility.",
+        "deliverables": [
+          "5 creative video scripts for Instagram Reels",
+          "Guidelines for filming and editing the Reels",
+          "2 personalized branding tips to enhance video presence"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your Instagram engagement with custom video content that speaks directly to your audience.",
+        "sales_angle": "Transform your Instagram feed with engaging Reels that capture attention and drive interaction—without needing extensive video production skills.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Referral program"
+        ],
+        "qualification_criteria": [
+          "Must have a basic understanding of social media platforms",
+          "Willingness to implement provided guidelines"
+        ],
+        "next_action": "Contact us via email to schedule a consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your Instagram with our Engaging Instagram Reels Package! 🎥 Tailored scripts, filming guides, and branding tips—all designed to increase your audience interaction! Ready to transform your social media presence? 💬 DM us for more info! #InstagramReels #SocialMediaGrowth #SmallBusinessSupport",
+        "website_description": "Boost your social media presence with our Engaging Instagram Reels Package! This tailored service offers 5 creative video scripts, filming guidelines, and personalized branding tips, all aimed at elevating your Instagram engagement and visibility. Perfect for small businesses and creators ready to captivate their audience and drive interaction.",
+        "outreach_template": "Subject: Enhance Your Instagram Engagement\n\nDear [Name],\n\nI hope this message finds you well! I wanted to reach out to share an opportunity that could enhance your Instagram presence. Our Engaging Instagram Reels Package offers tailored video scripts and guidelines designed specifically for businesses like yours. \n\nIf you're looking to boost your engagement and connect more effectively with your audience, I’d love to discuss how we can help! Please let me know a convenient time for you to chat.\n\nBest regards,\n[Your Name]\n[Your Company] \n[Your Contact Information]\n\nIf this isn’t of interest, feel free to let me know!",
+        "discovery_questions": [
+          "What specific goals do you have for your Instagram presence?",
+          "How often do you currently post video content on your Instagram?",
+          "What challenges do you face in creating engaging video content?",
+          "Who is your target audience, and what types of content do they enjoy?",
+          "Have you utilized Instagram Reels before, and if so, what was your experience?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Engaging Instagram Reels Package",
+          "Deliverables",
+          "Pricing and Payment Options",
+          "Timeline for Delivery",
+          "Next Steps for Collaboration",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to transform your Instagram presence? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Information for Your Order\n\nHi [Name],\n\nThank you for your interest in our Engaging Instagram Reels Package! To proceed, please find the payment details below. Let me know if you have any questions or if there’s anything else I can assist with. \n\nLooking forward to your reply!\n\nBest,\n[Your Name]\n[Your Company]\n\nIf this isn’t the right time for you, please feel free to opt out.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
