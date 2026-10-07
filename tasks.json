@@ -19967,6 +19967,65 @@
         "payment_template": "Subject: Confirmation of Your Order\n\nDear [Name],\n\nThank you for your interest in our Short-Form Video Content Package! To proceed with the order, please let us know if you have any questions or would like to discuss payment options.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791354048191",
+      "created_at": "2026-10-07T06:20:48.191333+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30 Days of Engaging Short-Form Video Content",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to regularly create engaging video content that captures audience attention and boosts online visibility.",
+        "solution": "A tailored package providing 30 days' worth of short-form video scripts and guidance on execution, designed to increase engagement and attract followers.",
+        "deliverables": [
+          "30 short-form video scripts (15-60 seconds each)",
+          "Content calendar outlining daily posting schedule",
+          "Tips for filming and editing to maximize engagement",
+          "One 30-minute consultation call for strategy alignment"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Generate consistent video content that resonates with your audience, without the stress of ideation and planning.",
+        "sales_angle": "Unlock the potential of social media with fresh content that engages and attracts your target audience, all created with ease.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Referrals",
+          "Content marketing on blogs and websites"
+        ],
+        "qualification_criteria": [
+          "Small business owners",
+          "Content creators with an existing social media presence",
+          "Willingness to commit to a 30-day plan"
+        ],
+        "next_action": "Contact me via email or WhatsApp to schedule a free consultation and discuss your unique content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Are you a small business or content creator struggling to keep your social media fresh and engaging? Introducing our '30 Days of Engaging Short-Form Video Content' package! 🎥 Get a custom set of video scripts, a posting schedule, and expert tips to capture your audience's attention. Say goodbye to content stress! DM us for a free consultation. #VideoContent #SocialMediaSuccess",
+        "website_description": "Enhance your social media presence with our tailored '30 Days of Engaging Short-Form Video Content' package. This program delivers 30 engaging video scripts, a daily posting schedule, filming tips, and a 30-minute strategy consultation. Perfect for small businesses and content creators eager to boost online visibility effortlessly. Start creating consistent, compelling content today!",
+        "outreach_template": "Subject: Elevate Your Social Media Game!\n\nHi [Name],\n\nI hope this message finds you well. I wanted to introduce you to our '30 Days of Engaging Short-Form Video Content' package designed for small businesses and content creators looking to increase their online presence. We offer scripts, a content calendar, and guidance – all tailored to your needs.\n\nWould you be open to a free consultation to discuss how this can benefit your brand?\n\nLooking forward to connecting!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \nP.S. If this isn’t relevant for you, feel free to let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What challenges are you currently facing in creating video content?",
+          "How often do you post on your social media platforms?",
+          "What types of content have received the most engagement from your audience?",
+          "Are there specific themes or topics you'd like to focus on for your videos?",
+          "How committed are you to a 30-day content creation plan?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Client's Needs",
+          "Description of '30 Days of Engaging Short-Form Video Content' Package",
+          "Deliverables List",
+          "Timeline and Estimated Delivery",
+          "Pricing",
+          "Next Steps",
+          "Q&A Section",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Contact me today to schedule your free consultation and kickstart your video content journey!",
+        "payment_template": "Subject: Next Steps for Your Video Content Package\n\nHi [Name],\n\nThank you for considering our '30 Days of Engaging Short-Form Video Content' package! To proceed, please confirm if you would like to move forward, and I can provide you with the payment details.\n\nIf you have any questions or need further information, feel free to reach out!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \nP.S. If you prefer not to receive further communication from me, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
