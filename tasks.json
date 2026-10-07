@@ -19737,6 +19737,65 @@
         "payment_template": "Subject: Next Steps for Your Order\n\nHi [Recipient's Name],\n\nThank you for expressing interest in our Engaging Reels & Clips Package. To proceed, we can discuss the preferred payment method and any details you’d like to finalize.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nP.S. If you prefer not to continue this conversation, just let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791339396481",
+      "created_at": "2026-10-07T02:16:36.481348+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Package",
+        "target_customer": "Small business owners and creators looking to increase their social media engagement",
+        "customer_problem": "Struggling to create engaging content that resonates with their audience, leading to low engagement and follower growth.",
+        "solution": "A comprehensive content creation service that provides tailored short-form video scripts and video content optimized for platforms like TikTok and Instagram Reels, helping clients engage their audience effectively.",
+        "deliverables": [
+          "Three custom short-form video scripts (up to 60 seconds each)",
+          "Three edited video clips ready for uploading",
+          "Five engaging captions tailored to each video",
+          "A one-page content strategy guide specific to the client's niche"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Maximize your social media presence with engaging video content that speaks directly to your audience, designed to increase engagement and follower count.",
+        "sales_angle": "Transform your social media channels with tailored content that captures attention and drives interaction, all without the hassle of content creation.",
+        "organic_discovery_methods": [
+          "Social media sharing by satisfied customers",
+          "Word of mouth referrals",
+          "Cross-promotions with other creators",
+          "Content showcasing successful client case studies"
+        ],
+        "qualification_criteria": [
+          "Client must provide a clear understanding of their target audience",
+          "Ability to communicate their brand values and messaging",
+          "Willingness to engage in a brief consultation call"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and begin boosting your social media engagement."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Want to supercharge your social media? Our Social Media Growth Package helps small businesses and creators create engaging content that connects with their audience! 🎥✨ Get tailored video scripts, edited clips, and a content strategy to boost your engagement and grow your follower count! 💪 Ready to transform your social media presence? Contact us today! #SocialMediaGrowth #ContentCreation #SmallBusiness #EngagementBoost",
+        "website_description": "Unlock your social media potential with our Social Media Growth Package! Tailored for small business owners and creators, this service delivers three custom short-form video scripts, three ready-to-upload video clips, and five engaging captions, all designed to resonate with your audience. With our one-page content strategy guide, you'll be equipped to maximize engagement and follower growth. Elevate your online presence today!",
+        "outreach_template": "Subject: Transform Your Social Media Engagement\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out and introduce you to our Social Media Growth Package, designed specifically for small business owners and creators looking to enhance their social media presence. \n\nWe offer a comprehensive service that includes custom video scripts, edited video content, and a tailored content strategy to engage your audience effectively. \n\nIf you'd like to discuss further, please feel free to schedule a brief consultation call at your convenience. I’d love to help you boost your social media engagement!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you're not interested, just let me know and I'll respect your wishes!",
+        "discovery_questions": [
+          "What specific goals do you have for your social media engagement?",
+          "Who is your target audience, and what do you want them to feel when they engage with your content?",
+          "Can you describe your brand's values and messaging?",
+          "Have you previously tried any content creation strategies? What worked and what didn’t?",
+          "Are you open to a brief consultation to explore tailored content solutions for your brand?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Client Goals and Objectives",
+          "Overview of the Social Media Growth Package",
+          "Deliverables",
+          "Timeline and Estimated Delivery",
+          "Pricing",
+          "Client Responsibilities and Input",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to boost your social media engagement? Contact us today to schedule your consultation and kickstart your growth journey!",
+        "payment_template": "Subject: Confirmation of Your Order\n\nHi [Client's Name],\n\nThank you for your interest in our Social Media Growth Package! We're excited to assist you in enhancing your social media engagement.\n\nTo get started, please confirm your preferred payment method and once we receive that, we’ll proceed with your project. \n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf you wish to opt out of future communications, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
