@@ -19681,6 +19681,62 @@
         "payment_template": "Subject: Payment Confirmation \n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Momentum Boost Package! We’re excited to move forward. Please let me know if you have any questions about the payment process or if you need assistance. \n\nLooking forward to collaborating!\n\nBest, \nLuna  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791335893153",
+      "created_at": "2026-10-07T01:18:13.153199+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Reels & Clips Package",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Small businesses and creators struggle to create engaging video content that attracts and retains audience attention.",
+        "solution": "A comprehensive package that includes tailored short-form video scripts and editing for TikTok, Instagram Reels, and YouTube Shorts to boost engagement.",
+        "deliverables": [
+          "3 custom short-form video scripts (up to 60 seconds each)",
+          "Editing of 3 video clips for one platform of choice (TikTok, Instagram, or YouTube)",
+          "1 set of engaging captions for each video",
+          "Content strategy guide for optimizing video performance"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Enhance your online presence with creatively tailored video content that connects with your audience and drives engagement.",
+        "sales_angle": "Transform your social media with professional, engaging videos that stand out and boost your brand recognition.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Local community groups"
+        ],
+        "qualification_criteria": [
+          "Must have an established social media presence",
+          "Commitment to publishing video content within a month"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and kickstart your video content journey."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our Engaging Reels & Clips Package! 🎥 Designed for small businesses and creators, we provide custom short-form video scripts, professional editing, and a content strategy guide to boost your online presence. Ready to turn heads and grow your audience? Let’s connect! #VideoMarketing #SocialMediaGrowth",
+        "website_description": "Introducing our Engaging Reels & Clips Package, perfect for small businesses and creators aiming to make a mark on social media! This comprehensive offering includes custom short-form videos tailored for TikTok, Instagram, and YouTube, designed to maximize engagement and enhance your online presence. Unlock the potential of captivating video content and connect with your audience like never before.",
+        "outreach_template": "Subject: Enhance Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to reach out to introduce you to our Engaging Reels & Clips Package, designed specifically for small businesses and creators looking to elevate their social media content. \n\nSpeak soon, \n[Your Name]\n[Your Position]\nInfinite Sauce\n\nP.S. If this isn't relevant to you, feel free to let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "How often do you post video content?",
+          "What challenges do you face in creating engaging videos?",
+          "Who is your target audience, and what do you want them to feel when they see your videos?",
+          "What goals do you have for your social media presence in the next few months?"
+        ],
+        "proposal_outline": [
+          "1. Introduction to Infinite Sauce",
+          "2. Understanding Your Needs",
+          "3. Overview of the Engaging Reels & Clips Package",
+          "4. Detailed Deliverables",
+          "5. Estimated Timeline and Pricing",
+          "6. Call to Action",
+          "7. Next Steps"
+        ],
+        "call_to_action": "Ready to boost your brand's visibility? Contact us today to schedule a consultation!",
+        "payment_template": "Subject: Next Steps for Your Order\n\nHi [Recipient's Name],\n\nThank you for expressing interest in our Engaging Reels & Clips Package. To proceed, we can discuss the preferred payment method and any details you’d like to finalize.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nP.S. If you prefer not to continue this conversation, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
