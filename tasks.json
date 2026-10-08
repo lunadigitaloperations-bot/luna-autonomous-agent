@@ -21173,6 +21173,61 @@
         "payment_template": "Subject: Payment Arrangement for Your Social Media Boost Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Boost Package! To proceed, we'll need to discuss the payment details when you're ready. Please let me know a convenient time for you to talk about this.\n\nLooking forward to your response!\n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Company]  \n\nP.S. If you would prefer not to receive any further communication, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791433050805",
+      "created_at": "2026-10-08T04:17:30.805647+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Buzz Boost Package",
+        "target_customer": "Small businesses or content creators wanting to increase engagement on social media platforms such as TikTok and Instagram.",
+        "customer_problem": "Many small businesses and creators struggle to create engaging content that resonates with their audience, leading to low visibility and engagement.",
+        "solution": "A tailored content strategy to create engaging short-form video scripts along with a set of optimized captions for social media platforms, enhancing audience interaction.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each) tailored for TikTok and Instagram Reels.",
+          "3 optimized captions designed to boost engagement and interaction.",
+          "A basic content strategy guide for future posts with tips for maximizing reach."
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Get a personalized content strategy and engaging scripts designed to boost your social media presence without the hassle of trial and error.",
+        "sales_angle": "Stand out in the crowded social media space with captivating content that attracts and retains your audience.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media promotion",
+          "Online ads targeting small businesses"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media account",
+          "Targeting small business owners or content creators"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "✨ Boost Your Social Media Presence with Our Buzz Boost Package! 🚀 Are you a small business or content creator struggling to engage on TikTok and Instagram? 📱 Our tailored content strategy creates captivating short-form video scripts and optimized captions to help you stand out! Ready to take your engagement to the next level? 💬 Contact us today! #SocialMediaMarketing #ContentCreators #EngagementBoost",
+        "website_description": "Unlock the full potential of your social media with our Social Media Buzz Boost Package! Perfect for small businesses and content creators, this package provides tailored short-form video scripts and optimized captions to elevate your engagement on TikTok and Instagram. Say goodbye to low visibility and hello to captivating content designed to attract and retain your audience. Get started today for just $150, with delivery within 7 days!",
+        "outreach_template": "Subject: Enhance Your Social Media Engagement\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to introduce you to our Social Media Buzz Boost Package, designed specifically for small businesses and content creators looking to enhance their social media presence. \n\nWe provide tailored video scripts and optimized captions to help you connect more effectively with your audience. If this sounds interesting to you, I’d love to discuss further!\n\nFeel free to let me know if you’d like to opt out of future communications.\n\nBest,\n[Your Name]",
+        "discovery_questions": [
+          "What social media platforms do you currently use most frequently?",
+          "How do you measure engagement and success on your posts?",
+          "What type of content has resonated most with your audience so far?",
+          "Have you tried video content before? If so, what were the results?",
+          "What are your main goals for your social media presence in the next 3-6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Objective of the Buzz Boost Package",
+          "Analysis of Current Social Media Performance",
+          "Overview of Deliverables",
+          "Timeline and Estimated Delivery",
+          "Pricing Details",
+          "Next Steps"
+        ],
+        "call_to_action": "Contact us via email or WhatsApp to kickstart your journey towards elevated social media engagement!",
+        "payment_template": "Hi [Recipient's Name],\n\nThank you for considering our Social Media Buzz Boost Package! Please let us know if you have any questions or if there’s anything specific you’d like to discuss further. We’re here to help you enhance your social media presence.\n\nFeel free to opt out of future communications if you wish.\n\nBest regards,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
