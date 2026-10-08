@@ -21857,6 +21857,62 @@
         "payment_template": "Subject: Payment Details for Your Upcoming Video Package  \n  \nHi [Name],  \nThank you for your interest in our **30-Day Video Content Kickstart Package**! To proceed with our collaboration, we can discuss payment options at your convenience.  \nPlease let me know a suitable time for you to chat.  \nLooking forward to working together!  \nBest,  \n[Your Name]  \n[Your Contact Information]  \n*Feel free to opt-out of further communications if this doesn't align with your needs.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791476401115",
+      "created_at": "2026-10-08T16:20:01.115029+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Launch Your Video Marketing Strategy",
+        "target_customer": "Small businesses and creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging video content that captures their audience's attention and boosts brand visibility",
+        "solution": "A comprehensive video marketing strategy tailored to the customer’s brand and target audience, including short-form video scripts and content ideas for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "Content strategy document outlining themes and posting schedule",
+          "Guidelines for best practices in video creation and engagement"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Unlock the power of video marketing with a tailored strategy that resonates with your audience, ensuring you create compelling content that stands out.",
+        "sales_angle": "Maximize your digital reach without the hassle of managing content creation – we'll provide everything you need to elevate your brand’s video presence.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media partnerships",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Small business or creator with a defined target audience",
+          "Willingness to engage in feedback for collaboration"
+        ],
+        "next_action": "Contact us to schedule a free consultation and discuss your video marketing needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your brand's presence online? 🎥✨ Launch your video marketing strategy today! Our custom approach provides you with engaging short-form video scripts, a solid content strategy, and best practices to maximize your reach. Don’t let creative blocks hold you back—let’s create video content that captivates your audience! 💡 Contact us for a free consultation! #VideoMarketing #SmallBusiness #Creators #BrandVisibility",
+        "website_description": "Transform your online presence with a tailored video marketing strategy! Perfect for small businesses and creators, our service includes three engaging short-form video scripts, a content strategy document, and best practice guidelines. For just $299, unlock the power of video that resonates with your audience and boosts your brand visibility. Let us handle your content creation while you focus on growing your brand. Contact us today for a free consultation!",
+        "outreach_template": "Subject: Boost Your Brand with Tailored Video Marketing\n\nDear [Name],\n\nI hope this message finds you well. I wanted to reach out and introduce our service designed specifically for small businesses and creators like you. Our customized video marketing strategy helps enhance your online presence with engaging short-form video content.\n\nWe offer a comprehensive package that includes three tailored video scripts, a content strategy, and best practices to ensure your videos captivate your audience. \n\nIf you're interested in discussing how we can assist you in enhancing your video marketing efforts, please reply to schedule a free consultation. \n\nBest regards,\n\n[Your Name]\n[Your Company]\n\nP.S. If you wish to opt out of future communications, simply let me know!",
+        "discovery_questions": [
+          "What specific goals do you hope to achieve with video marketing?",
+          "Which platforms do you currently use to engage with your audience?",
+          "What challenges have you faced in creating video content so far?",
+          "Can you describe your target audience and their preferences?",
+          "How often do you plan to post new video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Proposed Video Marketing Strategy",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to amplify your brand's visibility? Contact us today to schedule your free consultation!",
+        "payment_template": "Subject: Next Steps for Your Video Marketing Strategy\n\nDear [Name],\n\nThank you for considering our video marketing services. To move forward, we can discuss payment options and finalize the details to kickstart your tailored video marketing strategy. \n\nPlease let me know a suitable time for you, and I’ll be happy to assist!\n\nBest regards,\n\n[Your Name]\n[Your Company]\n\nP.S. If you prefer not to receive any further correspondence, please don’t hesitate to inform me.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
