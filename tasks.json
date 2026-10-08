@@ -21572,6 +21572,64 @@
         "payment_template": "Subject: Payment Details for Your Project\n\nHi [Client's Name],\n\nThank you for your interest in our Social Media Starter Package! To proceed with your order, we will need to discuss the payment details. Please let us know a convenient time for you to chat. \n\nLooking forward to hearing from you! \n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791458219304",
+      "created_at": "2026-10-08T11:16:59.304785+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Revamp Package",
+        "target_customer": "Small businesses and individual creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging content that captures the audience's attention and drives interaction on social media platforms.",
+        "solution": "A tailored content creation service that revitalizes your social media strategy by producing short-form videos and engaging captions designed specifically for your target audience.",
+        "deliverables": [
+          "3 custom short-form video scripts (TikTok, Instagram Reels, or YouTube Shorts)",
+          "3 finalized short-form videos optimized for chosen platforms",
+          "3 engaging captions for each video",
+          "A one-page content strategy outline for next month"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your social media engagement with creative and tailored content that speaks directly to your audience.",
+        "sales_angle": "Transform your online presence with professionally crafted content that resonates and engages without the overwhelm of content creation.",
+        "organic_discovery_methods": [
+          "Social media marketing (organic posts showcasing previous work)",
+          "Collaborations with micro-influencers",
+          "Participation in relevant online forums or communities"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Willing to engage in a short discovery call to discuss needs",
+          "Open to new content ideas and formats"
+        ],
+        "next_action": "Contact me via email or WhatsApp to schedule a discovery call and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Introducing our Social Media Content Revamp Package! Tailored content just for you, including short-form videos and engaging captions that captivate your audience. Let's transform your online presence together! 💥 DM us to learn more. #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Transform your social media presence with our Social Media Content Revamp Package! Designed for small businesses and individual creators, this package includes custom video scripts, finalized videos, engaging captions, and a strategic outline to boost engagement and interaction. Let's create content that speaks directly to your audience!",
+        "outreach_template": "Subject: Let's Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to discuss how our Social Media Content Revamp Package can help elevate your social media strategy. If you're interested, we can set up a short discovery call to explore your needs and how we can assist you.\n\nLooking forward to hearing from you!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n*If you're not interested, just let me know, and I won’t reach out again.*",
+        "discovery_questions": [
+          "What social media platforms are you currently using, and which ones do you find most challenging?",
+          "Can you describe your target audience and what type of content they engage with?",
+          "What are your primary goals for your social media presence?",
+          "Have you previously implemented any specific strategies or content types that worked well?",
+          "What is your preferred timeline and budget for revamping your social media content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Your Current Social Media Presence",
+          "Identified Challenges and Opportunities",
+          "Proposed Solution: Social Media Content Revamp Package",
+          "Deliverables",
+          "Timeline and Pricing",
+          "Next Steps",
+          "Conclusion and Open Floor for Questions"
+        ],
+        "call_to_action": "Ready to boost your social media engagement? Contact us today to schedule your discovery call!",
+        "payment_template": "Subject: Next Steps for Your Social Media Revamp\n\nHi [Name],\n\nThank you for discussing your interest in our Social Media Content Revamp Package! To get started, we can review the payment options available. Please let me know how you'd like to proceed.\n\nLooking forward to hearing from you!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n*If you're not ready to move forward, just let me know, and I totally respect that.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
