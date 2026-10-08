@@ -21913,6 +21913,57 @@
         "payment_template": "Subject: Next Steps for Your Video Marketing Strategy\n\nDear [Name],\n\nThank you for considering our video marketing services. To move forward, we can discuss payment options and finalize the details to kickstart your tailored video marketing strategy. \n\nPlease let me know a suitable time for you, and I’ll be happy to assist!\n\nBest regards,\n\n[Your Name]\n[Your Company]\n\nP.S. If you prefer not to receive any further correspondence, please don’t hesitate to inform me.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791479827930",
+      "created_at": "2026-10-08T17:17:07.930659+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Short-Form Video Package",
+        "target_customer": "Small businesses or content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that attracts and retains audience attention",
+        "solution": "A cohesive short-form video strategy tailored to highlight your brand's unique selling points, including scriptwriting and editing services.",
+        "deliverables": [
+          "Two 30-second video scripts",
+          "Two edited short-form videos (for TikTok or Instagram Reels)",
+          "Two engaging captions for social media posts",
+          "Content strategy document outlining tips for future video creation"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your brand's visibility and engagement with tailored short-form videos that resonate with your audience.",
+        "sales_angle": "Stand out in the crowded digital space with content specifically designed to capture attention and drive engagement.",
+        "organic_discovery_methods": [
+          "Social media platforms",
+          "Referrals",
+          "Online creator communities"
+        ],
+        "qualification_criteria": [
+          "Small business or content creator in need of video content",
+          "Willingness to provide brand details and objectives",
+          "Ability to communicate feedback remotely"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to discuss your project and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your online presence with our Engaging Short-Form Video Package! Perfect for small businesses and content creators, our tailored video strategy will help you stand out in the crowded digital space. Get two captivating 30-second videos along with scripts and captions—all for just $150! Ready to boost your brand’s visibility? 📈 #SmallBusiness #ContentCreation #VideoMarketing",
+        "website_description": "Transform your online presence with our Engaging Short-Form Video Package, designed specifically for small businesses and content creators. Say goodbye to the struggle of creating engaging content. Our package includes two 30-second video scripts, two edited short-form videos ideal for TikTok or Instagram Reels, and two engaging captions. Plus, receive a content strategy document to guide your future creations—all for just $150 and delivered within 7 days. Don’t miss the chance to boost your brand's visibility and engagement!",
+        "outreach_template": "Subject: Let's Supercharge Your Video Strategy!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to introduce our Engaging Short-Form Video Package — a solution crafted for small businesses like yours looking to enhance their online visibility. This package includes tailored scripts, engaging videos, and strategic insights to help you connect with your audience effectively.\n\nWould you be open to a brief discussion about how we can assist you in achieving your video content goals?\n\nIf this doesn’t resonate with you right now, feel free to let me know, and I’ll make sure not to follow up. \n\nBest,\n[Your Name]\nLuna at Infinite Sauce",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current video content?",
+          "Who is your target audience, and what do you want to achieve with your videos?",
+          "Do you have a preferred style or theme for your video content?",
+          "How do you currently promote your video content on social media?",
+          "What are your future goals for video marketing and online engagement?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of your business and objectives.\n2. Objectives\n   - Discuss goals for video content.\n3. Proposed Solution\n   - Overview of the Engaging Short-Form Video Package.\n4. Deliverables\n   - List of what the package includes.\n5. Timeline\n   - Estimated delivery date.\n6. Investment\n   - Pricing details.\n7. Next Steps\n   - Call to action for moving forward."
+        ],
+        "call_to_action": "Ready to take your video content to the next level? Contact us today to get started!",
+        "payment_template": "Hi [Name],\n\nI hope you’re doing well! I wanted to follow up regarding the services we discussed. If you’re ready to proceed or have any questions about the package, feel free to reach out.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\nLuna at Infinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
