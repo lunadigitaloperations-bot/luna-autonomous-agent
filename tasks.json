@@ -22020,6 +22020,62 @@
         "payment_template": "Subject: Regarding Your Upcoming Service\n\nHi [Name],\n\nI wanted to follow up on our previous conversation about the *Social Media Engagement Booster Package*. If you’re ready to move forward, we can discuss the next steps for initiating this service.\n\nLooking forward to hearing from you soon!\n\nBest,\n[Your Name]\n[Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791487039254",
+      "created_at": "2026-10-08T19:17:19.254520+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Reels Package",
+        "target_customer": "Small businesses and creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention on platforms like Instagram and TikTok.",
+        "solution": "A tailored package of short-form video scripts and content ideas specifically designed for your brand, along with tips on execution.",
+        "deliverables": [
+          "5 tailored short-form video scripts for Instagram Reels or TikTok.",
+          "2 content ideas for YouTube Shorts.",
+          "A one-page content strategy guide with posting frequency and engagement tips."
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Increase audience engagement and build your online brand presence with professional, original video content tailored to your business.",
+        "sales_angle": "Don’t miss out on potential customers—let us help you create eye-catching video content that stands out.",
+        "organic_discovery_methods": [
+          "Social media channels",
+          "Referrals from existing clients",
+          "Content marketing via blogs"
+        ],
+        "qualification_criteria": [
+          "Business or creator with an active presence on social media platforms.",
+          "Willingness to invest in content creation."
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Level up your social media game with our Social Media Reels Package! 🎥 Perfect for small businesses and creators looking to enhance their online presence. Get 5 tailored video scripts, 2 YouTube Shorts ideas, and a strategy guide—all for just $150! Don’t miss out on engaging your audience! 📈 Contact us today! #SocialMedia #VideoContent #SmallBusiness",
+        "website_description": "Transform your online presence with our Social Media Reels Package! For just $150, receive 5 customized short-form video scripts for Instagram Reels or TikTok, 2 innovative ideas for YouTube Shorts, and a one-page content strategy guide to maximize your engagement. Perfect for small businesses and creators seeking to captivate their audience in just 7 days!",
+        "outreach_template": "Subject: Enhance Your Online Presence\n\nHello [Name],\n\nI hope this message finds you well! I wanted to reach out to share an exciting opportunity that can help elevate your social media engagement. Our Social Media Reels Package offers tailored video scripts and content ideas designed specifically for your brand.\n\nWould you be interested in discussing this further? I'm here to help!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n\n*If you’d prefer not to receive messages from us, please let me know.*",
+        "discovery_questions": [
+          "What platforms are you currently active on?",
+          "What type of content has resonated most with your audience?",
+          "How often do you post video content?",
+          "What challenges do you face in creating video content?",
+          "What are your goals for your online presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of your current social media situation",
+          "Description of our Social Media Reels Package",
+          "Deliverables outline",
+          "Value proposition",
+          "Timeline for delivery",
+          "Investment details",
+          "Next steps"
+        ],
+        "call_to_action": "Ready to enhance your online presence? Contact us now to get started!",
+        "payment_template": "Subject: Payment for Your Order\n\nHello [Name],\n\nThank you for choosing our Social Media Reels Package! As we move forward, please confirm the payment details at your earliest convenience. I’m here to answer any questions you may have.\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n\n*If this message does not resonate with you, please let me know, and I will remove you from my outreach.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
