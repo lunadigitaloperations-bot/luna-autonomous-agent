@@ -21798,6 +21798,65 @@
         "payment_template": "Subject: Next Steps for the Engaging Video Content Package\n\nHi [Name],\n\nThank you for your interest in our Engaging Video Content Package! To get started, we can discuss the payment details and finalize the arrangement at your earliest convenience. \n\nPlease let me know how you would like to proceed, and I'd be happy to assist! \n\nLooking forward to hearing from you soon.\n\nBest,\n[Your Name]\n[Your Contact Information]  \n\nIf you prefer not to continue this discussion, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791472685322",
+      "created_at": "2026-10-08T15:18:05.322836+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Video Content Kickstart Package",
+        "target_customer": "Small businesses and creators looking to enhance their online presence through engaging short-form video content.",
+        "customer_problem": "Many small businesses and creators struggle to produce consistent, high-quality video content that engages their audience and showcases their brand.",
+        "solution": "The 30-Day Video Content Kickstart Package provides a structured plan to generate engaging short-form video content for platforms like TikTok, Instagram, and YouTube Shorts.",
+        "deliverables": [
+          "Initial consultation to define goals and target audience (30 mins)",
+          "Content strategy outline with 15 video ideas tailored to the brand",
+          "5 short-form video scripts (up to 60 seconds each)",
+          "Branding guidelines for videos including tone, style, and call-to-action tips",
+          "1 follow-up consultation to review the content and adjust strategy if needed"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Empower your brand with a month's worth of tailored video content ideas and scripts to engage your audience and boost online visibility.",
+        "sales_angle": "Transform your social media presence with compelling video content designed to connect and convert potential customers!",
+        "organic_discovery_methods": [
+          "Social media outreach",
+          "Word of mouth",
+          "Referral programs",
+          "Networking in local community groups"
+        ],
+        "qualification_criteria": [
+          "Must have a defined brand or product",
+          "Willingness to engage in follow-up feedback sessions",
+          "Commitment to executing the video content strategy"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your initial consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your brand's online presence? Introducing our **30-Day Video Content Kickstart Package**! 📹 This tailored solution provides you with engaging short-form video content to boost your visibility on platforms like TikTok, Instagram, and YouTube Shorts. Let's transform your social media together! Reach out today for your initial consultation! 🌟 #VideoMarketing #ContentCreation",
+        "website_description": "Enhance your online presence with our **30-Day Video Content Kickstart Package**! Designed for small businesses and creators, this package offers a structured plan to generate high-quality short-form video content tailored to your brand. With services including consultation, personalized video scripts, and branding guidelines, we empower you to connect with your audience and boost engagement. Get started today for just $250!",
+        "outreach_template": "Subject: Let's Enhance Your Video Content Strategy!  \n  \nHi [Name],  \nI hope this message finds you well! I'm reaching out to introduce our **30-Day Video Content Kickstart Package**, designed specifically for small businesses and creators looking to enhance their online presence through engaging video content.  \nWe're here to help you tackle the challenge of creating consistent, high-quality videos that showcase your brand effectively. Would you be open to discussing how this package could benefit your brand?  \nI'd love to schedule an initial consultation at your convenience. Please let me know what works for you!  \nBest regards,  \n[Your Name]  \n[Your Contact Information]  \n*If you're not interested, feel free to let me know!*",
+        "discovery_questions": [
+          "What specific goals do you want to achieve with your video content?",
+          "Who is your target audience, and what do you want them to feel when they see your videos?",
+          "What challenges have you faced in creating video content in the past?",
+          "How do you currently engage with your audience on social media?",
+          "What platforms are you most interested in for sharing your video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Video Content Kickstart Package",
+          "Deliverables and timeline",
+          "Benefits for the client",
+          "Investment details ($250)",
+          "Next steps and Call to Action",
+          "Contact information"
+        ],
+        "call_to_action": "Ready to get started? Contact us today to schedule your initial consultation for the **30-Day Video Content Kickstart Package**!",
+        "payment_template": "Subject: Payment Details for Your Upcoming Video Package  \n  \nHi [Name],  \nThank you for your interest in our **30-Day Video Content Kickstart Package**! To proceed with our collaboration, we can discuss payment options at your convenience.  \nPlease let me know a suitable time for you to chat.  \nLooking forward to working together!  \nBest,  \n[Your Name]  \n[Your Contact Information]  \n*Feel free to opt-out of further communications if this doesn't align with your needs.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
