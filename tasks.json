@@ -21964,6 +21964,62 @@
         "payment_template": "Hi [Name],\n\nI hope you’re doing well! I wanted to follow up regarding the services we discussed. If you’re ready to proceed or have any questions about the package, feel free to reach out.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\nLuna at Infinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791483546405",
+      "created_at": "2026-10-08T18:19:06.405829+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Engagement Booster Package",
+        "target_customer": "Small business owners and content creators looking to increase engagement on social media platforms.",
+        "customer_problem": "Struggling to create engaging content that resonates with their audience and boosts interaction on social media channels.",
+        "solution": "A curated social media content package that provides tailored short-form video scripts and strategies to enhance audience engagement.",
+        "deliverables": [
+          "Three custom short-form video scripts (15-60 seconds each) tailored to the customer's brand and audience.",
+          "Five engaging captions designed to improve interaction on posts.",
+          "A content engagement strategy document outlining best practices for posting and interaction."
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your social media presence with engaging content that drives interaction, tailored specifically for your brand and audience.",
+        "sales_angle": "Transform your social media channels with custom content that captivates and connects, all delivered remotely with fast turnaround.",
+        "organic_discovery_methods": [
+          "Social media marketing (e.g., Instagram, Facebook)",
+          "Word-of-mouth referrals",
+          "Content marketing via blogs or newsletters"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator.",
+          "Must have existing social media accounts with at least 100 followers."
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your social media engagement with our *Social Media Engagement Booster Package*! Tailored short-form video scripts and captivating captions designed just for you. Say goodbye to content struggles and hello to increased interaction! 📈✨ DM us to learn more! #SocialMedia #Engagement #SmallBusiness",
+        "website_description": "Unlock the potential of your social media platforms with our *Social Media Engagement Booster Package*! Designed for small business owners and content creators, this package offers three custom short-form video scripts along with five engaging captions. Plus, receive a comprehensive content engagement strategy to elevate your brand's presence. Transform your social media channels and captivate your audience—let's get started!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Engagement!\n\nHi [Name],\n\nI hope this message finds you well! My name is [Your Name] from Infinite Sauce, and we're currently offering a *Social Media Engagement Booster Package* designed specifically for small business owners and content creators like you.\n\nMany struggle with creating content that fosters audience interaction, and our package includes custom video scripts and engaging captions to help turn that around.\n\nIf this sounds interesting, I’d love to schedule a consultation to discuss how we can tailor this package to your needs. Please let me know a time that works for you, or feel free to reach out with any questions.\n\nBest regards,\n[Your Name]\n[Contact Information]\n\nP.S. If this isn’t the right time, just let me know, and I’ll be sure to opt you out of any future updates.",
+        "discovery_questions": [
+          "What social media platforms are you currently using for your business?",
+          "What type of content have you found resonates most with your audience?",
+          "How often do you post on social media?",
+          "What specific engagement challenges are you facing right now?",
+          "Are there any examples of social media content you admire and wish to replicate?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Current Social Media Situation",
+          "Overview of the Social Media Engagement Booster Package",
+          "Detail of Deliverables",
+          "Proposed Strategy and Timeline",
+          "Cost and Payment Terms",
+          "Next Steps and Contact Information",
+          "Closing Remarks"
+        ],
+        "call_to_action": "Ready to elevate your social media game? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Regarding Your Upcoming Service\n\nHi [Name],\n\nI wanted to follow up on our previous conversation about the *Social Media Engagement Booster Package*. If you’re ready to move forward, we can discuss the next steps for initiating this service.\n\nLooking forward to hearing from you soon!\n\nBest,\n[Your Name]\n[Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
