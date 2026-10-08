@@ -21512,6 +21512,66 @@
         "payment_template": "Subject: Payment Information for Your Video Content Package\n\nHello [Recipient's Name],\n\nThank you for your interest in our Engaging Video Content Package! To proceed, we will need to discuss the payment details. Please let me know a convenient time for us to connect.\n\nAs always, feel free to opt-out of further communication if this package isn't what you're looking for.\n\nBest, \n[Your Name] \n[Your Position] \nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791454723941",
+      "created_at": "2026-10-08T10:18:43.941507+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Starter Package",
+        "target_customer": "Small businesses and solo creators looking to boost their online presence",
+        "customer_problem": "Struggling to create engaging content consistently for their social media platforms",
+        "solution": "A comprehensive social media content creation package designed to provide high-quality short-form videos and captions tailored for their brand.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "3 completed TikTok videos",
+          "3 Instagram Reels",
+          "3 YouTube Shorts",
+          "Captions for all videos"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Kickstart your social media presence with professional, tailored content that resonates with your audience without breaking the bank.",
+        "sales_angle": "Generate more engagement and visibility with high-quality videos crafted specifically for your brand, freeing you to focus on other areas of your business.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Referrals from existing clients",
+          "Networking in local business communities",
+          "Content marketing (e.g., blog posts, videos on value of social media)"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or creator",
+          "Active on at least one social media platform",
+          "Willing to provide branding guidelines and target audience details"
+        ],
+        "next_action": "Email us at luna.digital.operations@gmail.com to schedule a consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your online presence to the next level? Our Social Media Starter Package is perfect for small businesses and solo creators struggling to create engaging content. For just $300, you'll receive tailored short-form videos and captions, all designed to resonate with your audience. Let us help you generate more engagement and visibility! 💡📈 Email us to get started! #SocialMedia #SmallBusiness #ContentCreation",
+        "website_description": "Boost your online presence with our Social Media Starter Package! Designed for small businesses and solo creators, this comprehensive content creation package includes 3 short-form video scripts, completed TikTok videos, Instagram Reels, YouTube Shorts, and tailored captions—all for just $300. With a quick turnaround of 7 days, you can kickstart your engagement and visibility without breaking the bank!",
+        "outreach_template": "Subject: Let's Boost Your Online Presence Together!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out and share an exciting opportunity designed specifically for small businesses and solo creators like yourself.\n\nOur Social Media Starter Package includes high-quality short-form videos and captions tailored to your brand, helping you generate engagement and visibility across platforms.\n\nWould you be interested in discussing how this package can benefit your business? \n\nLooking forward to hearing from you! \n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce",
+        "discovery_questions": [
+          "What challenges are you currently facing with social media content?",
+          "Which platforms are you most active on, and where do you see room for improvement?",
+          "Do you have branding guidelines or target audience details you can share?",
+          "What type of content resonates best with your audience?",
+          "How would you define success for your social media efforts?"
+        ],
+        "proposal_outline": [
+          "Introduction and Background",
+          "Understanding of Client Needs",
+          "Overview of the Social Media Starter Package",
+          "Detailed Deliverables",
+          "Suggested Price and Payment Terms",
+          "Estimated Delivery Timeline",
+          "Next Steps for Moving Forward",
+          "Thank You and Contact Information"
+        ],
+        "call_to_action": "Email us today at luna.digital.operations@gmail.com to schedule your consultation and start transforming your social media presence!",
+        "payment_template": "Subject: Payment Details for Your Project\n\nHi [Client's Name],\n\nThank you for your interest in our Social Media Starter Package! To proceed with your order, we will need to discuss the payment details. Please let us know a convenient time for you to chat. \n\nLooking forward to hearing from you! \n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
