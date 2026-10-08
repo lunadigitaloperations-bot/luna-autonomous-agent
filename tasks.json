@@ -22191,6 +22191,65 @@
         "payment_template": "Subject: Payment Details for Our Upcoming Collaboration  \n\nHi [Name],  \n\nThank you for your interest in our 30-Day Social Media Boost Package! To proceed, we’ll need to confirm the payment details. Please let me know how you would prefer to handle this, and I’ll provide the necessary information.  \n\nIf you have any questions or need further clarification, feel free to ask.  \n\nLooking forward to hearing from you!  \nBest,  \n[Your Name]  \n[Your Company]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791497786147",
+      "created_at": "2026-10-08T22:16:26.147579+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Video Content Strategy Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to keep up with content creation and engagement on social media platforms, leading to decreased visibility and audience growth.",
+        "solution": "A tailored 30-day content strategy that focuses on creating high-engagement short-form videos for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "Initial consultation (30 minutes) to understand business goals and target audience",
+          "A 30-day content calendar featuring three video ideas per week tailored to the client's brand",
+          "Scripts for each video idea (12 scripts total) ensuring clear messaging and engagement strategies",
+          "Guidance on best practices for filming and editing short-form videos",
+          "Two revisions on the content calendar and scripts based on client feedback",
+          "Access to digital resources and tips for maximizing video performance on social media"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Maximize your online presence with a comprehensive video content strategy tailored specifically to your brand's voice and audience.",
+        "sales_angle": "Empower your brand and connect with your audience through engaging video content without the stress of planning and scripting.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referrals from satisfied clients",
+          "Networking in online business communities"
+        ],
+        "qualification_criteria": [
+          "Clients must have an existing social media presence",
+          "Willingness to engage and provide feedback during the planning process"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com to schedule your initial consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your online presence? Our **30-Day Video Content Strategy Package** is designed for small businesses and content creators who want to boost engagement! Get tailored video ideas, scripts, and expert guidance on filming for TikTok, Instagram Reels, and YouTube Shorts. 🎥✨ Let us handle the planning, so you can focus on creating! 🌟 #VideoMarketing #ContentCreation #SocialMediaStrategy",
+        "website_description": "Unlock your brand's potential with our **30-Day Video Content Strategy Package**! Designed for small businesses and content creators, this package provides a comprehensive strategy to create high-engagement short-form videos. Enjoy a personalized content calendar, scripts, and expert guidance—all tailored to connect with your audience and enhance your online presence. Start maximizing your visibility today!",
+        "outreach_template": "Subject: Elevate Your Online Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our **30-Day Video Content Strategy Package**. This tailored solution is perfect for small businesses and content creators looking to enhance their engagement on social media platforms.\n\nWould you be open to discussing how we can help you achieve your content goals? If you're interested, we can schedule a quick 30-minute consultation.\n\nThank you for considering this opportunity, and please feel free to opt-out if you’re not interested.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "discovery_questions": [
+          "What specific goals do you want to achieve with your video content?",
+          "Who is your target audience, and what do you want them to feel when they engage with your videos?",
+          "What platforms are you currently using for your content distribution?",
+          "How frequently do you wish to post video content?",
+          "What challenges are you facing with your current video creation process?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Business Goals",
+          "Overview of the 30-Day Video Content Strategy Package",
+          "Deliverables Breakdown",
+          "Timeline and Milestones",
+          "Investment and Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Contact us today at luna.digital.operations@gmail.com to schedule your initial consultation and start maximizing your online presence!",
+        "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for your interest in our **30-Day Video Content Strategy Package**! We’re excited to partner with you. Please let us know if you have any questions or require further information regarding the payment process.\n\nLooking forward to your response. If you prefer not to communicate about this any further, just let us know.\n\nBest, \n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
