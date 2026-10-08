@@ -21282,6 +21282,65 @@
         "payment_template": "Subject: Confirmation of Your Package Purchase\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Content Kickstart Package! To proceed with the next steps and secure your package, please let us know if you have any questions or require further details. We look forward to working together!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \nTo opt out of future emails, simply reply with 'unsubscribe'.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791440590975",
+      "created_at": "2026-10-08T06:23:10.975021+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Package",
+        "target_customer": "Small businesses and content creators looking to increase engagement on social media platforms.",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with audiences and boosts interaction.",
+        "solution": "A customized 4-week social media growth package focused on creating engaging TikTok videos, Instagram Reels, and YouTube Shorts tailored to the customer's brand and audience.",
+        "deliverables": [
+          "Four short-form video scripts (one per week)",
+          "One TikTok video (up to 60 seconds)",
+          "One Instagram Reel (up to 90 seconds)",
+          "One YouTube Short (up to 60 seconds)",
+          "Engaging captions for all video posts"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 28,
+        "value_proposition": "Boost your social media engagement with tailored short-form video content without the hassle of creating it yourself.",
+        "sales_angle": "Transform your social media presence with professionally crafted videos designed to capture your audience's attention and drive interaction.",
+        "organic_discovery_methods": [
+          "Social media ads",
+          "Organic posts",
+          "Collaborations with influencers",
+          "Email newsletters"
+        ],
+        "qualification_criteria": [
+          "Small business with an established brand identity",
+          "Active presence on at least one social media platform",
+          "Willingness to engage with and use video content"
+        ],
+        "next_action": "Contact me via email or WhatsApp to discuss your brand needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Looking to boost your social media engagement? Our Social Media Growth Package is here to help! 🎥✨ Get customized short-form videos tailored to your brand that will captivate your audience and skyrocket interaction. Let's transform your content strategy together! 🌟 Contact us today to get started! #SocialMediaGrowth #ShortFormVideos #EngagementBoost",
+        "website_description": "Elevate your brand's social media presence with our specialized Social Media Growth Package. Designed for small businesses and content creators, this 4-week service delivers custom short-form videos that captivate your audience and enhance engagement across TikTok, Instagram Reels, and YouTube Shorts. Leave the creative work to us and watch your interaction soar!",
+        "outreach_template": "Subject: Elevate Your Social Media Engagement\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to share a solution designed specifically for small businesses like yours. Our Social Media Growth Package focuses on creating engaging short-form videos that can help boost your online interaction and visibility. \n\nIf this sounds interesting, would you be open to a conversation about your brand's needs?\n\nBest regards,\n[Your Name]\n\nP.S. If you prefer not to hear from me again, please let me know.",
+        "discovery_questions": [
+          "What are your current goals for social media engagement?",
+          "Which platforms are you most active on?",
+          "What type of content resonates best with your audience?",
+          "How often do you currently post short-form videos?",
+          "What challenges are you facing in creating engaging video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Social Media Growth Package",
+          "Deliverables",
+          "Timeline and Estimated Delivery",
+          "Investment",
+          "Why Choose Us",
+          "Call to Action"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us now to get started!",
+        "payment_template": "Subject: Next Steps for Your Social Media Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Growth Package! To proceed, we can discuss payment options and finalize the details. Please let me know when would be a good time for us to connect on this.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n\nP.S. If you're not interested, feel free to let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
