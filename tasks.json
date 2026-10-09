@@ -22877,6 +22877,60 @@
         "payment_template": "Subject: Confirmation of Your Package\n\nHi [Name],\n\nThank you for considering our Social Media Boost Package! Once you are ready to proceed, I can provide the payment details to get everything set up to meet your needs. Please let me know if you have any questions in the meantime!\n\nBest, \n[Your Name]\n\nP.S. If you decide that this isn't the right fit, please feel free to reach out, and I'll ensure you're not contacted again.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791544590089",
+      "created_at": "2026-10-09T11:16:30.089788+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Kit for Creators",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence.",
+        "customer_problem": "Creators struggle to consistently produce engaging content that captures and retains audience attention.",
+        "solution": "A comprehensive content strategy and video script package designed specifically for TikTok and Instagram Reels, tailored for the client's brand voice.",
+        "deliverables": [
+          "A detailed content strategy outline (5 pages)",
+          "10 short-form video scripts (30-60 seconds each) for TikTok and Instagram Reels",
+          "Caption guides for each script"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Increase your social media engagement and grow your audience with tailored, ready-to-use content scripts and a strategic plan.",
+        "sales_angle": "Unlock the potential of your brand with engaging content that speaks directly to your audience.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator with an active social media presence.",
+          "Willingness to implement the provided strategies."
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to boost your social media presence? Our Social Media Growth Kit for Creators is designed to help small business owners and content creators like you captivate your audience! 🎥✨ Get tailored video scripts, a detailed content strategy, and more—all for just $250! Let's unlock your brand's potential together! 💪 Contact us today to learn more! #SocialMediaGrowth #ContentCreators #Engagement",
+        "website_description": "Enhance your social media presence with our Social Media Growth Kit for Creators. Tailored for small business owners and content creators, this comprehensive package includes a detailed content strategy, 10 engaging video scripts for TikTok and Instagram Reels, and caption guides—all designed to resonate with your brand voice. Start growing your audience and increasing engagement for just $250, delivered within 10 days!",
+        "outreach_template": "Subject: Quick Question about Your Social Media Strategy\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share our Social Media Growth Kit designed for small business owners and content creators struggling to engage their audience effectively. If you’re interested in unlocking your brand's potential with personalized content strategies, let’s chat!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n\nP.S. If this isn't of interest to you, please let me know, and I won’t follow up.",
+        "discovery_questions": [
+          "What challenges do you currently face in creating engaging social media content?",
+          "Which platforms do you primarily use to connect with your audience?",
+          "How often are you currently posting content on your social media channels?",
+          "What kind of content resonates most with your audience?",
+          "Are you open to implementing new strategies for enhancing your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Growth Kit",
+          "Detailed description of deliverables",
+          "Pricing information",
+          "Timeline for delivery",
+          "Next steps and contact information"
+        ],
+        "call_to_action": "Ready to elevate your social media game? Contact us at luna.digital.operations@gmail.com to schedule a consultation!",
+        "payment_template": "Subject: Confirmation of Your Order\n\nHi [Name],\n\nThank you for considering our Social Media Growth Kit. We’re excited to get started on enhancing your social media presence! Once you're ready, we can discuss payment options and next steps to move forward.\n\nPlease let me know if you have any questions!\n\nBest, \n[Your Name]\n[Your Position]\n[Your Company]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
