@@ -22764,6 +22764,62 @@
         "payment_template": "Subject: Payment Follow-Up\n\nHi [Name],\n\nI hope you're doing well! I wanted to touch base regarding the next steps for our Short-Form Video Boost Package. If you have any questions or need further clarification, I'm here to help!\n\nThank you for your attention, and I look forward to hearing from you soon.\n\nBest,  \n[Luna’s Name]  \nInfinite Sauce\n\nP.S. If this isn't the right time, please let me know, and I can remove you from further messages.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791537526556",
+      "created_at": "2026-10-09T09:18:46.556732+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Short-Form Video Content Package",
+        "target_customer": "Small businesses or content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form videos consistently to attract and retain audience attention.",
+        "solution": "A tailored package of short-form video scripts and content ideas that align with the customer's brand and target audience.",
+        "deliverables": [
+          "5 custom short-form video scripts",
+          "15 unique content ideas for TikTok, Instagram Reels, or YouTube Shorts",
+          "5 engaging captions tailored for each script",
+          "A 30-minute consultation to discuss strategy and goals"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your social media engagement effortlessly with curated video scripts and content ideas designed for your brand.",
+        "sales_angle": "Unlock your creativity without the stress of brainstorming. Let us do the heavy lifting!",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Content marketing through blog posts"
+        ],
+        "qualification_criteria": [
+          "Business or creator with an established presence on social media",
+          "Willingness to execute the content strategy provided"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Unlock your social media potential with our 30-Day Short-Form Video Content Package! Get tailored video scripts, engaging content ideas, and strategic guidance designed just for your brand. Perfect for small businesses and content creators looking to boost engagement. 💡 Ready to elevate your online presence? Contact us to get started! #VideoContent #SocialMediaMarketing #BrandGrowth",
+        "website_description": "Are you struggling to create engaging short-form videos for social media? Our 30-Day Short-Form Video Content Package is here to help! You’ll receive 5 custom video scripts, 15 unique content ideas for TikTok, Instagram Reels, or YouTube Shorts, and 5 tailored captions. Plus, enjoy a 30-minute consultation to align your strategy with your goals. Priced at just $299, this package takes the stress out of content creation, allowing you to effortlessly boost your engagement and connect with your audience.",
+        "outreach_template": "Subject: Enhance Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity to help enhance your social media engagement. We offer a 30-Day Short-Form Video Content Package, tailored specifically for small businesses and content creators like yourself.\n\nOur package includes custom video scripts, unique content ideas for popular platforms, and strategy consultation—all designed to attract and retain your audience’s attention effortlessly.\n\nIf you're interested, I'd love to schedule a time to discuss how we can support your goals.\n\nThank you, and feel free to opt-out of future communications if this isn't of interest.\n\nBest,\n[Your Name]",
+        "discovery_questions": [
+          "What social media platforms are you currently using to engage with your audience?",
+          "What type of content performs best for you on these platforms?",
+          "How often do you post short-form videos?",
+          "What challenges do you face when creating video content?",
+          "What are your goals for your social media presence in the next 30 days?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Short-Form Video Content Package",
+          "Detailed breakdown of deliverables",
+          "Timeline and estimated delivery",
+          "Pricing information",
+          "Next steps and consultation scheduling",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to take your social media to the next level? Contact us today!",
+        "payment_template": "Subject: Invoice for Your 30-Day Short-Form Video Content Package\n\nHi [Recipient's Name],\n\nThank you for choosing our 30-Day Short-Form Video Content Package! We are excited to work with you.\n\nPlease find the attached invoice at your convenience. Feel free to reach out if you have any questions.\n\nThank you and have a great day! \n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
