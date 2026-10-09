@@ -22593,6 +22593,64 @@
         "payment_template": "Hi [Name],\n\nThank you for your interest in our Engaging Short-Form Video Content Package! Once we finalize the details, we can discuss payment options to secure your package.\n\nPlease let me know how you'd like to proceed!\n\n*If you're not interested, please feel free to let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791526942010",
+      "created_at": "2026-10-09T06:22:22.010075+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Content Kickstart Package",
+        "target_customer": "Small businesses and online creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging short-form video content consistently and may lack a cohesive content strategy.",
+        "solution": "A structured 30-day plan that provides guidance on creating and posting short-form videos across popular platforms to build brand awareness and engagement.",
+        "deliverables": [
+          "Initial content strategy consultation (60 minutes)",
+          "30 video script templates for TikTok, Instagram Reels, or YouTube Shorts",
+          "Weekly content calendar with posting schedule",
+          "10 engaging captions tailored for target audience",
+          "2 rounds of feedback and revisions"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Kickstart your content creation with a tailored 30-day plan, propelling your brand visibility without the overwhelm.",
+        "sales_angle": "Eliminate content creation stress, save time, and engage your audience with professionally crafted video scripts and strategies.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online forums and communities"
+        ],
+        "qualification_criteria": [
+          "Small business or creator with existing social media profiles",
+          "Willingness to engage in feedback and revisions"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your initial consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to enhance your social media game? Introducing our **30-Day Content Kickstart Package** designed specifically for small businesses and online creators! 🌟 Say goodbye to content creation stress and hello to engaging short-form videos with our easy-to-follow 30-day plan. Get started today and build your brand visibility effortlessly! 💡 #ContentCreation #SocialMedia #SmallBusiness #VideoMarketing",
+        "website_description": "Boost your social media presence with our **30-Day Content Kickstart Package**! Perfect for small businesses and online creators struggling with engaging video content. Our structured plan includes a consultation, 30 video script templates, a tailored content calendar, compelling captions, and continuous support. Kickstart your brand visibility without the overwhelm for only $250. Let us help you engage your audience effectively!",
+        "outreach_template": "Subject: Let's Enhance Your Content Strategy!\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I'm reaching out to share an exciting offer - our **30-Day Content Kickstart Package** designed to help small businesses and online creators strengthen their social media presence.\n\nIf you're interested, I’d love to set up a time for a brief consultation to discuss how we can support your content goals. \n\nFeel free to reply to this email or contact me via WhatsApp.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nIf you prefer not to receive further messages, just let me know!",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current content creation process?",
+          "Which social media platforms are you primarily using to engage your audience?",
+          "How often do you currently post video content, and what types have you found most engaging?",
+          "What are your primary goals for enhancing your social media presence?",
+          "Are you open to collaborating on feedback and revisions to improve your content strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Content Kickstart Package",
+          "Target Audience Analysis",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Investment Details",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to take the next step? Contact us today to schedule your initial consultation and get started on your content journey!",
+        "payment_template": "Subject: Payment Process for Your 30-Day Package\n\nHi [Recipient's Name],\n\nThank you for considering the **30-Day Content Kickstart Package**! To proceed, please let us know if you would like to move forward with the payment arrangements. We're here to assist you every step of the way.\n\nLooking forward to your response.\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nIf you prefer not to engage through this channel, just let us know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
