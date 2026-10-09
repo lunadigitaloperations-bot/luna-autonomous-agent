@@ -23438,6 +23438,64 @@
         "payment_template": "Subject: Payment Details for Your TikTok Package\n\nHi [Name],\n\nThank you for your interest in our TikTok Video Content Package. To proceed, we'll need to finalize the payment. Please let me know if you prefer to pay via [Payment Method] or if you have another method in mind.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn’t the right time for you, please feel free to let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791580573807",
+      "created_at": "2026-10-09T21:16:13.807505+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Spark Package",
+        "target_customer": "Small businesses and content creators looking to boost their social media engagement",
+        "customer_problem": "Struggling to create engaging social media content that resonates with their target audience and drives interaction.",
+        "solution": "A tailored content strategy that provides engaging short-form video scripts and captions for TikTok and Instagram Reels, designed to improve audience engagement.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "3 engaging captions for Instagram Reels",
+          "Content strategy outline for social media posts",
+          "1 follow-up consultation to discuss implementation"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Providing creators with professionally crafted video content that connects with their audience, enhancing engagement and visibility.",
+        "sales_angle": "Elevate your social media presence with ready-to-use content that attracts and retains your audience.",
+        "organic_discovery_methods": [
+          "Social media marketing groups",
+          "Freelance platforms",
+          "Networking events",
+          "Online communities focused on content creation"
+        ],
+        "qualification_criteria": [
+          "Owns a small business or is a content creator",
+          "Active on TikTok or Instagram",
+          "Seeks to improve social media engagement"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and kickstart your content strategy."
+      },
+      "sales_assets": {
+        "social_post": "🎉 Ready to elevate your social media game? 🚀 Our Social Media Spark Package is designed for small businesses and content creators looking to boost engagement on TikTok and Instagram Reels! Get tailored video scripts, engaging captions, and a personalized content strategy—all for just $150! 💡 Let's connect and enhance your online presence! #SocialMediaMarketing #ContentCreation #EngagementBoost",
+        "website_description": "Transform your social media presence with our Social Media Spark Package! Perfect for small businesses and content creators, this package includes 3 custom short-form video scripts, 3 captivating captions for Instagram Reels, and a comprehensive content strategy outline. Plus, enjoy a follow-up consultation to help implement your new content strategy—all for just $150. Start engaging your audience like never before!",
+        "outreach_template": "Subject: Let’s Boost Your Social Media Engagement!\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to introduce our Social Media Spark Package, tailored specifically for small businesses and content creators like you. If you’re looking to enhance your social media engagement with ready-to-use content, this might be the perfect fit!\n\nWould you be open to discussing how this package can meet your needs? \n\nFeel free to reply here, or you can contact us via email or WhatsApp.\n\nIf not, that's completely okay—just let me know, and I won’t reach out again.\n\nBest regards,\n[Your Name]",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media content?",
+          "Which platforms do you primarily use for your business?",
+          "Have you tried any strategies to improve your engagement on social media?",
+          "What kind of content has resonated best with your audience in the past?",
+          "How do you currently measure your social media success?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Spark Package",
+          "Understanding Your Objectives",
+          "Deliverables and Execution Plan",
+          "Timeline for Delivery",
+          "Pricing Details",
+          "Next Steps and Consultation Scheduling"
+        ],
+        "call_to_action": "Ready to spark your social media engagement? Contact us today!",
+        "payment_template": "Subject: Quick Follow-Up on Our Recent Discussion\n\nHi [Name],\n\nThank you for considering our Social Media Spark Package! I wanted to touch base regarding the next steps. If you wish to proceed, I can provide payment details to get everything set up and ready to elevate your content strategy.\n\nPlease let me know how you'd like to move forward. \n\nThank you for your time, and I look forward to hearing from you!\n\nBest, \n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
