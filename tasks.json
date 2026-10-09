@@ -22707,6 +22707,63 @@
         "payment_template": "Subject: Payment Details for Your Social Media Video Boost Package\n\nHi [Name],\n\nThank you for your interest in our Social Media Video Boost Package! To proceed, please review the payment details below:\n\n[Payment Information]\n\nOnce you've had a chance to review, let us know if you have any questions or need further assistance. If this doesn't align with your needs, just let me know, and I’ll take you off the list. \n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791533926583",
+      "created_at": "2026-10-09T08:18:46.583346+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Boost Package",
+        "target_customer": "Small businesses and content creators looking to grow their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and drives engagement.",
+        "solution": "A comprehensive package that includes tailored short-form video scripts and editing guidance for platforms like TikTok, Instagram Reels, and YouTube Shorts, optimized for engagement without specific performance guarantees.",
+        "deliverables": [
+          "Three custom video scripts tailored to the customer's brand and messaging",
+          "Editing tips and guidance for filming",
+          "Captions for each video",
+          "Content calendar for video posting schedule"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your social media presence with professionally crafted video scripts that resonate with your audience, making content creation easy and effective.",
+        "sales_angle": "Unlock the potential of engaging video content without the stress of scripting and editing. Boost your online visibility and engagement!",
+        "organic_discovery_methods": [
+          "Social media posts about the service",
+          "Referral discounts for existing clients",
+          "Networking in online creator forums and groups"
+        ],
+        "qualification_criteria": [
+          "Target audience includes small businesses or individual creators",
+          "Must have a basic understanding of video creation and posting"
+        ],
+        "next_action": "Contact us to get started on elevating your content strategy!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand’s social media game with our Short-Form Video Boost Package! 📹 Get custom scripts, editing tips, and a content calendar tailored just for you! Unlock engagement and leave the stress behind. Ready to transform your content? Let's chat! #ShortFormVideo #SocialMediaGrowth #ContentCreators",
+        "website_description": "Struggling to create engaging short-form video content? Our Short-Form Video Boost Package is designed for small businesses and content creators looking to enhance their social media presence. Get three custom video scripts, editing guidance, and a content calendar—all tailored for platforms like TikTok, Instagram Reels, and YouTube Shorts. Transform your content creation process and connect with your audience effectively!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence with Video!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our Short-Form Video Boost Package designed to help small businesses and content creators like yourself grow their social media audience. This package includes tailored video scripts, editing guidance, captions, and a content calendar.\n\nIf you're interested in sitting down for a brief chat about how we can elevate your content strategy, please let me know!\n\nBest,  \n[Luna’s Name]  \nInfinite Sauce\n\nP.S. If you're not interested, feel free to opt-out of further messages.",
+        "discovery_questions": [
+          "What challenges do you face when creating short-form video content?",
+          "Which social media platforms are you looking to focus on?",
+          "Have you previously experimented with video content? If so, what was your experience?",
+          "What goals do you hope to achieve through video marketing?",
+          "Are there any specific themes or messages you want to convey through your videos?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer Needs",
+          "Solution Overview: Short-Form Video Boost Package",
+          "Deliverables Breakdown",
+          "Timeline for Delivery",
+          "Pricing Details",
+          "Next Steps",
+          "Opt-Out Option"
+        ],
+        "call_to_action": "Contact us today to start transforming your social media strategy with engaging video content!",
+        "payment_template": "Subject: Payment Follow-Up\n\nHi [Name],\n\nI hope you're doing well! I wanted to touch base regarding the next steps for our Short-Form Video Boost Package. If you have any questions or need further clarification, I'm here to help!\n\nThank you for your attention, and I look forward to hearing from you soon.\n\nBest,  \n[Luna’s Name]  \nInfinite Sauce\n\nP.S. If this isn't the right time, please let me know, and I can remove you from further messages.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
