@@ -23496,6 +23496,62 @@
         "payment_template": "Subject: Quick Follow-Up on Our Recent Discussion\n\nHi [Name],\n\nThank you for considering our Social Media Spark Package! I wanted to touch base regarding the next steps. If you wish to proceed, I can provide payment details to get everything set up and ready to elevate your content strategy.\n\nPlease let me know how you'd like to move forward. \n\nThank you for your time, and I look forward to hearing from you!\n\nBest, \n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791584163621",
+      "created_at": "2026-10-09T22:16:03.621690+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Content Boost Package for TikTok and Instagram",
+        "target_customer": "Small businesses or creators looking to increase their social media presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their target audience.",
+        "solution": "A tailored content creation service that provides compelling short-form video scripts and optimized posting strategies to enhance social media engagement.",
+        "deliverables": [
+          "3 custom short-form video scripts tailored to the client's brand",
+          "2 optimized video captions for each script",
+          "Posting schedule with tips for maximizing reach",
+          "A brief content strategy guide for future video creation"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Maximize your brand visibility with creative and engaging video content designed specifically for your audience.",
+        "sales_angle": "Unlock your brand's potential with easy-to-follow video scripts and guidance that helps you connect with your audience.",
+        "organic_discovery_methods": [
+          "Social media word of mouth",
+          "Online creator communities",
+          "Local business networking events"
+        ],
+        "qualification_criteria": [
+          "Must have an active TikTok or Instagram account",
+          "Open to creating video content",
+          "Willing to collaborate on content ideas"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your brand's needs and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your brand visibility on TikTok and Instagram! Our Content Boost Package offers tailored short-form video scripts and strategies to help you engage with your audience. Perfect for small businesses and creators ready to elevate their social media game! 🎥✨ Contact us today! #ContentCreation #SocialMediaMarketing",
+        "website_description": "Struggling to create engaging video content for your social media? Our Content Boost Package is designed specifically for small businesses and creators. With 3 custom video scripts, optimized captions, and a comprehensive posting strategy—all delivered in just 7 days for only $150—maximize your brand visibility and connect with your audience like never before!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because I believe our Content Boost Package could really enhance your TikTok and Instagram presence. It includes tailored short-form video scripts and an optimized posting strategy, perfectly suited for your brand.\n\nWould you be open to discussing how we can help you engage with your audience more effectively? \n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n[Your Company Name]\n\nOpt-out: If you prefer not to receive further communication, just let me know.",
+        "discovery_questions": [
+          "What are your primary goals for your TikTok and Instagram accounts?",
+          "What type of content has resonated most with your audience in the past?",
+          "Are there any brands or creators that inspire you in terms of social media content?",
+          "How often do you currently post on your social media platforms?",
+          "What challenges do you face when creating video content?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Purpose of the proposal\n   - Overview of the client's needs\n",
+          "2. Proposed Solution\n   - Details of the Content Boost Package\n   - Breakdown of deliverables\n",
+          "3. Project Timeline\n   - Estimated delivery dates\n   - Steps involved\n",
+          "4. Investment\n   - Pricing details\n   - Payment terms\n",
+          "5. Why Us?\n   - Value proposition\n   - Testimonials or case studies (if available)\n",
+          "6. Next Steps\n   - Call to action for scheduling a meeting/discussion\n"
+        ],
+        "call_to_action": "Ready to take your social media to the next level? Contact us to get started today!",
+        "payment_template": "Hi [Name],\n\nThank you for your interest in our Content Boost Package! Once we finalize the details, I'll provide you with the payment information to proceed.\n\nFeel free to reach out if you have any questions or need more information!\n\nBest regards,\n[Your Name]\n[Your Company Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
