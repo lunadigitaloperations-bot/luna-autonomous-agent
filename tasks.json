@@ -24844,6 +24844,61 @@
         "payment_template": "Hi [Name],\n\nThank you for your interest in the **Social Media Content Kickstart Package**. I'll follow up shortly with payment details to finalize your order. If you have any questions or need further assistance in the meantime, feel free to reach out.\n\nBest regards,\n[Your Name]\n\nP.S. If you'd like me to stop these communications, just let me know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791666897812",
+      "created_at": "2026-10-10T21:14:57.812636+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Reels Boost Package",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures attention and drives audience engagement",
+        "solution": "A tailored package that provides short-form video scripts, editing guidance, and optimized posting strategies for Instagram Reels and TikTok.",
+        "deliverables": [
+          "3 custom short-form video scripts (max 60 seconds each)",
+          "Editing tips and tools for creating high-quality videos",
+          "Posting schedule and optimization strategies for best engagement practices"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Empower your brand with compelling video content tailored to your audience, enhancing your social media engagement.",
+        "sales_angle": "Unlock the potential of short-form video content to drive brand visibility without the headache of content creation.",
+        "organic_discovery_methods": [
+          "Social media ads",
+          "Organic posts showcasing previous work",
+          "Referrals from satisfied clients"
+        ],
+        "qualification_criteria": [
+          "Client must have active social media profiles",
+          "Client should be ready to commit to a posting schedule"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started on enhancing your social media content strategy."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand with our Social Media Reels Boost Package! Perfect for small businesses and creators, this package offers tailored video scripts, editing guidance, and optimized posting strategies to enhance your social media presence. Get started today and watch your engagement soar! 🌟 #SocialMedia #ContentCreation #ReelsBoost #SmallBusiness",
+        "website_description": "Transform your social media strategy with our Social Media Reels Boost Package! Designed for small businesses and creators struggling to engage their audience through short-form video content, this package includes 3 custom video scripts, expert editing tips, and a tailored posting schedule. Empower your brand with exceptional video content that captivates and boosts engagement.",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to reach out because we've developed a Social Media Reels Boost Package tailored specifically for small businesses and creators like yourself. It’s designed to help you create engaging short-form video content for platforms like Instagram and TikTok.\n\nIf you’re interested, I’d love to discuss how we can support your social media goals. \n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you’re not interested, please let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms are you currently focusing on for short-form video content?",
+          "How often do you post on social media, and what type of content do you typically share?",
+          "What challenges have you faced when creating video content in the past?",
+          "Are there any competitors or brands whose social media strategy you admire?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Reels Boost Package",
+          "Deliverables Breakdown",
+          "Value Proposition",
+          "Case Studies/Testimonials (if applicable)",
+          "Next Steps",
+          "Q&A Section"
+        ],
+        "call_to_action": "Ready to take your social media content to the next level? Contact us today to get started!",
+        "payment_template": "Subject: Payment Details for Your Social Media Reels Boost Package\n\nHi [Client's Name],\n\nThank you for choosing our Social Media Reels Boost Package! To move forward, we kindly ask you to proceed with the payment. Please let us know if you have any questions or need assistance with the process. \n\nLooking forward to your response.\n\nBest, \n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
