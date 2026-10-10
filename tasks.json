@@ -24065,6 +24065,83 @@
         "payment_template": "Subject: Payment Confirmation Needed \n\nHi [Name],\n\nI hope you're doing well! As we prepare to move forward with the 30-Day Social Media Video Content Boost, I wanted to touch base regarding the payment. Once we finalize the details, we can discuss invoicing and confirmation.\n\nPlease let me know your preferred approach, and feel free to reach out if you have any questions!\n\nBest,\nLuna\n[Your Company Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791620165448",
+      "created_at": "2026-10-10T08:16:05.448164+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Package",
+        "target_customer": "Small businesses and content creators",
+        "customer_problem": "Struggling to create engaging short-form video content that attracts audiences and promotes products/services effectively.",
+        "solution": "A tailored short-form video content package that includes scripting, editing, and optimized posting strategies for platforms like TikTok and Instagram Reels.",
+        "deliverables": [
+          "3 original short-form video scripts (up to 60 seconds each)",
+          "Edited video content ready for upload",
+          "Hashtags and captions designed for engagement",
+          "A content calendar for posting strategy"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your online presence with professionally crafted short-form videos that resonate with your audience, all delivered remotely.",
+        "sales_angle": "Transform your social media feed with captivating video content that drives viewer engagement and showcases your brand authentically.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth",
+          "SEO-optimized blog posts"
+        ],
+        "qualification_criteria": [
+          "Must have a basic understanding of social media platforms",
+          "Willing to collaborate and provide feedback"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss how we can elevate your video content strategy."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your social media game to the next level? Our Short-Form Video Content Package is designed for small businesses and content creators looking to engage their audience authentically! 🎥✨ With 3 custom scripts, edited videos, and a strategic posting calendar, you’ll be all set for TikTok and Instagram Reels. Elevate your online presence today! 🌟 #VideoMarketing #ContentCreation #SmallBiz",
+        "website_description": "Struggling to create engaging short-form video content? Our Short-Form Video Content Package offers a tailored solution for small businesses and content creators. You'll receive 3 original video scripts, professionally edited videos, engaging hashtags and captions, and a strategic content calendar. Boost your brand's online presence and connect with your audience authentically. All delivered remotely in just 10 days!",
+        "outreach_template": "Subject: Elevate Your Video Content Strategy\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to introduce our Short-Form Video Content Package designed specifically for small businesses and content creators. Are you currently facing challenges with creating engaging video content? We can help you transform your social media with captivating videos that drive audience engagement.\n\nIf you’re interested, I would love to discuss how we can support your content strategy. Please let me know a suitable time for you!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]\n\nIf you'd prefer not to receive communications from us, just let me know, and I'll gladly remove you from my list.",
+        "discovery_questions": [
+          "What types of products/services do you promote via video content?",
+          "Have you previously created short-form videos for social media? If so, what was your experience?",
+          "What platforms do you primarily use to share your content?",
+          "What specific goals do you have for your video content (e.g., engagement, brand awareness)?",
+          "How do you currently select themes or ideas for your video content?"
+        ],
+        "proposal_outline": [
+          {
+            "section": "Introduction",
+            "details": "Overview of the offer and its relevance."
+          },
+          {
+            "section": "Customer Problem",
+            "details": "Identify challenges faced by the client."
+          },
+          {
+            "section": "Proposed Solution",
+            "details": "Detail the Short-Form Video Content Package."
+          },
+          {
+            "section": "Deliverables",
+            "details": "List what will be provided."
+          },
+          {
+            "section": "Timeline",
+            "details": "Outline the estimated delivery time."
+          },
+          {
+            "section": "Pricing",
+            "details": "Discuss the cost and payment structure."
+          },
+          {
+            "section": "Next Steps",
+            "details": "Detail the process for moving forward."
+          }
+        ],
+        "call_to_action": "Contact us today to elevate your video content strategy!",
+        "payment_template": "Subject: Payment Details for Your Short-Form Video Content Package\n\nHi [Name],\n\nThank you for discussing our Short-Form Video Content Package! To proceed with the order, please find the payment information below:\n\n[Payment Instructions]\n\nIf you have any questions or need assistance, feel free to reach out. I'm here to help!\n\nBest,\n[Your Name]\n[Your Position]\n[Your Contact Information]\n\nIf you wish not to continue, please let me know, and I'll respect your decision.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
