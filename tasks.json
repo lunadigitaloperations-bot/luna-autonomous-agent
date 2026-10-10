@@ -24255,6 +24255,67 @@
         "payment_template": "Subject: Regarding Your Social Media Spark Package\n\nHi [Recipient's Name],\n\nI hope you’re doing well! I wanted to touch base regarding the Social Media Spark Package we discussed. To finalize our agreement, please let me know your preferred method of payment and I will send over the necessary details.\n\nFeel free to reach out if you have any questions or need more information. \n\nLooking forward to hearing from you soon!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791630867847",
+      "created_at": "2026-10-10T11:14:27.847717+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Bundle for Creators",
+        "target_customer": "Small business owners or content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to consistently create engaging short-form video content that resonates with their audience.",
+        "solution": "A tailored social media content bundle focused on short-form videos such as TikTok, Instagram Reels, and YouTube Shorts, designed to boost engagement without overextending the creator's resources.",
+        "deliverables": [
+          "3 short-form video scripts specific to the customer's niche",
+          "3 ready-to-use TikTok content ideas",
+          "3 Instagram Reels concepts with editing tips",
+          "3 YouTube Shorts planning outlines",
+          "Captions for each video",
+          "Content strategy guide for future posts"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Empower your social media strategy with ready-made content that resonates, saves time, and keeps your audience engaged.",
+        "sales_angle": "Unlock the potential of your brand with a stress-free content bundle designed to enhance your online presence.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Networking in industry-related groups",
+          "Referrals from satisfied clients"
+        ],
+        "qualification_criteria": [
+          "Small business or creator with a defined niche",
+          "Active on at least one social media platform",
+          "Willingness to invest in content improvement"
+        ],
+        "next_action": "Contact Luna at luna.digital.operations@gmail.com to get started on elevating your social media game today!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your online presence with our Social Media Content Bundle for Creators! 🎥✨ Struggling to keep up with engaging short-form videos? We’ve got you covered with tailored scripts, ideas, and strategies. Save time and connect better with your audience! 💡 Ready to transform your social media game? Get started today! #SocialMedia #ContentCreation #SmallBusiness #VideoMarketing",
+        "website_description": "Enhance your social media presence with our Social Media Content Bundle for Creators. Designed for small business owners and content creators, this bundle offers tailored short-form video scripts, ready-to-use content ideas, and a comprehensive strategy guide to engage your audience effectively. Experience stress-free content creation and boost your online presence without stretching your resources. Discover the power of ready-made content for just $250, delivered within 7 days!",
+        "outreach_template": "Subject: Elevate Your Social Media Strategy\n\nHi [Name],\n\nI hope this message finds you well. I'm reaching out to introduce our Social Media Content Bundle designed specifically for small business owners and content creators like yourself. It's tailored to help you create engaging short-form videos effortlessly.\n\nIf this sounds interesting, I’d love to discuss how we can support your social media efforts further. Please let me know a convenient time for us to chat.\n\nBest regards,\nLuna\n\nP.S. If you’re not interested, just let me know and I won’t follow up again.",
+        "discovery_questions": [
+          "What social media platforms are you actively using?",
+          "What challenges do you face when creating content?",
+          "How do you currently engage with your audience?",
+          "What type of content resonates most with your audience?",
+          "Are you open to investing in strategies that enhance your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the client's current social media strategy",
+          "Identification of challenges the client faces",
+          "Proposed solutions from the Social Media Content Bundle",
+          "Details on deliverables",
+          "Pricing and payment terms",
+          "Next steps and timeline",
+          "Q&A section"
+        ],
+        "call_to_action": "Ready to elevate your social media game? Contact Luna at luna.digital.operations@gmail.com to get started today!",
+        "payment_template": "Subject: Payment Details for Your Order\n\nHi [Name],\n\nThank you for considering our Social Media Content Bundle. To ensure a smooth process, please find the payment details below:\n\n[Insert Payment Details]\n\nOnce the payment is processed, I'll be in touch to confirm your order and discuss the next steps. Feel free to reach out if you have any questions or need assistance.\n\nBest,\nLuna\n\nP.S. If you prefer not to proceed, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
