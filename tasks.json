@@ -24371,6 +24371,63 @@
         "payment_template": "Subject: Next Steps for Your Content Sprint\n\nHi [Recipient's Name],\n\nThank you for your interest in our **30-Day Social Media Content Sprint**! To get started, we will need to finalize the details of the service and discuss the next steps.\n\nLooking forward to your reply!\n\nBest,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791638147312",
+      "created_at": "2026-10-10T13:15:47.312380+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Video Kickstart",
+        "target_customer": "Small businesses or content creators looking to boost online presence",
+        "customer_problem": "Struggling to create engaging short-form video content for social media, leading to low engagement and visibility.",
+        "solution": "A tailored content strategy and 30 short-form video scripts designed for platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "30 customized short-form video scripts",
+          "Content calendar for video posting",
+          "Tips for filming and editing the videos",
+          "1 follow-up consultation to refine strategy"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Elevate your brand's online presence with engaging short-form video content tailored to your audience and business goals.",
+        "sales_angle": "Transform your social feeds with a month’s worth of creative video ideas that resonate and engage.",
+        "organic_discovery_methods": [
+          "Social media word-of-mouth",
+          "Website landing pages",
+          "Email newsletters"
+        ],
+        "qualification_criteria": [
+          "Small business or content creator with an established social media presence",
+          "Willingness to engage with the content creation process"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Level up your online presence with our 30-Day Social Media Video Kickstart! 🎥 Get 30 tailored video scripts, a content calendar, and expert tips to create engaging reels for TikTok, Instagram, and YouTube Shorts. Are you ready to transform your social feeds? 💡 #SocialMedia #VideoMarketing #ContentCreators #SmallBusiness",
+        "website_description": "Struggling to capture attention on social media? Our 30-Day Social Media Video Kickstart offers tailored strategies and 30 custom short-form video scripts to help small businesses and content creators engage their audience effectively. Elevate your brand with a content calendar, filming tips, and a follow-up consultation—all designed to boost your online visibility!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Together!\n\nDear [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to boost your online presence through engaging short-form video content. Our 30-Day Social Media Video Kickstart is tailored specifically for small businesses and content creators like yourself. \n\nWith 30 custom video scripts and a dedicated content calendar, we’re here to help you create shareable content that resonates with your audience.\n\nIf you're interested, I’d love to schedule a brief consultation to discuss how we can work together to enhance your social media strategy. \n\nFeel free to let me know if you’d prefer not to receive more information.\n\nBest regards,\n[Your Name]\n[Your Title]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What platforms are you currently using for your social media marketing?",
+          "Have you created short-form videos before? If so, what was your experience?",
+          "What specific goals do you want to achieve with your social media presence?",
+          "Who is your target audience, and what type of content resonates most with them?",
+          "Is there a particular theme or message you would like to convey through your videos?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer Problem",
+          "Proposed Solution",
+          "Deliverables",
+          "Expected Outcomes",
+          "Timeline and Next Steps",
+          "Pricing Information",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Ready to boost your online presence? Contact us at luna.digital.operations@gmail.com to schedule your consultation today!",
+        "payment_template": "Subject: Next Steps Following Our Consultation\n\nDear [Name],\n\nThank you for your time during our recent consultation! I'm excited about the potential of working together to enhance your social media strategy.\n\nTo proceed, we can discuss the payment details to secure your 30-Day Social Media Video Kickstart package.\n\nPlease let me know if you'd prefer not to receive further updates about this project.\n\nBest regards,\n[Your Name]\n[Your Title]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
