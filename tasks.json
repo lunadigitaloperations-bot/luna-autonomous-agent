@@ -24770,6 +24770,80 @@
         "payment_template": "Subject: Next Steps for Your Content Package\n\nHi [Name],\n\nThank you for our recent discussion regarding the 30-Day Reel & Short Content Package. We're excited about the possibility of working together!\n\nAs we move forward, please let us know your preferred payment method, and we will provide the necessary details. \n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you prefer not to proceed at this time, just let us know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791663295507",
+      "created_at": "2026-10-10T20:14:55.507505+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Kickstart Package",
+        "target_customer": "Small business owners and content creators wanting to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging content and keep up with the demands of social media marketing.",
+        "solution": "A tailored package to provide ready-to-use short-form video scripts and engaging captions for TikTok and Instagram Reels to boost social media engagement.",
+        "deliverables": [
+          "5 short-form video scripts tailored to the brand's voice",
+          "5 eye-catching captions for TikTok and Instagram Reels",
+          "A personalized content strategy guide for engaging followers"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your social media game with ready-to-use content that resonates with your audience, saving you time and boosting engagement.",
+        "sales_angle": "Are you overwhelmed with creating consistent and engaging social media content? Let us handle it for you with our Social Media Content Kickstart Package.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word-of-mouth referrals",
+          "Content marketing through blog posts",
+          "Collaborations with micro-influencers"
+        ],
+        "qualification_criteria": [
+          "Must have a social media presence",
+          "Open to using video content",
+          "Ready to implement suggested strategies"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com or WhatsApp at +14735341956 to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our **Social Media Content Kickstart Package** is here to help small business owners and content creators create engaging content effortlessly! Get 5 tailored video scripts and eye-catching captions to boost your engagement, all for just $150! 🌟 DM us or reach out via email to kickstart your social media journey! #SocialMediaMarketing #SmallBusiness",
+        "website_description": "Transform your social media presence with our **Social Media Content Kickstart Package**! Designed specifically for small business owners and content creators, this package includes 5 custom short-form video scripts and 5 captivating captions for TikTok and Instagram Reels. You'll also receive a personalized content strategy guide to keep your audience engaged. All this for only $150, delivered in just 7 days. Don't let content creation overwhelm you—let us help you shine online!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share our **Social Media Content Kickstart Package**, tailored specifically for small business owners like you who want to enhance their social media engagement. This package offers you ready-to-use video scripts and captions that resonate with your audience, allowing you to focus on what you do best.\n\nIf you're interested in learning more or would like to see how we can help, please let me know!\n\nBest regards,\n[Your Name]\n\nP.S. If this isn’t of interest, just reply with “no thank you” and I’ll remove you from my list.",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "How often are you posting content?",
+          "What types of content do you think resonate best with your audience?",
+          "Are you open to using video content for your social media marketing?",
+          "What are your main goals for your social media presence?"
+        ],
+        "proposal_outline": [
+          {
+            "section_title": "Introduction",
+            "content": "Brief overview of the proposal and purpose."
+          },
+          {
+            "section_title": "Customer Background",
+            "content": "Description of the client’s current social media situation."
+          },
+          {
+            "section_title": "Proposed Solution",
+            "content": "Details of the Social Media Content Kickstart Package."
+          },
+          {
+            "section_title": "Deliverables",
+            "content": "List of what is included in the package."
+          },
+          {
+            "section_title": "Value Proposition",
+            "content": "How this package will benefit the client."
+          },
+          {
+            "section_title": "Next Steps",
+            "content": "Instructions on how to proceed."
+          }
+        ],
+        "call_to_action": "Ready to boost your social media presence? Contact us today to get started on your Social Media Content Kickstart Package!",
+        "payment_template": "Hi [Name],\n\nThank you for your interest in the **Social Media Content Kickstart Package**. I'll follow up shortly with payment details to finalize your order. If you have any questions or need further assistance in the meantime, feel free to reach out.\n\nBest regards,\n[Your Name]\n\nP.S. If you'd like me to stop these communications, just let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
