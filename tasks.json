@@ -24006,6 +24006,65 @@
         "payment_template": "Subject: Payment Details  \n  \nHi [Name],  \n  \nThank you for expressing interest in our Short-Form Video Content Package! To proceed, we can discuss the payment details at your convenience. Please let me know if you have any questions or specific preferences regarding the payment process.  \n  \nLooking forward to your reply!  \nBest,  \n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791616581648",
+      "created_at": "2026-10-10T07:16:21.648406+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Video Content Boost",
+        "target_customer": "Small business owners and content creators looking to increase their online engagement.",
+        "customer_problem": "Struggling to produce engaging video content consistently to capture audience attention and grow their social media presence.",
+        "solution": "A comprehensive 30-day video content plan that includes scripts and editing guidelines for short-form videos across TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "30 short-form video scripts tailored to your brand",
+          "Content calendar with posting schedule",
+          "Tips for filming and editing each video",
+          "Basic branding guidelines for consistency"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Transform your social media with engaging video content designed to resonate with your audience, increasing your visibility and engagement.",
+        "sales_angle": "Elevate your brand with captivating videos that are easy to produce and guaranteed to keep your audience watching.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Leveraging hashtags",
+          "Engaging in niche communities"
+        ],
+        "qualification_criteria": [
+          "Existing social media presence with some level of audience engagement",
+          "Commitment to post videos consistently over the 30-day period",
+          "Willingness to collaborate on brand messaging"
+        ],
+        "next_action": "Email us at luna.digital.operations@gmail.com to schedule a consultation and kickstart your journey toward impactful video content."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Ready to boost your social media presence? Our 30-Day Social Media Video Content Boost is designed for small business owners and content creators! 📈 Get 30 tailored video scripts, posting schedules, and editing tips to captivate your audience. Elevate your brand with ease! 🚀 DM us for more info! #VideoContent #SocialMedia #SmallBusiness #ContentCreation",
+        "website_description": "Transform your social media strategy with our 30-Day Social Media Video Content Boost! Specifically crafted for small business owners and content creators, this package provides 30 engaging video scripts, a detailed content calendar, filming tips, and branding guidelines—all designed to enhance your online presence. For just $200, kickstart your journey towards captivating content in just 10 days!",
+        "outreach_template": "Subject: Let's Amplify Your Social Media Content!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to share an exciting opportunity that could enhance your social media engagement. Our 30-Day Social Media Video Content Boost offers tailored video scripts and guidance to bolster your online presence. \n\nWould you be open to a brief conversation to explore how we can support your content goals? \n\nLooking forward to hearing from you!\n\nBest,\nLuna\n[Your Company Name]\n\nP.S. If you're not interested, just let me know, and I'll make sure not to follow up again.",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media video content?",
+          "How often do you currently post videos on your platforms?",
+          "What platforms do you focus on for your video content?",
+          "Who is your target audience, and what type of content do they resonate with?",
+          "Are you open to collaborating on brand messaging to create engaging content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer Needs",
+          "Description of the 30-Day Video Content Boost Package",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Investment and Value Proposition",
+          "Next Steps",
+          "Q&A Section"
+        ],
+        "call_to_action": "Email us at luna.digital.operations@gmail.com to schedule your consultation and start creating impactful video content today!",
+        "payment_template": "Subject: Payment Confirmation Needed \n\nHi [Name],\n\nI hope you're doing well! As we prepare to move forward with the 30-Day Social Media Video Content Boost, I wanted to touch base regarding the payment. Once we finalize the details, we can discuss invoicing and confirmation.\n\nPlease let me know your preferred approach, and feel free to reach out if you have any questions!\n\nBest,\nLuna\n[Your Company Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
