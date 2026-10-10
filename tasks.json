@@ -23610,6 +23610,64 @@
         "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for your interest in our **30-Day TikTok Content Boost Package**! To proceed, please let me know the best way for you to manage the payment.\n\nLooking forward to your response!\n\nBest,  \n[Your Name]  \n[Your Company]  \n[Your Contact Information]\n\n*If you’re not interested, please feel free to let me know, and I won't reach out again.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791591943642",
+      "created_at": "2026-10-10T00:25:43.642973+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content consistently for platforms like TikTok and Instagram.",
+        "solution": "A comprehensive short-form video content package that provides tailored scripts, concepts, and editing guidance to help businesses and creators attract and retain audience attention.",
+        "deliverables": [
+          "Three custom script drafts for short-form videos (up to 60 seconds each)",
+          "Two video content concepts aligned with the brand's messaging",
+          "Editing tips and tools to enhance video quality",
+          "30 caption options for social media posts",
+          "A one-hour strategy consultation call"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your brand's visibility with captivating short-form videos designed to engage and convert followers into customers.",
+        "sales_angle": "Focus on the importance of consistent, engaging video content in today's digital landscape and how this package can save time while improving quality.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word-of-mouth referrals",
+          "Networking with local business groups"
+        ],
+        "qualification_criteria": [
+          "Business or creator with an existing online presence",
+          "Willingness to collaborate on content themes and strategies",
+          "Ability to produce and post video content based on provided scripts"
+        ],
+        "next_action": "Contact via email or WhatsApp to schedule a consultation and discuss specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand's visibility with our Short-Form Video Content Package! 📹✨ Perfect for small businesses and content creators, our package offers tailored scripts, engaging video concepts, and expert editing tips to boost your social media presence on TikTok and Instagram. Don't let content creation hold you back—let's turn your ideas into captivating videos! 💡 Ready to enhance your social media game? Contact us to get started! #VideoMarketing #SocialMediaStrategy #ContentCreation",
+        "website_description": "Unlock the potential of your brand with our Short-Form Video Content Package, tailored specifically for small businesses and content creators. This comprehensive solution provides you with custom script drafts, video concepts, editing tips, and more to ensure your content stands out on social media platforms like TikTok and Instagram. With a quick turnaround and expert guidance, you’ll consistently create engaging videos that attract and convert your audience. Let us help you enhance your online presence effortlessly.",
+        "outreach_template": "Subject: Enhance Your Social Media with Short-Form Video Content\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity that could help elevate your social media presence through engaging short-form video content.\n\nOur Short-Form Video Content Package offers tailored scripts, creative video concepts, and editing tips designed to resonate with your audience. If you're interested, I would love to schedule a consultation to discuss how we can address your specific needs.\n\nPlease let me know if you’d like to set up a time to chat, or if you prefer, I can provide more information via email.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you’re not interested, feel free to let me know, and I'll make sure not to follow up.\n",
+        "discovery_questions": [
+          "What social media platforms do you currently use to connect with your customers?",
+          "What specific challenges do you face in creating video content?",
+          "How often do you post content, and what types of content have you found most engaging?",
+          "Are there particular themes or messages you want to convey through your short-form videos?",
+          "What is your goal for using video content—brand awareness, engagement, or conversions?"
+        ],
+        "proposal_outline": [
+          "Introduction: Brief overview of the client's needs and objectives",
+          "Overview of the Short-Form Video Content Package",
+          "Deliverables List: Detailed description of items included in the package",
+          "Value Proposition: How the package will enhance the client’s social media presence",
+          "Timeline: Estimated delivery schedule",
+          "Pricing: Clear mention of the cost involved",
+          "Next Steps: Call to action for the client to engage further"
+        ],
+        "call_to_action": "Ready to enhance your social media presence? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Follow-Up on Your Recent Inquiry\n\nHi [Recipient's Name],\n\nThank you for considering our Short-Form Video Content Package! As we prepare to move forward, I wanted to touch base regarding payment options.\n\nPlease let me know if you have questions about the payment process or if you'd like to finalize your order.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you're no longer interested, please let me know, and I’ll respect your decision.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
