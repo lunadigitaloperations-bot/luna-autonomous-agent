@@ -24485,6 +24485,63 @@
         "payment_template": "Subject: Payment Information for Your Social Media Growth Package \n\nHi [Name],\n\nThank you for choosing our Social Media Growth Package! To begin, please provide your preferred payment method so we can process the next steps. \n\nIf you’d like to discuss this further or have any questions, feel free to reach out. \n\nBest,\n[Your Name] \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791645285043",
+      "created_at": "2026-10-10T15:14:45.043830+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Content Accelerator",
+        "target_customer": "Small businesses and content creators looking to improve their TikTok presence",
+        "customer_problem": "Struggling to create engaging TikTok content that attracts views and followers",
+        "solution": "A tailored 30-day content plan to enhance TikTok engagement and presence with consistent, relevant video content.",
+        "deliverables": [
+          "Initial consultation to understand brand identity and goals",
+          "15 TikTok video scripts tailored to the brand",
+          "3 video content themes with accompanying caption suggestions",
+          "Best practices guide for posting schedules and engagement strategies",
+          "1 follow-up session to assess progress and optimize content strategy"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Transform your TikTok strategy with professionally crafted content in 30 days, designed to engage and grow your audience effectively.",
+        "sales_angle": "Unlock the potential of TikTok for your brand without the hassle of trial and error.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "User referrals",
+          "Word of mouth"
+        ],
+        "qualification_criteria": [
+          "Must have an active TikTok account",
+          "Willingness to implement created strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your TikTok game? Introducing our 30-Day TikTok Content Accelerator! Get a personalized content plan designed to boost your engagement and attract followers. Say goodbye to trial and error—unlock the potential of TikTok for your brand today! 💪✨ #TikTokMarketing #ContentCreation #SmallBusiness #ContentCreators",
+        "website_description": "Struggling to make your mark on TikTok? Our 30-Day TikTok Content Accelerator is here to help! Get a tailored content plan that includes 15 custom video scripts, engaging themes, and strategic posting practices—all in just 30 days! Transform your strategy and grow your audience without guesswork. Contact us now to get started!",
+        "outreach_template": "Subject: Boost Your TikTok Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well. We understand how challenging it can be to create engaging TikTok content that resonates with your audience. That’s why we’re excited to offer our 30-Day TikTok Content Accelerator designed specifically for small businesses and content creators like you.\n\nOur program includes an initial consultation, tailored video scripts, and a comprehensive guide to enhance your TikTok strategy effectively.\n\nIf you're interested, I’d be happy to schedule a consultation to discuss how we can help you elevate your TikTok presence. Please let me know a time that works for you or feel free to reach out via email or WhatsApp.\n\nThank you, and I look forward to your response!\n\nBest,\n[Your Name]  \n[Your Position]  \n[Your Contact Information]  \n\n*If you're not interested, please let me know, and I won't reach out again.*",
+        "discovery_questions": [
+          "What specific goals do you have for your TikTok account?",
+          "Who is your target audience on TikTok?",
+          "What types of content have you tried in the past?",
+          "How frequently do you currently post on TikTok?",
+          "What challenges are you facing in creating engaging content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the TikTok Content Accelerator",
+          "Identifying your target audience and goals",
+          "Details of the deliverables (video scripts, themes, guide, follow-up)",
+          "Timeline and estimated delivery",
+          "Investment (Pricing)",
+          "Next steps and call to action"
+        ],
+        "call_to_action": "Contact us today to schedule your initial consultation and start transforming your TikTok presence!",
+        "payment_template": "Subject: Next Steps for Your TikTok Accelerator\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day TikTok Content Accelerator! To proceed, please let me know if you have any questions regarding the program. Once you're ready, we can discuss the payment details and the next steps to kickstart your TikTok transformation.\n\nLooking forward to your reply!\n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]  \n\n*If you prefer not to receive further communication, please let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
