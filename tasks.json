@@ -24712,6 +24712,64 @@
         "payment_template": "Subject: Payment Process for Your Video Content Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Engaging Video Content Package! To proceed, we will need to arrange the payment details at your convenience. Please let us know if you have any questions or need further assistance.\n\nLooking forward to your response!\n\nBest regards,  \n[Your Name]  \n[Your Title]  \n[Your Company]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791659673659",
+      "created_at": "2026-10-10T19:14:33.659523+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Reel & Short Content Package",
+        "target_customer": "Small businesses or creators looking to increase engagement on social media platforms like Instagram and TikTok.",
+        "customer_problem": "Struggling to produce high-quality short-form video content consistently, leading to low engagement and visibility.",
+        "solution": "A comprehensive package providing tailored scripts, content ideas, and editing guidance for thirty short-form videos over 30 days to help boost engagement.",
+        "deliverables": [
+          "30 short-form video scripts (1 for each day)",
+          "30 content ideas tailored to the business/creator's niche",
+          "Editing tips for video production",
+          "One consultation call (30 minutes) to discuss content strategy"
+        ],
+        "suggested_price_usd": 499,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Consistent, high-quality content that resonates with your audience, increasing engagement and visibility across platforms without requiring constant brainstorming.",
+        "sales_angle": "Unlock the power of short-form video to connect with your audience and elevate your brand's online presence, all delivered remotely to fit your busy schedule.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "SEO optimized website content",
+          "Word of mouth"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or creator with an existing social media presence",
+          "Willingness to provide feedback on scripts and content"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Introducing our 30-Day Reel & Short Content Package! 🎥✨ Get 30 tailored video scripts, content ideas, and editing tips to boost your engagement on platforms like Instagram and TikTok. Connect with your audience and see the difference! 💡 #SocialMediaGrowth #ShortFormVideo #ContentCreation",
+        "website_description": "Boost your social media engagement with our 30-Day Reel & Short Content Package! Designed for small businesses and creators, this package includes 30 tailored video scripts and content ideas, along with expert editing tips. In just 14 days, transform your online presence and start capturing your audience's attention with high-quality, consistent short-form videos. Connect with us today!",
+        "outreach_template": "Subject: Unlock Your Social Media Potential\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to introduce our 30-Day Reel & Short Content Package, designed specifically for small businesses and creators looking to enhance their social media engagement.\n\nOur package includes 30 tailored video scripts, plus editing tips and a consultation to strategize your content. It’s a comprehensive solution that fits seamlessly into your busy schedule.\n\nIf you’re interested in discussing how this can help your business, please let me know. \n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn't the right time for you, feel free to opt out with a simple reply!",
+        "discovery_questions": [
+          "What specific challenges are you facing with creating short-form video content?",
+          "Which social media platforms do you currently utilize to engage with your target audience?",
+          "How do you typically come up with ideas for your social media content?",
+          "What type of feedback would you find most valuable when developing content?",
+          "What are your goals for social media engagement over the next 30 days?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Reel & Short Content Package",
+          "Target Audience and Problem Statement",
+          "Deliverables Description",
+          "Value Proposition",
+          "Pricing Structure",
+          "Next Steps",
+          "Q&A Section",
+          "Conclusion"
+        ],
+        "call_to_action": "Contact us via email or WhatsApp to schedule your consultation and transform your social media strategy today!",
+        "payment_template": "Subject: Next Steps for Your Content Package\n\nHi [Name],\n\nThank you for our recent discussion regarding the 30-Day Reel & Short Content Package. We're excited about the possibility of working together!\n\nAs we move forward, please let us know your preferred payment method, and we will provide the necessary details. \n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you prefer not to proceed at this time, just let us know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
