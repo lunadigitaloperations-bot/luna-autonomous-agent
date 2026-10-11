@@ -26282,6 +26282,64 @@
         "payment_template": "Subject: Next Steps for Your Video Content Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Video Content Boost Package! To proceed, we’ll need to discuss the payment options at your convenience. Please let me know if you have a preferred method or if you have any questions regarding the package.\n\nLooking forward to your response! \n\nBest regards,\n[Your Name]\n[Your Position]\n",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791756950059",
+      "created_at": "2026-10-11T22:15:50.059338+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly Short-Form Video Package",
+        "target_customer": "Small businesses and content creators looking to increase online engagement",
+        "customer_problem": "Struggling to create engaging short-form video content consistently for social media platforms.",
+        "solution": "A monthly service that provides tailored short-form video scripts and content ideas, specifically designed for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "4 short-form video scripts (up to 60 seconds each)",
+          "Content ideas tailored for each platform",
+          "Hashtag recommendations for increased visibility",
+          "1-month content calendar outlining posting schedule"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your social media presence with engaging video content that resonates with your audience—without the hassle of creating it yourself.",
+        "sales_angle": "Unlock the potential of short-form videos to boost engagement and brand awareness.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Networking in relevant online groups",
+          "Word of mouth referrals"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to engage with provided content",
+          "Open to creative suggestions"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and kickstart your video content journey."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to keep your social media exciting? Elevate your online presence with our Monthly Short-Form Video Package! Perfect for small businesses and content creators looking for engaging video scripts tailored for TikTok, Instagram Reels, and YouTube Shorts. Say goodbye to content creation stress and hello to increased engagement! Contact us today! 📲✨ #ShortFormVideo #SocialMedia #EngagementBoost",
+        "website_description": "Transform your online engagement with our Monthly Short-Form Video Package. Designed for small businesses and content creators, we provide four custom video scripts and content ideas tailored for TikTok, Instagram Reels, and YouTube Shorts. Along with tailored hashtag recommendations and a posting calendar, we ensure you capture your audience's attention effortlessly. Elevate your social media presence without the hassle!",
+        "outreach_template": "Subject: Discover Our Short-Form Video Solutions\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to share our Monthly Short-Form Video Package designed to help small businesses and content creators enhance their online engagement. \n\nIf you're struggling to create engaging short-form video content, we can provide you with tailored scripts, content ideas, and a content calendar tailored specifically for TikTok, Instagram Reels, and YouTube Shorts.\n\nWould you be open to discussing this further? Please let me know a time that works for you, or feel free to reach out directly.\n\nBest regards,\n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Information]  \n\n*If you'd prefer not to receive further messages, please let me know.*",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "How often do you post video content on your channels?",
+          "What specific challenges do you face in creating video content?",
+          "What types of engagement are you hoping to achieve?",
+          "Are there any specific themes or topics you want to cover in your videos?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Customer Needs Assessment",
+          "Overview of Monthly Short-Form Video Package",
+          "Deliverables",
+          "Timeline for Delivery",
+          "Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to elevate your video content? Contact us via email or WhatsApp to schedule a consultation!",
+        "payment_template": "Subject: Payment for Your Short-Form Video Package\n\nHi [Recipient's Name],\n\nThank you for choosing our Monthly Short-Form Video Package. We're excited to start this journey with you! To proceed, please let us know your preferred payment method. Once we receive your payment, we will get started on crafting your content.\n\nIf you have any questions or need assistance, feel free to reach out. \n\nBest regards,\n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Information]  \n\n*If you'd prefer not to receive further messages, please let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
