@@ -25979,6 +25979,80 @@
         "payment_template": "Subject: Payment Confirmation for Social Media Boost Package\n\nHi [Recipient's Name],\n\nThank you for choosing our Social Media Boost Package! At your earliest convenience, please confirm the payment process to secure your order.\n\nLooking forward to working with you!\n\nBest, \nLuna\nluna.digital.operations@gmail.com\n\n[Opt-out option: If you prefer not to receive further correspondence, please reply with 'opt-out.']",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791738917262",
+      "created_at": "2026-10-11T17:15:17.262150+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Short-Form Content Sprint",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form videos consistently for platforms like TikTok and Instagram Reels.",
+        "solution": "A tailored, 30-day content strategy focused on delivering daily short-form video scripts and content ideas that align with the customer's brand and audience.",
+        "deliverables": [
+          "30 short-form video scripts customized for TikTok and Instagram Reels",
+          "Weekly content strategy sessions via Zoom",
+          "A content calendar outlining video themes and posting schedule",
+          "Best practices guide for filming and editing short videos"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Enhance your brand visibility and engagement on social media with a month of customized short-form video content, designed to resonate with your audience.",
+        "sales_angle": "Consistent high-quality content is key to growing your online presence. Let us help you become a content creation powerhouse in just 30 days!",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Online content creation communities",
+          "Word of mouth"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Willingness to engage with provided content strategies",
+          "Access to basic video recording equipment"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com to schedule a free consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to up your social media game? Our 30-Day Short-Form Content Sprint is designed for small businesses and content creators looking to boost engagement on TikTok and Instagram Reels! Get 30 customized video scripts, weekly strategy sessions, and more for just $299. Let's turn your content ideas into engaging videos! 📈✨ #ContentCreation #ShortFormVideo #SocialMediaMarketing",
+        "website_description": "Transform your online presence with our 30-Day Short-Form Content Sprint! Tailored specifically for small businesses and content creators, this program delivers 30 custom video scripts designed for TikTok and Instagram Reels. With weekly content strategy sessions and a comprehensive content calendar, you’ll have everything you need to engage your audience and enhance your brand visibility. Start your journey to becoming a content powerhouse today!",
+        "outreach_template": "Subject: Elevate Your Social Media Content!  \n\nHi [Name],  \n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity for small businesses and content creators like you. Our 30-Day Short-Form Content Sprint includes customized video scripts, weekly strategy sessions, and more to elevate your online presence.  \n\nWould you be interested in scheduling a free consultation to learn more? If not, please feel free to let me know if you'd like to opt out of future communications.  \n\nBest,  \nLuna  \ndigital.operations@gmail.com",
+        "discovery_questions": [
+          "What specific platforms do you use for your content?",
+          "How often are you currently posting short-form videos?",
+          "What type of audience are you trying to reach?",
+          "What challenges do you face with video content creation?",
+          "Do you have any existing video content that you’d like to build off of?"
+        ],
+        "proposal_outline": [
+          {
+            "section_title": "Introduction",
+            "content": "Overview of the client's needs and objectives."
+          },
+          {
+            "section_title": "Project Goals",
+            "content": "Short-term and long-term goals for content engagement."
+          },
+          {
+            "section_title": "Deliverables",
+            "content": "Detailed list of the 30 video scripts, strategy sessions, calendar, and guides."
+          },
+          {
+            "section_title": "Timeline",
+            "content": "Outline of the 30-day schedule and milestones."
+          },
+          {
+            "section_title": "Pricing",
+            "content": "Breakdown of the total cost and payment options."
+          },
+          {
+            "section_title": "Next Steps",
+            "content": "Call to action for scheduling a consultation."
+          }
+        ],
+        "call_to_action": "Contact us at luna.digital.operations@gmail.com to schedule your free consultation today!",
+        "payment_template": "Subject: Payment Information for Your Content Sprint  \n\nHi [Name],  \n\nThank you for your interest in our 30-Day Short-Form Content Sprint! To proceed with your order, please confirm your preferred payment method, and I will provide you with the next steps. If you have any questions or would prefer not to move forward, just let me know.  \n\nLooking forward to your response!  \n\nBest,  \nLuna  \ndigital.operations@gmail.com",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
