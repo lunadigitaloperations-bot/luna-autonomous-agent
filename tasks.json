@@ -25641,6 +25641,64 @@
         "payment_template": "Subject: Next Steps for Your Order\n\nHi [Name],\n\nThank you for your interest in our Social Media Boost Package! To proceed, please confirm your preferred payment method, and we can start the planning process.\n\nLooking forward to your response!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791717273483",
+      "created_at": "2026-10-11T11:14:33.483824+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Boost Package",
+        "target_customer": "Small businesses and content creators looking to improve engagement on social media",
+        "customer_problem": "Struggling to create engaging short-form video content that captures attention and increases audience interaction.",
+        "solution": "A tailored package that provides short-form video scripts and concepts specifically designed to enhance engagement on platforms like TikTok, Instagram, and YouTube.",
+        "deliverables": [
+          "3 custom short-form video scripts per month",
+          "1 content strategy session (30 minutes) via Zoom",
+          "Tips for filming and editing provided with each script",
+          "Weekly captions for each video concept"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your online presence with engaging, professional video scripts tailored to your brand's voice and audience.",
+        "sales_angle": "Engage your audience like never before with expert-crafted scripts designed specifically for your unique brand!",
+        "organic_discovery_methods": [
+          "Social media posts showcasing sample scripts",
+          "Testimonials from previous clients",
+          "Content collaborations with influencers"
+        ],
+        "qualification_criteria": [
+          "Has an active social media presence",
+          "Willingness to collaborate and provide feedback",
+          "Openness to experimenting with new content formats"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss your specific video content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost Your Engagement with Our Short-Form Video Boost Package! 📹✨ Tailored for small businesses and content creators, we provide custom video scripts, strategy sessions, and filming tips to elevate your online presence. Ready to captivate your audience? Let's chat! #SocialMedia #VideoContent #EngagementBoost",
+        "website_description": "Unlock the power of engaging short-form video content with our Short-Form Video Boost Package! Specifically designed for small businesses and content creators, this tailored solution includes three custom scripts per month, strategic guidance, and essential tips for filming and editing. Elevate your online presence today!",
+        "outreach_template": "Subject: Enhance Your Video Content! \n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to introduce our Short-Form Video Boost Package, aimed at helping small businesses and content creators like yourself improve engagement on social media. \n\nThis package includes custom video scripts, a strategy session, and tips for filming and editing. I believe it could be a great fit for your goals! \n\nIf you're interested in learning more, please let me know a convenient time for us to discuss further. \n\nBest,\n[Your Name]  \n[Your Contact Information]  \n\nP.S. If you're not looking for video content support right now, feel free to let me know to opt-out of future messages.",
+        "discovery_questions": [
+          "What social media platforms are you currently using to engage with your audience?",
+          "What types of video content have you tried in the past, and what were the results?",
+          "What challenges do you face when creating short-form video content?",
+          "How do you define success in your video content strategy?",
+          "Are you open to experimenting with new types of video formats or styles?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Client's Needs",
+          "Proposed Solution: Short-Form Video Boost Package",
+          "Deliverables Details",
+          "Timeline and Estimated Delivery",
+          "Investment and Payment Options",
+          "Next Steps and Contact Information",
+          "Optional: Testimonials and Portfolio Samples"
+        ],
+        "call_to_action": "Ready to elevate your video content? Contact us today to schedule a consultation!",
+        "payment_template": "Subject: Follow-up on your Video Package\n\nHi [Recipient's Name],\n\nI hope you're doing well! I wanted to follow up regarding the Short-Form Video Boost Package we discussed. If you're ready to proceed, please let me know, and I can provide further details on the payment process. \n\nLooking forward to your response! \n\nBest,\n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
