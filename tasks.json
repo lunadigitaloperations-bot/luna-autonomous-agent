@@ -25248,6 +25248,61 @@
         "payment_template": "Subject: Payment for Your 30-Day Social Media Video Engagement Package\n\nHi [Name],\n\nI wanted to follow up regarding the payment process for your 30-Day Social Media Video Engagement Package. Once you are ready, please let me know, and I will provide you with the necessary details to proceed.\n\nFeel free to reach out if you have any questions or need more information.\n\nLooking forward to your response!\n\nBest,\n\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nP.S. If you're not ready to proceed at this time, just let me know, and I can follow up at a later date.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791692185485",
+      "created_at": "2026-10-11T04:16:25.485622+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Sprint",
+        "target_customer": "Small businesses and content creators looking to boost their social media presence",
+        "customer_problem": "Struggling to create engaging social media content consistently, leading to decreased audience engagement and growth.",
+        "solution": "A structured 30-day content creation plan that includes short-form video scripts for platforms like TikTok, Instagram Reels, and YouTube Shorts, tailored to the client's brand and target audience.",
+        "deliverables": [
+          "Initial branding consultation (1 hour)",
+          "30 short-form video scripts (1 for each day)",
+          "Content strategy guide outlining optimal posting times and engagement tips",
+          "Weekly check-in calls (4 total, 30 minutes each) to refine content approach"
+        ],
+        "suggested_price_usd": 499,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Kickstart your social media growth with tailored scripts and a clear content strategy to keep your audience engaged and coming back for more.",
+        "sales_angle": "Transform your social media from stale to sensational in just 30 days with easy-to-follow scripts and expert guidance.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or individual creator",
+          "Willingness to engage and provide feedback",
+          "Basic understanding of social media platforms"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to schedule a free consultation call."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to create engaging social media content? Join our 30-Day Social Media Content Sprint! 🗓️ Tailored short-form video scripts and expert guidance await to transform your presence from stale to sensational. Perfect for small businesses and content creators! 🌟 DM us to learn more! #SocialMediaGrowth #ContentCreation #SmallBusinessSupport",
+        "website_description": "Boost your social media presence with our 30-Day Social Media Content Sprint! Perfect for small businesses and content creators, this package includes tailored short-form video scripts for platforms like TikTok and Instagram Reels, along with a content strategy guide and weekly check-ins. Start engaging your audience and growing your brand today!",
+        "outreach_template": "Subject: Elevate Your Social Media Game\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce a unique offer that may be of interest to small businesses and content creators like yourself. Our 30-Day Social Media Content Sprint is designed to help boost your social media presence with tailored video scripts and strategic guidance. \n\nIf you’d like to discuss this further or have any questions, please feel free to reply, and we can schedule a time to chat. \n\nThank you for your time, and if this isn’t of interest, please let me know, and I will gladly respect your choice.\n\nBest,\nLuna\n\n",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What goals do you have for your social media presence?",
+          "What challenges do you face in creating content?",
+          "How often do you post on your social media channels?",
+          "What type of content engages your audience the most?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of the client’s needs\n   - Objectives of the proposal\n",
+          "2. Proposed Solution\n   - Description of the 30-Day Social Media Content Sprint\n   - Breakdown of deliverables\n",
+          "3. Timeline\n   - Estimated delivery and scheduling of calls\n",
+          "4. Pricing\n   - Suggested price and payment terms\n",
+          "5. Next Steps\n   - How to move forward if the proposal is accepted"
+        ],
+        "call_to_action": "Ready to kickstart your social media growth? Email us at luna.digital.operations@gmail.com to schedule your free consultation!",
+        "payment_template": "Subject: Payment Details\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Content Sprint! To proceed, we can discuss the total cost and payment options that work for you. \n\nLooking forward to your response. \n\nBest,\nLuna\n",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
