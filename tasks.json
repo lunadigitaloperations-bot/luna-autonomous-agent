@@ -26224,6 +26224,64 @@
         "payment_template": "Subject: Confirmation of Your Order\n\nHi [Recipient's Name],\n\nThank you for considering our Social Media Growth Accelerator Package! We’re excited to work with you to enhance your online presence. At your convenience, please let us know how you would like to proceed with the payment process.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791753330452",
+      "created_at": "2026-10-11T21:15:30.452131+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Video Content Boost Package",
+        "target_customer": "Small business owners and content creators looking to enhance their online presence.",
+        "customer_problem": "Limited engagement and visibility on social media platforms due to lack of effective video content.",
+        "solution": "Create engaging and optimized short-form video content tailored for TikTok, Instagram Reels, and YouTube Shorts to increase audience interaction.",
+        "deliverables": [
+          "Three 30-second video scripts tailored to the client's brand.",
+          "Three short-form videos produced and edited for TikTok, Instagram Reels, and YouTube Shorts.",
+          "Captions and hashtags for each video to improve discoverability.",
+          "One video content strategy consultation session (up to 30 minutes) to align goals and optimize content direction."
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Enhance your social media engagement with professionally crafted video content that resonates with your audience.",
+        "sales_angle": "Stand out from the competition and capture your audience's attention with tailored video content that drives interactions.",
+        "organic_discovery_methods": [
+          "Social media advertisements",
+          "Word of mouth",
+          "Referrals from previous clients",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Business must have a presence on social media platforms.",
+          "Willingness to collaborate and provide brand guidelines and goals."
+        ],
+        "next_action": "Email us at luna.digital.operations@gmail.com to schedule a free introductory consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your social media presence with our Social Media Video Content Boost Package! If you're a small business owner or a content creator facing low engagement, we've got you covered! 🎥 Get three tailored 30-second videos for TikTok, Instagram Reels, and YouTube Shorts designed to maximize interaction and visibility. 📈 Ready to stand out from the competition? DM us for a free consultation today! #VideoContent #SocialMediaSuccess",
+        "website_description": "Elevate your brand's online presence with our Social Media Video Content Boost Package! Specifically designed for small business owners and content creators, this package addresses the challenges of low engagement on social media. Receive three custom 30-second video scripts, professionally produced short-form videos for TikTok, Instagram Reels, and YouTube Shorts, along with effective captions and hashtags. Plus, enjoy a 30-minute video content strategy consultation to align your goals. Start enhancing your engagement today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I’m reaching out to share an exciting opportunity designed specifically for small business owners and content creators facing challenges with social media engagement. \n\nOur Social Media Video Content Boost Package can help you enhance your visibility and interaction on platforms like TikTok, Instagram, and YouTube. We offer tailored short-form videos that resonate with your audience.\n\nIf you're interested, I’d love to schedule a free introductory consultation to discuss how we can work together to boost your online presence. Please let me know a suitable time for you!\n\nIf this isn’t something you’re looking for right now, just let me know, and I can remove you from further communications.\n\nBest regards,\n[Your Name]\n[Your Position]\n",
+        "discovery_questions": [
+          "What specific goals do you want to achieve with your video content?",
+          "Which social media platforms are you currently using, and how are they performing?",
+          "Have you previously created video content? If so, what was your experience?",
+          "What brand guidelines or messaging do you want us to incorporate in the videos?",
+          "Are there particular trends or styles of video content you admire or would like to emulate?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Business Goals",
+          "Proposed Solution Overview",
+          "Deliverables Breakdown",
+          "Timeline and Delivery Schedule",
+          "Investment and Payment Terms",
+          "Next Steps",
+          "Opt-Out Option"
+        ],
+        "call_to_action": "Ready to enhance your social media engagement? Email us at luna.digital.operations@gmail.com to schedule your free consultation!",
+        "payment_template": "Subject: Next Steps for Your Video Content Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Video Content Boost Package! To proceed, we’ll need to discuss the payment options at your convenience. Please let me know if you have a preferred method or if you have any questions regarding the package.\n\nLooking forward to your response! \n\nBest regards,\n[Your Name]\n[Your Position]\n",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
