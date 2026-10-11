@@ -25303,6 +25303,63 @@
         "payment_template": "Subject: Payment Details\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Content Sprint! To proceed, we can discuss the total cost and payment options that work for you. \n\nLooking forward to your response. \n\nBest,\nLuna\n",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791695754164",
+      "created_at": "2026-10-11T05:15:54.165009+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Difficulty in creating engaging short-form video content that resonates with their audience",
+        "solution": "A tailored package that includes scripts and editing for short-form videos tailored to platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 custom short-form video scripts (max 60 seconds each)",
+          "3 edited short-form videos ready for posting",
+          "Captions for each video",
+          "Content strategy guidelines for optimal posting times and engagement tips"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Professional short-form videos that capture audience attention and enhance brand visibility without the hassle of creating them yourself.",
+        "sales_angle": "Invest in your digital presence with tailored video content that increases engagement and showcases your brand's personality.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth",
+          "Email marketing"
+        ],
+        "qualification_criteria": [
+          "Small business or creator with an active social media presence",
+          "Ready to invest in their digital content strategy",
+          "Willingness to collaborate and provide feedback"
+        ],
+        "next_action": "Reach out via email or WhatsApp to book your Short-Form Video Content Package!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Enhance your online presence with our Short-Form Video Content Package! Perfect for small businesses and content creators looking to create engaging videos for TikTok, Instagram Reels, and YouTube Shorts. 3 custom scripts, 3 edited videos, captions, and content strategy included—all for just $300! Elevate your digital content today! 🌟 #VideoMarketing #ContentCreation #SmallBusiness",
+        "website_description": "Transform your digital presence with our Short-Form Video Content Package! Tailored for small businesses and content creators, this package tackles the challenge of creating engaging videos that resonate with your audience. For $300, receive 3 custom video scripts, 3 professionally edited videos, captions, and strategic guidelines to boost your engagement. Order now and make your brand shine!",
+        "outreach_template": "Subject: Enhance Your Digital Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity that could help elevate your online presence through engaging short-form video content. \n\nOur Short-Form Video Content Package includes:\n- 3 custom short-form video scripts\n- 3 edited short-form videos ready for posting\n- Captions for each video\n- Content strategy guidelines for optimal engagement\n\nIf this sounds interesting, I’d love to discuss it further. Feel free to reach out with any questions or to schedule a time to chat!\n\nBest regards,\n[Your Name]\n\nP.S. If you're not interested, just let me know, and I won't reach out again.",
+        "discovery_questions": [
+          "What are your primary goals for your online video content?",
+          "Which platforms do you primarily use for sharing video content?",
+          "What type of audience are you looking to engage with your videos?",
+          "Have you used short-form video content before? If so, what was your experience?",
+          "What challenges do you face in creating video content for your brand?"
+        ],
+        "proposal_outline": [
+          "Introduction to the Short-Form Video Content Package",
+          "Understanding Client Goals and Needs",
+          "Deliverables Overview",
+          "Project Timeline and Estimated Delivery",
+          "Investment Details",
+          "Next Steps and Collaboration Details",
+          "FAQs and Contact Information"
+        ],
+        "call_to_action": "Ready to boost your brand’s visibility? Reach out via email or WhatsApp to book your Short-Form Video Content Package today!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for your interest in our Short-Form Video Content Package! To proceed, I’d be happy to share details regarding the payment process. Please let me know how you’d like to move forward, and we can discuss the next steps.\n\nBest,  \n[Your Name]\n\nP.S. If you prefer not to continue, just let me know, and I’ll ensure you don’t receive further messages.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
