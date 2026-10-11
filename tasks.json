@@ -25468,6 +25468,63 @@
         "payment_template": "Subject: Payment Information for Your Package\n\nHello [Client's Name],\n\nThank you for your interest in our **30-Day Social Media Boost Package**! To get started, we will need to finalize the payment details. \n\nPlease let me know your preferred payment method, and I’ll send you the necessary information to proceed.\n\nIf this package doesn’t meet your current needs, please feel free to let me know. I appreciate your time!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791706601605",
+      "created_at": "2026-10-11T08:16:41.605493+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Boost Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to consistently create engaging short-form video content that resonates with their audience.",
+        "solution": "A comprehensive social media content package designed to help boost engagement and visibility on platforms like TikTok, Instagram, and YouTube.",
+        "deliverables": [
+          "5 short-form video scripts tailored to the customer's brand and target audience.",
+          "5 edited video clips ready for posting, optimized for TikTok and Instagram Reels.",
+          "5 engaging captions to accompany each video, enhancing viewer interaction.",
+          "A content strategy outline for the following month, including posting schedule and content type recommendations."
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Receive a complete content boost package that saves you time and enhances your online presence, allowing you to focus on running your business.",
+        "sales_angle": "Unlock the potential of your social media platforms with professional-quality content that drives engagement and grows your audience.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Referrals from existing customers",
+          "Collaborations with micro-influencers"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator with an active social media presence.",
+          "Willing to provide brand details and target audience information."
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to discuss your specific needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to boost your social media game? 🌟 Our Social Media Content Boost Package is here to help small businesses and content creators craft engaging short-form videos that truly resonate! Get 5 tailored video scripts, 5 edited clips, and a strategy outline—all designed to enhance your online presence. 👩‍💻💡 Start transforming your content today! Contact us at luna.digital.operations@gmail.com. #SocialMedia #ContentCreation #VideoMarketing",
+        "website_description": "Enhance your social media presence with our Social Media Content Boost Package! Tailored for small business owners and content creators, this comprehensive package includes 5 custom video scripts, 5 edited short-form videos ready for TikTok and Instagram, engaging captions, and a content strategy outline. Save time and captivate your audience—let's elevate your brand together!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I’m reaching out to introduce our Social Media Content Boost Package designed specifically for small business owners and content creators like yourself. If you're struggling to create engaging video content, this package might be the perfect solution.\n\nWould you be open to discussing how we can help enhance your social media strategy? If you're not interested, that's perfectly okay—just let me know!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What social media platforms do you currently use?",
+          "What type of content resonates best with your audience?",
+          "Have you worked with video content before? If so, what was your experience?",
+          "What are your primary goals for social media this month?",
+          "How often do you plan to post content in the coming weeks?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer's Needs",
+          "Proposed Solution: Social Media Content Boost Package",
+          "Deliverables Breakdown",
+          "Timeline and Delivery Schedule",
+          "Pricing Information",
+          "Next Steps",
+          "Closing Remarks"
+        ],
+        "call_to_action": "Contact us today at luna.digital.operations@gmail.com to elevate your social media strategy!",
+        "payment_template": "Subject: Payment Information for Your Order\n\nHi [Name],\n\nThank you for your interest in our Social Media Content Boost Package! I'm following up to provide you with payment details.\n\nIf you’re ready, please let me know your preferred payment method, and I’ll send over the necessary instructions.\n\nLooking forward to hearing from you soon! If you have any questions, feel free to ask!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
