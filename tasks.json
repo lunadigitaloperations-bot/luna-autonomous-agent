@@ -27078,6 +27078,65 @@
         "payment_template": "Subject: Follow-Up on Your Package\n\nHi [Name],\n\nI hope you are well! I wanted to touch base regarding your package. Once we finalize the details, I’ll guide you through the payment process to ensure everything is set up perfectly for you.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\n[Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791808224387",
+      "created_at": "2026-10-12T12:30:24.387254+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Short-Form Video Package",
+        "target_customer": "Small businesses or content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and promotes brand awareness.",
+        "solution": "Provide a tailored package of short-form video scripts and editing guidance to increase engagement on platforms like TikTok and Instagram Reels.",
+        "deliverables": [
+          "Three unique short-form video scripts tailored to the client's brand and goals.",
+          "Guidance on video shooting and editing techniques.",
+          "One personalized content strategy consultation (30 minutes) to align on messaging and branding."
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your brand's online visibility and engagement with tailored short-form video content designed for your specific audience.",
+        "sales_angle": "Transform your social media presence with captivating videos that attract and retain followers, all from the comfort of your home office.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth",
+          "Networking within business communities",
+          "Content marketing on blogs or websites"
+        ],
+        "qualification_criteria": [
+          "Small business or creator with existing social media presence",
+          "Willingness to implement video strategies",
+          "Open to feedback and collaboration"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation and start elevating your social media game."
+      },
+      "sales_assets": {
+        "social_post": "📹 Elevate your brand with our Social Media Short-Form Video Package! 🌟 Perfect for small businesses and content creators, we help you craft engaging video content that resonates with your audience. Get three custom scripts, editing guidance, and a 30-minute consultation to align your strategy! Ready to transform your social media presence? DM us or email luna.digital.operations@gmail.com! #SocialMediaMarketing #VideoContent #SmallBusinessGrowth",
+        "website_description": "Boost your online visibility with our Social Media Short-Form Video Package! Designed for small businesses and content creators, this package includes three tailored video scripts, expert guidance on shooting and editing, and a personalized 30-minute content strategy consultation. Enhance your social media presence and engage your audience like never before! All of this for just $150, with delivery within 7 days.",
+        "outreach_template": "Subject: Discover How to Boost Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to introduce our Social Media Short-Form Video Package designed specifically for small businesses and content creators like you. We understand the struggles of creating engaging video content, and we're here to help!\n\nOur package includes three unique short-form video scripts tailored to your brand, guidance on video shooting and editing, and a 30-minute personalized consultation. \n\nIf you're interested in elevating your social media game, please let me know a good time for us to chat. \n\nBest regards,\n\n[Your Name]  \nluna.digital.operations@gmail.com\n\nP.S. If you prefer not to receive these messages, just let me know!",
+        "discovery_questions": [
+          "What are your current social media goals?",
+          "Which platforms do you primarily use for your business?",
+          "Have you created any video content before? If so, what did you find challenging?",
+          "How do you currently engage with your audience on social media?",
+          "What kind of messaging do you want to convey through your videos?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Short-Form Video Package",
+          "Target Customer Analysis",
+          "Identifying Customer Pain Points",
+          "Proposed Solution and Deliverables",
+          "Pricing and Payment Terms",
+          "Estimated Delivery Timeline",
+          "Next Steps",
+          "Closing Remarks"
+        ],
+        "call_to_action": "Ready to captivate your audience? Contact us today at luna.digital.operations@gmail.com to schedule your consultation!",
+        "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Recipient's Name],\n\nThank you for expressing interest in our Social Media Short-Form Video Package! To proceed, we can discuss the payment options that suit you best. Once we confirm your package, we can get started on elevating your social media presence.\n\nLooking forward to your reply!\n\nBest,\n\n[Your Name]  \nluna.digital.operations@gmail.com",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
