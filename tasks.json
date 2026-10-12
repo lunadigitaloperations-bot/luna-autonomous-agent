@@ -27254,6 +27254,62 @@
         "payment_template": "Subject: Follow-up on Your Package\n\nHi [Name],\n\nThank you for considering our 30-Day Social Media Growth Package! I wanted to check in and see if you have any questions. Once you're ready, we can move forward with the next steps.\n\nPlease let me know if there’s anything else you need! \n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791818421790",
+      "created_at": "2026-10-12T15:20:21.790577+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly Short-Form Video Content Package",
+        "target_customer": "Small businesses and creators looking to boost their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content consistently to attract and retain followers.",
+        "solution": "A monthly package offering 4 customized short-form videos (TikTok, Instagram Reels, or YouTube Shorts) tailored to your brand and audience.",
+        "deliverables": [
+          "4 short-form video scripts (up to 60 seconds each)",
+          "4 edited video clips ready for posting",
+          "1 content strategy consultation session (30 minutes)",
+          "Custom captions for each video"
+        ],
+        "suggested_price_usd": 400,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Consistent, engaging video content that resonates with your audience, helping to improve visibility and engagement.",
+        "sales_angle": "Transform your online presence with engaging videos—designed to captivate your audience and boost your brand visibility. Let us handle your video content while you focus on your business.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word-of-mouth referrals",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Business or creator with an active social media presence",
+          "Willingness to collaborate on content direction"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and kickstart your monthly video content package."
+      },
+      "sales_assets": {
+        "social_post": "🎥 Elevate your brand with our Monthly Short-Form Video Content Package! 🚀 Get 4 customized videos designed to engage your audience and enhance your online presence. Perfect for small businesses and creators looking to captivate followers on TikTok, Instagram Reels, and YouTube Shorts. Ready to transform your content strategy? Contact us today! #VideoContent #SocialMedia #SmallBusinessGrowth",
+        "website_description": "Boost your online presence with our Monthly Short-Form Video Content Package! Designed for small businesses and creators, this package includes 4 tailored videos—perfect for platforms like TikTok, Instagram Reels, and YouTube Shorts. Enjoy professionally written scripts, edited clips, and personalized captions, all crafted to engage your audience and enhance your visibility. Let's bring your brand story to life!",
+        "outreach_template": "Subject: Exciting Opportunity for Your Video Content!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Monthly Short-Form Video Content Package—designed specifically for businesses and creators looking to elevate their online presence.\n\nOur offering includes 4 customized short-form videos tailored to your brand, alongside scripts, edited clips, and personalized captions. Would you be open to discussing how we can support your video content needs? \n\nIf you'd prefer not to receive further messages about this, just let me know, and I'll be happy to respect your wishes.\n\nBest regards,\n\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "discovery_questions": [
+          "What social media platforms do you currently use for your business?",
+          "How often do you post video content on your channels?",
+          "What are your primary goals for using short-form video content?",
+          "Can you describe your target audience and what resonates with them?",
+          "Are there specific themes or messages you want your video content to convey?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Monthly Short-Form Video Content Package",
+          "Detail of Deliverables",
+          "Benefits and Value Proposition",
+          "Suggested Price",
+          "Estimated Delivery Timeline",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to boost your visibility? Contact us today to start your Monthly Short-Form Video Content Package!",
+        "payment_template": "Subject: Payment Arrangement for Your Video Package\n\nHi [Recipient's Name],\n\nThank you for considering our Monthly Short-Form Video Content Package! If you're ready to proceed, we can discuss the next steps for payment arrangements.\n\nPlease let me know if you have any questions or if there's anything else you'd like to explore before moving forward.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
