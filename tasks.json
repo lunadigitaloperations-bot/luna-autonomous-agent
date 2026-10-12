@@ -26568,6 +26568,63 @@
         "payment_template": "Subject: Your Order Confirmation\n\nHi [Name],\n\nThank you for your interest in our Social Media Video Boost Package! We’re excited to get started on creating engaging video content for your social media.\n\nJust a reminder, we can discuss payment options at your convenience. Let me know what works best for you!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791775130291",
+      "created_at": "2026-10-12T03:18:50.291830+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Short-Form Content Package",
+        "target_customer": "Small businesses or creators seeking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form videos that resonate with their audience",
+        "solution": "A tailored short-form video content package designed to boost engagement and brand visibility across platforms like TikTok and Instagram Reels.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "1 customized video content calendar for a month",
+          "5 caption options for each video",
+          "1 consultation call (30 minutes) to discuss content strategy"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock your brand's potential with captivating content that connects with your audience.",
+        "sales_angle": "Transform your ideas into engaging videos that drive more interactions without the hassle of figuring it all out yourself.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Business or creator with an active social media presence",
+          "Willingness to invest in digital content",
+          "Open to new strategies and ideas"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your first consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your online presence to the next level? Our Engaging Short-Form Content Package is designed for small businesses and creators like you! Create captivating TikTok and Instagram Reels effortlessly. 📈✨ DM us to start transforming your ideas into stunning videos! #ContentCreation #SocialMediaMarketing #SmallBusinessGrowth",
+        "website_description": "Unlock your brand's potential with our Engaging Short-Form Content Package. Tailored for small businesses and creators, this package includes three captivating video scripts, a customized content calendar, and expert strategy consultation—all designed to enhance your online presence and engage your audience. Get started today and elevate your brand!",
+        "outreach_template": "Subject: Unlock Engaging Content for Your Brand\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to reach out because I believe our Engaging Short-Form Content Package could greatly benefit your online presence. \n\nThis package includes:\n- 3 short-form video scripts\n- A customized content calendar for the month\n- 5 caption options per video\n- A 30-minute consultation call to refine your content strategy\n\nIf you're interested, I'd love to discuss how this can enhance your brand. \n\nFeel free to let me know a convenient time for you, or if you prefer, you can opt out of future messages by replying 'unsubscribe.'\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What challenges are you currently facing with your video content?",
+          "Which social media platforms are you most active on?",
+          "What type of videos do you think resonate best with your audience?",
+          "Have you previously invested in short-form video content? If so, what was your experience?",
+          "What are your goals regarding engagement and brand visibility in the next 3-6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Engaging Short-Form Content Package",
+          "Detailed Deliverables",
+          "Estimated Timelines and Costs",
+          "Next Steps for Collaboration",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Ready to elevate your brand's visibility? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Information for Your Recent Consultation\n\nHi [Recipient's Name],\n\nThank you for exploring our Engaging Short-Form Content Package! To proceed with the next steps, please let me know if you have any questions or need assistance with the payment process. \n\nOnce you're ready, I can provide the necessary details. \n\nIf you wish to opt-out of further communication, please reply 'unsubscribe.'\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
