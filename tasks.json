@@ -26794,6 +26794,62 @@
         "payment_template": "Subject: Next Steps for Your TikTok Journey  \n  \nHi [Name],  \n  \nThank you for expressing interest in our 30-Day TikTok Content Challenge! To proceed, please let me know your preferred payment method when you’re ready. Once we finalize the details, we can kick off your TikTok transformation. I'm here to answer any questions you might have!  \n  \nLooking forward to your response!  \n  \nBest,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791789767656",
+      "created_at": "2026-10-12T07:22:47.656489+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Video Content Package for Small Creators",
+        "target_customer": "Small businesses and content creators looking to boost their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and drives engagement",
+        "solution": "A tailored video content package that includes scriptwriting and video ideas designed to fit the brand's voice and target audience",
+        "deliverables": [
+          "3 short-form video scripts (TikTok, Instagram Reels, or YouTube Shorts)",
+          "3 video ideas with engagement strategies",
+          "Personalized content strategy consultation"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock the potential of your brand with creative and engaging video content designed to attract and retain your audience.",
+        "sales_angle": "Transform your online presence with easy-to-follow video scripts and ideas that resonate with your audience.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to collaborate and provide brand input"
+        ],
+        "next_action": "Contact us via email or WhatsApp to book your service and start enhancing your video content today!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Attention Small Creators & Businesses! 🎥 Are you struggling to create engaging short-form video content? Our Engaging Video Content Package is designed just for you! Get 3 tailored scripts and 3 unique video ideas to boost your online presence and captivate your audience. Let's unlock your brand's potential together! 💡✨ #SmallBusiness #VideoMarketing #ContentCreation #EngagementStrategies",
+        "website_description": "<h2>Engaging Video Content Package for Small Creators</h2><p>Boost your online presence with our tailored video content package! Designed for small businesses and content creators, this offer provides you with 3 short-form video scripts and 3 innovative video ideas, plus a personalized consultation to align your content with your brand's voice. Transform your engagement strategy and captivate your audience today!</p>",
+        "outreach_template": "Subject: Elevate Your Video Content Strategy\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce our Engaging Video Content Package, specifically designed for small businesses and content creators. If you're looking to enhance your online presence, this package could be a great fit.\n\nThe package includes:\n- 3 short-form video scripts tailored to your brand's voice\n- 3 unique video ideas with engagement strategies\n- A personalized content strategy consultation\n\nIf you're interested in exploring this opportunity, please let me know!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]\n\nIf this isn't relevant to you, feel free to opt out.",
+        "discovery_questions": [
+          "What challenges are you currently facing with your video content?",
+          "What platforms do you primarily use for your video marketing?",
+          "Who is your target audience, and what do they engage with?",
+          "What brand voice do you aim to communicate through your content?",
+          "Have you tried any specific video formats or styles that resonated well?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Challenges",
+          "Proposed Solution: Engaging Video Content Package",
+          "Deliverables Overview",
+          "Pricing and Payment Terms",
+          "Timeline for Delivery",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to elevate your video content? Contact us via email or WhatsApp today and let's get started!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for your interest in our Engaging Video Content Package! To proceed, we can discuss the payment options available. Please let me know how you'd like to move forward.\n\nBest,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
