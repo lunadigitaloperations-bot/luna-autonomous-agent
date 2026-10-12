@@ -26737,6 +26737,63 @@
         "payment_template": "Subject: Payment Reminder for Your Content Package\n\nDear [Name],\n\nThank you for choosing our Social Media Content Boost Package! To proceed, please confirm if you have processed the payment so we can initiate your project. If you have any questions, feel free to reach out.\n\nLooking forward to your response! \n\nBest regards,\n[Your Name]\n[Your Contact Information]  \n\nP.S. If you would prefer not to receive future messages, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791786337397",
+      "created_at": "2026-10-12T06:25:37.397401+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Content Challenge for Small Businesses",
+        "target_customer": "Small business owners looking to enhance their social media presence",
+        "customer_problem": "Overwhelmed by the constant demand for engaging TikTok content and unsure how to create videos that resonate with their audience.",
+        "solution": "A structured 30-day TikTok content plan that includes daily themes, content ideas, and video scripts tailored to attract their target audience.",
+        "deliverables": [
+          "Customized TikTok content calendar for 30 days",
+          "10 short-form video scripts ready to use",
+          "Daily content prompts and engagement tips",
+          "Access to a private WhatsApp group for ongoing support"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your TikTok presence with a ready-to-use content strategy that saves time and boosts engagement!",
+        "sales_angle": "Stop stressing over what to post daily! With our 30-Day TikTok Challenge, you’ll have everything you need to create engaging content that resonates with your audience.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online business forums"
+        ],
+        "qualification_criteria": [
+          "Small business owner or creator",
+          "Willingness to engage with TikTok actively",
+          "Basic understanding of social media"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started on your TikTok journey!"
+      },
+      "sales_assets": {
+        "social_post": "🎉 Are you a small business owner feeling overwhelmed by TikTok? Join our 30-Day TikTok Content Challenge! 🚀 Get a customized content calendar, short-form video scripts, and daily engagement tips to transform your TikTok presence. 🌟 Let's make creating content easier and more enjoyable! #SmallBusiness #TikTokChallenge #SocialMediaStrategy",
+        "website_description": "Enhance your TikTok presence with our 30-Day TikTok Content Challenge designed specifically for small business owners. With a structured content plan, you'll receive a customized TikTok calendar, ready-to-use video scripts, and daily prompts that will capture your audience's attention. Don’t let content creation overwhelm you—take the first step toward a dynamic social media strategy today!",
+        "outreach_template": "Subject: Unlock Your TikTok Potential!  \n  \nHi [Name],  \n  \nI hope this message finds you well! As a fellow small business owner, I understand the challenges of creating engaging TikTok content. That’s why I wanted to introduce you to our 30-Day TikTok Content Challenge.  \n  \nThis program includes a customized content calendar, 10 ready-to-use video scripts, and daily prompts to help you connect with your audience. It’s an ideal solution for busy entrepreneurs seeking an effective strategy.  \n  \nIf you’re interested in learning more, feel free to reach out!  \n  \nBest regards,  \n[Your Name]  \n[Your Contact Information]  \n  \nP.S. If this isn’t something you’re looking for right now, just let me know, and I won’t follow up again!",
+        "discovery_questions": [
+          "What challenges are you facing with your current TikTok content?",
+          "How do you currently plan and create your social media content?",
+          "What kind of engagement are you hoping to achieve on TikTok?",
+          "Have you previously used any content planning tools or strategies?",
+          "What are your primary goals for using TikTok as a promotion tool?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the 30-Day TikTok Content Challenge",
+          "Detailed Deliverables",
+          "Timeline and Pricing",
+          "Call to Action",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to elevate your TikTok game? Contact us via email or WhatsApp to get started!",
+        "payment_template": "Subject: Next Steps for Your TikTok Journey  \n  \nHi [Name],  \n  \nThank you for expressing interest in our 30-Day TikTok Content Challenge! To proceed, please let me know your preferred payment method when you’re ready. Once we finalize the details, we can kick off your TikTok transformation. I'm here to answer any questions you might have!  \n  \nLooking forward to your response!  \n  \nBest,  \n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
