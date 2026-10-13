@@ -28403,6 +28403,64 @@
         "payment_template": "Subject: Payment Details for Your TikTok Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our TikTok Content Creation Package! To proceed, we can discuss the payment options that work best for you. Please let me know if you have any questions or if there’s a convenient time for us to connect.\n\nLooking forward to your response!\n\nBest, \n[Your Name]\n[Your Contact Information]\n\nIf you’d like to stop receiving these messages, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791890324019",
+      "created_at": "2026-10-13T11:18:44.019818+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Boost Package",
+        "target_customer": "Small businesses and content creators struggling with consistent social media engagement",
+        "customer_problem": "Many small businesses and creators find it challenging to maintain a consistent and engaging presence on social media, leading to stagnant growth and audience disengagement.",
+        "solution": "A structured 30-day content strategy that includes short-form video scripts and planned posts tailored for TikTok, Instagram Reels, and YouTube Shorts to boost engagement and visibility.",
+        "deliverables": [
+          "Content strategy document outlining posting schedule and themes",
+          "12 short-form video scripts optimized for TikTok, Instagram Reels, and YouTube Shorts",
+          "Custom captions for each video",
+          "Engagement tips and best practices for each platform"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your online presence with tailored content that speaks directly to your audience, designed to foster engagement and growth without the overwhelm of creating content from scratch.",
+        "sales_angle": "Transform your social media efforts with expert-crafted content that drives engagement, giving you more time to focus on your core business.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Content marketing through blogs and newsletters"
+        ],
+        "qualification_criteria": [
+          "Must have existing social media accounts",
+          "Willingness to implement suggested strategies",
+          "Input on target audience and brand voice"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com to discuss your business needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to maintain your social media presence? Our 30-Day Social Media Content Boost Package is here to help! Get 12 expertly crafted short-form video scripts designed for TikTok, Instagram Reels, and YouTube Shorts. Elevate your engagement, grow your audience, and transform your content creation! 💪✨ Learn more and get started today! 📩 #SocialMedia #ContentCreation #SmallBusiness #EngagementBoost",
+        "website_description": "Are you a small business or content creator facing challenges in maintaining consistent social media engagement? Our 30-Day Social Media Content Boost Package provides a tailored content strategy to elevate your online presence. Receive a comprehensive content strategy document, 12 short-form video scripts for TikTok, Instagram Reels, and YouTube Shorts, custom captions, and expert engagement tips. Transform your social media efforts with intentional content that resonates with your audience. Perfect for those looking to boost visibility without the hassle of creating from scratch.",
+        "outreach_template": "Subject: Let's Boost Your Social Media Engagement!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I’m reaching out to share an exciting opportunity for your business. Our 30-Day Social Media Content Boost Package is specifically designed for small businesses and content creators like you, facing challenges with consistent online engagement.\n\nThis package includes a structured content strategy, tailored video scripts, and engagement tips optimized for platforms like TikTok, Instagram Reels, and YouTube Shorts. \n\nWould you be open to a conversation about enhancing your social media presence? \n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you prefer not to receive future emails, please let me know.",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media strategy?",
+          "Which platforms are you currently utilizing for your business?",
+          "How often do you post content, and what types of content perform best for you?",
+          "Who is your target audience, and what messages resonate with them?",
+          "What is your primary goal for improving your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the 30-Day Social Media Content Boost Package",
+          "Deliverables",
+          "Projected Timeline",
+          "Investment",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to boost your social media engagement? Contact us today at luna.digital.operations@gmail.com!",
+        "payment_template": "Subject: Payment Details for Your Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Content Boost Package! We will confirm the next steps shortly. \n\nPlease let us know if you have any questions or need further information.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you would like to opt-out of future communications, just let us know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
