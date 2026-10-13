@@ -29088,6 +29088,64 @@
         "payment_template": "Subject: Next Steps for Your Mini Reels Content Package  \n\nHi [Name],  \nThank you for your interest in our Mini Reels Content Package! We're excited to assist you in creating engaging video content. To move forward, we can discuss the details of the project and the payment process at your convenience.  \nLooking forward to hearing back from you!  \nBest,  \n[Your Name]  \nOpt-out: If you don't wish to proceed, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791933761486",
+      "created_at": "2026-10-13T23:22:41.486676+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Launch Package",
+        "target_customer": "Small businesses or content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging social media content that attracts attention and drives engagement.",
+        "solution": "A comprehensive content strategy with tailored short-form video scripts and social media posts to establish a strong online presence.",
+        "deliverables": [
+          "3 customized short-form video scripts (TikTok, Instagram Reels, or YouTube Shorts)",
+          "5 engaging captions for social media posts",
+          "1 content strategy document outlining posting schedule and themes"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your brand's visibility and engagement with creative, tailored content that resonates with your audience.",
+        "sales_angle": "Transform your social media presence with targeted, engaging content specifically designed for your ideal audience.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "SEO optimized blog posts",
+          "Networking in online business communities"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media platform",
+          "Seeking to improve brand presence and engagement",
+          "Open to creative collaboration"
+        ],
+        "next_action": "Contact Luna at luna.digital.operations@gmail.com to discuss your needs and start elevating your brand."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to Elevate Your Brand? 🌟 Our Social Media Launch Package is designed for small businesses and content creators looking to enhance their online presence. Get 3 customized short-form video scripts, 5 engaging captions, and a comprehensive content strategy—all for just $150! 📝🔥DM us to get started and transform your social media today! #SocialMediaMarketing #ContentCreation #SmallBusiness",
+        "website_description": "Unlock your brand's potential with our Social Media Launch Package! Tailored for small businesses and content creators, this package provides you with everything you need: 3 customized short-form video scripts, 5 engaging post captions, and a content strategy document to guide your online presence. All of this for just $150 with a delivery time of 7 days. Elevate your visibility and drive engagement with creative content that resonates!",
+        "outreach_template": "Subject: Elevate Your Online Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to reach out as I believe our Social Media Launch Package could greatly benefit your business in enhancing your online presence. This tailored service includes customized video scripts, engaging post captions, and a strategic approach to help attract your ideal audience.\n\nI'd love to discuss how we can collaborate to elevate your brand. Please let me know if you're interested or would like to explore further.\n\nIf this isn’t the right time for you, I completely understand. Thank you for your time!\n\nBest regards,\nLuna\nluna.digital.operations@gmail.com",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which social media platforms are you currently using?",
+          "What type of content resonates most with your audience?",
+          "How often do you currently post on social media?",
+          "Are you open to experimenting with different content formats, such as video?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Social Media Status",
+          "Understanding Your Goals",
+          "Proposed Services (Deliverables)",
+          "Estimated Timeline",
+          "Pricing",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Contact Luna at luna.digital.operations@gmail.com to start elevating your brand today!",
+        "payment_template": "Subject: Payment Confirmation Needed\n\nHi [Recipient's Name],\n\nI wanted to check in regarding the payment for the Social Media Launch Package. Please confirm the details and let me know if you have any questions or need assistance!\n\nLooking forward to your response!\n\nBest regards,\nLuna",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
