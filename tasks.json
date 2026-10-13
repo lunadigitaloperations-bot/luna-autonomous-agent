@@ -28154,6 +28154,80 @@
         "payment_template": "Subject: Payment Update\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Boost Package! We’re excited to get started on enhancing your online presence. \n\nTo secure your package, we’ll need to discuss the payment options available. Please let me know a convenient time for you to connect!\n\nIf you have any other questions or prefer not to continue, feel free to let me know.\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791876140391",
+      "created_at": "2026-10-13T07:22:20.391977+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Package",
+        "target_customer": "Small businesses and creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and drives interactions.",
+        "solution": "Provide a comprehensive package that includes scriptwriting, video concepts, and tailored content strategies for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "Three short-form video scripts (up to 60 seconds each)",
+          "Content calendar with posting schedule for one month",
+          "Personalized strategy report based on target audience and platform insights",
+          "One set of captions optimized for engagement"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your online presence and engage your audience with professionally crafted short-form video content tailored to your brand.",
+        "sales_angle": "Affordable, expertly crafted content designed to resonate with your audience and elevate your brand's visibility in a competitive digital landscape.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Content collaboration with other creators or businesses"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to experiment with video content",
+          "Open to implementing feedback from the strategy report"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to schedule a consultation and discuss custom needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your online presence? 🌟 Check out our Short-Form Video Content Package! Tailored for small businesses and creators, we provide engaging scripts, a content calendar, and personalized strategies for TikTok, Instagram Reels, and YouTube Shorts—all for just $150! Let's bring your brand to life through captivating video content! 💡📈 \n\nDM us for more info or to book a consultation! #VideoMarketing #ShortFormContent #SocialMediaStrategy",
+        "website_description": "Transform your brand's online presence with our Short-Form Video Content Package! Perfect for small businesses and creators, this comprehensive offering includes 3 engaging scripts, a one-month content calendar, a personalized strategy report, and optimized captions to connect with your audience. For just $150 and delivered in 10 days, our expertly crafted content is designed to enhance your visibility in a competitive digital landscape. Discover how we can help you engage your audience and boost your brand!",
+        "outreach_template": "Subject: Enhance Your Online Presence with Engaging Video Content\n\nHi [Recipient's Name],\n\nI hope this message finds you well! \n\nI’m reaching out to introduce our Short-Form Video Content Package, designed specifically for small businesses and creators like you who are looking to enhance their online presence. \n\nWe provide a complete package that includes engaging scripts, a tailored content calendar, and personalized strategies for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nIf this sounds like it might be beneficial for your brand, I'd love to schedule a consultation to discuss your custom needs.\n\nWarm regards,\n\n[Your Name]\n[Your Position]\n[Your Contact Information]\n\nIf you’d like to opt-out of future communications, just let me know!",
+        "discovery_questions": [
+          "What platforms are you currently using for your video content?",
+          "What are your primary goals for creating short-form video content?",
+          "Who is your target audience, and what kind of content do they engage with?",
+          "Have you tried producing video content in the past? If so, what were the results?",
+          "Are you open to experimenting with different styles and formats for your videos?"
+        ],
+        "proposal_outline": [
+          {
+            "section_title": "Introduction",
+            "content": "Brief overview of the importance of short-form video content in today's digital landscape."
+          },
+          {
+            "section_title": "Customer Needs",
+            "content": "A summary of the specific needs and challenges faced by the client."
+          },
+          {
+            "section_title": "Proposed Solution",
+            "content": "Overview of the Short-Form Video Content Package, including deliverables."
+          },
+          {
+            "section_title": "Timeline",
+            "content": "Estimated delivery time and key milestones in the content creation process."
+          },
+          {
+            "section_title": "Pricing",
+            "content": "Detail of the package price and payment structure."
+          },
+          {
+            "section_title": "Next Steps",
+            "content": "Call to action for scheduling a consultation or providing feedback."
+          }
+        ],
+        "call_to_action": "Ready to boost your brand's visibility? Email luna.digital.operations@gmail.com to schedule your consultation today!",
+        "payment_template": "Hi [Client's Name],\n\nI hope you're doing well! I wanted to touch base regarding your order for the Short-Form Video Content Package. \n\nPlease let me know if there's anything further you'd like to discuss or clarify.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
