@@ -27869,6 +27869,66 @@
         "payment_template": "Subject: Your Order Confirmation\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Content Boost Package! I wanted to confirm that we are ready to proceed with the next steps. Please let me know if you have any questions regarding the payment process or if you need assistance with anything else.\n\nLooking forward to working together!\n\nBest,\n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791857868952",
+      "created_at": "2026-10-13T02:17:48.952850+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Content Sprint",
+        "target_customer": "Small businesses and creators looking to boost their TikTok presence",
+        "customer_problem": "Struggling to generate engaging content consistently for TikTok, leading to low follower engagement and visibility.",
+        "solution": "A 30-day content strategy and creation service focusing on TikTok, helping clients produce engaging and relevant short-form videos that resonate with their target audience.",
+        "deliverables": [
+          "Comprehensive 30-day content calendar",
+          "5 custom TikTok video scripts",
+          "2 fully edited TikTok videos",
+          "Weekly content performance feedback",
+          "1-hour strategic planning session"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your TikTok strategy with a tailored approach that ensures you have fresh, engaging content to keep your audience hooked and growing.",
+        "sales_angle": "Unlock your TikTok potential with a structured approach to content creation and strategy, specially designed for small businesses and creators.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word-of-mouth referrals",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Must have an existing TikTok account",
+          "Willing to engage in a collaborative planning process",
+          "Open to trying new content formats and trends"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to schedule a free consultation session."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your TikTok game? Join our 30-Day TikTok Content Sprint! 🎥 Get a comprehensive content calendar, custom video scripts, edited videos, and more to engage your audience like never before. Let's transform your TikTok strategy! 💡 Click the link to learn more and schedule your free consultation! #TikTokMarketing #SmallBusiness #ContentCreation",
+        "website_description": "Transform your TikTok presence in just 30 days! Our TikTok Content Sprint provides small businesses and creators with a tailored strategy, ensuring you produce engaging, relevant short-form videos that resonate with your audience. Get a comprehensive content calendar, custom video scripts, edited videos, and valuable feedback – all designed to boost your visibility and follower engagement!",
+        "outreach_template": "Subject: Elevate Your TikTok Strategy!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to introduce our 30-Day TikTok Content Sprint, designed specifically for small businesses and creators who want to boost their TikTok presence.\n\nMany face the challenge of generating consistent, engaging content. Our service helps solve that by providing a comprehensive content strategy tailored to your needs.\n\nWould you be open to a brief chat to explore this further? If you would like to opt-out of future messages, please let me know.\n\nBest regards,\n\n[Your Name]\n[Your Title]\n[Your Company]",
+        "discovery_questions": [
+          "What challenges have you faced with creating engaging TikTok content?",
+          "How frequently do you currently post on TikTok?",
+          "What type of content does your target audience engage with most?",
+          "Are you currently following any TikTok trends or formats?",
+          "What are your goals for your TikTok account in the next 3-6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current TikTok Landscape",
+          "Identified Challenges",
+          "Proposed Solution (30-Day TikTok Content Sprint)",
+          "Deliverables",
+          "Timeline",
+          "Investment",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Email us at luna.digital.operations@gmail.com to schedule your free consultation and kickstart your TikTok transformation today!",
+        "payment_template": "Subject: Next Steps for Your TikTok Sprint\n\nHi [Name],\n\nThank you for your interest in our 30-Day TikTok Content Sprint. As we finalize the details, please let me know if you have any questions or need further clarification about the services. \n\nLooking forward to your response, and don't hesitate to let me know if you prefer to opt-out of future communications.\n\nBest, \n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
