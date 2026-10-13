@@ -29032,6 +29032,62 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for choosing our Social Media Content Boost Package! We're currently processing your order, and I'll update you on the next steps shortly. \n\nIf you have any questions in the meantime, feel free to reach out.\n\nBest,\n[Your Name]\n\nP.S. If you would prefer not to receive further updates, please let me know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791930237551",
+      "created_at": "2026-10-13T22:23:57.551160+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Mini Reels Content Package",
+        "target_customer": "Small business owners seeking to boost online engagement",
+        "customer_problem": "Struggling to create eye-catching video content for social media that resonates with their audience and drives engagement.",
+        "solution": "A tailored package that includes the creation of engaging mini video reels for platforms like Instagram and TikTok, designed to highlight the brand's products or services.",
+        "deliverables": [
+          "3 custom video scripts tailored to the business's goals",
+          "3 fully edited video reels (up to 30 seconds each)",
+          "Captions and hashtags recommendation for each video",
+          "A content posting strategy outline"
+        ],
+        "suggested_price_usd": 199,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock your brand's potential with professional video reels designed to captivate your audience and increase engagement without breaking the bank.",
+        "sales_angle": "Transform your social media presence with our cost-effective, creative video solutions, perfect for small businesses eager to stand out online.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word-of-mouth referrals",
+          "Networking events or local workshops"
+        ],
+        "qualification_criteria": [
+          "The customer should be an established small business or creator",
+          "Must have basic digital presence on social media platforms"
+        ],
+        "next_action": "Email us at luna.digital.operations@gmail.com to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your online engagement with our Mini Reels Content Package! Perfect for small business owners looking to create captivating video content that resonates with their audience. Get 3 custom video scripts, 3 fully edited reels, and a tailored content strategy—all for just $199! 🎥✨ Ready to transform your social media presence? Contact us today! #SmallBusiness #VideoMarketing #ContentCreation",
+        "website_description": "Introducing the Mini Reels Content Package—designed specifically for small business owners who struggle to create engaging video content. For just $199, you'll receive 3 custom video scripts, 3 edited video reels up to 30 seconds each, captions and hashtag recommendations, and a content posting strategy outline. Our package unlocks your brand's potential and helps you stand out on platforms like Instagram and TikTok. Estimated delivery in just 7 days!",
+        "outreach_template": "Subject: Elevate Your Online Presence!  \n\nHi [Name],  \nI hope this message finds you well! I'm reaching out to share an exciting opportunity to boost your social media engagement through our Mini Reels Content Package. If you're a small business owner looking to stand out with captivating video content, this package is tailored just for you!  \nIf you're interested in learning more, please let me know, and we can discuss your needs further.  \nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Company]  \nOpt-out: If you'd prefer not to receive further information, please let me know.",
+        "discovery_questions": [
+          "What specific goals do you have for your online engagement?",
+          "What social media platforms do you currently use for your business?",
+          "Have you previously created video content for your brand?",
+          "What type of audience are you aiming to attract with your online content?",
+          "What challenges have you faced in creating engaging videos for your audience?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Client Needs",
+          "Overview of the Mini Reels Content Package",
+          "Deliverables and Timeline",
+          "Pricing",
+          "Next Steps",
+          "Questions & Answers"
+        ],
+        "call_to_action": "Ready to captivate your audience? Email us at luna.digital.operations@gmail.com to get started!",
+        "payment_template": "Subject: Next Steps for Your Mini Reels Content Package  \n\nHi [Name],  \nThank you for your interest in our Mini Reels Content Package! We're excited to assist you in creating engaging video content. To move forward, we can discuss the details of the project and the payment process at your convenience.  \nLooking forward to hearing back from you!  \nBest,  \n[Your Name]  \nOpt-out: If you don't wish to proceed, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
