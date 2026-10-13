@@ -28519,6 +28519,61 @@
         "payment_template": "Subject: Payment for Services\n\nHi [Name],\n\nThank you for choosing our Social Media Growth Package! To proceed, please let us know your preferred payment method. Once processed, we'll get started on creating your tailored content strategy. \n\nBest,\n[Your Name]\n\nP.S. If you have any questions or would rather not proceed, please feel free to reach out!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791897888538",
+      "created_at": "2026-10-13T13:24:48.538951+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Starter Pack",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create consistent and engaging content for social media platforms.",
+        "solution": "A comprehensive content starter pack that includes tailored short-form video scripts and captions, specifically designed for TikTok, Instagram Reels, and YouTube Shorts, to help boost engagement and visibility.",
+        "deliverables": [
+          "5 customized short-form video scripts",
+          "5 engaging captions for each video",
+          "Content calendar for one month"
+        ],
+        "suggested_price_usd": 199,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock the potential of your social media with uniquely crafted content designed to resonate with your audience and boost engagement.",
+        "sales_angle": "Designed for busy entrepreneurs, this starter pack makes social media management easy and effective, ensuring you stay relevant without the overwhelm.",
+        "organic_discovery_methods": [
+          "Social media advertisements",
+          "Word of mouth referrals",
+          "Partnerships with micro-influencers"
+        ],
+        "qualification_criteria": [
+          "Business or creator with a presence on at least one social media platform",
+          "Willingness to invest in enhancing their online brand presence"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Check out our Social Media Content Starter Pack! Perfect for small businesses and creators, it offers customized video scripts and captions to engage your audience and boost visibility. 🌟📱 Let’s make social media management easy and effective! DM us for more info! #SocialMediaSuccess #ContentCreation",
+        "website_description": "Transform your social media presence with our Social Media Content Starter Pack! Designed for small businesses and creators who struggle with consistency and engagement, this comprehensive package includes 5 tailored short-form video scripts, 5 engaging captions, and a detailed content calendar for one month. Priced at just $199, receive everything you need in just 7 days. Unlock your potential and connect with your audience today!",
+        "outreach_template": "Subject: Elevate Your Social Media Strategy!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out regarding a solution that could help enhance your social media presence. Our Social Media Content Starter Pack is designed specifically for small businesses and creators just like you.\n\nIt includes customized short-form video scripts and engaging captions tailored for TikTok, Instagram Reels, and YouTube Shorts, along with a content calendar for a seamless social media strategy. If you’re keen to boost engagement without the overwhelm, I’d love to discuss this further with you.\n\nPlease let me know if you’re interested, and we can schedule a convenient time to chat!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n\nP.S. If you’d prefer not to receive further emails, just let me know!",
+        "discovery_questions": [
+          "What social media platforms are you currently utilizing for your business?",
+          "How often do you post new content on your social media channels?",
+          "What kind of content resonates most with your audience?",
+          "Have you experienced any challenges with creating consistent content?",
+          "What specific goals do you hope to achieve with your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Content Starter Pack",
+          "Detailed description of deliverables",
+          "Value proposition",
+          "Pricing and delivery timeline",
+          "Next steps to get started",
+          "Conclusion"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule your consultation and start enhancing your social media presence!",
+        "payment_template": "Subject: Your Order Confirmation\n\nHi [Name],\n\nThank you for your interest in our Social Media Content Starter Pack! We're excited to help you elevate your social media presence. Could you please confirm your preferred method of payment? Once confirmed, we will proceed with the next steps.\n\nLooking forward to hearing from you soon!\n\nBest,  \n[Your Name]  \n[Your Contact Information]\n\nP.S. If you're not interested at this time, just let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
