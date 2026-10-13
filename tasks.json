@@ -28287,6 +28287,64 @@
         "payment_template": "Subject: Next Steps for Your Social Media Boost Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our *Social Media Boost Package*! To proceed, we can discuss the payment options that work best for you. Please let me know a convenient time for us to chat.\n\nLooking forward to your response!\n\nBest,\nLuna\n\n*If you choose to opt out, just let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791883173521",
+      "created_at": "2026-10-13T09:19:33.521095+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Short-Form Video Content Strategy Package",
+        "target_customer": "Small businesses or content creators looking to enhance their online presence",
+        "customer_problem": "Small businesses and creators struggle to consistently produce engaging short-form video content that attracts and retains their audience.",
+        "solution": "This package provides a personalized 30-day content strategy focusing on short-form videos tailored to the client's target audience, platform best practices, and trending topics.",
+        "deliverables": [
+          "Initial consultation to understand business goals and target audience",
+          "30-day content calendar with ideas for TikTok, Instagram Reels, and YouTube Shorts",
+          "10 tailored short-form video scripts",
+          "Guidelines for filming and editing videos",
+          "Weekly check-in for adjustments and feedback"
+        ],
+        "suggested_price_usd": 350,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Elevate your brand's digital presence with a tailored video strategy that keeps your audience engaged and returning for more.",
+        "sales_angle": "Unlock the power of short-form video content without the guesswork; get a strategic plan that works for your unique brand.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Networking with local business communities"
+        ],
+        "qualification_criteria": [
+          "The client must have basic video production capabilities (smartphone or camera)",
+          "Willingness to engage in a collaborative process",
+          "Clear understanding of their target audience"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule your consultation!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand with our 30-Day Short-Form Video Content Strategy Package! Perfect for small businesses and content creators, we help you attract & retain your audience with tailored video strategies. 🎥✨ Start your journey with us today! #VideoStrategy #ContentCreation #SmallBusiness",
+        "website_description": "Unlock your brand's potential with our 30-Day Short-Form Video Content Strategy Package. Designed for small businesses and content creators, this package offers a personalized content strategy, including a 30-day calendar, tailored scripts, and expert guidelines, ensuring you engage and grow your audience effectively.",
+        "outreach_template": "Subject: Let's Enhance Your Online Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out because I believe our 30-Day Short-Form Video Content Strategy Package could greatly benefit your business by enhancing your online presence. This tailored strategy is designed to engage your audience and keep them coming back for more!\n\nIf you're interested, I'd love to schedule a consultation to discuss this further. However, if you feel this isn't the right fit, please let me know, and I will respect your decision.\n\nLooking forward to the possibility of collaborating!\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What are your primary goals for using short-form video content?",
+          "Who is your target audience, and what platforms do they primarily use?",
+          "What types of content have you previously produced, and what has been your experience with it?",
+          "Are there specific trends or themes you've noticed resonate with your audience?",
+          "How frequently are you looking to publish new content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Client's Needs",
+          "Proposed Solution: 30-Day Short-Form Video Content Strategy Package",
+          "Deliverables Breakdown",
+          "Pricing and Payment Terms",
+          "Next Steps",
+          "Closing Statement"
+        ],
+        "call_to_action": "Contact us today at luna.digital.operations@gmail.com to schedule your consultation and start your journey towards engaging content!",
+        "payment_template": "Subject: Payment Information\n\nHi [Recipient's Name],\n\nThank you for choosing our 30-Day Short-Form Video Content Strategy Package. To proceed with your order, please let me know your preferred payment method, and I would be happy to provide you with the necessary details.\n\nIf you have any questions or need further assistance, feel free to reach out. If you wish to opt-out, please let me know and I will respect your decision.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
