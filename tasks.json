@@ -29552,6 +29552,62 @@
         "payment_template": "Subject: Payment Details for Your Social Media Growth Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Growth Package! To proceed, we can discuss payment arrangements that work for you. \n\nPlease let me know a convenient time for you to chat, or feel free to reply with any questions you might have. \n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791966679383",
+      "created_at": "2026-10-14T08:31:19.383530+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly Video Content Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to consistently create engaging video content for social media platforms to attract and retain followers.",
+        "solution": "A package that provides monthly short-form video scripts and content ideas tailored to your brand, along with a content calendar to plan your posts effectively.",
+        "deliverables": [
+          "5 short-form video scripts (60 seconds each) tailored to your brand",
+          "Content calendar for 4 weeks, outlining posting schedule and themes",
+          "Tips for recording and editing videos effectively",
+          "Basic captions for all 5 videos"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Save time and boost engagement with professionally crafted video content ideas and structure.",
+        "sales_angle": "Transform your online presence and connect with your audience through engaging video content without the stress of planning and scripting.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing sample video scripts",
+          "Testimonials from previous clients",
+          "Content marketing through blog posts about video marketing strategies"
+        ],
+        "qualification_criteria": [
+          "Active on at least one social media platform",
+          "Looking for consistent video content to engage and grow an audience",
+          "Willingness to invest in their online presence"
+        ],
+        "next_action": "Reach out via email or WhatsApp to discuss your specific needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Transform your online presence with our Monthly Video Content Package! 📹 Struggling to create engaging videos? We provide tailored short-form scripts and a content calendar to help you connect with your audience effortlessly. Save time and boost engagement today! 💡 #SmallBusiness #ContentCreators #VideoMarketing #EngageYourAudience",
+        "website_description": "Enhance your online presence with our Monthly Video Content Package, designed for small businesses and content creators. This package includes 5 custom short-form video scripts, a 4-week content calendar, recording and editing tips, and essential captions for your videos—all for just $250. Say goodbye to content creation stress and hello to engagement!",
+        "outreach_template": "Subject: Let's Enhance Your Video Content!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Monthly Video Content Package specifically designed for small businesses and content creators like you. This package includes tailored video scripts, a posting schedule, and tips for effective recording and editing.\n\nIf you’re interested in discussing how this could fit your needs, feel free to reply or reach out via WhatsApp. I'm here to help!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\nP.S. If you’d prefer not to receive future emails, just let me know!",
+        "discovery_questions": [
+          "What type of video content have you created in the past?",
+          "Which social media platforms do you actively use?",
+          "How often do you currently post video content?",
+          "What challenges do you face in creating engaging video content?",
+          "What goals do you have for your online presence this year?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Monthly Video Content Package",
+          "Deliverables Explanation",
+          "Value Proposition",
+          "Suggested Price",
+          "Next Steps for Engagement"
+        ],
+        "call_to_action": "Ready to transform your video content? Reach out today to get started!",
+        "payment_template": "Subject: Next Steps for Your Order\n\nHi [Name],\n\nThank you for your interest in our Monthly Video Content Package! To proceed with your order, please let me know your preferred payment method. Once the payment is processed, we can begin tailoring content specifically for you.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]\nP.S. If you wish not to continue, just reply and let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
