@@ -30420,6 +30420,63 @@
         "payment_template": "Subject: Payment Information for Your Video Package\n\nHi [Name],\n\nThank you for considering our Engaging Short-Form Video Package! To proceed, we can arrange a convenient time for you to send the payment. Once we receive it, we'll kick off the project and send you a confirmation.\n\nPlease don't hesitate to reach out if you have any questions or need assistance!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you wish not to proceed, feel free to let us know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792020289428",
+      "created_at": "2026-10-14T23:24:49.428430+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Kit",
+        "target_customer": "Small business owners and content creators looking to increase their online presence",
+        "customer_problem": "Struggling to create engaging social media content consistently, leading to stagnating follower growth and low engagement",
+        "solution": "A tailored social media content package that includes short-form video scripts and optimized captions to enhance audience interaction across platforms.",
+        "deliverables": [
+          "5 custom short-form video scripts (TikTok/Instagram Reels/YouTube Shorts)",
+          "5 engaging captions tailored for each video",
+          "Content strategy document outlining best practices for posting and engagement",
+          "15 days of content posting schedule"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Enhance your social media engagement with professionally crafted short-form video content that resonates with your audience.",
+        "sales_angle": "Boost your social media presence and attract more followers with strategic content tailored for your brand.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Content marketing on platforms like Instagram and TikTok"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator with an existing social media account",
+          "Willingness to share brand details and audience insights for tailored content"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your online presence with our Social Media Growth Kit! 📈 Perfect for small business owners and content creators struggling with consistent engagement. Get tailored video scripts, engaging captions, and a solid content strategy to elevate your social media game! 💡✨ Ready to attract more followers? Let's connect! #SocialMedia #ContentCreation #SmallBusinessGrowth",
+        "website_description": "Transform your social media presence with our Social Media Growth Kit! Designed for small business owners and content creators, this package includes custom short-form video scripts, engaging captions, and a strategic posting schedule to enhance audience interaction. Say goodbye to stagnation and hello to growth!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Presence! \n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out and share an exciting opportunity that could significantly boost your social media engagement. Our Social Media Growth Kit is tailored for small businesses and content creators like you.\n\nIt includes custom short-form video scripts, engaging captions, and a content strategy designed to resonate with your audience.\n\nWould you be open to discussing this further? I’d love to learn more about your brand and how we can help you grow.\n\nBest regards,\n[Your Name]  \n[Your Company]  \n[Your Contact Information]  \n\nIf you prefer not to receive further messages, please let me know.",
+        "discovery_questions": [
+          "What social media platforms are you currently using for your business?",
+          "What type of content has resonated most with your audience so far?",
+          "How often do you currently post on social media?",
+          "What specific goals do you have for your social media growth?",
+          "Are there any challenges you've faced in creating engaging content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Social Media Strategy",
+          "Identified Challenges",
+          "Proposed Solutions",
+          "Package Details (Deliverables)",
+          "Timeline for Delivery",
+          "Investment and Payment Terms",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Payment Information for Your Social Media Growth Kit \n\nHi [Name],\n\nThank you for your interest in our Social Media Growth Kit! To proceed, please review the following payment options and let us know which one works best for you.\n\nIf you have any questions or need further assistance, feel free to reach out. We look forward to working together to enhance your social media presence! \n\nBest regards,  \n[Your Name]  \n[Your Company]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
