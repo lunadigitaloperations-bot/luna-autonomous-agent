@@ -30079,6 +30079,63 @@
         "payment_template": "Subject: Quick Follow-Up on Your Video Content Package \n\nHi [Name],\n\nThank you for considering our Short-Form Video Content Creation Package! I wanted to touch base regarding the next steps for your order. Once you confirm, we'll proceed with the project timeline and deliverables.\n\nLet me know if you have any questions!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf you prefer not to receive further communications, just let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791998951429",
+      "created_at": "2026-10-14T17:29:11.429799+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Kickstart Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Many small businesses and creators struggle to create engaging short-form video content that resonates with their audience, leading to low engagement and visibility.",
+        "solution": "The Social Media Kickstart Package provides tailored short-form video scripts and content ideas designed to boost engagement on platforms like TikTok, Instagram, and YouTube.",
+        "deliverables": [
+          "5 short-form video scripts (up to 60 seconds each)",
+          "Content strategy outline for 2 weeks",
+          "10 tailored caption ideas for the videos"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Empower your brand with engaging short-form videos that capture attention and encourage sharing, specifically crafted for your business goals.",
+        "sales_angle": "Unlock your potential with captivating video content that stands out in a crowded digital space, without the hassle of creating it from scratch.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Word-of-mouth referrals",
+          "Collaborations with influencers"
+        ],
+        "qualification_criteria": [
+          "Has an existing social media presence",
+          "Ready to engage with short-form video content",
+          "Open to feedback and iterative improvements"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and secure your package."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your online presence? Introducing our Social Media Kickstart Package! 🎥 Get 5 engaging short-form video scripts, a tailored 2-week content strategy, and 10 captivating caption ideas, all for just $250! Perfect for small businesses and content creators eager to boost their engagement on platforms like TikTok, Instagram, and YouTube. Don't miss out—empower your brand today! 💪 #SocialMedia #ContentCreation #SmallBusiness #VideoMarketing",
+        "website_description": "Transform your social media strategy with our Social Media Kickstart Package! Designed for small businesses and content creators, this package includes 5 custom short-form video scripts, a 2-week content strategy outline, and 10 unique caption ideas. Priced at $250 and delivered in just 7 days, this is your opportunity to elevate engagement and visibility across platforms like TikTok, Instagram, and YouTube. Unlock your brand's potential today!",
+        "outreach_template": "Subject: Elevate Your Online Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our Social Media Kickstart Package, specially designed for small businesses and content creators like you. If you're looking to enhance your short-form video content and boost engagement on platforms like TikTok, Instagram, and YouTube, this might be the perfect fit.\n\nWould you be open to discussing how this package can help your brand shine in a crowded digital space? Please let me know a good time for us to connect.\n\nIf you're not interested, just let me know, and I'll make sure to respect your inbox. \n\nBest regards,\n[Your Name]\n[Your Company]\n[Contact Information]",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media content?",
+          "How often do you post short-form videos on your social media channels?",
+          "What platforms do you primarily use for your brand's online presence?",
+          "Are you currently utilizing any strategies to boost video engagement?",
+          "What goals do you have for your social media in the next 3-6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer's Needs",
+          "Solution Offered: Social Media Kickstart Package",
+          "Deliverables Breakdown",
+          "Timeline for Delivery",
+          "Pricing Details",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to secure your Social Media Kickstart Package and start enhancing your online presence!",
+        "payment_template": "Subject: Confirmation of Your Order\n\nHi [Name],\n\nThank you for choosing our Social Media Kickstart Package! We're excited to start working with you. To finalize the details and discuss payment options, please reply at your earliest convenience.\n\nLooking forward to connecting!\n\nBest,\n[Your Name]\n[Your Company]\n[Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
