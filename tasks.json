@@ -29780,6 +29780,71 @@
         "payment_template": "Subject: Payment Details for Your Package \n\nHi [Name],\n\nThank you for your interest in our **Social Media Kickstart Package**! To proceed, I’ll share the details regarding the payment options available to you. Once you're ready, please confirm, and we can finalize the arrangements.\n\nLet me know if you have any questions!\n\nBest,  \n[Your Name]  \n[Your Contact Information]\n\nP.S. If this doesn't align with your plans, please feel free to opt-out at any time.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791981289502",
+      "created_at": "2026-10-14T12:34:49.502557+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Reels & Shorts Content Boost Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to consistently create engaging short-form video content that captures audience attention and drives interaction.",
+        "solution": "A curated package that provides a tailored strategy and content creation services specifically for Instagram Reels and YouTube Shorts to increase audience engagement.",
+        "deliverables": [
+          "10 custom short-form video scripts (5 for Instagram Reels, 5 for YouTube Shorts)",
+          "2 finalized video edits (one for each platform) based on provided guidelines and branding",
+          "1 content calendar for posting schedule",
+          "1 strategy session (30 minutes) to discuss content themes and goals"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Streamline your video content creation and amplify your social media engagement with expert-crafted scripts and strategy, all delivered remotely.",
+        "sales_angle": "Transform your video strategy without the hassle. Capture your audience with custom content tailored to your brand!",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Networking in creator communities",
+          "Content marketing through blog posts"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence (Instagram / YouTube)",
+          "Should be open to collaboration on ideas and concepts",
+          "Willing to provide necessary branding materials"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🎥 Ready to boost your social media presence? 🚀 Our 30-Day Reels & Shorts Content Boost Package is designed for small business owners and content creators like YOU! Get 10 custom scripts, 2 polished video edits, a content calendar, and a personalized strategy session. Transform your video strategy effortlessly! 💡 Contact us today to elevate your content game! #SocialMediaMarketing #ContentCreation #Reels #Shorts",
+        "website_description": "Enhance your social media presence with our 30-Day Reels & Shorts Content Boost Package. Tailored for small business owners and content creators, this package includes custom video scripts, professional video edits, a posting calendar, and a strategy session. Streamline your content creation and engage your audience like never before. Get started today!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Content!\n\nHi [Name],\n\nI hope this message finds you well. I'm reaching out to share an exciting opportunity to enhance your social media strategy with our 30-Day Reels & Shorts Content Boost Package. It's perfect for small business owners and content creators who want to engage their audience with expert-crafted short-form videos.\n\nWould you be open to discussing how this could benefit your brand? If you're interested, let me know a good time for you!\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]  \n[Contact Information]  \n*If you're not interested in this offer, just let me know and I won’t contact you again.*",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms are you currently using for short-form video content?",
+          "How often do you post content on Instagram and YouTube?",
+          "What challenges do you face in creating engaging videos?",
+          "Are there any specific themes or messages you want to communicate through your content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Reels & Shorts Content Boost Package",
+          "Customer's Needs Assessment",
+          "Deliverables Breakdown",
+          {
+            "scripts": "10 custom short-form video scripts",
+            "video_edits": "2 finalized video edits (one for each platform)",
+            "content_calendar": "1 detailed content calendar",
+            "strategy_session": "1 strategy session (30 minutes)"
+          },
+          "Estimated Timeline for Delivery",
+          "Pricing Overview",
+          "Next Steps",
+          "Respectful Opt-Out Option"
+        ],
+        "call_to_action": "Ready to capture your audience with tailored video content? Contact us now to get started!",
+        "payment_template": "Subject: Next Steps for Your Content Boost Package\n\nHi [Name],\n\nThank you for your interest! To proceed with the 30-Day Reels & Shorts Content Boost Package, please let me know if you have any questions or if you're ready to continue. \n\nLooking forward to your response!\n\nBest,\n[Your Name]  \n[Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
