@@ -29321,6 +29321,63 @@
         "payment_template": "Subject: Payment Information for Your Social Media Boost Package\n\nHi [Recipient's Name],\n\nI wanted to touch base regarding the Social Media Boost Package. Once you're ready to proceed, I'll provide you with payment options. If you have any questions or need further clarification about the package, feel free to ask!\n\nLooking forward to hearing from you. If you'd prefer not to receive updates, please let me know.\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791948428360",
+      "created_at": "2026-10-14T03:27:08.360845+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Growth Package",
+        "target_customer": "Small business owners and content creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and increases visibility.",
+        "solution": "A comprehensive package that provides tailored short-form video scripts and content strategies, specifically designed to boost engagement on platforms like TikTok and Instagram.",
+        "deliverables": [
+          "4 tailored short-form video scripts (1 per week)",
+          "Content strategy document outlining posting schedule and content themes",
+          "Access to a private consultation session for personalized feedback",
+          "Custom captions for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Boost your online visibility and engagement with expertly crafted video content and strategies tailored to your brand.",
+        "sales_angle": "Transform your social media presence with engaging content that speaks directly to your audience.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online forums and communities"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator with a social media presence",
+          "Must be willing to engage with the content strategy"
+        ],
+        "next_action": "Reach out via email or WhatsApp to schedule a consultation and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your online presence with our 30-Day Social Media Growth Package! Perfect for small business owners and content creators, this package offers tailored short-form video scripts and strategies to enhance your engagement on TikTok and Instagram. Let's transform your social media game! 💪 #SocialMediaGrowth #ContentCreation #SmallBusinessSuccess",
+        "website_description": "Unlock your potential on social media with our 30-Day Social Media Growth Package! Designed specifically for small business owners and content creators, this comprehensive solution provides tailored short-form video scripts and strategies to boost engagement and visibility on platforms like TikTok and Instagram. Get ready to connect with your audience like never before!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! My name is [Your Name] and I'm reaching out to share an exciting opportunity for small business owners and content creators looking to amplify their online presence. \n\nOur 30-Day Social Media Growth Package offers personalized video scripts and a customized content strategy designed to boost engagement on platforms like TikTok and Instagram. I would love to discuss how we can help you transform your social media presence.\n\nIf you're interested, please let me know a time that works for you.\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you're not interested, feel free to let me know, and I’ll make sure not to reach out again.",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media content?",
+          "Which platforms do you find most effective for reaching your audience?",
+          "How often do you post content currently, and what type do you usually use?",
+          "What goals do you have for your social media engagement over the next 30 days?",
+          "Are there specific themes or topics you’d like to focus on in your video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Social Media Landscape",
+          "Specific Challenges and Goals",
+          "Proposed Solution: 30-Day Social Media Growth Package",
+          "Deliverables Breakdown",
+          "Timeline and Next Steps",
+          "Investment",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Ready to boost your social media presence? Reach out via email or WhatsApp to schedule your consultation today!",
+        "payment_template": "Subject: Your Next Steps\n\nHi [Recipient's Name],\n\nThank you for considering our 30-Day Social Media Growth Package! Once you confirm your interest, I will send over the payment details to get started.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
