@@ -29845,6 +29845,67 @@
         "payment_template": "Subject: Next Steps for Your Content Boost Package\n\nHi [Name],\n\nThank you for your interest! To proceed with the 30-Day Reels & Shorts Content Boost Package, please let me know if you have any questions or if you're ready to continue. \n\nLooking forward to your response!\n\nBest,\n[Your Name]  \n[Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1791984910538",
+      "created_at": "2026-10-14T13:35:10.538571+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Strategy Package",
+        "target_customer": "Small businesses and solo creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to produce engaging short-form video content that captures audience attention and promotes products or services.",
+        "solution": "A tailored strategy and content plan for creating effective TikTok, Instagram Reels, and YouTube Shorts that align with the brand's voice and target audience.",
+        "deliverables": [
+          "Initial consultation to understand branding and goals",
+          "Customized short-form video content strategy (up to 5 video concepts)",
+          "Short-form video script for each concept",
+          "Guidelines for shooting and editing videos",
+          "One promotional caption for each video"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Leverage viral potential and boost engagement through professionally crafted short-form video strategies tailored to your brand.",
+        "sales_angle": "Stand out in the crowded digital space with engaging, on-brand short-form video content that resonates with your audience and drives interest.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referral programs",
+          "Content marketing on a blog",
+          "Email newsletters"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Open to experimenting with video content",
+          "Willing to provide necessary branding materials for strategy development"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your initial consultation and start boosting your video marketing efforts."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Unlock the power of short-form video! 🌟 Our Short-Form Video Strategy Package is designed for small businesses and solo creators ready to enhance their online presence. With personalized strategies for TikTok, Instagram Reels, and YouTube Shorts, you can captivate your audience and amplify engagement. Ready to stand out? Contact us today to get started! #VideoMarketing #SmallBusiness #EngagementBoost",
+        "website_description": "Transform your online presence with our Short-Form Video Strategy Package! Designed for small businesses and solo creators, this package provides a customized strategy to create engaging TikTok, Instagram Reels, and YouTube Shorts. Benefit from tailored video concepts, scripts, and guidelines to ensure your content resonates with your audience. Start your journey towards viral video success today!",
+        "outreach_template": "Subject: Elevate Your Video Marketing Strategy\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce our Short-Form Video Strategy Package that could be a perfect fit for your business. It’s designed specifically for small businesses and creators like you who aim to boost their online presence. \n\nOur package includes a personalized consultation, tailored content strategy, scripts, and more to ensure your videos capture attention effectively.\n\nIf you're interested, I’d be happy to discuss this further and answer any questions you might have.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nOpt-out: If you’d prefer not to receive further messages, please let me know.",
+        "discovery_questions": [
+          "What are your primary goals for using short-form video content?",
+          "Which platforms do you currently use for social media marketing?",
+          "How familiar are you with creating video content?",
+          "What branding materials do you have available for strategy development?",
+          "What challenges have you faced in creating engaging video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Client’s Needs",
+          "Our Solution: Short-Form Video Strategy Package",
+          "Deliverables List",
+          "Timeline and Estimated Delivery",
+          "Investment Overview",
+          "Next Steps",
+          "Contact Information",
+          "Opt-out Option"
+        ],
+        "call_to_action": "Ready to boost your video marketing? Contact us to schedule your initial consultation today!",
+        "payment_template": "Subject: Confirmation and Next Steps\n\nHi [Name],\n\nThank you for your interest in our Short-Form Video Strategy Package! To proceed with the scheduling of your initial consultation, I would appreciate discussing the payment details with you. Please let me know a suitable time, and I will be more than happy to assist. \n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nOpt-out: If you no longer wish to receive these messages, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
