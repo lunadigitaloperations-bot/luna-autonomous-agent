@@ -30306,6 +30306,65 @@
         "payment_template": "Subject: Next Steps for Your Kickstart Package\n\nHi [Name],\n\nThank you for your interest in the 30-Day Social Media Kickstart Package! To proceed, please let me know how you would like to handle the payment. I can provide the necessary details as well.\n\nLooking forward to your response!\n\nBest, \n[Luna]\n[Your Contact Info]\n\n*If this does not align with your needs, feel free to let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792013222324",
+      "created_at": "2026-10-14T21:27:02.324097+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Package",
+        "target_customer": "Small businesses and individual creators looking to enhance their online presence and engagement.",
+        "customer_problem": "Struggling to create consistent and engaging video content for social media platforms, leading to low visibility and interaction.",
+        "solution": "A tailored monthly content package that provides strategically crafted short-form video scripts and content for TikTok, Instagram Reels, and YouTube Shorts, designed to increase engagement and visibility.",
+        "deliverables": [
+          "Four short-form video scripts (one per week) tailored to the brand's voice.",
+          "Two video edits (for TikTok and Instagram Reels) based on the provided scripts.",
+          "Captions for each video to optimize engagement.",
+          "A content strategy document outlining best practices for video posting and engagement."
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 15,
+        "value_proposition": "Enhance your social media presence with engaging video content tailored to your brand, helping you connect with your audience effectively.",
+        "sales_angle": "Elevate your brand without the hassle of creating content from scratch; let us help you stand out with engaging videos!",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Networking",
+          "Content collaborations"
+        ],
+        "qualification_criteria": [
+          "Business or creator actively engaging on social media",
+          "Willingness to invest in content creation",
+          "Open to feedback and collaborative strategy sessions"
+        ],
+        "next_action": "Reach out via email or WhatsApp to schedule a free consultation and discuss your content needs!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your brand's presence on social media? 🌟 Our Social Media Growth Package offers tailored video content to help you engage and connect with your audience! Get started today and watch your visibility soar! 📈 #SocialMediaGrowth #VideoContent #EngagementBoost",
+        "website_description": "Transform your social media strategy with our Social Media Growth Package. Designed for small businesses and individual creators, this tailored service includes short-form video scripts, professional edits, and a comprehensive content strategy to enhance your online visibility and engagement. Let us help you connect with your audience effectively.",
+        "outreach_template": "Subject: Let's Enhance Your Online Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because I believe our Social Media Growth Package could truly help you elevate your online presence. With tailored video scripts and engaging content designed for platforms like TikTok, Instagram, and YouTube, we're here to support your growth.\n\nWould you be open to discussing how we can collaborate? \n\nLooking forward to hearing from you!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]\n\nP.S. If you're not interested, just let me know and I won't reach out again!",
+        "discovery_questions": [
+          "What social media platforms are you currently active on?",
+          "What specific challenges are you facing with video content creation?",
+          "How often do you post on social media, and what type of engagement do you typically receive?",
+          "Are you familiar with short-form video content, and have you tried it before?",
+          "What goals do you have for your social media presence in the next 3-6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Social Media Growth Package",
+          "Deliverables Explained",
+          "Timeline and Estimated Delivery",
+          "Suggested Price",
+          "Value Proposition",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to take the next step? Reach out via email or WhatsApp to schedule your free consultation!",
+        "payment_template": "Hi [Name],\n\nThank you for your interest in our Social Media Growth Package! Once we finalize the details, I'll share payment instructions to initiate the collaboration. If you have any questions or need further clarification, feel free to ask.\n\nLooking forward to working together!\n\nBest,\n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
