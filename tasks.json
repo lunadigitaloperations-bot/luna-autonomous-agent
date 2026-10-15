@@ -30760,6 +30760,63 @@
         "payment_template": "Subject: Payment Follow-Up\n\nHi [Recipient's Name],\n\nI wanted to follow up regarding the payment for the Social Media Content Package. Please let me know if you have any questions or need any assistance with the process. I'm here to help!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n[Opt-out statement: If you'd prefer not to receive further emails from us, please let me know.]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792041992645",
+      "created_at": "2026-10-15T05:26:32.645079+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Package",
+        "target_customer": "Small business owners and content creators seeking to increase online engagement",
+        "customer_problem": "Struggling to create engaging short-form video content consistently to grow their audience and maintain visibility on social media platforms.",
+        "solution": "A tailored content strategy focusing on short-form video scripts specifically designed for TikTok, Instagram Reels, and YouTube Shorts that resonate with their target audience.",
+        "deliverables": [
+          "3 short-form video scripts optimized for TikTok",
+          "3 short-form video scripts optimized for Instagram Reels",
+          "3 short-form video scripts optimized for YouTube Shorts",
+          "Content calendar for one month with recommended posting times",
+          "Guidelines on best practices for video creation and engagement"
+        ],
+        "suggested_price_usd": 199,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your brand's online presence and engage your audience with expertly crafted video content that captures attention.",
+        "sales_angle": "Transform your social media strategy and watch your engagement soar with professionally crafted videos that fit your brand's voice.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth",
+          "Networking via online communities"
+        ],
+        "qualification_criteria": [
+          "Must be actively using social media for business or content creation",
+          "Basic understanding of video production tools"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to get started on enhancing your video content strategy."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Transform your social media presence! 🌟 Struggling to engage your audience? Our Social Media Growth Package offers tailored short-form video scripts for TikTok, Instagram Reels, and YouTube Shorts! Elevate your brand and connect with your audience today! 📈 #SocialMedia #ContentCreation #VideoMarketing #SmallBusiness",
+        "website_description": "Unlock your social media potential with our Social Media Growth Package. Designed for small business owners and content creators, this package includes expertly crafted short-form video scripts tailored for TikTok, Instagram Reels, and YouTube Shorts. Plus, receive a one-month content calendar and best practice guidelines to boost engagement and visibility. Start your journey to a stronger online presence today!",
+        "outreach_template": "Subject: Enhance Your Social Media Strategy\n\nHi [Name],\n\nI hope this message finds you well. I'm reaching out to introduce our Social Media Growth Package, designed for small business owners and content creators like yourself. This package offers tailored short-form video scripts perfect for platforms such as TikTok, Instagram Reels, and YouTube Shorts, aimed at increasing your online engagement.\n\nIf you're interested in exploring how we can support your social media strategy, please let me know. I’d love to discuss this further or answer any questions you may have.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]\n\nP.S. If you’d prefer not to receive further messages, just let me know!",
+        "discovery_questions": [
+          "What specific social media platforms are you currently using for your business?",
+          "How often do you create short-form video content, and what challenges do you face?",
+          "Who is your target audience, and what type of content do they engage with the most?",
+          "Have you previously used any strategies or tools to enhance your video content?",
+          "What goals do you hope to achieve by improving your social media engagement?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer's Challenges",
+          "Presentation of the Social Media Growth Package",
+          "Deliverables and Timeline",
+          "Pricing Structure",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to take your social media to the next level? Contact us today at luna.digital.operations@gmail.com!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nI wanted to touch base regarding your interest in the Social Media Growth Package. Once you’re ready to proceed, I’ll provide you with the necessary payment details. \n\nIf you have any questions or need further clarification, please feel free to reach out.\n\nLooking forward to hearing from you soon!\n\nBest,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
