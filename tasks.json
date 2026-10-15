@@ -31506,6 +31506,64 @@
         "payment_template": "Subject: Next Steps for Your TikTok Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our **30-Day TikTok Content Creation Package**!\n\nTo proceed, let’s discuss the payment options available to secure your package and begin crafting your tailored TikTok strategy.\n\nLooking forward to hearing from you soon!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\n*If you've changed your mind or wish to opt out of further communication, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792088978363",
+      "created_at": "2026-10-15T18:29:38.363391+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Mini Video Content Package for Social Media Growth",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging and consistent video content to attract and retain customers on social media platforms.",
+        "solution": "A tailored package delivering short-form video scripts, TikTok content, and Instagram Reels designed to capture attention and drive engagement.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "2 TikTok videos (30-60 seconds each)",
+          "2 Instagram Reels (30-60 seconds each)",
+          "5 engaging captions for social media posts"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Unlock your brand's potential with engaging video content that resonates with your audience and fosters connection.",
+        "sales_angle": "Elevate your social media strategy without the hassle of content creation—let us handle the creative process while you focus on your business.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Business or creator with an established online presence",
+          "Willingness to invest in digital marketing",
+          "Desire for professional content tailored to their brand"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com or WhatsApp +14735341956 to get started on your Mini Video Content Package!"
+      },
+      "sales_assets": {
+        "social_post": "🌟 Elevate your brand with our Mini Video Content Package! 🎥 Unlock engaging video content that captivates your audience and enhances your social media presence. Perfect for small businesses and content creators looking to grow. 💪✨ Learn more today! Contact us at luna.digital.operations@gmail.com or WhatsApp +14735341956. #SocialMediaGrowth #VideoContent #Engagement",
+        "website_description": "Discover our Mini Video Content Package designed specifically for small businesses and content creators. Struggling to create engaging video content for social media? We provide short-form video scripts, TikTok videos, Instagram Reels, and engaging captions to help you attract and retain customers. Boost your online presence effortlessly! Contact us to get started.",
+        "outreach_template": "Subject: Enhance Your Social Media with Engaging Video Content\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to share an exciting opportunity for your brand to enhance its social media presence. Our Mini Video Content Package offers tailored short-form video scripts, TikTok videos, and Instagram Reels designed to captivate your audience.\n\nIf you’re looking to attract and retain customers through engaging video content, I would love to discuss how we can help!\n\nFeel free to reach out if you're interested, or let me know if you prefer to opt out of future communications.\n\nBest regards,\n[Your Name]\n[Your Position]\nluna.digital.operations@gmail.com\nWhatsApp: +14735341956",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current video content strategy?",
+          "How often do you currently post video content on your social media?",
+          "What platforms do you prioritize for your brand's online presence?",
+          "What type of engagement do you seek from your audience through video content?",
+          "Are there particular themes or messages you'd like to convey through your videos?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Mini Video Content Package",
+          "Deliverables",
+          "Value Proposition",
+          "Suggested Pricing",
+          "Timeline for Delivery",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to elevate your social media strategy? Contact us today to get started on your Mini Video Content Package!",
+        "payment_template": "Subject: Payment Confirmation for your Mini Video Content Package\n\nHi [Name],\n\nThank you for choosing our Mini Video Content Package! We’re excited to start creating engaging content for your brand. At your earliest convenience, please let us know when payment has been arranged so we can proceed with the project.\n\nFeel free to reach out if you have any questions or concerns.\n\nBest regards,\n[Your Name]\nluna.digital.operations@gmail.com\nWhatsApp: +14735341956",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
