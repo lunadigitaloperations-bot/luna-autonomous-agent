@@ -30477,6 +30477,64 @@
         "payment_template": "Subject: Payment Information for Your Social Media Growth Kit \n\nHi [Name],\n\nThank you for your interest in our Social Media Growth Kit! To proceed, please review the following payment options and let us know which one works best for you.\n\nIf you have any questions or need further assistance, feel free to reach out. We look forward to working together to enhance your social media presence! \n\nBest regards,  \n[Your Name]  \n[Your Company]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792024422316",
+      "created_at": "2026-10-15T00:33:42.316093+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging TikTok Growth Package",
+        "target_customer": "Small businesses or creators looking to grow their TikTok presence",
+        "customer_problem": "Struggling to create engaging TikTok content that drives views and followers",
+        "solution": "Professional scriptwriting and content strategy tailored for TikTok trends",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "Content strategy guide with posting schedule and trend recommendations",
+          "Custom captions for each video to enhance engagement"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock your TikTok potential with engaging, trend-driven content that resonates with your audience.",
+        "sales_angle": "Transform your TikTok strategy and watch your engagement soar with curated content tailored to your brand.",
+        "organic_discovery_methods": [
+          "Social media cross-promotion",
+          "Utilizing trending hashtags",
+          "Engaging with TikTok communities"
+        ],
+        "qualification_criteria": [
+          "Must have a TikTok account",
+          "Willingness to engage with followers",
+          "Existing content to build upon (optional)"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Unlock your TikTok potential with our Engaging TikTok Growth Package! 🎥💡 Get 3 custom video scripts, a tailored content strategy guide, and catchy captions to elevate your presence and engage your audience! Perfect for small businesses and creators ready to transform their TikTok strategy. DM us to learn more! #TikTokGrowth #SocialMediaStrategy #InfiniteSauce",
+        "website_description": "Boost your TikTok presence with our Engaging TikTok Growth Package! Designed specifically for small businesses and creators, this package includes professional scriptwriting, a tailored content strategy guide, and custom captions for maximum engagement. In just 7 days, watch your TikTok account transform with trend-driven content that resonates with your audience. Start your journey to TikTok success today!",
+        "outreach_template": "Subject: Elevate Your TikTok Presence\n\nHi [Prospect's Name],\n\nI hope this message finds you well! I came across your TikTok account and noticed the potential for engaging content that can really resonate with your audience. At Infinite Sauce, we specialize in helping small businesses and creators like you elevate their TikTok strategy.\n\nWe offer a comprehensive Engaging TikTok Growth Package that includes custom video scripts tailored to trending topics, a strategic content guide, and engaging captions designed to boost your viewership and followers.\n\nIf this sounds like something that could help you grow on TikTok, I’d love to discuss it further. Please feel free to reach out!\n\nBest regards,\n[Your Name]\n[Your Position] \nInfinite Sauce\n\nP.S. If you’d like to opt-out of future emails, just let me know!",
+        "discovery_questions": [
+          "What is your current TikTok strategy, and what challenges are you facing?",
+          "How often do you post on TikTok, and what types of content have you shared?",
+          "Who is your target audience on TikTok, and how do you currently engage with them?",
+          "Are there any TikTok trends or styles you particularly admire or want to explore?",
+          "How do you measure success on your TikTok account? Are you focusing on engagement, views, or follower growth?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Goals",
+          "Overview of the Engaging TikTok Growth Package",
+          "Deliverables Summary",
+          "Strategy for Implementation",
+          "Timeline and Next Steps",
+          "Pricing Information",
+          "Q&A Section",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Ready to transform your TikTok strategy? Contact us today at luna.digital.operations@gmail.com!",
+        "payment_template": "Subject: Payment Details for Your TikTok Package\n\nHi [Client's Name],\n\nThank you for choosing our Engaging TikTok Growth Package! To proceed with your order, please let us know how you would like to handle the payment process. We accept various payment methods and would be happy to accommodate your preference.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]\n[Your Position] \nInfinite Sauce\n\nP.S. If you want to opt-out of this conversation, simply let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
