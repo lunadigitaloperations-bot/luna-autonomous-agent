@@ -31218,6 +31218,65 @@
         "payment_template": "Subject: Payment Details for Your Order \n\nHi [Name],\n\nI wanted to reach out regarding your order for the **Social Media Video Boost Package**. Please let us know your preferred payment method so we can finalize your order and proceed with the project. \n\nThank you, and feel free to reach out with any questions!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792071570161",
+      "created_at": "2026-10-15T13:39:30.161028+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Starter Pack",
+        "target_customer": "Small businesses or content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create consistent, engaging content that attracts and retains followers on social media platforms.",
+        "solution": "A tailored content strategy and creative assets to help establish a solid social media foundation and increase engagement.",
+        "deliverables": [
+          "2 short-form video scripts (TikTok or Reels)",
+          "5 engaging captions for posts",
+          "1 comprehensive content strategy guide for the next month",
+          "1 week of social media content calendar"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Equip your business with the tools and strategies needed to create engaging social media content that resonates with your audience.",
+        "sales_angle": "Kickstart your social media growth with a professional content strategy and ready-to-use creative assets, all from the comfort of your home!",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Referral programs",
+          "Networking in online communities"
+        ],
+        "qualification_criteria": [
+          "Small business or individual creator with an established niche",
+          "Active presence on at least one social media platform",
+          "Willingness to engage with audience feedback"
+        ],
+        "next_action": "Contact via email or WhatsApp to discuss your specific needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Social Media Growth Starter Pack is just what you need! 📈 Get tailored strategies and creative assets designed to boost engagement. Perfect for small businesses and content creators looking to attract and retain followers. Start your journey today for only $150! DM us to learn more! #SocialMediaGrowth #ContentCreation",
+        "website_description": "Unlock your brand's potential with our Social Media Growth Starter Pack! Designed for small businesses and content creators, this package offers a tailored content strategy, engaging video scripts, captivating post captions, and a complete content calendar. Everything you need to amplify your social media presence is just a click away. Get started today for $150!",
+        "outreach_template": "Subject: Let's Enhance Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity that could help you elevate your social media game. Our Social Media Growth Starter Pack includes tailored content strategies and creative assets designed to boost your engagement and attract more followers.\n\nIf you’re interested, please let me know a convenient time to discuss your specific needs. \n\nThank you, and feel free to opt-out of future communications if this isn’t of interest.\n\nBest,\n[Your Name]",
+        "discovery_questions": [
+          "What specific challenges are you facing with your social media presence?",
+          "Which social media platforms are you currently active on?",
+          "What are your goals for your social media engagement in the next month?",
+          "Can you describe your target audience and their interests?",
+          "How do you currently gather feedback from your audience on social media?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Proposed Solution",
+          "Deliverables Summary",
+          "Timeline for Delivery",
+          "Investment Overview",
+          "Next Steps",
+          "Questions and Feedback"
+        ],
+        "call_to_action": "Ready to boost your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Payment Details for Your Order\n\nHi [Name],\n\nThank you for choosing the Social Media Growth Starter Pack! If you have any questions about the payment process or need more information, feel free to reach out. We’re here to help you every step of the way!\n\nThank you, and we look forward to working with you!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
