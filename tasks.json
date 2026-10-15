@@ -31048,6 +31048,63 @@
         "payment_template": "Subject: Payment Information for Your Video Content Boost Package\n\nHi [Recipient's Name],\n\nThank you for choosing our 90-Day Video Content Boost Package! We appreciate your support. Attached are the payment details for your reference. If you have any questions or need assistance, feel free to reach out.\n\nWe look forward to working together to enhance your video content strategy!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n\nP.S. If you're not ready to proceed, just let me know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792060117771",
+      "created_at": "2026-10-15T10:28:37.771408+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Social Media Video Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content for social media platforms",
+        "solution": "A tailored package of short-form video scripts and content ideas optimized for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 original short-form video scripts (up to 60 seconds each)",
+          "Content ideas tailored to the brand's audience",
+          "Guidance on filming techniques and editing tips"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media engagement with professional scripts and tips that speak directly to your audience.",
+        "sales_angle": "Transform your social media presence with easy-to-follow scripts that captivate and connect with your viewers!",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media posts showcasing successful video campaigns",
+          "Content marketing through blog posts about video strategies"
+        ],
+        "qualification_criteria": [
+          "Must have a defined target audience",
+          "Willingness to create video content",
+          "Active on at least one major social media platform"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to schedule a free consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our Engaging Social Media Video Package! 🎥 Perfect for small businesses and content creators struggling to create captivating short-form videos. Get 3 original scripts, tailored content ideas, and filming tips—all in just 7 days! Let's transform your online presence! 📈✨ Email us at luna.digital.operations@gmail.com for a free consultation! #SocialMediaMarketing #VideoContent #SmallBusinessGrowth",
+        "website_description": "Unlock your brand’s potential with our Engaging Social Media Video Package! Tailored for small businesses and content creators, this package includes three original short-form video scripts (up to 60 seconds each), curated content ideas, and expert guidance on filming techniques and editing tips. Enhance your social media presence and captivate your audience in just 7 days for only $150!",
+        "outreach_template": "Subject: Enhancing Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity that can help enhance your online presence. Our Engaging Social Media Video Package offers tailored short-form video scripts and content ideas aimed at boosting your engagement on platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nWould you be open to discussing this further? I'm available for a free consultation at your convenience.\n\nBest regards,\n\n[Your Name]\nluna.digital.operations@gmail.com\n\nIf this isn't of interest, feel free to opt out of further communications.",
+        "discovery_questions": [
+          "What specific goals do you have for your social media content?",
+          "Who is your target audience, and how do you currently engage them?",
+          "What type of video content have you created in the past, if any?",
+          "What are some challenges you're facing in creating video content?",
+          "On which social media platforms are you most active?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Engaging Social Media Video Package",
+          "Details of Deliverables",
+          "Timeline for Delivery",
+          "Pricing",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Email us at luna.digital.operations@gmail.com to schedule your free consultation!",
+        "payment_template": "Subject: Follow-up on Our Recent Conversation\n\nHi [Recipient's Name],\n\nThank you for considering our Engaging Social Media Video Package. I wanted to follow up regarding the next steps and see if you have any questions. We can discuss the payment details as soon as you’re ready to proceed.\n\nLooking forward to hearing from you!\n\nBest, \n\n[Your Name]\nluna.digital.operations@gmail.com\n\nIf you'd prefer not to receive further updates, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
