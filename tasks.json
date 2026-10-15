@@ -30705,6 +30705,61 @@
         "payment_template": "Subject: Payment Process for Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our Short-Form Video Content Package! To proceed, I will share the payment details with you and guide you through the next steps.\n\nLet me know if you have any questions or need further assistance!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you prefer not to continue, just let me know, and I'll respect your decision.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792038451183",
+      "created_at": "2026-10-15T04:27:31.183555+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Package for Creators",
+        "target_customer": "Small business owners or individual creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging content consistently for social media platforms",
+        "solution": "A tailored content package that provides short-form video scripts and ready-to-use social media captions to boost engagement and save time.",
+        "deliverables": [
+          "5 short-form video scripts (15-60 seconds) tailored to the brand voice",
+          "5 custom captions optimized for engagement on Instagram and TikTok",
+          "Content calendar outlining posting schedule and content themes for a month"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Streamline your content creation process, engage your audience, and save time with professionally crafted scripts and captions.",
+        "sales_angle": "Take the stress out of social media with ready-to-use content that resonates with your audience and drives engagement.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or individual with an active social media presence",
+          "Open to collaborating on brand vision and audience insights"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our Social Media Content Package for Creators! 🎥✨ Receive 5 tailored short-form video scripts and engaging captions optimized for Instagram and TikTok. Streamline your content creation process and connect with your audience like never before! Interested? 📩 DM us for more info! #SocialMedia #ContentCreation #Engagement",
+        "website_description": "Discover our Social Media Content Package designed just for small business owners and creators. With 5 custom short-form video scripts and 5 engaging captions optimized for Instagram and TikTok, we help you enhance your social media presence efficiently. Our content calendar ensures you stay organized and consistent in your messaging. Boost engagement and save time today!",
+        "outreach_template": "Subject: Boost Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to enhance your social media presence. Our Social Media Content Package offers tailored video scripts and engaging captions designed for small business owners and individual creators just like you. \n\nWould you be open to a conversation to explore how this package can meet your needs?\n\nLooking forward to your thoughts. \n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n[Opt-out statement: If you'd prefer not to receive further emails from us, please let me know.]",
+        "discovery_questions": [
+          "What are your primary goals for social media engagement?",
+          "Which platforms do you currently use for your brand?",
+          "Can you describe your target audience?",
+          "What type of content has resonated most with your audience in the past?",
+          "Are there specific themes or topics you want to focus on for your upcoming posts?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Social Media Content Package",
+          "Deliverables: Scripts, Captions, and Content Calendar",
+          "Pricing and Value Proposition",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to discuss your social media needs and get started on boosting your engagement!",
+        "payment_template": "Subject: Payment Follow-Up\n\nHi [Recipient's Name],\n\nI wanted to follow up regarding the payment for the Social Media Content Package. Please let me know if you have any questions or need any assistance with the process. I'm here to help!\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \n[Opt-out statement: If you'd prefer not to receive further emails from us, please let me know.]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
