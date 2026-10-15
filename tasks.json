@@ -30991,6 +30991,63 @@
         "payment_template": "Subject: Payment Information\n\nHi [Recipient's Name],\n\nThank you for your interest in our Engaging Shorts Content Package! To proceed with your order, we can discuss the payment options at your convenience. Please let me know how you would like to proceed, and I will provide you with the necessary details.\n\nLooking forward to hearing from you!\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792056630345",
+      "created_at": "2026-10-15T09:30:30.345336+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "90-Day Video Content Boost Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to consistently create engaging video content that attracts and retains audience attention on platforms like TikTok and Instagram.",
+        "solution": "A comprehensive 90-day plan that provides tailored short-form video scripts and content ideas to increase engagement and brand awareness.",
+        "deliverables": [
+          "12 tailored short-form video scripts (1 per week)",
+          "Content strategy document outlining best practices and posting schedule",
+          "Monthly consultation via Zoom for feedback and strategy adjustments",
+          "Caption suggestions for each video to enhance engagement"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Creative and tailored video content plans designed to help you connect with your audience without the stress of managing everything from scratch.",
+        "sales_angle": "Elevate your brand with consistent and engaging video content without the overwhelm — let us handle the creative process for you.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Email marketing",
+          "Word-of-mouth referrals"
+        ],
+        "qualification_criteria": [
+          "Must have an active presence on social media platforms",
+          "Commitment to post videos as per the provided schedule"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule your free consultation and kickstart your content journey."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our 90-Day Video Content Boost Package is here to help small businesses and content creators like you consistently create engaging video content for TikTok and Instagram! 🎥✨ Get tailored scripts, a solid content strategy, and monthly consultations to ensure your brand shines! 🌟 Contact us today for a free consultation! #VideoMarketing #SocialMediaGrowth #SmallBusiness #ContentCreation",
+        "website_description": "Transform your online presence with our 90-Day Video Content Boost Package! Designed for small businesses and content creators, this comprehensive plan provides you with 12 tailored video scripts, a detailed content strategy, and monthly consultations. Enhance your engagement and brand awareness effortlessly with our expert guidance. Start your journey towards captivating content today!",
+        "outreach_template": "Subject: Let's Boost Your Video Content Strategy!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out because we understand the challenges many small businesses and content creators face in producing engaging video content consistently. Our 90-Day Video Content Boost Package is designed to provide you with tailored scripts, strategic guidance, and invaluable support to enhance your social media presence.\n\nIf you're interested, I would love to schedule a free consultation to discuss how we can help you connect with your audience without the overwhelm.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n\nP.S. If this isn't the right time, feel free to let me know, and I won’t follow up again.",
+        "discovery_questions": [
+          "What social media platforms do you currently use for your business?",
+          "How often do you post video content, and what challenges do you face?",
+          "What type of content resonates best with your audience?",
+          "Are there specific goals you hope to achieve through enhanced video content?",
+          "How do you currently measure the effectiveness of your video marketing efforts?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 90-Day Video Content Boost Package",
+          "Target Audience and Customer Problems",
+          "Detailed Deliverables",
+          "Timeline and Estimated Delivery",
+          "Pricing Structure",
+          "Value Proposition",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to elevate your content strategy? Contact us today for your free consultation!",
+        "payment_template": "Subject: Payment Information for Your Video Content Boost Package\n\nHi [Recipient's Name],\n\nThank you for choosing our 90-Day Video Content Boost Package! We appreciate your support. Attached are the payment details for your reference. If you have any questions or need assistance, feel free to reach out.\n\nWe look forward to working together to enhance your video content strategy!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n\nP.S. If you're not ready to proceed, just let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
