@@ -31564,6 +31564,64 @@
         "payment_template": "Subject: Payment Confirmation for your Mini Video Content Package\n\nHi [Name],\n\nThank you for choosing our Mini Video Content Package! We’re excited to start creating engaging content for your brand. At your earliest convenience, please let us know when payment has been arranged so we can proceed with the project.\n\nFeel free to reach out if you have any questions or concerns.\n\nBest regards,\n[Your Name]\nluna.digital.operations@gmail.com\nWhatsApp: +14735341956",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792092526424",
+      "created_at": "2026-10-15T19:28:46.424155+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Elevate Your Social Media Presence with Short-Form Video Content",
+        "target_customer": "Small businesses and creators looking to boost their online engagement",
+        "customer_problem": "Struggling to create engaging video content that attracts viewers and promotes their brand effectively.",
+        "solution": "Develop captivating short-form video scripts and content tailored to their brand, suitable for platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 Short-form video scripts (30-60 seconds each)",
+          "Content strategy outline for social media platforms",
+          "1 Caption template for each video",
+          "Consultation session (30 minutes) to discuss brand vision and content ideas"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your brand's online presence with customized video content that resonates with your audience and boosts engagement.",
+        "sales_angle": "Potential customers will discover they can easily have professional video content created to elevate their social media without needing extensive technical skills themselves.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media marketing",
+          "Online communities and forums for small businesses",
+          "Networking events"
+        ],
+        "qualification_criteria": [
+          "Must have a defined brand or business",
+          "Active on at least one social media platform",
+          "Open to collaboration and feedback"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your consultation and kickstart your video content journey."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to create engaging video content? Elevate your social media presence with our Short-Form Video Content service! Get customized scripts and content strategy tailored for platforms like TikTok and Instagram Reels. 🌟 Transform your brand's online engagement today! DM us for more info! #SocialMedia #VideoContent #SmallBusiness",
+        "website_description": "Boost your online engagement with our Short-Form Video Content service! Tailored for small businesses and creators, we provide captivating video scripts, a strategic outline, and consultation to align with your brand vision. Elevate your social media presence in just 7 days with our expert guidance. Learn more today!",
+        "outreach_template": "Subject: Elevate Your Brand’s Video Content\n\nHi [Name],\n\nI hope this message finds you well. I’m reaching out to discuss how our Short-Form Video Content service can help elevate your social media presence. We specialize in crafting engaging video scripts tailored to your brand that can captivate your audience effectively.\n\nWould you be open to a brief consultation to explore how we can help transform your online engagement? \n\nThank you for your time, and if this isn't something you're interested in, please feel free to let me know. \n\nBest regards,\n[Your Name]",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What type of content do you feel resonates most with your audience?",
+          "What challenges are you facing with your current video content strategy?",
+          "How do you define success in your social media engagement?",
+          "What would you like to achieve through short-form video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Brand",
+          "Project Scope",
+          "Deliverables",
+          "Timeline",
+          "Pricing",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to transform your video content? Contact us via email or WhatsApp to schedule your consultation and kickstart your journey!",
+        "payment_template": "Subject: Your Video Content Service\n\nHi [Name],\n\nI wanted to follow up regarding our recent conversation about the Short-Form Video Content service. If you decide to move forward, I will share the necessary details for processing the payment at your convenience. \n\nPlease let me know if you have any questions or if you’d like to discuss further.\n\nThank you! \n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
