@@ -32721,6 +32721,66 @@
         "payment_template": "Subject: Payment Update\n\nHi [Recipient's Name],\n\nI hope you are doing well! I wanted to touch base regarding the details of your upcoming package. Once you're ready to proceed, please let me know the best way to move forward.\n\nIf you have any questions or need assistance, feel free to reach out!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792164435804",
+      "created_at": "2026-10-16T15:27:15.804819+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Growth Strategy",
+        "target_customer": "Small business owners and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging content and grow their social media followers consistently.",
+        "solution": "A month-long personalized social media growth strategy that includes tailored content ideas, posting schedules, and tips for maximizing engagement.",
+        "deliverables": [
+          "Personalized content plan for four weeks",
+          "Weekly posting schedule for TikTok, Instagram Reels, and YouTube Shorts",
+          "10 short-form video scripts",
+          "Engagement tips and best practices guide",
+          "One 30-minute consultation call"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Empower your social media presence with a strategic approach tailored to your brand and audience.",
+        "sales_angle": "Transform your social media with a proven strategy, designed to elevate your online engagement and attract followers without overwhelming you.",
+        "organic_discovery_methods": [
+          "Social media ads",
+          "Referral from previous clients",
+          "Networking in online business forums"
+        ],
+        "qualification_criteria": [
+          "Must have existing social media profiles",
+          "Open to implementing new content strategies",
+          "Willingness to commit time to engage with their audience"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to get started on your social media growth journey."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our 30-Day Social Media Growth Strategy is designed for small business owners and content creators who want to engage their audience and grow their followers! Get personalized content plans, posting schedules, and more! 💡🌟 #SocialMediaGrowth #ContentCreation #DigitalMarketing",
+        "website_description": "Unlock the full potential of your social media with our 30-Day Social Media Growth Strategy. Tailored specifically for small business owners and content creators, this strategy offers personalized content ideas, weekly posting schedules, and expert tips to maximize your engagement. Transform your online presence and attract followers effortlessly!",
+        "outreach_template": "Subject: Empower Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out and share an exciting opportunity to enhance your social media engagement through our 30-Day Social Media Growth Strategy. This program is tailored for small business owners and content creators looking to elevate their online presence.\n\nIf this sounds interesting, I’d love to discuss how we can best support your goals. Feel free to reach out!\n\nBest regards,\n\n[Your Name]\n[Your Title]\nInfinite Sauce\n\nP.S. If you're not interested, please let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What social media platforms are you currently utilizing?",
+          "What types of content have you found resonate best with your audience?",
+          "What specific growth goals do you have for your social media presence?",
+          "How much time are you able to commit weekly to engage with your audience?",
+          "Are there any particular challenges you've faced in developing your social media strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Social Media Growth Strategy",
+          "Personalized Content Plan Details",
+          "Weekly Posting Schedule Breakdown",
+          "Short-Form Video Scripts Overview",
+          "Engagement Tips and Best Practices",
+          "Consultation Call Details",
+          "Pricing and Payment Terms",
+          "Next Steps"
+        ],
+        "call_to_action": "Contact us today at luna.digital.operations@gmail.com to kickstart your social media growth journey!",
+        "payment_template": "Subject: Payment Information\n\nHi [Recipient's Name],\n\nThank you for considering our 30-Day Social Media Growth Strategy. To proceed further, please confirm the payment method you’d like to use. If you have any questions regarding the payment process or what’s included, feel free to reach out!\n\nLooking forward to assisting you!\n\nBest,\n\n[Your Name]\n[Your Title]\nInfinite Sauce\n\nP.S. If you would prefer not to move forward, just let me know, and I'll make a note.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
