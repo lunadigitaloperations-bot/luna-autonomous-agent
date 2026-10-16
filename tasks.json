@@ -32604,6 +32604,63 @@
         "payment_template": "Subject: Payment Confirmation for Your 30-Day Social Media Boost Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Boost Package! To proceed, please let me know how you’d like to handle the payment, and I can provide you with the details. If you have any questions, feel free to reach out!\n\nIf you would prefer not to receive further communication, just let me know.\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792157837103",
+      "created_at": "2026-10-16T13:37:17.103240+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Video Content Bundle",
+        "target_customer": "Small businesses and content creators looking to boost engagement on social media platforms.",
+        "customer_problem": "Struggling to create engaging short-form videos for social media that effectively showcase their products or services.",
+        "solution": "A tailored video content creation service that includes scripting, storyboarding, and editing for three short-form videos for platforms like TikTok, Instagram Reels, or YouTube Shorts.",
+        "deliverables": [
+          "Three customized short-form video scripts",
+          "Three video edit drafts based on approved scripts",
+          "Post-production adjustments based on client feedback",
+          "Social media posting schedule for optimal engagement"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Increase your social media engagement with professionally crafted short-form videos that resonate with your audience.",
+        "sales_angle": "Transform your online presence with our professional video content that's tailored to your brand's unique voice and style.",
+        "organic_discovery_methods": [
+          "Word-of-mouth referrals",
+          "Social media outreach and promotions",
+          "Networking within local business communities"
+        ],
+        "qualification_criteria": [
+          "Client must have an active social media presence",
+          "Client should provide basic brand guidelines and insights about their target audience"
+        ],
+        "next_action": "Reach out via email or WhatsApp to schedule a consultation and discuss your video content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost Your Social Media Engagement! 🚀 Small businesses and content creators, are you struggling to create engaging short-form videos? Our Social Media Video Content Bundle offers tailored scripting, storyboarding, and editing for three custom videos perfect for TikTok, Instagram Reels, and YouTube Shorts! 📹✨ Ready to transform your online presence? 💬 DM us to get started! #VideoMarketing #SmallBusiness #SocialMedia",
+        "website_description": "Elevate your brand's social media presence with our Social Media Video Content Bundle! Designed for small businesses and content creators, this service provides you with three expertly crafted short-form videos. Our comprehensive approach includes customized scripts, professional editing, and a social media posting schedule to ensure maximum engagement. Transform your online interactions today for just $299!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Client's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Social Media Video Content Bundle, designed specifically for small businesses and content creators like yourself. We understand how critical engaging video content is for boosting your presence on platforms such as TikTok and Instagram.\n\nWould you be open to a conversation to discuss your video content needs? I’d love to explore how we can help enhance your brand's engagement!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you'd rather not receive further messages, please let me know.",
+        "discovery_questions": [
+          "What platforms are you currently using to promote your business?",
+          "What types of products or services do you want to showcase in your videos?",
+          "Who is your target audience, and what type of content resonates with them?",
+          "Have you used video content before? If so, what worked well and what didn't?",
+          "What is your timeline for publishing these short-form videos?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Understanding the Client's Needs",
+          "3. Proposed Solution: Social Media Video Content Bundle",
+          "   - Deliverables",
+          "4. Project Timeline",
+          "5. Pricing Structure",
+          "6. Next Steps",
+          "7. Client Feedback and Adjustments"
+        ],
+        "call_to_action": "Ready to enhance your social media presence? Reach out today to schedule your consultation!",
+        "payment_template": "Subject: Finalizing Your Video Content Package\n\nHi [Client's Name],\n\nThank you for discussing our Social Media Video Content Bundle! I wanted to confirm the details we discussed and outline the next steps to proceed with your project. \n\nPlease let me know if you have any further questions or if everything looks good on your end.\n\nLooking forward to collaborating!\n\nBest, \n[Your Name]\n[Your Contact Information]\n\nIf you'd prefer not to continue receiving emails from us, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
