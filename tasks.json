@@ -32661,6 +32661,66 @@
         "payment_template": "Subject: Finalizing Your Video Content Package\n\nHi [Client's Name],\n\nThank you for discussing our Social Media Video Content Bundle! I wanted to confirm the details we discussed and outline the next steps to proceed with your project. \n\nPlease let me know if you have any further questions or if everything looks good on your end.\n\nLooking forward to collaborating!\n\nBest, \n[Your Name]\n[Your Contact Information]\n\nIf you'd prefer not to continue receiving emails from us, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792161015182",
+      "created_at": "2026-10-16T14:30:15.182562+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Video Strategy Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging video content that resonates with their audience and drives interactions",
+        "solution": "A comprehensive social media video content strategy that includes tailored short-form video scripts and scheduling recommendations.",
+        "deliverables": [
+          "Initial consultation to understand brand and audience",
+          "10 custom short-form video scripts (TikTok, Instagram Reels, YouTube Shorts)",
+          "Content calendar for 30 days",
+          "Tips for effective filming and editing",
+          "Hashtag and caption suggestions for increased engagement"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your online engagement and visibility with professionally crafted video content tailored to your brand.",
+        "sales_angle": "Transform bland content into captivating stories that resonate with your audience in 30 days or less.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Content marketing blog posts",
+          "Email newsletters"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media account",
+          "Open to trying new content formats",
+          "Looking to grow audience engagement"
+        ],
+        "next_action": "Reach out via email or WhatsApp to schedule a consultation and discuss your video content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Introducing our 30-Day Social Media Video Strategy Package! 🎥 Get 10 custom video scripts, a 30-day content calendar, and expert tips to boost your online engagement. Transform your content into captivating stories that resonate with your audience! 📈 DM us to schedule your consultation today! #SocialMediaStrategy #VideoMarketing #SmallBusinessGrowth",
+        "website_description": "Unlock the power of video with our 30-Day Social Media Video Strategy Package. Designed for small businesses and content creators, this package includes tailored short-form video scripts, a comprehensive content calendar, and tips for effective filming. Boost your online visibility and engagement with professional video content crafted just for you!",
+        "outreach_template": "Subject: Let's Enhance Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to reach out and introduce our 30-Day Social Media Video Strategy Package, tailored for businesses like yours that are looking to enhance online engagement with compelling video content.\n\nLet me know if you're open to exploring how we can help transform your content into captivating stories that resonate with your audience.\n\nThank you for your time, and if you’d prefer to opt out of future communications, just let me know.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "What challenges have you faced in creating engaging video content?",
+          "Can you describe your target audience and what type of content they enjoy?",
+          "Have you tried any video formats before? If so, what were the results?",
+          "What platforms are you currently using to promote your content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solution: 30-Day Social Media Video Strategy Package",
+          "Deliverables Breakdown",
+          "Timeline and Milestones",
+          "Investment and Pricing",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to transform your content? Reach out today to schedule your consultation!",
+        "payment_template": "Subject: Payment Update\n\nHi [Recipient's Name],\n\nI hope you are doing well! I wanted to touch base regarding the details of your upcoming package. Once you're ready to proceed, please let me know the best way to move forward.\n\nIf you have any questions or need assistance, feel free to reach out!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
