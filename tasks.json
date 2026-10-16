@@ -32889,6 +32889,65 @@
         "payment_template": "Subject: Next Steps for Your Video Content Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Short-Form Video Content Package! To proceed, let’s discuss the next steps regarding the package details and payment methods. Please reply at your convenience.\n\nBest,\n[Your Name]\nluna.digital.operations@gmail.com\n\nP.S. If you prefer not to continue this conversation, please feel free to let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792175288019",
+      "created_at": "2026-10-16T18:28:08.019168+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Package",
+        "target_customer": "Small businesses and content creators looking to increase their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and enhances brand visibility",
+        "solution": "Providing a tailored package of short-form video scripts and content ideas to help them connect with their audience effectively",
+        "deliverables": [
+          "5 customized short-form video scripts (TikTok/Instagram Reels/YouTube Shorts)",
+          "Content calendar with posting schedule",
+          "3 caption ideas for each video",
+          "2 rounds of revisions based on feedback"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your brand’s visibility and engagement with professionally crafted video content that speaks to your audience",
+        "sales_angle": "Elevate your online presence with captivating video content designed to engage and attract your target audience",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Networking within online communities",
+          "Content partnerships"
+        ],
+        "qualification_criteria": [
+          "Must have a social media presence",
+          "Open to experimenting with video content",
+          "Willing to provide feedback for revisions"
+        ],
+        "next_action": "Email or message via WhatsApp to discuss your specific needs and initiate the service."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand's online presence with our Short-Form Video Content Package! Perfect for small businesses and content creators, we provide tailored scripts, a content calendar, and more to engage your audience effectively. Ready to connect? Send us a DM! 📩 #VideoMarketing #ContentCreation #SmallBusinessGrowth",
+        "website_description": "Transform your online presence with our Short-Form Video Content Package, designed specifically for small businesses and content creators. Our offering includes 5 customized video scripts, a content calendar, and captivating caption ideas to enhance your brand visibility and engagement. Let us help you resonate with your audience!",
+        "outreach_template": "Subject: Elevate Your Online Presence with Engaging Video Content\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to share a great opportunity for [Company/Individual Name] to boost its online engagement through captivating short-form videos. \n\nOur Short-Form Video Content Package includes customized scripts, a content calendar, and more to help you connect with your audience effectively.\n\nIf this interests you, I’d love to discuss how we can tailor this package for your needs. Please let me know!\n\nBest regards,\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n\nP.S. If you prefer not to be contacted, just let me know!",
+        "discovery_questions": [
+          "What type of content resonates most with your audience?",
+          "How frequently do you currently post on social media?",
+          "Have you experimented with video content before? If so, what was the response?",
+          "What specific goals do you aim to achieve through video content?",
+          "What challenges have you faced in creating engaging video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer Needs",
+          "Details of Short-Form Video Content Package",
+          "Deliverables",
+          "Timelines and Pricing",
+          "Revisions Policy",
+          "Next Steps",
+          "Closing Remarks"
+        ],
+        "call_to_action": "Ready to elevate your brand's visibility? Email or message us on WhatsApp to discuss your specific needs and get started today!",
+        "payment_template": "Subject: Payment Confirmation for Your Short-Form Video Content Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Short-Form Video Content Package! Once you're ready, we can discuss the payment process to get started on your project. \n\nLooking forward to your response!\n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
