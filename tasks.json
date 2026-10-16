@@ -33067,6 +33067,77 @@
         "payment_template": "Subject: Next Steps for Your TikTok Growth Strategy Package\n\nHi [Name],\n\nThank you for considering our 30-Day TikTok Growth Strategy Package! I would like to provide information on how to proceed with the investment. \n\nCould you please confirm your preferred payment method? Once we receive your confirmation, we can finalize the next steps.\n\nIf you have any questions, feel free to reach out. If you're no longer interested, please let us know, and we'll respect your wishes.\n\nBest regards,\n[Your Name]\n[Your Contact Info]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792185874971",
+      "created_at": "2026-10-16T21:24:34.971644+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Booster Package",
+        "target_customer": "Small business owners and solo creators seeking to enhance their social media presence",
+        "customer_problem": "Limited engagement and reach on social media platforms due to lack of quality content and strategy.",
+        "solution": "A content creation service that offers tailored short-form video scripts and editing for TikTok and Instagram Reels, along with a content posting strategy to boost engagement.",
+        "deliverables": [
+          "3 personalized short-form video scripts (up to 60 seconds each)",
+          "3 edited video files ready for posting on TikTok and Instagram Reels",
+          "Content posting strategy including suggested timings and hashtags",
+          "1 consultation session to discuss content goals and strategy"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your online presence with engaging video content and a strategic approach tailored to your brand.",
+        "sales_angle": "Unlock the potential of your social media channels with tailored content that speaks to your audience and drives engagement.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Networking in local business groups",
+          "Content marketing (blogs or articles about social media growth)"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or solo creator with existing social media accounts",
+          "Open to implementing new strategies for content creation",
+          "Willing to provide feedback and collaborate on content"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your consultation and start boosting your social media presence."
+      },
+      "sales_assets": {
+        "social_post": "🔍 Boost your social media presence with our Social Media Content Booster Package! 🚀 Tailored short-form video scripts, professional editing, and a strategic content plan await you. Let's make your content shine on TikTok and Instagram Reels! 🌟 Contact us today to get started! #SmallBusiness #SocialMediaSuccess #VideoContent",
+        "website_description": "Elevate your online presence with our Social Media Content Booster Package. Designed for small business owners and solo creators, this service provides personalized short-form video scripts, expertly edited videos, and a comprehensive content strategy—everything you need to enhance your social media engagement. Start driving more interaction and reach today!",
+        "outreach_template": "Subject: Enhance Your Social Media Engagement\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out and introduce you to our Social Media Content Booster Package, tailored specifically for small businesses and solo creators who want to enhance their social media presence.\n\nThis package includes personalized video scripts, edited video files, and a strategic posting plan. I’d love to discuss how we can help you unlock your social media potential!\n\nIf you're interested, please let me know, and we can schedule a consultation at your convenience.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you're not interested, just let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What social media platforms are you currently using for your business?",
+          "Have you previously implemented any content strategies? If so, what were they?",
+          "What are your main goals for your social media presence?",
+          "How often do you post content, and what types of content do you find engage your audience the most?",
+          "Are you open to experimenting with new types of content, such as video?"
+        ],
+        "proposal_outline": [
+          {
+            "section_title": "Introduction",
+            "content": "Overview of the client's current social media presence and needs."
+          },
+          {
+            "section_title": "Package Details",
+            "content": "Description of the Social Media Content Booster Package, including deliverables."
+          },
+          {
+            "section_title": "Value Proposition",
+            "content": "Why this package will benefit the client's brand and engagement."
+          },
+          {
+            "section_title": "Implementation Timeline",
+            "content": "Estimated delivery times and key milestones."
+          },
+          {
+            "section_title": "Next Steps",
+            "content": "How to proceed with scheduling a consultation."
+          }
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Next Steps for Your Social Media Package\n\nHi [Name],\n\nThank you for discussing the Social Media Content Booster Package! I wanted to go over the next steps with you. Once we finalize the agreement, we can begin crafting your tailored content.\n\nPlease let me know if you have any questions or need further information.\n\nLooking forward to your response!\n\nBest, \n[Your Name] \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
