@@ -33007,6 +33007,66 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Recipient's Name],\n\nThank you for choosing our Social Media Kickstart Package! We appreciate your commitment to enhancing your social media strategy. Please let us know when you're ready to proceed with the payment process, and we'll guide you through the next steps. \n\nBest,\n[Your Name]\n\nP.S. If you would prefer not to receive further communication, please feel free to opt-out.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792182238653",
+      "created_at": "2026-10-16T20:23:58.653083+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Growth Strategy Package",
+        "target_customer": "Small business owners looking to establish a TikTok presence",
+        "customer_problem": "Struggling to gain traction and visibility on TikTok despite consistent posting.",
+        "solution": "A comprehensive growth strategy that includes tailored content ideas, posting schedule, and engagement techniques to enhance visibility.",
+        "deliverables": [
+          "Initial consultation (30 minutes) to understand brand and goals",
+          "Custom TikTok content strategy (up to 10 unique content ideas)",
+          "1-month posting schedule template",
+          "Engagement techniques including hashtag suggestions and audience targeting tips",
+          "Follow-up email after 30 days with performance tips"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your TikTok presence with customized strategies that resonate with your target audience, designed to increase engagement and visibility.",
+        "sales_angle": "Invest in a targeted strategy rather than ad spend to organically grow your brand's presence.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Referrals",
+          "Email newsletters"
+        ],
+        "qualification_criteria": [
+          "Must have an active TikTok account",
+          "Willingness to commit to posting regularly",
+          "Open to experimenting with content styles"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your consultation and start your growth journey!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your TikTok game? Our 30-Day TikTok Growth Strategy Package is designed for small business owners looking to gain visibility and engagement on the platform! 🎯 Get up to 10 unique content ideas, a posting schedule, and engagement strategies tailored just for you! DM us to learn more! #TikTokGrowth #SmallBusiness",
+        "website_description": "Unlock your TikTok potential with our 30-Day TikTok Growth Strategy Package! Designed specifically for small business owners, this comprehensive package offers custom content strategies, engagement techniques, and a structured posting schedule to help you grow your presence organically. Invest smartly and watch your visibility soar!",
+        "outreach_template": "Subject: Let's Boost Your TikTok Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an opportunity that could significantly enhance your TikTok visibility and engagement. Our 30-Day TikTok Growth Strategy Package is tailored for small business owners like yourself who are eager to establish a strong TikTok presence.\n\nWe'd love to schedule a 30-minute consultation to discuss your brand and goals further. \n\nIf you're interested, please let me know a convenient time for you. If not, feel free to opt out of future messages.\n\nBest regards,\n[Your Name]\n[Your Contact Info]",
+        "discovery_questions": [
+          "What goals do you have for your TikTok presence?",
+          "What type of content have you been posting, and what has your experience been like?",
+          "Who is your target audience on TikTok?",
+          "Are there any specific challenges you're facing with TikTok?",
+          "How often are you currently posting on TikTok?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current TikTok Landscape",
+          "Identified Challenges and Opportunities",
+          "Proposed TikTok Growth Strategy",
+          "Deliverables Breakdown",
+          "Timeline and Next Steps",
+          "Investment Details",
+          "Questions and Feedback Section"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule your consultation and kickstart your TikTok growth journey!",
+        "payment_template": "Subject: Next Steps for Your TikTok Growth Strategy Package\n\nHi [Name],\n\nThank you for considering our 30-Day TikTok Growth Strategy Package! I would like to provide information on how to proceed with the investment. \n\nCould you please confirm your preferred payment method? Once we receive your confirmation, we can finalize the next steps.\n\nIf you have any questions, feel free to reach out. If you're no longer interested, please let us know, and we'll respect your wishes.\n\nBest regards,\n[Your Name]\n[Your Contact Info]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
