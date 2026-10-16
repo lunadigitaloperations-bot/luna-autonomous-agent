@@ -32240,6 +32240,81 @@
         "payment_template": "Subject: Next Steps for Your Social Media Boost Package\n\nHi [Name],\n\nThank you for your interest in our **Social Media Boost Package**! To proceed, we'll need to finalize the details and agree on the payment process. \n\nLet me know a convenient time for you, and we can discuss this further so we can get started on enhancing your social media presence!\n\nBest, \n[Your Name]\n[Your Contact Information]\n\n*If you prefer not to receive further messages, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792136120439",
+      "created_at": "2026-10-16T07:35:20.439337+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Kickstart Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging content consistently, leading to low audience interaction and visibility",
+        "solution": "A comprehensive package that provides tailored short-form video scripts and content strategies to boost engagement and visibility on platforms like TikTok and Instagram.",
+        "deliverables": [
+          "5 short-form video scripts (TikTok/Instagram Reels)",
+          "Content calendar for 30 days",
+          "3 custom caption templates for easy post scheduling",
+          "1 hour consultation call for strategy discussion",
+          "Check-ins via email for feedback during the month"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Empower your social media presence with tailored content strategies and engaging scripts to connect with your audience effectively.",
+        "sales_angle": "Transform your social media strategy with engaging content tailored to your brand's voice and discover new audience opportunities.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Word of mouth",
+          "Business networking groups"
+        ],
+        "qualification_criteria": [
+          "Small business owner or content creator",
+          "Active on social media platforms (TikTok, Instagram)",
+          "Willing to invest in improving social media presence"
+        ],
+        "next_action": "Contact Luna at luna.digital.operations@gmail.com to schedule a free consultation and discuss your needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our 30-Day Social Media Kickstart Package is designed for small businesses and content creators looking to boost engagement and visibility. Get tailored video scripts, a content calendar, and expert consultation to connect with your audience! 🌟 DM us for a free consultation. #SocialMedia #ContentStrategy #SmallBusiness",
+        "website_description": "Transform your social media presence with our 30-Day Social Media Kickstart Package! Designed for small businesses and content creators, this comprehensive solution includes tailored short-form video scripts, a 30-day content calendar, custom caption templates, and strategy consultations. Empower your brand with engaging content that resonates and attracts your target audience. Start your journey to increased visibility today for just $250 and receive your deliverables within 7 days!",
+        "outreach_template": "Subject: Let's Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I'm Luna from Infinite Sauce, reaching out to share an exciting opportunity tailored for small businesses and content creators. Our 30-Day Social Media Kickstart Package is designed to boost your engagement and visibility on platforms like TikTok and Instagram.\n\nWould you be open to discussing how our tailored video scripts and content strategies can help you create more engaging content?\n\nIf you'd like, I can arrange a free consultation call at your convenience.\n\nBest regards,\nLuna\n\nP.S. If you're not interested, no worries at all! Just let me know.",
+        "discovery_questions": [
+          "What challenges do you face in creating engaging social media content?",
+          "How often do you currently post on social media platforms, and which ones do you use most frequently?",
+          "What specific goals do you have in mind for your social media presence in the next 30 days?",
+          "Are there particular themes or topics that resonate with your audience?",
+          "How do you measure success or engagement on your social media posts?"
+        ],
+        "proposal_outline": [
+          {
+            "section_title": "Introduction",
+            "content": "Brief overview of the proposal and the importance of social media for business growth."
+          },
+          {
+            "section_title": "Client's Current Situation",
+            "content": "Discuss the client's current social media strategies and challenges."
+          },
+          {
+            "section_title": "Proposed Solutions",
+            "content": "Detail the deliverables of the 30-Day Social Media Kickstart Package."
+          },
+          {
+            "section_title": "Implementation Timeline",
+            "content": "Outline the estimated delivery days and process for the campaign."
+          },
+          {
+            "section_title": "Investment",
+            "content": "Present the pricing structure and value of the package."
+          },
+          {
+            "section_title": "Next Steps",
+            "content": "Encourage the client to reach out for a consultation or further questions."
+          }
+        ],
+        "call_to_action": "Contact Luna at luna.digital.operations@gmail.com to schedule your free consultation today!",
+        "payment_template": "Subject: Payment Details for Your Social Media Kickstart Package\n\nHi [Name],\n\nThank you for considering our 30-Day Social Media Kickstart Package! To move forward, please let me know your preferred payment method, and I will provide the necessary details.\n\nLooking forward to collaborating with you!\n\nBest,\nLuna\n\nP.S. If you'd prefer not to proceed, please feel free to let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
