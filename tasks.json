@@ -32781,6 +32781,55 @@
         "payment_template": "Subject: Payment Information\n\nHi [Recipient's Name],\n\nThank you for considering our 30-Day Social Media Growth Strategy. To proceed further, please confirm the payment method you’d like to use. If you have any questions regarding the payment process or what’s included, feel free to reach out!\n\nLooking forward to assisting you!\n\nBest,\n\n[Your Name]\n[Your Title]\nInfinite Sauce\n\nP.S. If you would prefer not to move forward, just let me know, and I'll make a note.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792168091084",
+      "created_at": "2026-10-16T16:28:11.084093+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Boost Package",
+        "target_customer": "Small businesses or content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging content consistently for social media channels, leading to lower audience engagement and visibility.",
+        "solution": "A tailored content package that provides engaging short-form video scripts and social media captions optimized for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "3 accompanying social media captions",
+          "1 content strategy overview for social media posts (1-page document)"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media engagement with tailored content that speaks to your audience, freeing you to focus on your business.",
+        "sales_angle": "Get ready-to-use content created specifically for your brand, ensuring a consistent voice and higher audience interaction.",
+        "organic_discovery_methods": [
+          "Social media ads",
+          "Word of mouth",
+          "Networking within local business groups"
+        ],
+        "qualification_criteria": [
+          "Must operate a small business or be a content creator",
+          "Active on social media platforms (TikTok, Instagram, YouTube)"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started on enhancing your social media content strategy."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our **Social Media Content Boost Package**! Perfect for small businesses and content creators looking to captivate their audience. Get tailored short-form video scripts and engaging captions designed for TikTok, Instagram Reels, and YouTube Shorts. Ready to boost your engagement? 💬 Contact us today! #SocialMedia #ContentCreation #EngagementBoost",
+        "website_description": "Transform your social media presence with our **Social Media Content Boost Package**! Designed for small businesses and content creators, this package offers engaging short-form video scripts and captions optimized for TikTok, Instagram Reels, and YouTube Shorts. Enjoy a tailored content strategy that resonates with your audience, helping you boost engagement while you focus on running your business. Get started today for just $150!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to share a unique opportunity to enhance your social media content strategy. Our **Social Media Content Boost Package** provides tailored short-form video scripts and captions optimized for platforms like TikTok, Instagram, and YouTube.\n\nIf this sounds interesting, I'd love to discuss how we can assist you in boosting your audience engagement. Feel free to reply to this email or contact us via WhatsApp.\n\nBest regards,\n[Your Name]  \nInfinite Sauce Team\n\nP.S. If this isn't of interest, please let me know, and I’ll gladly remove you from future communications.",
+        "discovery_questions": [
+          "What social media platforms do you primarily use for your business?",
+          "Can you describe your target audience and their interests?",
+          "What challenges are you currently facing with your social media content?",
+          "How often do you currently post on social media?",
+          "What is your primary goal for enhancing your social media presence?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of the client's needs\n\n2. Objectives\n   - Clearly define the goals for the content strategy\n\n3. Deliverables\n   - 3 short-form video scripts\n   - 3 accompanying social media captions\n   - Content strategy overview\n\n4. Timeline\n   - Estimated delivery in 7 days\n\n5. Pricing\n   - Cost for the package: $150\n\n6. Next Steps\n   - Call to action for approval and payment process\n\n7. Conclusion\n   - Summary of benefits and encouragement to engage"
+        ],
+        "call_to_action": "Ready to supercharge your social media? Contact us now to get started!",
+        "payment_template": "Subject: Next Steps for Your Content Boost Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our **Social Media Content Boost Package**! To proceed, please let me know your preferred method of payment, and I’ll provide the necessary details to facilitate the process.\n\nLooking forward to working with you!\n\nBest,  \n[Your Name]  \nInfinite Sauce Team\n\nP.S. If you have any questions or would like to opt out of future emails, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
