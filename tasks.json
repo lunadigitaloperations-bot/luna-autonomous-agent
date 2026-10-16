@@ -31848,6 +31848,57 @@
         "payment_template": "Subject: Follow-Up on Your TikTok Content Boost Package\n\nHi [Name],\n\nI wanted to follow up regarding your interest in the 30-Day TikTok Content Boost Package. If you have any questions or would like to proceed, please let me know! \n\nLooking forward to your response.\n\nBest regards,\n[Your Name]  \nLuna, Infinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792110767802",
+      "created_at": "2026-10-16T00:32:47.802419+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "3-Month Social Media Growth Package for Creators",
+        "target_customer": "Content Creators and Small Business Owners looking to enhance their social media presence.",
+        "customer_problem": "Struggling to consistently create engaging short-form video content that resonates with their audience and grows their following.",
+        "solution": "A tailored 3-month social media growth package that includes a content strategy and a series of short-form video scripts designed to capture audience interest and build brand awareness.",
+        "deliverables": [
+          "Initial content strategy document outlining target audience and messaging",
+          "12 short-form video scripts (4 scripts per month)",
+          "Monthly content calendar for scheduling posts",
+          "1 hour of video consultation per month to discuss progress and adjustments"
+        ],
+        "suggested_price_usd": 450,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Empower your brand through consistent and compelling short-form video content that attracts and engages your audience without the overwhelm.",
+        "sales_angle": "Unlock the potential of your social media with a simple package that simplifies content creation and enhances your online presence.",
+        "organic_discovery_methods": [
+          "Social media promotion (Instagram, Facebook)",
+          "Targeted outreach via email marketing",
+          "Networking in creator communities"
+        ],
+        "qualification_criteria": [
+          "Have an active social media account with at least 100 followers",
+          "Willingness to engage in monthly consultations",
+          "Eagerness to learn and adapt content strategy"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to schedule a free 15-minute consultation to discuss your needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Attention Content Creators & Small Business Owners! Are you struggling to create engaging short-form video content? Our 3-Month Social Media Growth Package is here to help! ✨ With tailored strategies, 12 scripts, and monthly consultations, we’ll empower your brand to shine online. 🌟 Schedule a FREE 15-minute consultation today! Email us at luna.digital.operations@gmail.com. #SocialMediaGrowth #ContentCreation #SmallBusinessSupport",
+        "website_description": "Elevate your social media presence with our 3-Month Social Media Growth Package designed specifically for content creators and small business owners. This package delivers a comprehensive content strategy, 12 engaging short-form video scripts, a content calendar, and monthly consultations—empowering you to connect with your audience seamlessly and effectively. Start captivating your followers today!",
+        "outreach_template": "Subject: Transform Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I’m reaching out to share an exciting opportunity that could enhance your social media engagement. We've created a specialized 3-Month Social Media Growth Package tailored for content creators and small businesses like yours.\n\nIn this package, we include a customized content strategy, 12 captivating short-form video scripts, and consultations to guide you every step of the way. Our goal is to simplify your content creation process and help your brand thrive online.\n\nWould you be interested in scheduling a free 15-minute consultation to discuss how we can support your needs? If this isn't the right time for you, feel free to let me know, and I won’t reach out again.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence over the next three months?",
+          "What challenges are you currently facing in creating short-form video content?",
+          "Who is your target audience, and what types of content do they engage with the most?",
+          "How often do you currently post on social media, and which platforms do you use?",
+          "What has worked well for you in terms of audience engagement in the past?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Overview of the social media growth package\n\n2. Target Audience Analysis\n   - Insights into who the audience is\n\n3. Content Strategy Document\n   - Details about the planned strategy\n\n4. Short-form Video Scripts\n   - Overview of the scripts included\n\n5. Content Calendar\n   - Explanation of scheduling posts\n\n6. Monthly Consultations\n   - Value of ongoing support\n\n7. Pricing and Payment Details\n   - Cost of the package\n\n8. Next Steps\n   - How to proceed with the purchase"
+        ],
+        "call_to_action": "Ready to elevate your social media game? Email us at luna.digital.operations@gmail.com to book your FREE consultation now!",
+        "payment_template": "Subject: Payment Arrangement for Your Package\n\nHi [Name],\n\nThank you for considering our 3-Month Social Media Growth Package! To proceed, we can discuss payment arrangements once you're ready. Please let me know if you have any questions or if there's more information I can provide.\n\nIf you would prefer not to receive further information, feel free to let me know.\n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
