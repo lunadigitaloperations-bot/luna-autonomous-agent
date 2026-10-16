@@ -32489,6 +32489,64 @@
         "payment_template": "Subject: Confirmation of Your Order\n\nHi [Name],\n\nThank you for choosing our Social Media Video Boost Package! We appreciate your interest and look forward to helping you elevate your video content. \n\nPlease let me know if you have any questions or need more information.\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792150060793",
+      "created_at": "2026-10-16T11:27:40.793572+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Content Fuel Pack",
+        "target_customer": "Small business owners and creators looking to boost their TikTok presence",
+        "customer_problem": "Struggling to create engaging TikTok content consistently to attract and retain followers.",
+        "solution": "A comprehensive 30-day content plan including short-form video scripts tailored to their brand, providing a consistent stream of engaging content.",
+        "deliverables": [
+          "30 short-form video scripts (1 for each day)",
+          "Content calendar outlining the posting schedule",
+          "Tips for video creation and engagement strategies",
+          "15 caption ideas tailored to the videos"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock a month's worth of engaging TikTok content with ease, allowing you to focus on running your business while maintaining a strong online presence.",
+        "sales_angle": "Create consistent, engaging TikTok content without the stress - our scripts help you stand out and connect with your audience!",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Organic posts on Instagram and Facebook",
+          "Networking in small business online communities"
+        ],
+        "qualification_criteria": [
+          "Must have a TikTok account with some existing content",
+          "Willingness to engage with followers regularly"
+        ],
+        "next_action": "Email us at luna.digital.operations@gmail.com to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Want to elevate your TikTok game? Our 30-Day TikTok Content Fuel Pack provides a month’s worth of engaging video scripts tailored to your brand! Say goodbye to content creation stress and hello to a vibrant online presence! 🌟 DM us to learn more! #TikTokMarketing #ContentCreation #SmallBusiness",
+        "website_description": "Unlock a month's worth of engaging TikTok content with our 30-Day TikTok Content Fuel Pack! Designed for small business owners and creators, this comprehensive package includes 30 short-form video scripts, a detailed content calendar, tips for better engagement, and tailored caption ideas. Focus on your business while we help you grow your online presence effortlessly!",
+        "outreach_template": "Subject: Elevate Your TikTok Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to enhance your TikTok content strategy. Our 30-Day TikTok Content Fuel Pack is designed for small business owners like you, aiming to create consistent and engaging content without the stress.\n\nIf you're interested, I'd love to discuss how we can support your efforts! Please let me know a convenient time for you.\n\nBest wishes,\n[Your Name]  \n[Your Position]  \n[Your Contact Info]  \nP.S. If you're not looking to explore this right now, feel free to opt-out of future messages!",
+        "discovery_questions": [
+          "What specific challenges are you facing with your TikTok content creation?",
+          "How often do you currently post on TikTok?",
+          "What type of content resonates most with your followers?",
+          "Are there particular themes or topics you want to focus on in your videos?",
+          "How comfortable are you with engaging directly with your audience on TikTok?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current TikTok Presence",
+          "Identified Challenges",
+          "Proposed Solution: 30-Day TikTok Content Fuel Pack",
+          "Deliverables",
+          "Implementation Timeline",
+          "Investment",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to transform your TikTok presence? Email us at luna.digital.operations@gmail.com to get started!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for your interest in our services! Once you're ready to proceed, we will provide you with the necessary payment details. Please let me know if you have any questions or if there's anything else you need!\n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Contact Info]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
