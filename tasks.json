@@ -34391,6 +34391,65 @@
         "payment_template": "Subject: Payment Details for Your Social Media Package\n\nHi [Name],\n\nThank you for your interest in our Social Media Content Package! To proceed further, we would need to discuss the payment details. Once we finalize everything, I will send you the invoice.\n\nFeel free to reach out if you have any questions or if you're ready to move forward.\n\nBest, \nLuna\nluna.digital.operations@gmail.com",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792268498422",
+      "created_at": "2026-10-17T20:21:38.422555+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Revamp Package",
+        "target_customer": "Small businesses and content creators seeking to enhance their online presence.",
+        "customer_problem": "Struggling to create engaging social media content that resonates with their audience and drives interaction.",
+        "solution": "A comprehensive social media content strategy focused on short-form video content to boost engagement and reach.",
+        "deliverables": [
+          "Custom short-form video script (3 scripts)",
+          "3 TikTok videos tailored to brand identity",
+          "3 Instagram Reels optimized for engagement",
+          "3 YouTube Shorts designed for shareability",
+          "Captions for each video",
+          "Content strategy guide for organic growth"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Capture attention and drive engagement with tailored short-form videos that reflect your brand's personality.",
+        "sales_angle": "Elevate your online presence in just 30 days with a complete video content package designed for maximum engagement.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Community engagement"
+        ],
+        "qualification_criteria": [
+          "Must have a business or personal brand with an active social media presence",
+          "Open to trying new content formats",
+          "Willing to collaborate on content ideas"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your objectives and how we can help elevate your social media presence."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to transform your social media presence in just 30 days? Our 30-Day Social Media Revamp Package offers tailored short-form videos designed to engage and resonate with your audience. Perfect for small businesses and content creators looking to boost their online reach! 🌟 Contact us today to elevate your brand! #SocialMediaRevamp #ShortFormVideo #EngagementBoost",
+        "website_description": "Elevate your brand's online presence with our 30-Day Social Media Revamp Package! This comprehensive offering includes custom short-form video scripts, tailored TikTok videos, Instagram Reels, and YouTube Shorts, all designed to maximize engagement and reach. With a strategic guide for organic growth, your unique brand personality will shine through. Get started today for just $299 and see the difference in 30 days!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to enhance your social media engagement through our 30-Day Social Media Revamp Package. If you are looking to boost your online presence with tailored video content, let's discuss how we can partner to achieve your goals.\n\nPlease feel free to respond if you're open to exploring this further!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf you prefer not to receive further emails, just let me know.",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms are you currently most active on and why?",
+          "What types of content have you found to resonate most with your audience?",
+          "Are there any brands or creators you admire for their social media strategy?",
+          "How open are you to experimenting with new content formats such as short-form video?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Goals",
+          "Proposed Solution Overview",
+          "Deliverables Breakdown",
+          "Timeline and Pricing",
+          "Next Steps",
+          "Conclusion and Thank You"
+        ],
+        "call_to_action": "Contact us today to elevate your social media presence with our tailored video content package!",
+        "payment_template": "Subject: Payment Details for Your Social Media Package\n\nHi [Name],\n\nI hope you are doing well! As we prepare to kick off your social media revamp, I wanted to discuss the payment options available for our services. Please let me know when would be a convenient time for you to discuss this further.\n\nThank you!\n[Your Name]\n[Your Contact Information]\n\nIf you no longer wish to receive updates from us, please feel free to opt-out.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
