@@ -34337,6 +34337,60 @@
         "payment_template": "Subject: Next Steps for Your 30-Day Short-Form Video Content Package\n\nHi [Name],\n\nThank you for expressing interest in our package! To proceed, we can outline the investment details and the next steps needed to finalize your order. Let me know a convenient time for us to discuss this further.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n\nP.S. If you’d prefer not to receive further communications, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792264839340",
+      "created_at": "2026-10-17T19:20:39.340359+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Package for Small Businesses",
+        "target_customer": "Local small business owners looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging social media content consistently and connect with their target audience.",
+        "solution": "A tailored content package that includes video scripts and social media captions designed to showcase the business's unique offerings and engage customers.",
+        "deliverables": [
+          "4 short-form video scripts (up to 60 seconds each)",
+          "4 ready-to-use social media captions (for platforms like Instagram and Facebook)",
+          "Content calendar for one month"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Elevate your social media presence with targeted video content that resonates with your audience, driving engagement without overwhelming your schedule.",
+        "sales_angle": "Stay competitive in your market by leveraging professional content tailored specifically for your business, enabling you to focus on what you do best.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Referrals from satisfied clients",
+          "Free webinars or workshops on social media strategy"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Preferably a service-based or retail business"
+        ],
+        "next_action": "Contact me at luna.digital.operations@gmail.com to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🌟 Elevate Your Online Presence! 🌟 Local business owners, are you struggling to create engaging social media content? Our Social Media Content Package is tailored just for you! 🎥✨ Get 4 short-form video scripts, 4 ready-to-use captions, and a content calendar to keep you organized. For just $250, you can enhance your engagement and connect with your audience without overwhelming your schedule. Ready to take the next step? Contact us today! #SmallBusiness #SocialMedia #ContentCreation",
+        "website_description": "Unlock the power of social media with our tailored Social Media Content Package for small businesses! Perfect for local owners looking to enhance their online presence, this package includes 4 short-form video scripts, 4 ready-to-use social media captions, and a 1-month content calendar, all designed to showcase your unique offerings. For just $250, you can elevate your brand and engage your customers effectively. Get started today!",
+        "outreach_template": "Subject: Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because I understand the challenges local small business owners face with creating engaging social media content. \n\nWe offer a tailored Social Media Content Package that might be just what you need. It includes video scripts, ready-to-use captions, and a monthly content calendar, designed to help you connect with your audience more effectively.\n\nIf you're interested in learning more or discussing your specific needs, please feel free to contact me.\n\nBest regards,\nLuna\nluna.digital.operations@gmail.com\n\nP.S. If this isn't a good time, please let me know, and I'll be happy to follow up later.",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What challenges are you facing in creating content for your social media?",
+          "Can you describe your target audience?",
+          "What are your main goals for your social media presence?",
+          "Have you used professional content services in the past, and what was your experience?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the customer's current social media presence",
+          "Identification of customer challenges and goals",
+          "Details of the Social Media Content Package deliverables",
+          "Timeline and pricing",
+          "Call to action and next steps"
+        ],
+        "call_to_action": "Ready to elevate your social media? Contact me at luna.digital.operations@gmail.com to get started!",
+        "payment_template": "Subject: Payment Details for Your Social Media Package\n\nHi [Name],\n\nThank you for your interest in our Social Media Content Package! To proceed further, we would need to discuss the payment details. Once we finalize everything, I will send you the invoice.\n\nFeel free to reach out if you have any questions or if you're ready to move forward.\n\nBest, \nLuna\nluna.digital.operations@gmail.com",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
