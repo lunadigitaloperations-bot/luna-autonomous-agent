@@ -33476,6 +33476,62 @@
         "payment_template": "Subject: Payment Details\n\nHi [Name],\n\nThank you for choosing our Social Media Boost Package! To proceed with your order, please let me know your preferred method of payment, and I'll provide the necessary details.\n\nLooking forward to working together!\n\nBest,\n[Your Name]\n\nP.S. If you have any questions or concerns, feel free to reach out anytime.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792211092307",
+      "created_at": "2026-10-17T04:24:52.307379+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Growth Kit",
+        "target_customer": "Small business owners or content creators looking to increase their TikTok presence",
+        "customer_problem": "Struggling to create engaging content consistently and grow their audience on TikTok",
+        "solution": "A comprehensive 30-day content plan with short-form video scripts and creative strategies tailored to engage their target audience",
+        "deliverables": [
+          "30 video scripts tailored for TikTok",
+          "Weekly content strategy guide",
+          "10 optimized captions for TikTok posts",
+          "Monthly analytics template to track performance"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 5,
+        "value_proposition": "Boost your TikTok engagement with a custom-tailored content plan that keeps your audience hooked without the overwhelm of content creation.",
+        "sales_angle": "Transform your TikTok channel into a vibrant community with ease! Get your personalized 30-day growth kit delivered to your inbox.",
+        "organic_discovery_methods": [
+          "Social media outreach",
+          "Word of mouth",
+          "Content previews on Instagram"
+        ],
+        "qualification_criteria": [
+          "Must have an active TikTok account",
+          "Interested in creating engaging content",
+          "Open to trying new strategies"
+        ],
+        "next_action": "Email or WhatsApp to schedule a consultation and kickstart your TikTok growth."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your TikTok game? Introducing our *30-Day TikTok Growth Kit*! 🎥 Get 30 tailored video scripts, weekly strategies, and more, all designed to engage your audience effortlessly. 💡 Don't miss out! Transform your TikTok into a thriving community. ✨ #TikTokGrowth #ContentCreation #SmallBusiness #InfiniteSauce",
+        "website_description": "Unlock the secrets to TikTok success with our *30-Day TikTok Growth Kit*! Designed for small business owners and content creators, this comprehensive package offers 30 engaging video scripts, a weekly content strategy guide, 10 optimized captions, and a monthly analytics template. Embrace a stress-free way to grow your audience and transform your TikTok presence without the overwhelm! Delivered in just 5 days for only $200.",
+        "outreach_template": "Subject: Quick Question About Your TikTok Presence\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out because I noticed your active engagement on TikTok. Are you currently exploring ways to further enhance your content creation strategies?\n\nOur *30-Day TikTok Growth Kit* is designed to assist small business owners and content creators like yourself in boosting engagement and audience growth. \n\nIf you're interested, I’d love to discuss how we can tailor this kit to meet your needs. Please feel free to respond to this email or WhatsApp me at [Your Contact Info].\n\nIf this isn't the right time for you, no worries at all! Let me know, and I'll ensure to follow up later.\n\nBest regards,\n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Info]",
+        "discovery_questions": [
+          "What specific challenges are you currently facing with your TikTok content?",
+          "How often are you creating and posting content on TikTok?",
+          "What type of engagement are you hoping to achieve on your TikTok account?",
+          "Have you tried any TikTok strategies in the past? If so, which ones?",
+          "Are you open to incorporating new content formats or ideas into your TikTok strategy?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief overview of the prospect's current TikTok presence\n   - Explanation of the purpose of the proposal\n",
+          "2. Identified Challenges\n   - Discussion of challenges in engaging content creation\n   - Impact of these challenges on their TikTok growth\n",
+          "3. Proposed Solution\n   - Overview of the *30-Day TikTok Growth Kit*\n   - Explanation of each deliverable and its benefits\n",
+          "4. Delivery Timeline\n   - Estimated delivery time and process\n",
+          "5. Investment\n   - Breakdown of the cost at $200\n",
+          "6. Conclusion\n   - Recap of the key benefits\n   - Next steps for moving forward"
+        ],
+        "call_to_action": "Ready to boost your TikTok presence? Email or WhatsApp us to schedule your consultation today!",
+        "payment_template": "Subject: Payment Information Confirmation\n\nHi [Name],\n\nThank you for your interest in our *30-Day TikTok Growth Kit*! To proceed, we need to confirm your preferred payment method. Please let us know how you would like to proceed.\n\nIf you have any questions or need further assistance, feel free to reach out! \n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Info]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
