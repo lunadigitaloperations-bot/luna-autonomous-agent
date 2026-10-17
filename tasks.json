@@ -34450,6 +34450,63 @@
         "payment_template": "Subject: Payment Details for Your Social Media Package\n\nHi [Name],\n\nI hope you are doing well! As we prepare to kick off your social media revamp, I wanted to discuss the payment options available for our services. Please let me know when would be a convenient time for you to discuss this further.\n\nThank you!\n[Your Name]\n[Your Contact Information]\n\nIf you no longer wish to receive updates from us, please feel free to opt-out.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792272119565",
+      "created_at": "2026-10-17T21:21:59.565577+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Package for Creators",
+        "target_customer": "Small businesses and online creators looking to boost engagement on social media",
+        "customer_problem": "Creators struggle to maintain consistent and engaging content for platforms like TikTok and Instagram, which leads to decreased audience interaction.",
+        "solution": "Provide a tailored content package that includes short-form video scripts, captions, and a content strategy focused on audience engagement.",
+        "deliverables": [
+          "3 short-form video scripts tailored to the brand",
+          "3 engaging captions for posts",
+          "A content strategy plan for the next month outlining posting schedule and themes"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your social media presence with tailored content that resonates with your audience and boosts engagement.",
+        "sales_angle": "Unlock your brand's potential with customized video content and strategies designed to connect and engage.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "SEO-optimized blog posts",
+          "Referrals from satisfied clients"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Open to creative collaboration",
+          "Willing to provide brand details and target audience information"
+        ],
+        "next_action": "Contact me via email or WhatsApp to schedule a consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand's social media game! Our Social Media Content Package for Creators offers tailored short-form video scripts, engaging captions, and a comprehensive content strategy—all designed to boost your audience engagement! 💡✨ Ready to unlock your brand's potential? Let's chat! #SocialMediaMarketing #ContentCreation #EngagementBoost",
+        "website_description": "Transform your social media presence with our Social Media Content Package for Creators. Perfect for small businesses and online creators, this package includes 3 tailored short-form video scripts, 3 engaging captions, and a month-long content strategy designed to elevate audience engagement. For just $150 and delivered in 7 days, you can unlock your brand's potential and connect authentically with your audience.",
+        "outreach_template": "Subject: Let’s Boost Your Social Media Engagement!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to share how our Social Media Content Package for Creators can help elevate your brand's online presence. With tailored short-form video scripts and engaging captions, we focus on strategies that resonate with your audience.\n\nWould you be open to discussing how we can customize this package to meet your specific needs? \n\nLooking forward to your thoughts!\n\nBest regards,\n[Your Name]\n\nP.S. If you're not interested, feel free to let me know, and I'll avoid reaching out again.",
+        "discovery_questions": [
+          "What specific engagement goals do you have for your social media platforms?",
+          "Which social media platform do you find most challenging for content creation?",
+          "Who is your target audience, and what do you believe resonates with them?",
+          "Can you share your current posting schedule and any themes you’re currently using?",
+          "What type of content have you found works best for your brand in the past?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Current Situation",
+          "Objectives and Goals",
+          "Proposed Solution Overview",
+          "Details of Deliverables",
+          "Timeline for Delivery",
+          "Investment",
+          "Call to Action"
+        ],
+        "call_to_action": "Contact me via email or WhatsApp to schedule your consultation and discuss how we can elevate your social media presence together!",
+        "payment_template": "Subject: Payment Details for Your Order\n\nHi [Name],\n\nI wanted to follow up on our recent conversation regarding the Social Media Content Package. We can discuss the fee of $150, tailored to meet your specific needs, and the timeline for delivery.\n\nPlease let me know if you have any questions or if you would like further details.\n\nThank you!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
