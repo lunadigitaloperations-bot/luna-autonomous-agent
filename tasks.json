@@ -33762,6 +33762,65 @@
         "payment_template": "Subject: Payment Details for Your Video Creation Package\n\nHi [Client's Name],\n\nThank you for choosing our Engaging Short-Form Video Creation Package! To proceed, please let us know your preferred payment method, and we can provide you with the necessary details to finalize the agreement. \n\nLooking forward to collaborating with you!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792229005021",
+      "created_at": "2026-10-17T09:23:25.021681+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Elevate Your Engagement: Social Media Content Package",
+        "target_customer": "Small businesses and creators looking to boost social media presence",
+        "customer_problem": "Struggling to create engaging short-form content that resonates with their audience, resulting in low engagement and visibility.",
+        "solution": "A tailored social media content package that includes custom short-form video scripts and optimized captions designed to increase audience engagement.",
+        "deliverables": [
+          "3 TikTok video scripts (up to 60 seconds each)",
+          "3 Instagram Reels scripts (up to 30 seconds each)",
+          "3 YouTube Shorts scripts (up to 60 seconds each)",
+          "9 attention-grabbing captions tailored for maximum engagement",
+          "Content strategy brief outlining posting schedule and best practices"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your brand's visibility and engagement with professionally crafted short-form video scripts and captions that connect with your audience.",
+        "sales_angle": "Transform your social media strategy with engaging content that draws in your audience and keeps them coming back for more.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing sample scripts",
+          "Client testimonials/reviews",
+          "Networking in small business forums and groups",
+          "Content marketing on platforms like LinkedIn and Instagram"
+        ],
+        "qualification_criteria": [
+          "Must have a social media presence",
+          "Open to implementing new content strategies",
+          "Clear understanding of their target audience"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss your content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate Your Engagement! Struggling to create content that captivates your audience? Our Social Media Content Package is tailored for small businesses and creators like you! Get engaging scripts and captions that boost visibility and engagement. DM us for a consultation! #SocialMediaStrategy #ContentCreation",
+        "website_description": "Unlock the potential of your social media presence with our Elevate Your Engagement: Social Media Content Package. Designed for small businesses and creators, this package includes custom short-form video scripts and optimized captions to captivate your audience and enhance your visibility. Elevate your brand today!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Engagement\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to you to discuss how our tailored Social Media Content Package could help elevate your brand's visibility and boost engagement.\n\nWe specialize in creating captivating scripts and strategic content designed specifically for your audience. Would you be open to a brief consultation to explore how we can assist you? \n\nLooking forward to hearing from you!\n\nBest regards,\n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Information]\n\nIf you're not interested, feel free to opt out.",
+        "discovery_questions": [
+          "What are your main goals for your social media presence?",
+          "Which platforms do you currently use for your business?",
+          "What type of content has worked best for you in the past?",
+          "How do you engage with your audience currently?",
+          "Have you considered any specific themes or topics for your upcoming content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the customer's social media goals",
+          "Description of the Social Media Content Package",
+          "Deliverables breakdown",
+          "Content strategy insights",
+          "Pricing and delivery timeframe",
+          "Next steps and closing"
+        ],
+        "call_to_action": "Contact us today to schedule your consultation and start boosting your engagement!",
+        "payment_template": "Subject: Your Recent Consultation\n\nHi [Recipient's Name],\n\nThank you for considering our Social Media Content Package! Once you're ready to proceed, we can discuss the payment options to kick off your content strategy. Please let me know if you have any questions or need further information.\n\nLooking forward to hearing from you!\n\nBest regards,\n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Your Contact Information]\n\nIf you're not interested, feel free to opt out.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
