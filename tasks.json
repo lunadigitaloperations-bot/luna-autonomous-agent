@@ -33644,6 +33644,63 @@
         "payment_template": "Hi [Name],\n\nThank you for choosing our 30-Day Social Media Kickstart Package! To proceed, could you please provide confirmation on the payment method you wish to use? We want to ensure everything is set up for a smooth process.\n\nLooking forward to your response!\n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792222216652",
+      "created_at": "2026-10-17T07:30:16.652928+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Package",
+        "target_customer": "Small business owners or creative entrepreneurs looking to enhance their social media presence",
+        "customer_problem": "Lack of engaging content to attract and retain audience attention on platforms like TikTok and Instagram",
+        "solution": "A tailored package of short-form video scripts and captions designed to improve social media engagement and visibility.",
+        "deliverables": [
+          "5 original short-form video scripts (up to 60 seconds each)",
+          "5 engaging captions for each video",
+          "Content strategy outline for optimal posting times and hashtags"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your brand's online presence with compelling video content that resonates with your audience.",
+        "sales_angle": "Transform your social media strategy with professional, engaging short-form videos that drive viewer engagement without breaking the bank.",
+        "organic_discovery_methods": [
+          "Social media shares",
+          "Hashtag usage",
+          "User-generated content opportunities"
+        ],
+        "qualification_criteria": [
+          "Must have an established brand presence on at least one social media platform",
+          "Open to experimenting with new content styles"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your unique needs and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game! 📈 Our Short-Form Video Content Package is designed for small business owners and creative entrepreneurs ready to captivate their audience on platforms like TikTok and Instagram. Get 5 tailored video scripts, engaging captions, and a content strategy outline for just $150. Ready to boost your brand's online presence? 💬 DM us to learn more! #SocialMediaMarketing #ShortFormVideo #ContentCreation",
+        "website_description": "Transform your social media strategy with our Short-Form Video Content Package tailored for small business owners and creative entrepreneurs. For only $150, receive 5 original video scripts, attention-grabbing captions, and a strategy outline to maximize engagement. Delivering compelling content that resonates with your audience has never been easier. Get started today!",
+        "outreach_template": "Subject: Let's Enhance Your Social Media Engagement!\n\nHi [Name],\n\nI hope this message finds you well. I'm reaching out to share an exciting opportunity to boost your brand’s online presence with our Short-Form Video Content Package. This package includes tailored video scripts and captions designed to engage your audience effectively on platforms like TikTok and Instagram.\n\nIf you're open to it, I would love to discuss this further and see how we can meet your unique needs. Please let me know a suitable time for you.\n\nBest regards,\n\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn’t the right time, feel free to opt-out of future communications.",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms do you currently focus on for your business?",
+          "Have you tried any video content before? What was your experience?",
+          "What type of audience are you trying to engage?",
+          "Are there specific themes or messages you want to convey through your content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Social Media Strategy",
+          "Identified Challenges",
+          "Proposed Solution: Short-Form Video Content Package",
+          "Deliverables",
+          "Content Strategy Outline",
+          "Timeline for Delivery",
+          "Next Steps",
+          "Closing Remarks"
+        ],
+        "call_to_action": "Contact us today to elevate your social media strategy with engaging short-form videos!",
+        "payment_template": "Subject: Payment Information for Your Order\n\nHi [Name],\n\nThank you for your interest in our Short-Form Video Content Package. Once you're ready to proceed, we can provide payment details to secure your package. \n\nLooking forward to your response!\n\nBest,  \n[Your Name]\n[Your Contact Information]\n\nIf you’d prefer not to receive further messages, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
