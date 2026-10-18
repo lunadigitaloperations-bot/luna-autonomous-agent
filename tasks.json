@@ -34794,6 +34794,63 @@
         "payment_template": "Subject: Payment Confirmation Needed\n\nHi [Name],\n\nThank you for considering our 30-Day Social Media Content Sprint. When you’re ready to proceed, please let us know how you'd like to handle the payment process.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n\nP.S. If this is not the right time for you, please feel free to opt-out.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792293907669",
+      "created_at": "2026-10-18T03:25:07.669026+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Growth Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that drives engagement and grows their audience.",
+        "solution": "A dedicated package featuring a combination of tailored short-form video scripts and social media content strategy advice aimed at boosting engagement across platforms like TikTok and Instagram.",
+        "deliverables": [
+          "5 customized short-form video scripts",
+          "Content strategy guide specific to their brand",
+          "Weekly feedback sessions via Zoom",
+          "Set of 10 optimized captions for social media use"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Elevate your online presence with professionally tailored content and strategies, designed to resonate with your audience and maximize engagement.",
+        "sales_angle": "Transform your social media efforts into a standout presence without overwhelming your schedule.",
+        "organic_discovery_methods": [
+          "Social media marketing groups",
+          "Online forums for small businesses",
+          "Networking in creator communities"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Open to feedback and collaboration",
+          "Ready to commit to a 30-day growth plan"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation to discuss your goals."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Are you a small business or content creator struggling to boost your social media game? Our 30-Day Social Media Growth Package is designed just for you! 🌟 With tailored short-form video scripts and expert strategy advice, engage your audience like never before and transform your online presence without the overwhelm. DM us to schedule your free consultation! #SocialMediaGrowth #ContentCreation #EngagementBoost",
+        "website_description": "Unlock your social media potential with our 30-Day Social Media Growth Package! Tailored for small businesses and content creators, this package provides you with 5 customized short-form video scripts, a specific content strategy guide, and weekly feedback sessions to ensure your content resonates. Elevate engagement on platforms like TikTok and Instagram without the stress. Ready for a standout presence? Let’s get started!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity that could enhance your social media presence. Our 30-Day Social Media Growth Package is designed for small businesses and content creators who are eager to engage their audience effectively with tailored content and strategies.\n\nIf you’re interested, I would love to schedule a free consultation to discuss your goals and how we can achieve them together.\n\nFeel free to opt-out from receiving further messages at any time. \n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media strategy?",
+          "Which platforms do you primarily use, and why?",
+          "What type of content has resonated with your audience in the past?",
+          "How do you currently measure engagement and success on your social media channels?",
+          "Are you open to collaborating on new ideas and feedback to enhance your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Current Social Media Landscape",
+          "Proposed Solutions: 30-Day Social Media Growth Package",
+          "Deliverables Overview",
+          "Timeline and Expected Outcomes",
+          "Investment and Value Proposition",
+          "Conclusion and Next Steps"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp for your free consultation!",
+        "payment_template": "Subject: Next Steps for Your Social Media Growth Package\n\nHi [Name],\n\nThank you for discussing our 30-Day Social Media Growth Package! If you're ready to proceed, please let me know, and I can provide you with the necessary payment details. We're excited to work with you and enhance your social media presence!\n\nPlease feel free to opt-out from further communication at any time.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
