@@ -35484,6 +35484,63 @@
         "payment_template": "Subject: Payment Confirmation \n\nHi [Recipient's Name], \n\nThank you for choosing our Short-Form Video Content Creation Package! Just a friendly reminder to finalize the payment process at your convenience. If you have any questions or need assistance, feel free to reach out. \n\nLooking forward to getting started! \n\nBest regards, \nLuna",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792336927144",
+      "created_at": "2026-10-18T15:22:07.144139+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Spark Pack",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging and consistent social media content that attracts followers and boosts engagement.",
+        "solution": "A tailored package that provides short-form video scripts and content strategies aimed at improving social media engagement and visibility.",
+        "deliverables": [
+          "3 custom short-form video scripts tailored to the brand",
+          "Content strategy guide including posting schedule and engagement tips",
+          "5 tailored captions for social media posts",
+          "1 follow-up consultation (30 minutes) to discuss implementation"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your online presence with engaging, professionally crafted content designed to resonate with your audience.",
+        "sales_angle": "Elevate your social media game with our expert content creation tailored specifically for your brand.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Referrals from satisfied clients",
+          "Email marketing or newsletters"
+        ],
+        "qualification_criteria": [
+          "Must currently have an active social media presence",
+          "Interested in improving engagement and content quality"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media presence with our Social Media Spark Pack! Perfect for small businesses and content creators, this tailored package will provide you with custom short-form video scripts, a content strategy guide, and engaging captions that resonate with your audience. Ready to boost your online engagement? 🌟 Contact us today! #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Transform your online presence with our Social Media Spark Pack, designed specifically for small businesses and content creators. This package includes custom short-form video scripts, a comprehensive content strategy guide, tailored social media captions, and a follow-up consultation to help you implement effective engagement strategies. Boost your visibility and connect with your audience today!",
+        "outreach_template": "Subject: Boost Your Social Media Engagement\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to introduce our Social Media Spark Pack, which is designed to help small businesses and content creators like yourself enhance their online engagement and visibility. \n\nOur tailored package includes custom short-form video scripts, a strategic content guide, and more to ensure you attract and engage your audience effectively. \n\nIf this sounds interesting, I’d love to discuss how we can support your social media efforts. Feel free to reach out!\n\nBest regards,\n[Your Name]\n[Your Position]\n\nP.S. If you’d prefer not to receive further communications, just let me know!",
+        "discovery_questions": [
+          "What specific challenges are you currently facing with your social media content?",
+          "How often do you post on social media, and what type of content do you usually share?",
+          "What platforms are you currently using to reach your audience?",
+          "How do you measure engagement and success on your social media accounts?",
+          "What are your goals for improving your online presence in the next few months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Social Media Challenges",
+          "Proposed Solutions and Deliverables",
+          "Benefits of the Social Media Spark Pack",
+          "Implementation Timeline",
+          "Investment & Pricing",
+          "Next Steps",
+          "Q&A Session"
+        ],
+        "call_to_action": "Contact us now at luna.digital.operations@gmail.com to kickstart your social media transformation!",
+        "payment_template": "Hi [Client's Name],\n\nThank you for your interest in the Social Media Spark Pack! To proceed with the next steps, please let me know if you have any questions regarding the package or the process. Excited to work together!\n\nBest,\n[Your Name]\n\nP.S. If you prefer not to engage at this time, just let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
