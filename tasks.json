@@ -35310,6 +35310,65 @@
         "payment_template": "Subject: Payment Information for Your Order\n\nHi [Recipient's Name],\n\nThank you for expressing interest in our Social Media Content Boost Package! To proceed with securing your spot, please confirm your preferred payment method. Once confirmed, we will initiate the process to get your tailored content ready.\n\nFeel free to reach out if you have any questions. Looking forward to working together!\n\nBest,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792326427664",
+      "created_at": "2026-10-18T12:27:07.664573+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Accelerator Package",
+        "target_customer": "Small local businesses looking to boost their online presence",
+        "customer_problem": "Struggling to create engaging social media content that attracts and retains customers.",
+        "solution": "A curated package of short-form video scripts and content strategies tailored to highlight the unique aspects of their business, fostering engagement and brand visibility.",
+        "deliverables": [
+          "5 short-form video scripts (suitable for TikTok and Instagram Reels)",
+          "Content strategy guide (including posting schedule and hashtags)",
+          "2 engaging captions for each video script"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Empower your business with tailored social media content that resonates with your audience and boosts engagement without the hassle of content creation.",
+        "sales_angle": "Unlock the potential of your brand with compelling video content that tells your story and captivates customers.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Word of mouth",
+          "Referrals from satisfied customers"
+        ],
+        "qualification_criteria": [
+          "Must operate a local business",
+          "Active social media accounts"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss your unique content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost Your Local Business with our Social Media Content Accelerator Package! 🎥✨ Struggling to create engaging social media content? Our tailored solution comes with 5 short-form video scripts, a comprehensive content strategy guide, and engaging captions to shine a spotlight on your unique brand! 📈🌟 Contact us today to unlock the potential of your brand. #LocalBusiness #SocialMedia #ContentCreation",
+        "website_description": "Elevate your online presence with our Social Media Content Accelerator Package designed specifically for small local businesses. This tailored package includes 5 captivating short-form video scripts, a complete content strategy guide, and engaging captions to help your brand stand out. Gain visibility and engage your audience effortlessly for just $150. Get started today and watch your business thrive!",
+        "outreach_template": "Subject: Elevate Your Business with Engaging Content\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out to you because I believe we can help enhance your online presence with our Social Media Content Accelerator Package. This tailored package includes short-form video scripts and a comprehensive content strategy designed for local businesses like yours. \n\nWould you be open to a consultation to discuss your unique content needs? Feel free to reply to this email or reach me on WhatsApp.\n\nIf you'd prefer not to receive further messages from me, just let me know, and I'll respect your choice.\n\nBest regards,\n[Your Name]\n[Your Contact Info]",
+        "discovery_questions": [
+          "What social media channels are you currently using for your business?",
+          "What specific challenges are you facing in creating engaging content?",
+          "Can you describe your target audience and what they value most?",
+          "What unique aspects of your business would you like to highlight?",
+          "How frequently do you currently post on social media?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Overview of Your Business & Goals",
+          "3. The Importance of Engaging Content",
+          "4. Package Details",
+          "   - Video Scripts",
+          "   - Content Strategy Guide",
+          "   - Captions",
+          "5. Benefits of the Package",
+          "6. Investment Cost",
+          "7. Next Steps",
+          "8. Q&A"
+        ],
+        "call_to_action": "Ready to boost your engagement? Contact us today to get started!",
+        "payment_template": "Subject: Next Steps for Your Content Strategy\n\nHi [Client's Name],\n\nThank you for your interest in our Social Media Content Accelerator Package! To move forward, we’ll need to discuss the payment process and any additional details before we begin crafting your tailored content.\n\nPlease let me know your preferred time to connect.\n\nIf you would prefer not to receive any more emails from me, please feel free to let me know.\n\nLooking forward to hearing from you soon!\n\nBest,\n[Your Name]\n[Your Contact Info]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
