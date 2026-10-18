@@ -35713,6 +35713,63 @@
         "payment_template": "Subject: Follow-Up on Your Recent Order\n\nHi [Name],\n\nI hope you’re doing well! I wanted to follow up regarding your recent inquiry about our Social Media Content Boost Package. Could you please confirm if you’re ready to proceed so we can set up the next steps?\n\nLooking forward to hearing from you soon!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792351212222",
+      "created_at": "2026-10-18T19:20:12.223011+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Booster Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form content that resonates with their audience and drives interaction.",
+        "solution": "A tailored content package that includes a month’s worth of short-form video scripts, optimized for TikTok, Instagram Reels, and YouTube Shorts, along with catchy captions.",
+        "deliverables": [
+          "4 short-form video scripts for TikTok",
+          "4 short-form video scripts for Instagram Reels",
+          "4 short-form video scripts for YouTube Shorts",
+          "12 engaging captions for social media posts"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Elevate your social media game with professionally crafted, engaging content that drives audience interaction without the stress of constant creation.",
+        "sales_angle": "Unlock the power of effective storytelling through short videos that attract and engage your target audience.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Content marketing through blog posts",
+          "Networking in online small business communities"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator with an existing social media account",
+          "Open to experimenting with video content formats"
+        ],
+        "next_action": "Contact Luna via email or WhatsApp to schedule a consultation and get started on transforming your social media strategy."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media presence with our Social Media Content Booster Package! Perfect for small businesses and content creators struggling to create engaging short-form content. Get 4 video scripts for TikTok, Instagram Reels, and YouTube Shorts, plus 12 catchy captions! 💡 Transform your strategy today! #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Unlock your social media potential with our Social Media Content Booster Package! Designed for small businesses and content creators, this comprehensive package includes a month’s worth of tailored short-form video scripts optimized for TikTok, Instagram Reels, and YouTube Shorts, along with captivating captions. Elevate your presence, engage your audience, and simplify your content creation process. Get started today!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Content!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity to enhance your social media presence with our Social Media Content Booster Package. It includes tailored video scripts and engaging captions designed specifically for platforms like TikTok, Instagram Reels, and YouTube Shorts. \n\nAre you open to discussing how this could benefit your business?\n\nBest regards,\n\nLuna \n\nP.S. If this isn’t of interest, feel free to let me know!",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "What platforms do you currently use, and which ones do you find most challenging?",
+          "How do you currently create content for your social media accounts?",
+          "What types of engagement have you seen from your audience so far?",
+          "Are there specific themes or topics you want to focus on in your content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Proposed Solution: Social Media Content Booster Package",
+          "Deliverables Overview",
+          "Timeline for Delivery",
+          "Investment and Payment Options",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to transform your social media strategy? Contact Luna today to schedule a consultation!",
+        "payment_template": "Subject: Follow-Up on Your Recent Consultation\n\nHi [Name],\n\nThank you for considering our Social Media Content Booster Package! I wanted to touch base regarding the investment details. Please let me know if you have any questions or need further clarification.\n\nLooking forward to hearing from you soon!\n\nBest,\n\nLuna \n\nP.S. If you have decided not to move forward, just let me know, and I’ll ensure you’re not contacted again.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
