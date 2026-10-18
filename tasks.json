@@ -35426,6 +35426,64 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for considering our Social Media Content Package! We're excited to work with you. As we proceed, please let me know if you have any questions regarding payment options or the next steps.\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792333369079",
+      "created_at": "2026-10-18T14:22:49.079352+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Creation Package",
+        "target_customer": "Small businesses and content creators looking to boost their online engagement",
+        "customer_problem": "Many small businesses struggle to create engaging short-form video content that resonates with their audience, leading to low engagement on platforms like TikTok and Instagram.",
+        "solution": "A tailored video content creation package that includes scripts and editing guidance for short-form videos, designed to help businesses connect with their target audience and enhance their online presence.",
+        "deliverables": [
+          "Three short-form video scripts (up to 60 seconds each)",
+          "Basic editing guidelines for each video",
+          "Two social media post captions for each video",
+          "One strategic content distribution plan for TikTok and Instagram"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Create engaging short-form video content that attracts and retains audience attention, without the need for costly production backgrounds.",
+        "sales_angle": "Affordable, professional video content that fits your brand's voice and helps you stand out on social media.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Content marketing",
+          "Networking in relevant online communities"
+        ],
+        "qualification_criteria": [
+          "Existing social media presence",
+          "Basic understanding of video content",
+          "Willingness to engage with the content strategy"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to discuss your video content needs and schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Small business owners and content creators! Struggling to create engaging short-form video content? Our Short-Form Video Content Creation Package is here to boost your online engagement! Get three custom video scripts, editing guidelines, and social media captions designed for TikTok & Instagram—all for just $299! 🚀 Elevate your brand and connect with your audience today! DM us for more details! #VideoMarketing #SmallBusiness #ContentCreators",
+        "website_description": "Unlock the potential of your brand with our Short-Form Video Content Creation Package! Designed specifically for small businesses and content creators, this package provides tailored scripts, editing guidance, and a strategic distribution plan for TikTok and Instagram. Enhance your online presence and engage your audience with captivating video content—all at an affordable price of $299. Let's create something amazing together in just 10 days!",
+        "outreach_template": "Subject: Elevate Your Video Content Strategy! \n\nHi [Recipient's Name], \n\nI hope this message finds you well. I’m reaching out to introduce our Short-Form Video Content Creation Package tailored for small businesses like yours. If you’re looking to boost your engagement on platforms like TikTok and Instagram, this package may be exactly what you need! \n\nWould you be open to discussing how we can help create compelling video content that resonates with your audience? \n\nLooking forward to your thoughts! \n\nBest regards, \nLuna \n\n*If you prefer not to receive future messages, just let me know!*",
+        "discovery_questions": [
+          "What specific types of video content are you most interested in creating?",
+          "What platforms do you currently use for social media marketing?",
+          "How do you currently engage with your audience online?",
+          "What challenges have you faced in creating video content before?",
+          "What are your goals for video content in the next 6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solution: Short-Form Video Content Creation Package",
+          "Deliverables: Detailed list",
+          "Timeline for Delivery",
+          "Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to enhance your video content strategy? Contact us at luna.digital.operations@gmail.com to schedule a consultation!",
+        "payment_template": "Subject: Payment Confirmation \n\nHi [Recipient's Name], \n\nThank you for choosing our Short-Form Video Content Creation Package! Just a friendly reminder to finalize the payment process at your convenience. If you have any questions or need assistance, feel free to reach out. \n\nLooking forward to getting started! \n\nBest regards, \nLuna",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
