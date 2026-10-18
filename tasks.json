@@ -35825,6 +35825,63 @@
         "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Name],\n\nThank you for your interest in our Social Media Video Boost Package! To proceed, we can discuss the payment options at your convenience. Please let me know when you'd like to connect.\n\nLooking forward to collaborating with you!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792358503184",
+      "created_at": "2026-10-18T21:21:43.184556+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Starter Package",
+        "target_customer": "Small businesses or creators looking to establish a social media presence.",
+        "customer_problem": "Struggling to create engaging content consistently, leading to low online visibility.",
+        "solution": "A comprehensive starter package that provides a structured approach to creating effective social media content tailored to your brand.",
+        "deliverables": [
+          "3 short-form video scripts (TikTok/Instagram Reels)",
+          "5 social media captions tailored to your brand voice",
+          "Content calendar for 1 month",
+          "A 30-minute strategy consultation via video call"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Kickstart your social media presence with tailored content and strategic guidance to improve engagement.",
+        "sales_angle": "Enhance your online visibility and connect with your audience effectively without spending hours figuring out what to post.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing client testimonials",
+          "Content samples shared on professional networks",
+          "Collaborations with other local businesses or creators"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or creator with a defined target audience",
+          "Should have at least one active social media platform"
+        ],
+        "next_action": "Reach out via email or WhatsApp to discuss your needs and customizations."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media presence? Our Social Media Starter Package is designed for small businesses and creators! Get tailored video scripts, engaging captions, a content calendar, and a strategy consultation—all for just $150! Let’s kickstart your online journey. 📈💡 #SocialMedia #SmallBusiness #ContentCreation #OnlineVisibility",
+        "website_description": "Struggling to engage your audience online? Our Social Media Starter Package is the perfect solution for small businesses and creators looking to boost their social media presence. For just $150, receive custom video scripts, branded captions, a 1-month content calendar, and a video strategy consultation, all delivered in 10 days. Let's enhance your online visibility together!",
+        "outreach_template": "Subject: Let's Discuss Your Social Media Needs\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to see if you're currently facing any challenges with your social media presence. At Infinite Sauce, we offer a Social Media Starter Package tailored specifically for small businesses and creators like yourself.\n\nWould you be open to discussing how we can assist you in establishing a stronger online presence?\n\nLooking forward to hearing from you. If you’d prefer not to receive further messages, please let me know!\n\nBest regards,\n[Your Name]",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media strategy?",
+          "Which social media platforms are you currently using to connect with your audience?",
+          "Who is your target audience, and how do you currently engage with them?",
+          "What type of content resonates most with your audience?",
+          "Are there any specific goals you hope to achieve with your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding the Client's Needs",
+          "Overview of the Social Media Starter Package",
+          "Deliverables Breakdown",
+          "Timeline for Delivery",
+          "Pricing Overview",
+          "Next Steps",
+          "Conclusion and Contact Information"
+        ],
+        "call_to_action": "Contact us today to jumpstart your social media journey!",
+        "payment_template": "Subject: Payment Information for Your Social Media Starter Package\n\nHi [Client's Name],\n\nThank you for choosing our Social Media Starter Package! To proceed, please let me know your preferred payment method, and I'll provide you with the necessary details. If you have any questions about the package, feel free to ask!\n\nBest regards,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
