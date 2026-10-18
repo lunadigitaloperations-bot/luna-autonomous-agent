@@ -34966,6 +34966,62 @@
         "payment_template": "Subject: Confirmation for Your Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Engagement Boost Package! To proceed, please let me know if you’re ready to discuss the next steps regarding the payment process. Your engagement journey awaits, and I’m excited to assist you! \n\nFeel free to reach out with any questions.\n\nBest regards,\n[Your Name]\nLuna Digital Operations",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792304940533",
+      "created_at": "2026-10-18T06:29:00.533221+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Starter Kit",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging and professional social media content that attracts followers and customers.",
+        "solution": "A comprehensive package that includes tailored short-form video scripts, captions, and a content calendar to boost engagement on platforms like TikTok and Instagram.",
+        "deliverables": [
+          "5 short-form video scripts optimized for TikTok and Instagram Reels",
+          "5 engaging captions for social media posts",
+          "A 30-day content calendar outlining daily post ideas and scheduling"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your social media strategy with professionally crafted content that resonates with your audience.",
+        "sales_angle": "Empower your brand's voice and grow your community with our ready-to-use social media toolkit.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Partnerships with complementary brands"
+        ],
+        "qualification_criteria": [
+          "Business owner or content creator seeking to enhance social media presence",
+          "Willingness to collaborate and provide insights for content customization"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started on transforming your social media presence."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your social media game to the next level? Introducing our 30-Day Social Media Starter Kit! 📅✨ Designed for small businesses and content creators, this comprehensive package includes tailored video scripts, engaging captions, and a content calendar to boost your online presence! Don't miss out on enhancing your brand's voice. Contact us today to get started! #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Unlock your online potential with our 30-Day Social Media Starter Kit! Tailored for small businesses and content creators, this kit includes 5 short-form video scripts optimized for TikTok and Instagram Reels, 5 engaging social media captions, and a content calendar filled with daily post ideas. Enhance your social media presence and engage your audience effectively – all for just $150! Transform your strategy and grow your community.",
+        "outreach_template": "Subject: Let's Enhance Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! We understand that creating engaging content for social media can be a challenge. That's why we’re excited to introduce our 30-Day Social Media Starter Kit, designed specifically for businesses like yours. \n\nIf you're interested, I'd love to discuss how we can tailor this kit to fit your needs. \n\nLooking forward to your thoughts!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n\nP.S. If you prefer not to receive further messages, just let me know!",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What specific challenges are you facing with your social media content?",
+          "How do you currently engage with your audience online?",
+          "What would an ideal social media strategy look like for your brand?",
+          "Are you open to collaborating on content ideas tailored to your audience?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the 30-Day Social Media Starter Kit",
+          "Deliverables Breakdown",
+          "How This Package Will Benefit Your Brand",
+          "Pricing Information",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Payment Information for Your Order\n\nHi [Name],\n\nThank you for choosing our 30-Day Social Media Starter Kit! To proceed, please let us know how you would like to make your payment, and we'll provide the necessary details. \n\nLooking forward to working together!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n\nP.S. If you wish to opt-out from our communication, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
