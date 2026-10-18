@@ -34623,6 +34623,63 @@
         "payment_template": "Subject: Payment and Next Steps\n\nHi [Recipient's Name],\n\nThank you for discussing the 30-Day Content Kickstart Package. To proceed, let's talk about the payment details and scheduling. Please let me know if you have any questions or if you'd like to confirm the next steps.\n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792283592321",
+      "created_at": "2026-10-18T00:33:12.321881+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Video Starter Pack",
+        "target_customer": "Small businesses or content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging and effective short-form video content for platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "solution": "A comprehensive package offering tailored short-form video scripts, captions, and initial content strategy, designed to enhance online engagement and visibility.",
+        "deliverables": [
+          "3 customized short-form video scripts (up to 60 seconds each)",
+          "3 engaging captions for each video",
+          "Basic content strategy outline for social media growth"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media engagement and reach with professionally crafted video content that resonates with your audience.",
+        "sales_angle": "Elevate your online presence without the hassle of creating content from scratch. Let us do the heavy lifting!",
+        "organic_discovery_methods": [
+          "Social media advertisements",
+          "Word of mouth",
+          "Online community forums",
+          "Content marketing through blogs"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Looking to increase engagement and growth"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Introducing our Social Media Video Starter Pack! 📹✨ Designed for small businesses and content creators, this package includes 3 customized short-form video scripts, engaging captions, and a basic content strategy to boost your online presence. Let us do the heavy lifting while you connect with your audience! Get started today for just $150. #SocialMedia #VideoContent #EngagementBoost #SmallBusiness",
+        "website_description": "Transform your social media presence with our Social Media Video Starter Pack! Perfect for small businesses and content creators, this comprehensive package includes 3 custom short-form video scripts (up to 60 seconds each), 3 engaging captions for each video, and a basic content strategy outline. For just $150, enhance your engagement and visibility in just 7 days! Elevate your online presence without the hassle—let us do the hard work for you.",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our Social Media Video Starter Pack, designed specifically for small businesses and content creators. If you've been struggling to create engaging short-form videos for platforms like TikTok, Instagram Reels, and YouTube Shorts, this package could be a game-changer for you.\n\nIt includes 3 customized video scripts, engaging captions, and a basic content strategy — all for just $150. \n\nIf you're interested in learning more or have any questions, please feel free to reach out!\n\nBest regards,\n\n[Your Name]\n[Your Contact Information]\n\nP.S. If you’re not interested, just let me know and I won’t reach out again.",
+        "discovery_questions": [
+          "What social media platforms are you currently using for your business?",
+          "Have you tried creating video content for social media before? If yes, how did it perform?",
+          "What specific goals do you have for your social media engagement?",
+          "Are there any particular styles or themes you prefer for your video content?",
+          "How do you currently measure success on your social media platforms?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of current social media efforts",
+          "Identification of challenges with short-form video content",
+          "Proposed solution: Social Media Video Starter Pack",
+          "Deliverables: Custom scripts, captions, and strategy",
+          "Timeline for delivery",
+          "Investment details",
+          "Next steps and contact information"
+        ],
+        "call_to_action": "Ready to get started? Contact us via email or WhatsApp today!",
+        "payment_template": "Subject: Payment Details for Your Starter Pack\n\nHi [Name],\n\nThank you for your interest in our Social Media Video Starter Pack! To proceed, we can discuss the payment process and preferred method that works best for you. Please let me know when you’re available for a quick chat, or feel free to respond to this email.\n\nLooking forward to working with you!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
