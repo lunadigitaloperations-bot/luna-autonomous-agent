@@ -35194,6 +35194,68 @@
         "payment_template": "Subject: Payment Process Inquiry\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Content Boost Package! To proceed with the payment process, please let me know your preferred method, and I'll provide you with the necessary details. \n\nIf you have any questions or need further clarification, feel free to reach out. \n\nBest,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792318976710",
+      "created_at": "2026-10-18T10:22:56.710649+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Video Engagement Boost Package",
+        "target_customer": "Small business owners and creators seeking to enhance online engagement.",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and drives interaction.",
+        "solution": "Develop a custom content strategy and create three short-form videos per week for 30 days, tailored to the client's brand and audience.",
+        "deliverables": [
+          "Initial content strategy consultation (1 hour)",
+          "Custom video script for each of the 12 videos",
+          "Production of 12 short-form videos (30-60 seconds each)",
+          "Optimized captions for each video",
+          "Best practices guide for posting and engagement"
+        ],
+        "suggested_price_usd": 600,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Boost your online presence and engage your audience with professionally crafted video content tailored just for you.",
+        "sales_angle": "Transform your social media strategy with a consistent flow of engaging video content that speaks directly to your target audience.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word-of-mouth referrals",
+          "Online business forums"
+        ],
+        "qualification_criteria": [
+          "Active on at least one social media platform",
+          "Open to collaboration and feedback",
+          "Desire to improve online engagement"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule your initial consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your online presence with our 30-Day Video Engagement Boost Package! 🎥✨ Tailored for small business owners and creators, we’ll help you captivate your audience with professionally crafted short-form videos. Ready to transform your social media strategy? Contact us today! #VideoMarketing #SocialMedia #EngagementBoost",
+        "website_description": "Are you a small business owner or creator struggling to connect with your audience? Our 30-Day Video Engagement Boost Package offers a custom content strategy and the production of 12 engaging short-form videos, professionally tailored to resonate with your brand and audience. Elevate your online presence and engagement—get started today!",
+        "outreach_template": "Subject: Elevate Your Online Engagement\n\nHi [Prospect's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to boost your online engagement through our 30-Day Video Engagement Boost Package. \n\nWe specialize in creating tailored video content that resonates with your audience and drives interaction. If you're interested in enhancing your social media strategy, I’d love to schedule a brief consultation with you. \n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn't the right time, feel free to opt-out from future messages.",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current video content?",
+          "How would you describe your target audience?",
+          "What goals do you hope to achieve with enhanced video engagement?",
+          "Which social media platforms are you currently using for your business?",
+          "Are there particular themes or messages you want to convey in your videos?"
+        ],
+        "proposal_outline": [
+          "I. Introduction",
+          "II. Customer Challenges",
+          "III. Proposed Solution",
+          "   A. Content Strategy Consultation",
+          "   B. Video Scripting",
+          "   C. Video Production",
+          "   D. Optimized Captions",
+          "   E. Best Practices Guide",
+          "IV. Timeline and Deliverables",
+          "V. Investment",
+          "VI. Next Steps"
+        ],
+        "call_to_action": "Ready to enhance your online engagement? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Confirmation Pending\n\nHi [Client's Name],\n\nI hope you are doing well! I wanted to touch base regarding the payment for our 30-Day Video Engagement Boost Package. Please let me know if you have any questions or if there's anything further you need from my end to finalize the details.\n\nThank you for your attention! \n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
