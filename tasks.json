@@ -35939,6 +35939,65 @@
         "payment_template": "Subject: Payment Details for Your Package\n\nHi [Name],\n\nThank you for choosing to enhance your social media presence with our Social Media Boost Package! To get started, we can discuss the payment details at your earliest convenience. Please let me know what works for you.\n\nLooking forward to collaborating with you!\n\nBest,\nLuna\n\nP.S. If you prefer not to continue, just let me know, and I'll respect your decision.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792365578186",
+      "created_at": "2026-10-18T23:19:38.187005+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Mini Video Marketing Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence.",
+        "customer_problem": "Many small businesses and creators struggle with creating engaging video content that resonates with their audience, which can lead to low engagement rates.",
+        "solution": "A comprehensive package that includes short-form video scripts, two video content pieces for TikTok and Instagram Reels, and captions tailored to the target audience's interests.",
+        "deliverables": [
+          "2 short-form video scripts (up to 60 seconds each)",
+          "2 edited videos for TikTok and Instagram Reels (up to 60 seconds each)",
+          "Custom captions for each video",
+          "A brief content strategy guide to improve video engagement"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Transform your online presence with engaging, tailored video content that grabs attention and drives interactions.",
+        "sales_angle": "Empower your brand with professional video content without the hassle and expense of traditional marketing agencies.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word-of-mouth referrals",
+          "Online business communities"
+        ],
+        "qualification_criteria": [
+          "Must have a social media presence on TikTok or Instagram",
+          "Open to exploring video content strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started."
+      },
+      "sales_assets": {
+        "social_post": "🎥✨ Elevate your brand with our Mini Video Marketing Package! Perfect for small businesses and content creators looking to engage their audience with captivating video content. Get 2 short-form video scripts, 2 edited videos for TikTok and Instagram Reels, and tailored captions—all for just $200! 🚀 Let's transform your online presence together! Contact us today! #VideoMarketing #SmallBusiness #ContentCreators #SocialMediaEngagement",
+        "website_description": "Introducing our Mini Video Marketing Package—your gateway to engaging and captivating video content! Tailored for small businesses and content creators, this package offers 2 short-form video scripts, 2 edited videos for TikTok and Instagram Reels, and custom captions. Priced at just $200 and delivered in 10 days, enhance your online presence and drive engagement effortlessly. Reach out to discuss how we can elevate your brand!",
+        "outreach_template": "Subject: Let's Elevate Your Brand with Video Content!\n\nHi [Name],\n\nI hope this message finds you well! My name is [Your Name] from Infinite Sauce. We help small businesses and content creators enhance their online presence through engaging video content. \n\nI’d love to discuss how our Mini Video Marketing Package can empower your brand. It includes tailored video scripts, edited content for TikTok and Instagram Reels, and custom captions—all designed to resonate with your audience.\n\nIf you’re interested, please feel free to reach out. If this isn’t the right time, no worries at all!  \n\nBest regards,  \n[Your Name]  \n[Your Contact Information]",
+        "discovery_questions": [
+          "What type of content have you found most engaging for your audience?",
+          "Do you currently use video content in your marketing efforts?",
+          "What platforms are you most focused on for promoting your brand?",
+          "What challenges do you face with your current video content strategy?",
+          "How do you measure the success of your video campaigns?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Understanding Your Needs",
+          "3. Overview of the Mini Video Marketing Package",
+          "   - Deliverables",
+          "   - Timeline",
+          "   - Pricing",
+          "4. Value Proposition",
+          "5. Next Steps",
+          "6. Q&A",
+          "7. Conclusion"
+        ],
+        "call_to_action": "Ready to transform your online presence? Contact us today to get started with your Mini Video Marketing Package!",
+        "payment_template": "Subject: Payment Options for Your Mini Video Marketing Package\n\nHi [Name],\n\nThank you for your interest in our Mini Video Marketing Package! We offer multiple payment options to make the process as simple as possible. \n\nPlease let us know your preferred method, and we can provide further details. If you have any other questions or concerns, feel free to reach out. We’re here to help!\n\nBest regards,  \n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
