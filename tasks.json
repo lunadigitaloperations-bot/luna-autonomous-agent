@@ -36279,6 +36279,66 @@
         "payment_template": "Subject: Follow-Up on Your Package Order\n\nHi [Recipient's Name],\n\nI hope you're enjoying your experience with our Social Media Boost Package! I wanted to politely follow up regarding the payment process. If you could confirm the next steps, that would be greatly appreciated.\n\nThank you for your attention, and I'm here to help if you have any questions!\n\nWarm regards,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792387764729",
+      "created_at": "2026-10-19T05:29:24.729535+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Momentum Package",
+        "target_customer": "Small business owners and content creators looking to enhance online visibility",
+        "customer_problem": "Struggling to consistently create engaging short-form video content for social media platforms",
+        "solution": "A tailored package that provides monthly content, optimized for TikTok, Instagram Reels, and YouTube Shorts, along with strategic guidance.",
+        "deliverables": [
+          "4 short-form video scripts per month",
+          "2 finished short-form videos (editing included)",
+          "Crafted captions for each video",
+          "Monthly content strategy session (60 minutes)",
+          "Performance overview and content recommendations"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Boost your online presence with engaging and tailored video content designed for your audience, freeing you up to focus on running your business.",
+        "sales_angle": "Elevate your social media presence and reach your target audience with our dedicated support, ensuring you have the right content to engage effectively.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Networking events",
+          "Online business communities"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Open to experimentation with new content styles",
+          "Willing to participate in strategy sessions"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media presence today with our Social Media Momentum Package! Perfect for small business owners and content creators, we offer tailored video content and strategic support so you can engage effectively with your audience. Let us help you stand out! 💡✨ #SocialMediaMarketing #ContentCreation #SmallBusiness",
+        "website_description": "Enhance your online visibility with our Social Media Momentum Package! Designed for small business owners and content creators, this package includes monthly video scripts, finished videos, crafted captions, and strategic guidance. Boost your online presence with tailored content that resonates with your audience, all while focusing on what you do best—running your business.",
+        "outreach_template": "Subject: Let's Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out and introduce our new Social Media Momentum Package, designed specifically for small business owners and content creators. We understand the challenges of consistent content creation, and our tailored solution provides everything from video scripts to editing and strategic guidance.\n\nWould you be interested in scheduling a consultation to explore how we can support your online visibility? \n\nLooking forward to hearing from you! \n\nBest regards,\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n\nIf you're not interested, feel free to let me know, and I won't reach out again.",
+        "discovery_questions": [
+          "What specific challenges do you face with your current social media content?",
+          "How often do you currently post short-form video content?",
+          "Are there particular platforms where you're looking to increase your visibility?",
+          "What are your goals for your social media presence over the next few months?",
+          "How open are you to experimenting with new content styles?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Business",
+          "Overview of the Social Media Momentum Package",
+          "Detailed Deliverables",
+          "Timeline and Estimated Delivery",
+          "Pricing Structure",
+          "Next Steps for Implementation",
+          "Q&A"
+        ],
+        "call_to_action": "Contact us now to schedule your consultation and start boosting your online presence!",
+        "payment_template": "Subject: Payment Details for Your Social Media Momentum Package\n\nHi [Name],\n\nThank you for considering our Social Media Momentum Package! As we prepare to get started, I wanted to discuss the payment details with you. Once we finalize everything, I'll share the necessary instructions for processing your payment.\n\nPlease let me know if you have any questions or if you're ready to proceed!\n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n\nIf you're no longer interested, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
