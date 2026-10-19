@@ -36339,6 +36339,61 @@
         "payment_template": "Subject: Payment Details for Your Social Media Momentum Package\n\nHi [Name],\n\nThank you for considering our Social Media Momentum Package! As we prepare to get started, I wanted to discuss the payment details with you. Once we finalize everything, I'll share the necessary instructions for processing your payment.\n\nPlease let me know if you have any questions or if you're ready to proceed!\n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n\nIf you're no longer interested, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792391944783",
+      "created_at": "2026-10-19T06:39:04.783731+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Three-Part Short-Form Video Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and drives engagement.",
+        "solution": "A comprehensive package that includes scriptwriting, filming guidance, and editing tips to create three unique short-form videos tailored to the client's brand and messaging.",
+        "deliverables": [
+          "Three custom video scripts (up to 30 seconds each)",
+          "Filming and editing guidelines tailored to the client’s platform (TikTok, Instagram Reels, or YouTube Shorts)",
+          "One feedback session to refine the scripts and approach"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your ideas into engaging short-form videos that resonate with your audience, all while saving you time and effort.",
+        "sales_angle": "Stand out in a crowded digital space with captivating videos that tell your brand story effectively.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word-of-mouth referrals",
+          "Content marketing strategies"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or a content creator with an established social media presence",
+          "Open to feedback and collaboration during the script development process"
+        ],
+        "next_action": "Contact via email or WhatsApp to discuss your needs and schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your online presence with our Three-Part Short-Form Video Package! 📹✨ Perfect for small businesses and content creators, this package offers custom scripts, filming guidance, and editing tips to create engaging videos that captivate your audience. Ready to transform your ideas into impactful visuals? 💡🌟 #VideoMarketing #ContentCreation #SmallBusiness",
+        "website_description": "Unlock the power of engaging short-form videos with our Three-Part Short-Form Video Package. Designed for small businesses and content creators, this comprehensive solution includes three custom video scripts, tailored filming and editing guidelines, and a feedback session. Save time and effort while telling your brand story effectively and standing out in a crowded digital space. Contact us today to level up your video content!",
+        "outreach_template": "Subject: Let's Enhance Your Online Presence! \n\nHi [Name],\n\nI hope this message finds you well! My name is Luna, and I'm excited to share an opportunity to enhance your brand's online presence through engaging short-form videos. Our Three-Part Short-Form Video Package is tailored for small businesses and content creators like yourself. \n\nThis package includes: \n- Three custom video scripts (up to 30 seconds each) \n- Filming and editing guidelines tailored to your platform \n- One feedback session for refining your ideas\n\nIf you're interested in elevating your video content, I’d love to discuss your needs further. Feel free to reply or reach out via email or WhatsApp. \n\nBest regards, \nLuna\n\n(If this isn’t for you, just let me know, and I won’t reach out again.)",
+        "discovery_questions": [
+          "What platforms are you currently using for your video content?",
+          "What challenges are you facing when creating short-form videos?",
+          "Who is your target audience, and what key messages do you want to convey?",
+          "Have you previously worked with video content, and if so, what was your experience?",
+          "What timeline do you have in mind for creating your video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Three-Part Short-Form Video Package",
+          "Deliverables Detail",
+          "Benefits of the Package",
+          "Client Qualification Criteria",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to elevate your video content? Contact us today to get started!",
+        "payment_template": "Subject: Payment Information for Your Package \n\nHi [Name],\n\nThank you for expressing interest in our Three-Part Short-Form Video Package! Once you confirm your commitment, I’ll provide you with the payment instructions. \n\nLooking forward to working together!\n\nBest, \nLuna\n\n(If you'd prefer not to continue this conversation, please let me know.)",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
