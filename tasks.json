@@ -35998,6 +35998,61 @@
         "payment_template": "Subject: Payment Options for Your Mini Video Marketing Package\n\nHi [Name],\n\nThank you for your interest in our Mini Video Marketing Package! We offer multiple payment options to make the process as simple as possible. \n\nPlease let us know your preferred method, and we can provide further details. If you have any other questions or concerns, feel free to reach out. We’re here to help!\n\nBest regards,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792370015064",
+      "created_at": "2026-10-19T00:33:35.064682+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Package for Creators",
+        "target_customer": "Small business owners and content creators looking to increase engagement on social media.",
+        "customer_problem": "Struggling to create engaging short-form videos that resonate with their audience and showcase their brand effectively.",
+        "solution": "A comprehensive service that provides customized short-form video scripts tailored to the client's brand voice and audience, along with guidance on filming and posting strategies.",
+        "deliverables": [
+          "Three customized short-form video scripts (up to 60 seconds each)",
+          "Step-by-step filming and posting instructions",
+          "Engagement tips based on current trends"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock your brand's creativity with tailored video scripts that drive engagement without the overwhelming hassle.",
+        "sales_angle": "Get noticed on social media! Our expert-crafted scripts help you tell your story in 60 seconds or less.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Online forums or groups related to small businesses and creators"
+        ],
+        "qualification_criteria": [
+          "Must have an established social media presence",
+          "Open to using video content for marketing"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your specific needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Attention small business owners and creators! Are you struggling to make engaging short-form videos that truly showcase your brand? Our Short-Form Video Content Package is designed just for you! 🎥✨ Get THREE customized video scripts, filming instructions, and trendy engagement tips, all for just $150! Let’s unlock your creativity together! Contact us today to get started! #VideoMarketing #ContentCreation #SmallBusinessSupport",
+        "website_description": "Transform your social media presence with our Short-Form Video Content Package! Ideal for small business owners and content creators, we provide three customized video scripts up to 60 seconds each, complete with step-by-step filming and posting strategies. Get expert engagement tips based on current trends, all for just $150. Within 7 days, unlock your brand's creativity and drive social media engagement like never before. Reach out now to learn more!",
+        "outreach_template": "Subject: Elevate Your Video Marketing! \n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to share a tailored video content service that could greatly enhance your social media engagement. Our Short-Form Video Content Package offers customized video scripts, filming guidance, and engagement tips to help you connect authentically with your audience. \n\nIf you're interested, I would love to discuss further how we can support your video marketing efforts! Please let me know if this resonates with you.\n\nWishing you all the best,\n\n[Your Name] \n[Your Contact Information] \n\nP.S. If you'd prefer not to receive these messages, just let me know!",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media video content?",
+          "How frequently do you post videos on your social media platforms?",
+          "What type of engagement are you hoping to achieve with your video content?",
+          "Do you have a specific audience in mind for your video campaigns?",
+          "What are your top three goals for your social media presence in the next six months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the client's video marketing challenges",
+          "Proposed solution: Short-Form Video Content Package",
+          "Deliverables overview",
+          "Timeline for delivery",
+          "Investment and pricing",
+          "Next steps"
+        ],
+        "call_to_action": "Ready to boost your social media engagement? Contact us today to get started!",
+        "payment_template": "Subject: Payment Details for Your Video Content Package \n\nHi [Name],\n\nThank you for your interest in our Short-Form Video Content Package! To proceed, we’ll need to confirm the payment details. Please let me know how you would like to move forward with the payment so we can get started on crafting your customized video scripts. \n\nLooking forward to your response!\n\nBest regards,\n\n[Your Name] \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
