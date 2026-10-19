@@ -36624,6 +36624,61 @@
         "payment_template": "Subject: Payment Confirmation for Your Short-Form Video Package\n\nHi [Name],\n\nThank you for choosing our Engaging Short-Form Video Package! We're excited to get started. Please let us know how you would like to proceed with the payment, and feel free to reach out if you have any questions.\n\nAs a reminder, you can opt-out of these communications at any time.\n\nBest, \n[Your Name]\n[Your Position]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792409376909",
+      "created_at": "2026-10-19T11:29:36.909754+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly Content Creation Package",
+        "target_customer": "Small business owners and creators looking to boost their online presence",
+        "customer_problem": "Struggling to create engaging video content consistently for social media",
+        "solution": "A monthly package providing tailored short-form video scripts and editing guidance for TikTok and Instagram Reels.",
+        "deliverables": [
+          "4 short-form video scripts (one per week)",
+          "Editing tips and best practices for each video",
+          "One content strategy session (30 minutes) to align on themes and goals"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Consistent, quality content that resonates with your audience, saving you time and enhancing your digital presence.",
+        "sales_angle": "Stay relevant in a fast-paced digital world with easy-to-follow scripts that engage and entertain your audience.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word-of-mouth referrals",
+          "Networking in online communities"
+        ],
+        "qualification_criteria": [
+          "Has a social media presence (TikTok, Instagram)",
+          "Willing to engage with the content creation process"
+        ],
+        "next_action": "Contact via email or WhatsApp to schedule a consultation"
+      },
+      "sales_assets": {
+        "social_post": "📈 Elevate your online presence with our Monthly Content Creation Package! 🚀 Struggling to keep up with engaging video content for TikTok and Instagram? We provide tailored scripts, editing tips, and a strategy session to help you shine! Let's boost your engagement together! 💡💻 #ContentCreation #SocialMediaMarketing #SmallBusiness",
+        "website_description": "Unlock your potential with our Monthly Content Creation Package designed for small business owners and creators. Get four tailored short-form video scripts, editing guidance, and a 30-minute content strategy session to align on your themes and goals. Save time and resonate with your audience while staying relevant in today's fast-paced digital world.",
+        "outreach_template": "Subject: Let's Boost Your Online Engagement\n\nHi [Name],\n\nI hope this message finds you well! I came across your work on [Platform] and wanted to reach out. I believe our Monthly Content Creation Package could significantly enhance your social media presence.\n\nWe provide tailored short-form video scripts, editing tips, and a strategy session to help you create engaging content consistently. Would you be open to scheduling a 30-minute consultation to discuss how we can support your goals?\n\nIf this isn’t the right timing for you, please let me know, and I’ll be sure to respect your wishes.\n\nBest regards,\n[Your Name]",
+        "discovery_questions": [
+          "What platforms are you currently using for your social media presence?",
+          "How often do you post video content on social media?",
+          "What specific challenges do you face when creating video content?",
+          "What are your main goals for your social media engagement?",
+          "Are you open to feedback and collaboration during the content creation process?"
+        ],
+        "proposal_outline": [
+          "Introduction: Briefly introduce the package.",
+          "Current Situation: Acknowledge the customer's challenges.",
+          "Solution Overview: Describe the Monthly Content Creation Package in detail.",
+          "Deliverables: List the specific deliverables the customer will receive.",
+          "Value Proposition: Highlight the benefits they will gain.",
+          "Next Steps: Outline the process to get started.",
+          "Closing: A respectful reminder of the consultation offer."
+        ],
+        "call_to_action": "Ready to enhance your digital presence? Contact us today via email or WhatsApp to schedule your consultation!",
+        "payment_template": "Subject: Your Monthly Content Creation Package\n\nHi [Name],\n\nThank you for your interest in our Monthly Content Creation Package! Just a quick reminder that we can proceed with the next steps once you're ready. Please feel free to reach out if you have any questions or need further assistance.\n\nLooking forward to your response!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
