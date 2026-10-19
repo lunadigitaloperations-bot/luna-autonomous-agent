@@ -37251,6 +37251,63 @@
         "payment_template": "Subject: Payment Confirmation for Your Package\n\nHi [Recipient's Name],\n\nI hope you’re doing well! I just wanted to touch base regarding the payment for the 30-Day Social Media Jumpstart Package. Could you confirm if you've had a chance to review the payment details we discussed?\n\nPlease let me know if you have any questions or if there's anything else I can assist you with.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792448784089",
+      "created_at": "2026-10-19T22:26:24.089566+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Content Creation Package",
+        "target_customer": "Small businesses and creators looking to boost social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and promotes brand awareness",
+        "solution": "A comprehensive content creation service that includes custom scripts and video ideas tailored for TikTok, Instagram Reels, and YouTube Shorts",
+        "deliverables": [
+          "Three original short-form video scripts (each 60 seconds)",
+          "Three content ideas for TikTok or Instagram Reels",
+          "Three captions optimized for engagement",
+          "Content strategy guidance for social media platforms"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your social media presence with professionally crafted video content that drives engagement and resonates with your audience.",
+        "sales_angle": "Unlock your brand's potential with expert content creation tailored specifically for your target market.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Networking within local business communities",
+          "Word of mouth"
+        ],
+        "qualification_criteria": [
+          "Active presence on at least one social media platform",
+          "Eager to enhance brand visibility through video content",
+          "Willing to collaborate and provide feedback"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to create eye-catching videos that grab attention? Our Engaging Content Creation Package is here to help! Get custom scripts, engaging content ideas, and strategy guidance tailored for TikTok, Instagram Reels, and YouTube Shorts—all for just $150! Let us elevate your brand's social media presence. Ready to get started? 📩 Reach out today! #SmallBusiness #ContentCreation #SocialMediaMarketing",
+        "website_description": "Transform your social media presence with our Engaging Content Creation Package! Designed for small businesses and creators, this comprehensive service provides you with three original 60-second video scripts, engaging content ideas for TikTok and Instagram Reels, captivating captions, and expert content strategy guidance—all for just $150. Overcome the challenge of making your brand stand out and connect with your audience effectively!",
+        "outreach_template": "Subject: Boost Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because I believe our Engaging Content Creation Package could significantly enhance your brand's visibility on social media. \n\nWith custom scripts, tailored video ideas, and strategic guidance, we aim to help small businesses and creators like yourself create engaging content that truly resonates with your audience. \n\nWould you be open to discussing how we can work together? Looking forward to your thoughts!\n\nBest,\n[Your Name]  \n[Your Contact Information]  \n\n*If you're not interested, please feel free to let me know, and I'll remove you from my list.*",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What specific goals do you have for your social media presence?",
+          "Have you created any video content before? If so, what were the results?",
+          "How often do you plan to post new content?",
+          "What type of audience are you hoping to engage with your videos?"
+        ],
+        "proposal_outline": [
+          "Introduction to the Engaging Content Creation Package",
+          "Overview of deliverables",
+          "Detailed description of the script and content ideas",
+          "Content strategy guidance",
+          "Timeline and estimated delivery",
+          "Pricing details",
+          "Next steps and contact information"
+        ],
+        "call_to_action": "Ready to enhance your brand’s social media presence? Contact us via email or WhatsApp to get started!",
+        "payment_template": "Subject: Payment Details for Your Engaging Content Creation Package\n\nHi [Name],\n\nThank you for choosing our Engaging Content Creation Package! We're excited to start working with you. To proceed, please let us know if you have any questions regarding the payment process, and we’ll provide you with the necessary details.\n\nLooking forward to creating amazing content together!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n\n*If you're not interested in proceeding at this time, just let me know, and I’ll ensure you don’t receive further messages from us.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
