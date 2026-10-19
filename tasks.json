@@ -37195,6 +37195,62 @@
         "payment_template": "Subject: Next Steps for Your Kickstart Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Kickstart Package! To proceed, we kindly ask for the initial investment of $250. Please let us know how you’d like to handle this, and we can share the necessary details. \n\nIf you have any questions or concerns, feel free to reach out!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792445197735",
+      "created_at": "2026-10-19T21:26:37.735676+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Jumpstart Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence.",
+        "customer_problem": "Many small businesses and creators struggle to consistently create engaging social media content, leading to reduced visibility and engagement.",
+        "solution": "A structured 30-day content plan tailored to the customer's brand, including engaging short-form video scripts and posting schedules for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "30-day content calendar",
+          "15 short-form video scripts (5 for each platform)",
+          "5 engaging post captions",
+          "1 strategy session to refine content approach"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Enhance your social media presence with tailored content that resonates with your audience, boosts engagement, and saves you time.",
+        "sales_angle": "Transform your social media in just one month with a personalized content strategy that fits your brand voice.",
+        "organic_discovery_methods": [
+          "Social media outreach",
+          "Word of mouth",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Open to collaboration",
+          "Basic understanding of social media platforms",
+          "Willingness to engage with the content"
+        ],
+        "next_action": "Contact us to schedule a free consultation and kickstart your social media transformation!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Introducing our 30-Day Social Media Jumpstart Package! Tailored content plans, engaging short-form video scripts, and expert strategy sessions—all designed to boost your visibility and engagement. Ready to transform your presence in just one month? Let’s chat! #SocialMedia #ContentCreation #SmallBusiness #JumpstartYourSocials",
+        "website_description": "Unlock your social media potential with our 30-Day Social Media Jumpstart Package! Designed for small business owners and content creators, this comprehensive package includes a tailored content calendar, short-form video scripts, engaging captions, and a strategy session. Enhance your brand's visibility and engagement while saving time with our expert support. Let’s transform your social media presence today!",
+        "outreach_template": "Subject: Let's Enhance Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I’m reaching out to share an exciting opportunity to elevate your social media presence. Our 30-Day Social Media Jumpstart Package is crafted specifically for small business owners and content creators who are looking for engaging ways to connect with their audience.\n\nI would love to schedule a quick chat to explore how we can assist you in achieving your social media goals. \n\nLooking forward to hearing from you!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn't of interest to you, please let me know and I’ll be sure to respect your time.",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media content?",
+          "Which platforms do you primarily use for your business, and how often do you post?",
+          "What type of content resonates most with your audience?",
+          "Are there specific goals you want to achieve with your social media efforts?",
+          "How do you currently measure success on your social media platforms?"
+        ],
+        "proposal_outline": [
+          "Introduction: Overview of the client’s needs and our objectives.",
+          "Project Scope: Explanation of the 30-Day Social Media Jumpstart Package deliverables.",
+          "Timeline: Detailed delivery schedule, including key milestones.",
+          "Budget: Breakdown of the pricing structure and payment options.",
+          "Next Steps: Action items and schedule for follow-up.",
+          "Conclusion: Reinforcement of the value proposition and call to action."
+        ],
+        "call_to_action": "Contact us today to schedule your free consultation and start transforming your social media presence!",
+        "payment_template": "Subject: Payment Confirmation for Your Package\n\nHi [Recipient's Name],\n\nI hope you’re doing well! I just wanted to touch base regarding the payment for the 30-Day Social Media Jumpstart Package. Could you confirm if you've had a chance to review the payment details we discussed?\n\nPlease let me know if you have any questions or if there's anything else I can assist you with.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
