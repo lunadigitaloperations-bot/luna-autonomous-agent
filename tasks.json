@@ -36108,6 +36108,64 @@
         "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Recipient's Name],\n\nThank you for expressing interest in our Engaging Mini Video Package! To proceed, we can discuss the details of the investment and get everything set up for your tailored content.\n\nPlease let me know a convenient time for you to connect or feel free to reach out to me at luna.digital.operations@gmail.com.\n\nThank you, and excited to work with you!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792376837722",
+      "created_at": "2026-10-19T02:27:17.722622+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Content Boost Package",
+        "target_customer": "Small businesses and creators looking to grow their TikTok presence",
+        "customer_problem": "Many small businesses struggle to create engaging content on TikTok that attracts followers and increases brand awareness.",
+        "solution": "A tailored content strategy that includes scriptwriting for short-form videos, content planning, and best practices to maximize engagement.",
+        "deliverables": [
+          "10 short-form video scripts tailored to the brand's niche",
+          "A 30-day content calendar with posting suggestions",
+          "Content strategy document with tips on hashtags, trends, and engagement",
+          "One revision round for scripts",
+          "Email support throughout the month"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your TikTok presence with engaging, ready-to-post content that resonates with your target audience.",
+        "sales_angle": "No time to create TikTok content? Get a month's worth of scripts and strategy tailored to your brand!",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Collaborations with influencers",
+          "Content sharing in niche communities"
+        ],
+        "qualification_criteria": [
+          "Must have an existing TikTok account",
+          "Committed to engaging with the content"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your TikTok to the next level? Our 30-Day TikTok Content Boost Package is designed for small businesses and creators looking to grow their presence with engaging, ready-to-post content! 🌟 Get tailored scripts, a content calendar, and ongoing support to connect with your audience. DM us to get started! 📩 #TikTokGrowth #ContentCreation #SmallBusiness",
+        "website_description": "Unlock your TikTok potential with our 30-Day TikTok Content Boost Package! Perfect for small businesses and creators, this package offers 10 tailored video scripts, a comprehensive 30-day content calendar, a customized strategy document, and email support. Dive in and watch your engagement soar! Start creating content that resonates today!",
+        "outreach_template": "Subject: Elevate Your TikTok Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out because I believe our 30-Day TikTok Content Boost Package could significantly enhance your brand's TikTok engagement. This package includes tailored video scripts, a content calendar, and expert guidance to help you connect with your audience effectively.\n\nIf you're interested, I’d love to discuss how we can help you thrive on TikTok! \n\nOf course, if this isn’t the right time, please feel free to opt out of future messages.\n\nBest regards,\n[Luna]\n[luna.digital.operations@gmail.com]",
+        "discovery_questions": [
+          "What goals do you have for your TikTok presence?",
+          "Who is your target audience on TikTok?",
+          "What type of content have you tried in the past?",
+          "How often do you plan to engage with followers on TikTok?",
+          "What challenges do you face with TikTok content creation?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Client Goals and Objectives",
+          "Package Overview",
+          "Deliverables",
+          "Timeline",
+          "Pricing",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Email us at luna.digital.operations@gmail.com to get started on transforming your TikTok content today!",
+        "payment_template": "Subject: Payment Information\n\nHi [Recipient's Name],\n\nThank you for moving forward with the 30-Day TikTok Content Boost Package! To finalize this, we can discuss the payment details. Please let me know your preferred method, and I will provide the necessary information.\n\nLooking forward to supporting your TikTok journey!\n\nBest,\n[Luna]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
