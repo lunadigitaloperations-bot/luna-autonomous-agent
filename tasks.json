@@ -36908,6 +36908,64 @@
         "payment_template": "Subject: Payment Confirmation for Your Video Content Package\n\nHi [Client's Name],\n\nThank you for choosing our Short-form Video Content Package! We're excited to help you elevate your online presence. At your convenience, please let us know if you have any questions or would like to discuss the next steps.\n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Company]  \n[Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792427451186",
+      "created_at": "2026-10-19T16:30:51.186551+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Video Content Package",
+        "target_customer": "Small businesses and creators looking to boost engagement on social media",
+        "customer_problem": "Struggling to produce consistent, engaging video content for platforms like TikTok and Instagram Reels.",
+        "solution": "A fully curated 30-day video content package tailored to your brand, including scriptwriting and editing, to help maintain a consistent posting schedule.",
+        "deliverables": [
+          "30 short-form video scripts (1 per day)",
+          "Editing guidelines for each video",
+          "Content calendar for daily posting",
+          "3 Instagram Reels templates",
+          "2 TikTok video concepts"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Engage your audience with high-quality video content without the stress of creating it yourself.",
+        "sales_angle": "Elevate your social media presence and connect with your audience through professionally crafted video content.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Word of mouth",
+          "Networking in online forums or events"
+        ],
+        "qualification_criteria": [
+          "Small business or content creator with an active social media presence",
+          "Willingness to engage with provided content",
+          "Clear brand identity"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our 30-Day Social Media Video Content Package is designed for small businesses and creators struggling to create engaging content! Get 30 scripts, editing guidelines, templates, and more—all tailored to your brand! Ready to get started? 📩 Contact us today! #SocialMedia #ContentCreation #SmallBusiness\n\n🌟 Engage your audience like never before! 🌟",
+        "website_description": "Boost your social media engagement with our 30-Day Social Media Video Content Package! Tailored specifically for small businesses and creators, this package includes 30 short-form video scripts, editing guidelines, a daily content calendar, and templates for Instagram Reels and TikTok video concepts—all designed to enhance your brand's online presence. For just $299, you'll receive everything you need to consistently connect with your audience without the stress of content creation!",
+        "outreach_template": "Subject: Elevate Your Social Media Experience\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to reach out and share an exciting opportunity that could benefit your social media presence. Our 30-Day Social Media Video Content Package offers a complete solution for small businesses and creators struggling with consistent video content.\n\nThis package includes engaging scripts, editing guidelines, and templates designed to resonate with your audience. If you're interested, I'd love to schedule a consultation to discuss how we can help you elevate your social media engagement.\n\nBest,\nLuna\n\nP.S. If this isn’t for you, feel free to let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What challenges are you currently facing in creating video content for your social media?",
+          "How often do you post video content on platforms like Instagram and TikTok?",
+          "What type of brand identity do you want to communicate through your videos?",
+          "Have you previously used video content to engage your audience? If so, what was your experience?",
+          "What are your main goals for your social media presence in the next 30 days?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Social Media Video Content Package",
+          "Detailed description of deliverables",
+          "Timeline for delivery",
+          "Investment (Price)",
+          "Next steps for collaboration",
+          "Conclusion and call to action"
+        ],
+        "call_to_action": "Contact us at luna.digital.operations@gmail.com to schedule your consultation and transform your social media presence today!",
+        "payment_template": "Subject: Payment Details for Your Order\n\nHi [Customer's Name],\n\nThank you for considering our 30-Day Social Media Video Content Package. To ensure we get started promptly, please let me know if you have any questions about the payment process or if you're ready to proceed. I'm here to assist!\n\nBest,\nLuna\n\nP.S. If you would prefer not to receive further messages, please just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
