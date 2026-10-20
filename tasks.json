@@ -38349,6 +38349,62 @@
         "payment_template": "Subject: Invoice Update\n\nHi [Name],\n\nI hope you are having a great day! I'm following up regarding the invoice for our 30-Day Social Media Content Boost Package. Once you're ready, please let me know so we can proceed with the next steps.\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nIf you’d prefer not to receive further updates, just let me know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792517417861",
+      "created_at": "2026-10-20T17:30:17.861038+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Growth Package",
+        "target_customer": "Small businesses and individual creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures attention and grows their audience",
+        "solution": "A 30-day package that includes a tailored content strategy, creation of 12 short-form video scripts and 12 engaging captions for TikTok, Instagram Reels, and YouTube Shorts, to boost social media visibility.",
+        "deliverables": [
+          "Custom content strategy document",
+          "12 short-form video scripts for TikTok, Instagram Reels, and YouTube Shorts",
+          "12 engaging captions tailored to each video",
+          "1 follow-up consultation to refine strategy"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Unlock your brand’s potential with professional, engaging content designed to grow your audience organically without needing extensive video editing skills.",
+        "sales_angle": "In just 30 days, you'll have a suite of high-quality scripts and captions ready to increase engagement and grow your following on all major platforms!",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Collaborations with influencers"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willing to engage in the content creation process"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Introducing our **30-Day Social Media Growth Package**! Get tailored content strategies, 12 engaging short-form video scripts, and captivating captions for TikTok, Instagram Reels, and YouTube Shorts! 🌟 Let’s transform your brand's presence organically! 📈 Email us to get started! #SocialMediaGrowth #VideoMarketing #SmallBusinessGrowth",
+        "website_description": "Unlock your brand's potential with our **30-Day Social Media Growth Package**! This comprehensive solution is designed for small businesses and individual creators struggling to create engaging short-form video content. Over 30 days, receive a customized content strategy, 12 expertly crafted video scripts, and engaging captions tailored for TikTok, Instagram Reels, and YouTube Shorts. Boost your visibility and grow your audience organically without needing extensive video editing skills. Start your journey toward enhanced social media engagement today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I want to introduce you to our **30-Day Social Media Growth Package**, designed specifically for small businesses and individual creators looking to boost their social media engagement. This package offers a custom content strategy, 12 short-form video scripts, and engaging captions tailored for your brand.\n\nWould you be open to discussing this further? I would love to help you unlock your brand’s potential!\n\nIf this isn't something you're interested in, feel free to let me know. Thank you for your time!\n\nBest,\n[Your Name]  \n[Your Contact Information]",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What challenges are you facing with your short-form video content?",
+          "How often do you engage with your audience on social media?",
+          "What goals do you have for your social media growth in the next month?",
+          "Are you open to collaborating with influencers to increase your reach?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Solution: 30-Day Social Media Growth Package",
+          "Deliverables",
+          "Timeline and Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Email us at luna.digital.operations@gmail.com to elevate your social media presence today!",
+        "payment_template": "Subject: Next Steps for Your Growth Package\n\nHi [Recipient's Name],\n\nThanks for expressing interest in our **30-Day Social Media Growth Package**! We're excited to move forward with you on this journey. Once you're ready, we can discuss the details regarding the initial investment.\n\nPlease let me know if you have any questions or if there's anything more I can assist you with!\n\nWarm regards,\n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
