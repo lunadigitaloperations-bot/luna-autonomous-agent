@@ -37775,6 +37775,65 @@
         "payment_template": "Subject: Confirmation of Your Order\n\nHi [Name],\n\nThank you for your interest in our 30-Day TikTok Growth Package! Once you’ve decided to proceed, I’ll send over the next steps for payment. \n\nIf you have any questions or need more information, feel free to ask. \n\nLooking forward to hearing from you!\n\nBest,  \n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792481894289",
+      "created_at": "2026-10-20T07:38:14.289641+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Viral Video Content Package",
+        "target_customer": "Small businesses or content creators looking to grow their social media presence",
+        "customer_problem": "Struggling to create engaging, trend-driven video content that captures attention on platforms like TikTok and Instagram.",
+        "solution": "A tailored content package focused on short-form video that helps businesses or creators produce trendy, engaging videos to connect with their target audience.",
+        "deliverables": [
+          "3 short-form video scripts",
+          "3 TikTok content ideas with suggested trending challenges",
+          "3 Instagram Reels ideas with captions",
+          "1 month of content strategy guide for consistency",
+          "Hashtag suggestions for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your online visibility and engage your audience with captivating short-form video content crafted specifically for your brand.",
+        "sales_angle": "Transform your social media strategy with expertly designed viral content that resonates and drives engagement without the overwhelm.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Content marketing through blogs or social posts"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to experiment with video content",
+          "Basic understanding of social media trends"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started on your viral video content package."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Viral Video Content Package offers small businesses and content creators everything you need to produce engaging, trend-driven video content! Get 3 tailored scripts, 3 TikTok ideas, 3 Instagram Reels concepts, and much more! 🌟 Let's connect and make your brand shine! 📲 #ViralContent #SocialMediaGrowth #SmallBusinessSuccess",
+        "website_description": "Transform your social media presence with our Viral Video Content Package! Designed for small businesses and content creators, this package provides you with tailored short-form video scripts, engaging content ideas for TikTok and Instagram, and a comprehensive content strategy guide. Maximize your reach and engagement with trendy videos crafted specifically for your brand, all for just $150.",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to introduce our Viral Video Content Package designed especially for small businesses and content creators looking to enhance their social media presence. \n\nOur package includes 3 short-form video scripts, TikTok challenges, Instagram Reels ideas, and a month-long content strategy to ensure consistency in your posting. If you're interested in driving engagement through trendy video content, I'd love to discuss further! \n\nFeel free to reply to this email or contact us via WhatsApp. And if this isn’t the right time for you, simply let me know and I won’t follow up again. \n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media strategy?",
+          "Have you tried creating video content before? If so, what was your experience?",
+          "Which platforms do you primarily use to connect with your audience?",
+          "Are there any trends or styles in video content that you find particularly engaging?",
+          "What is your primary goal for enhancing your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Business Needs",
+          "Overview of the Viral Video Content Package",
+          "Deliverables & Timeline",
+          "Investment Overview",
+          "Next Steps",
+          "Q&A Section",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to get started? Contact us via email or WhatsApp today!",
+        "payment_template": "Dear [Name],\n\nThank you for your interest in our Viral Video Content Package! Once everything is confirmed, we'll provide you with payment details to get the process started. If you have any questions or need further assistance in the meantime, feel free to reach out. \n\nBest,\n[Your Name]\n[Your Position]\n[Your Company]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
