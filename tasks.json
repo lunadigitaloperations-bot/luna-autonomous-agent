@@ -38405,6 +38405,64 @@
         "payment_template": "Subject: Next Steps for Your Growth Package\n\nHi [Recipient's Name],\n\nThanks for expressing interest in our **30-Day Social Media Growth Package**! We're excited to move forward with you on this journey. Once you're ready, we can discuss the details regarding the initial investment.\n\nPlease let me know if you have any questions or if there's anything more I can assist you with!\n\nWarm regards,\n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792521038566",
+      "created_at": "2026-10-20T18:30:38.566306+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging TikTok Content Package",
+        "target_customer": "Small businesses or content creators looking to boost their TikTok presence",
+        "customer_problem": "Struggling to create engaging TikTok content that resonates with their audience and drives interaction.",
+        "solution": "A tailored content package including script development, video concepts, and caption creation specifically designed for TikTok.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "3 video concepts including themes and shooting ideas",
+          "3 engaging captions optimized for TikTok",
+          "One 30-minute consultation call to discuss strategy"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your TikTok engagement with tailored content that connects with your audience and enhances your brand visibility.",
+        "sales_angle": "Create content that not only entertains but also drives more followers and interaction without overwhelming your schedule!",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referrals",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Must have an active TikTok account",
+          "Open to experimenting with new content styles",
+          "Willingness to collaborate on ideas"
+        ],
+        "next_action": "Reach out via email or WhatsApp to discuss your needs and schedule a consultation!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your TikTok presence with our Engaging TikTok Content Package! Create tailored content that resonates with your audience and drives interaction. Whether you're a small business or a content creator, we’ve got you covered! 📈✨ DM us to learn more! #TikTokContent #SocialMediaMarketing #EngagementBoost",
+        "website_description": "Struggling to create engaging TikTok content that resonates with your audience? Our Engaging TikTok Content Package is designed for small businesses and content creators like you! Get 3 short-form video scripts, creative video concepts, engaging captions, and a 30-minute consultation call to elevate your TikTok strategy. Start boosting your brand visibility and engagement today!",
+        "outreach_template": "Subject: Elevate Your TikTok Game!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity that can help enhance your TikTok presence. Our Engaging TikTok Content Package is tailored specifically for small businesses and content creators looking to create impactful content that resonates with their audience.\n\nWould you be open to a brief chat about this? Feel free to let me know a suitable time!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n\nP.S. If you're not interested, simply let me know, and I'll ensure not to reach out again.",
+        "discovery_questions": [
+          "What is your current TikTok strategy?",
+          "Who is your target audience on TikTok?",
+          "What specific goals do you have for your TikTok content?",
+          "Are there any content styles you've tried that you've found effective?",
+          "How often do you currently post on TikTok?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solution",
+          "Deliverables",
+          "Timeline for Delivery",
+          "Investment and Pricing",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to elevate your TikTok content? Reach out today to discuss your needs and schedule your consultation!",
+        "payment_template": "Subject: Payment Instructions for Your Engaging TikTok Content Package\n\nDear [Name],\n\nThank you for your interest in our Engaging TikTok Content Package! To proceed, please find the payment instructions below:\n\n[Payment Instructions]\n\nOnce the payment is arranged, we can finalize the details and kick off your tailored content journey!\n\nIf you have any questions, feel free to ask.\n\nBest,\n[Your Name]\n[Your Position]\n[Your Company]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
