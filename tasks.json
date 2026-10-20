@@ -37601,6 +37601,65 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for your interest in our Social Media Growth Package! To proceed with the service, kindly let us know your preferred payment method, and we will send you the necessary details.\n\nLooking forward to collaborating with you!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you no longer wish to receive follow-ups from us, feel free to let me know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792470480883",
+      "created_at": "2026-10-20T04:28:00.884001+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Supercharge Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging and frequent short-form video content that resonates with their audience.",
+        "solution": "A tailored content strategy that includes short-form video scripts and a calendar for consistent posting across platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 custom short-form video scripts (up to 60 seconds each)",
+          "Posting schedule/calendar for 4 weeks",
+          "Guidelines for filming and editing to optimize engagement",
+          "30 captions tailored for each video"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Save time and boost engagement with a professionally crafted content strategy that makes short-form video creation easy and effective.",
+        "sales_angle": "Transform your social media presence with our professionally developed video scripts and content calendar, tailored just for you.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Content marketing articles",
+          "Word-of-mouth"
+        ],
+        "qualification_criteria": [
+          "Must currently have active social media accounts",
+          "Willingness to follow a content schedule",
+          "Interested in video marketing"
+        ],
+        "next_action": "Contact Luna at luna.digital.operations@gmail.com to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to supercharge your social media? Our Social Media Supercharge Package is designed for small business owners and content creators looking to create engaging short-form videos. With custom scripts and a posting schedule, you’ll save time while boosting your online presence! 🌟 DM us to learn more! #SocialMedia #ContentCreation #VideoMarketing",
+        "website_description": "Elevate your social media game with our Social Media Supercharge Package! Tailored for small business owners and content creators, this package offers you three custom short-form video scripts, a 4-week posting calendar, filming and editing guidelines, and 30 tailored captions. Experience the ease of creating engaging content that resonates with your audience and boosts your engagement. All this for just $250, delivered within 10 days!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our Social Media Supercharge Package, designed specifically for small business owners and content creators like yourself. We understand the challenges in consistently creating engaging video content, and our tailored strategy can help you overcome this hurdle.\n\nWould you be open to scheduling a consultation to discuss how our package can benefit your social media presence?\n\nPlease feel free to reply or opt out if this isn't of interest to you.\n\nBest regards,\nLuna\nluna.digital.operations@gmail.com",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "How often do you post content on your social media accounts?",
+          "What challenges do you face when creating video content?",
+          "Are you familiar with short-form video trends on platforms like TikTok and Instagram?",
+          "How do you currently measure engagement on your posts?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the customer's current social media presence",
+          "Identified challenges",
+          "Description of the Social Media Supercharge Package",
+          "Deliverables and timeline",
+          "Pricing details",
+          "Expected benefits and outcomes",
+          "Next steps for collaboration",
+          "Conclusion and contact information"
+        ],
+        "call_to_action": "Contact Luna at luna.digital.operations@gmail.com to schedule your consultation and start enhancing your social media presence today!",
+        "payment_template": "Subject: Payment Details for Your Order\n\nHi [Name],\n\nThank you for considering our Social Media Supercharge Package! I wanted to provide you with the payment details to proceed with your order. Please let me know if you have any questions or if there's anything else you need from my side to move forward.\n\nLooking forward to your reply!\n\nBest,\nLuna",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
