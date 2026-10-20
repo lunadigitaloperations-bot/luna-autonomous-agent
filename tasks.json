@@ -37660,6 +37660,63 @@
         "payment_template": "Subject: Payment Details for Your Order\n\nHi [Name],\n\nThank you for considering our Social Media Supercharge Package! I wanted to provide you with the payment details to proceed with your order. Please let me know if you have any questions or if there's anything else you need from my side to move forward.\n\nLooking forward to your reply!\n\nBest,\nLuna",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792474086324",
+      "created_at": "2026-10-20T05:28:06.324493+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Boost",
+        "target_customer": "Small businesses or creators struggling to maintain a consistent content presence on social media.",
+        "customer_problem": "Inconsistent content posting on social media leading to low engagement and visibility.",
+        "solution": "A 30-day content calendar with script templates for TikTok, Instagram Reels, and YouTube Shorts, designed to enhance engagement and establish a consistent posting schedule.",
+        "deliverables": [
+          "30-day content calendar with daily themes",
+          "10 short-form video scripts tailored to customer brand",
+          "5 optimized captions for social media posts",
+          "1 strategy session (via video call) to understand branding and target audience"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Sustained engagement and improved visibility through a structured content strategy.",
+        "sales_angle": "Say goodbye to the stress of daily content creation and hello to effortless engagement with our 30-Day Social Media Content Boost!",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media promotion",
+          "Networking events"
+        ],
+        "qualification_criteria": [
+          "Business/creator is active on at least one social media platform",
+          "Open to using short-form video content"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to keep up with social media content? Say goodbye to the stress! Our 30-Day Social Media Content Boost delivers a complete content calendar, tailored video scripts, and more to enhance your engagement. 🎥✨ Contact us to transform your online presence! #SocialMediaMarketing #ContentCreation #SmallBusiness",
+        "website_description": "Introducing our 30-Day Social Media Content Boost – the perfect solution for small businesses and creators who want to enhance their online visibility. With a comprehensive content calendar, tailored video scripts, and expert strategy session, you'll achieve sustained engagement effortlessly. Join us and watch your social media presence flourish!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Game\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out and introduce a service that may be a great fit for you. Our 30-Day Social Media Content Boost is designed specifically for businesses and creators looking to enhance their online engagement and maintain a consistent content presence.\n\nWould you be available for a quick chat to discuss how this could benefit you?\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you're not interested, please let me know, and I won't reach out again.",
+        "discovery_questions": [
+          "Which social media platforms are you currently active on?",
+          "How often do you post content on your platforms?",
+          "What challenges do you face when creating social media content?",
+          "Are you open to exploring short-form video content for your brand?",
+          "What goals would you like to achieve with your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer Problem",
+          "Proposed Solution: 30-Day Social Media Content Boost",
+          "Deliverables",
+          "Estimated Timeline",
+          "Pricing",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule your free consultation and kickstart your social media journey!",
+        "payment_template": "Subject: Your Recent Order\n\nHi [Name],\n\nThank you for choosing our 30-Day Social Media Content Boost! This email serves as a confirmation of your order. If you have any questions or need assistance with the next steps, feel free to reach out.\n\nLooking forward to working with you!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
