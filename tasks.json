@@ -38177,6 +38177,62 @@
         "payment_template": "Subject: Confirmation of Your Order\n\nHi [Name],\n\nThank you for choosing our Social Media Boost Package! I wanted to confirm that we’re processing your order and will reach out shortly to discuss the next steps.\n\nIf you have any questions in the meantime or if you would like to chat, feel free to get in touch!\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792506594603",
+      "created_at": "2026-10-20T14:29:54.603586+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Video Boost Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging video content that increases audience interaction and brand visibility.",
+        "solution": "A customized video content plan that includes short-form video scripts and content strategy tailored to the client's brand and audience, delivered via digital formats.",
+        "deliverables": [
+          "3 Short-form video scripts (TikTok, Instagram Reels, or YouTube Shorts)",
+          "1 Content strategy document outlining posting schedule and engagement tips",
+          "3 Captions for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your brand's online presence with tailored video content that resonates with your audience, boosting engagement without the hassle of content creation.",
+        "sales_angle": "Transform your social media strategy and capture your audience's attention with engaging video content that is easy to execute.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing past work",
+          "Client testimonials",
+          "Networking in relevant online communities"
+        ],
+        "qualification_criteria": [
+          "Client must have existing social media accounts",
+          "Client should provide brand guidelines and target audience details"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to get started and discuss your video content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your brand's online presence? Our Social Media Video Boost Package is designed for small businesses and content creators looking to create engaging video content that resonates with your audience. Get 3 tailored video scripts, a comprehensive content strategy, and more—all delivered within 7 days! 🌟✨ #VideoMarketing #SocialMedia #BrandGrowth",
+        "website_description": "Introducing our Social Media Video Boost Package—your gateway to captivating video content designed specifically for small businesses and content creators. Struggling to engage your audience? Our package includes 3 short-form video scripts, a detailed content strategy, and engaging captions to enhance your online presence. Transform your social media strategy effortlessly and boost your engagement today.",
+        "outreach_template": "Subject: Boost Your Social Media Engagement\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because we offer a Social Media Video Boost Package that could greatly enhance your brand's online presence.\n\nOur package includes customized short-form video scripts, a content strategy document, and engaging captions tailored to your unique brand and audience. \n\nWould you be open to a conversation about how this can help you boost your engagement?\n\nIf you're interested, please feel free to respond. If you'd prefer not to receive messages like this, just let me know. \n\nBest regards,\n[Your Name]\nLuna at Infinite Sauce",
+        "discovery_questions": [
+          "What type of video content resonates most with your audience?",
+          "What are your primary goals for using video on social media?",
+          "Do you currently have any brand guidelines we should follow?",
+          "How often do you plan to post video content on your social media?",
+          "What challenges have you faced in creating engaging video content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Client Needs",
+          "Proposed Solution: Social Media Video Boost Package",
+          "Deliverables Overview",
+          "Project Timeline",
+          "Pricing",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to get started? Email us at luna.digital.operations@gmail.com to discuss your video content needs!",
+        "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for your interest in our Social Media Video Boost Package! To proceed with creating your customized video content, please let us know your preferred method of payment.\n\nOnce we receive payment information, we can begin working on your project.\n\nIf you have any questions or need clarification, feel free to reach out. If you are not interested, please let me know and I will remove you from further communications.\n\nBest regards,\n[Your Name]\nLuna at Infinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
