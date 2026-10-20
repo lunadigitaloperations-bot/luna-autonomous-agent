@@ -37429,6 +37429,64 @@
         "payment_template": "Subject: Payment for Your 30-Day Social Media Growth Package  \n\nHi [Name],  \n\nI hope you’re doing well! As we prepare to kick off your social media growth journey, please let us know if you have any questions regarding the payment process for the 30-Day Social Media Growth Package. Your satisfaction is our priority!  \n\nFeel free to reach out if you need assistance or more information.  \n\nBest,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792459988930",
+      "created_at": "2026-10-20T01:33:08.930874+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly Social Media Video Package",
+        "target_customer": "Small businesses and creators looking to boost their online presence",
+        "customer_problem": "Struggling to create engaging video content consistently for social media platforms",
+        "solution": "A tailored monthly package providing short-form video scripts and edited videos customized for TikTok, Instagram Reels, and YouTube Shorts, helping clients maintain a consistent posting schedule.",
+        "deliverables": [
+          "4 custom short-form video scripts (1 per week)",
+          "4 edited short-form videos (1 per week, up to 60 seconds each)",
+          "Captions for each video"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Consistent, engaging video content that enhances online visibility and engages your audience without the stress of production time.",
+        "sales_angle": "Streamline your content creation and focus on what you do best: running your business.",
+        "organic_discovery_methods": [
+          "Social media platforms (Instagram, TikTok, YouTube)",
+          "Word of mouth",
+          "Networking events"
+        ],
+        "qualification_criteria": [
+          "Business or creator needing to increase social media engagement",
+          "Willingness to invest in monthly content creation",
+          "Active on at least one of the mentioned platforms"
+        ],
+        "next_action": "Contact Luna via email or WhatsApp to discuss customized needs and schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your online presence? 🌟 With our Monthly Social Media Video Package, small businesses and creators get 4 custom video scripts and 4 edited videos tailored for TikTok, Instagram Reels, and YouTube Shorts, all delivered right to you! 🎥✨ Let us help you boost engagement and showcase your brand without the stress of content creation! 📈 #SocialMedia #VideoMarketing #Engagement #SmallBusiness #Creators",
+        "website_description": "Transform your social media strategy with our Monthly Social Media Video Package! Designed for small businesses and creators, this package includes 4 tailored short-form video scripts and 4 expertly edited videos each month to keep your online presence engaging and consistent. Enjoy captivating content for TikTok, Instagram Reels, and YouTube Shorts, all without the stress of production. Elevate your brand visibility today!",
+        "outreach_template": "Subject: Let's Boost Your Online Presence! \n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to enhance your social media strategy. Our Monthly Social Media Video Package provides custom scripts and edited videos specifically for small businesses and creators like you, helping you engage your audience consistently.\n\nWould you be open to a quick discussion about how we can tailor our services to meet your needs? \n\nBest regards, \nLuna  \n[Your Contact Information]  \n\n*If you’d prefer not to receive these messages, please let me know.*",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media content?",
+          "Which platforms are you most active on, and why?",
+          "How often do you currently post video content on social media?",
+          "What type of videos do you believe resonate best with your audience?",
+          "Are you open to a monthly investment in enhancing your online presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Client's Current Situation",
+          "Identified Problems/Needs",
+          "Proposed Solution: Monthly Social Media Video Package",
+          "Deliverables",
+          "Timeline for Delivery",
+          "Pricing",
+          "Next Steps/Call to Action",
+          "Opt-out Option"
+        ],
+        "call_to_action": "Ready to enhance your online presence? Contact us today to schedule your consultation!",
+        "payment_template": "Subject: Payment Options for Your Package \n\nHi [Name],\n\nThank you for considering our Monthly Social Media Video Package. We can discuss various payment options that work best for you. If you’re ready, let me know how you wish to proceed, and we can finalize the details!\n\nBest,  \nLuna  \n[Your Contact Information]  \n\n*If you’d like to opt-out from further contact, please let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
