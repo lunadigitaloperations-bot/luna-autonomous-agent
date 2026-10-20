@@ -37370,6 +37370,65 @@
         "payment_template": "Subject: Next Steps for Your Social Media Boost Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Boost Package! To proceed, we’ll need to discuss the next steps regarding the investment and ensure that everything aligns with your expectations.\n\nPlease let me know a convenient time for us to connect.\n\nBest,\n[Your Name]\n[Your Contact Information] \n\nIf this doesn’t suit your current needs, please feel free to opt-out.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792456560873",
+      "created_at": "2026-10-20T00:36:00.873119+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Growth Package",
+        "target_customer": "Small businesses and content creators looking to boost their online presence.",
+        "customer_problem": "Struggling to create engaging content consistently for social media platforms, leading to stagnant follower growth and online visibility.",
+        "solution": "A dedicated content strategy and short-form video creation service that provides tailored scripts and content for TikTok and Instagram Reels.",
+        "deliverables": [
+          "Custom content strategy document outlining posting schedule and themes for 30 days.",
+          "15 short-form video scripts (5 TikTok, 5 Instagram Reels, 5 YouTube Shorts) tailored to the brand's voice.",
+          "5 catchy captions for each platform to enhance engagement.",
+          "1 video editing tutorial or tips sheet to help the customer edit their footage effectively."
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Engaging and tailored content that resonates with your audience, designed to increase follower engagement without overwhelming you.",
+        "sales_angle": "Unlock your potential with engaging content that attracts followers and boosts brand visibility — all created with you in mind!",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Content marketing through blog posts",
+          "Word of mouth referrals"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to collaborate and provide brand insights"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to skyrocket your social media presence? 🌟 Our 30-Day Social Media Growth Package offers tailored content strategies and engaging short-form videos to boost your followers and brand visibility! Don’t let stagnant growth hold you back. Let’s create content that resonates! 💬 Contact us today for a free consultation! #SocialMediaGrowth #ContentCreation #BoostYourBrand",
+        "website_description": "Transform your online presence with our 30-Day Social Media Growth Package tailored for small businesses and content creators! We provide a custom content strategy, 15 scripted short-form videos for TikTok, Instagram Reels, and YouTube Shorts, and engaging captions designed to capture your audience's attention. With a focus on collaboration and your brand's unique voice, this package is perfect for those looking to unlock their potential without the guesswork. Get started today for just $299!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!  \n\nHi [Name],  \n\nI hope this message finds you well! I wanted to reach out to introduce our 30-Day Social Media Growth Package designed specifically for small businesses and content creators. If you’ve been struggling with consistent and engaging content, we’re here to help!  \n\nWe offer customized strategies and tailored short-form video content that aligns with your brand’s unique voice. Would you be open to a conversation about this?  \n\nLooking forward to hearing from you!  \n\nBest regards,  \n[Your Name]  \n[Your Contact Information]  \n\n*If you prefer not to receive communication from us, please let us know.*",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What challenges are you facing with your current content strategy?",
+          "How often do you post on social media, and what type of content do you typically share?",
+          "Can you describe your brand’s voice and target audience?",
+          "What specific goals do you have for your social media growth in the next 30 days?"
+        ],
+        "proposal_outline": [
+          "Introduction to the 30-Day Social Media Growth Package",
+          "Understanding Your Current Social Media Landscape",
+          "Customized Content Strategy Overview",
+          "Short-Form Video Creation Details",
+          "Engagement Focus: Sample Captions and Strategies",
+          "Video Editing Tutorial or Tips Overview",
+          "Estimated Timeline and Next Steps",
+          "Investment Summary: $299",
+          "Q&A and Closing",
+          "Next Steps for Collaboration"
+        ],
+        "call_to_action": "Contact us today for a free consultation and take the first step towards transforming your social media presence!",
+        "payment_template": "Subject: Payment for Your 30-Day Social Media Growth Package  \n\nHi [Name],  \n\nI hope you’re doing well! As we prepare to kick off your social media growth journey, please let us know if you have any questions regarding the payment process for the 30-Day Social Media Growth Package. Your satisfaction is our priority!  \n\nFeel free to reach out if you need assistance or more information.  \n\nBest,  \n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
