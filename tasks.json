@@ -38233,6 +38233,64 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for your interest in our Social Media Video Boost Package! To proceed with creating your customized video content, please let us know your preferred method of payment.\n\nOnce we receive payment information, we can begin working on your project.\n\nIf you have any questions or need clarification, feel free to reach out. If you are not interested, please let me know and I will remove you from further communications.\n\nBest regards,\n[Your Name]\nLuna at Infinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792510245208",
+      "created_at": "2026-10-20T15:30:45.208773+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-Form Video Content Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging video content that resonates with their audience and drives engagement",
+        "solution": "A tailored package that provides themed short-form video scripts and editing tips to help businesses maximize their social media impact",
+        "deliverables": [
+          "5 custom short-form video scripts (30-60 seconds each)",
+          "Basic editing guidelines for DIY video creation",
+          "Content calendar template for posting schedule",
+          "1 hour of consultation on content strategy and video execution"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Elevate your brand's visibility and engagement without the need for expensive video production",
+        "sales_angle": "Affordable, high-impact content creation to stand out in a crowded digital landscape",
+        "organic_discovery_methods": [
+          "Social media platforms",
+          "Word of mouth",
+          "Online business communities"
+        ],
+        "qualification_criteria": [
+          "Business has an existing social media presence",
+          "Willingness to learn and implement video content strategies"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Transform your social media presence with our Short-Form Video Content Package! Perfect for small business owners and content creators, this tailored package provides you with 5 custom video scripts, editing tips, and a content calendar. Elevate your engagement and visibility without the hefty price tag. Ready to stand out in the digital landscape? 🌟 Contact us today! #VideoMarketing #SocialMediaGrowth #ContentCreation",
+        "website_description": "Are you a small business owner or content creator struggling to engage your audience online? Our Short-Form Video Content Package is designed just for you! This package includes 5 custom short-form video scripts, basic editing guidelines, a content calendar template, and a consultation to refine your content strategy. At just $150, elevate your brand's visibility and engagement without expensive production costs. Get started today and watch your social media flourish!",
+        "outreach_template": "Subject: Let’s Enhance Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an opportunity that could greatly enhance your social media strategy. \n\nWe offer a Short-Form Video Content Package specifically designed for small business owners and content creators. This package includes custom video scripts, editing tips, and consultation to boost your engagement. \n\nIf you're interested in learning more, please feel free to reach out. I’d be happy to discuss how we can cater to your needs.\n\nBest regards,\n\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nP.S. If this isn't the right time for you, feel free to let me know, and I won't reach out again.",
+        "discovery_questions": [
+          "What challenges are you facing in your current video content strategy?",
+          "How do you currently measure the success of your social media content?",
+          "What themes or topics resonate most with your audience?",
+          "Have you tried creating short-form videos before? If so, what was your experience?",
+          "What are your goals for enhancing your brand's visibility on social media?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Your Current Social Media Presence",
+          "Identified Challenges",
+          "Proposed Solutions",
+          "Package Deliverables",
+          "Pricing and Payment Terms",
+          "Estimated Timeline for Delivery",
+          "Next Steps",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Elevate your brand's engagement today! Contact us at luna.digital.operations@gmail.com to get started!",
+        "payment_template": "Subject: Payment Follow-up\n\nHi [Name],\n\nI hope you're doing well! I’m reaching out to confirm whether you have had a chance to initiate the payment for the Short-Form Video Content Package we discussed. If you have any questions or need assistance, please let me know!\n\nLooking forward to working together!\n\nBest regards,\n\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
