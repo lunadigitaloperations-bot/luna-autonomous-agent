@@ -38632,6 +38632,67 @@
         "payment_template": "Subject: Payment Information Inquiry\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Content Package! To proceed, we would like to discuss the payment details with you at your earliest convenience. Please let us know how you'd prefer to handle this, and we'll provide you with all the necessary information.\n\nIf you have any questions or if better timing works for you, just let us know. We're here to help!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792535184413",
+      "created_at": "2026-10-20T22:26:24.413497+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Short-Form Video Package",
+        "target_customer": "Small businesses and content creators looking to boost social media engagement",
+        "customer_problem": "Struggling to create captivating short-form videos that increase audience engagement on platforms like TikTok and Instagram.",
+        "solution": "A tailored video script and content strategy designed to enhance viewer interaction and retention.",
+        "deliverables": [
+          "Three original short-form video scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "Content strategy guide for optimized posting and audience targeting",
+          "Five catchy captions for each video to enhance visibility",
+          "One video editing tip tailored to each script"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your social media presence with engaging, professionally crafted video content that speaks to your audience and enhances engagement.",
+        "sales_angle": "Stand out in the crowded short-form video landscape with personalized content that resonates and captivates viewers.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referrals from satisfied customers",
+          "Networking in online creator communities"
+        ],
+        "qualification_criteria": [
+          "Business must be in the creative or consumer-focused industry",
+          "Clear target audience and brand identity established",
+          "Willingness to implement provided content strategy"
+        ],
+        "next_action": "Contact me via email or WhatsApp to discuss your needs and kick-start your video content strategy!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Engaging Short-Form Video Package is tailored for small businesses and content creators who want to captivate audiences on TikTok and Instagram! Get three original video scripts, a content strategy guide, catchy captions, and expert editing tips—all for just $150! Let's transform your online presence! 📈💡 #VideoMarketing #SocialMedia #Engagement #ContentCreation",
+        "website_description": "Boost your social media engagement with our Engaging Short-Form Video Package! Designed for small businesses and content creators, this package includes three unique video scripts, a comprehensive content strategy, catchy captions, and tailored editing tips—all aimed at enhancing audience interaction on platforms like TikTok and Instagram. Stand out in the crowded video landscape and captivate your viewers today!",
+        "outreach_template": "Subject: Elevate Your Social Media with Engaging Video Content\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to introduce you to our Engaging Short-Form Video Package, designed specifically for businesses like yours to increase social media engagement through captivating video content.\n\nThis package includes:\n- Three original short-form video scripts\n- A tailored content strategy guide\n- Catchy captions for enhanced visibility\n- Expert video editing tips\n\nIf you're interested in learning how we can assist you in boosting your social media presence, please feel free to reach out!\n\nBest regards,\n[Your Name]  \n[Your Contact Information] \n\nIf you'd prefer not to receive further messages, just let me know.",
+        "discovery_questions": [
+          "What specific goals are you looking to achieve with your short-form video content?",
+          "Which social media platforms are you currently using to reach your audience?",
+          "Who is your target audience, and what do you think resonates with them?",
+          "What types of content have you tried in the past, and how did it perform?",
+          "Are there any particular themes or messages you want to convey through your videos?"
+        ],
+        "proposal_outline": [
+          "Introduction and Overview",
+          "Understanding Your Needs and Objectives",
+          "Detailed Breakdown of Deliverables",
+          "- Three Original Video Scripts",
+          "- Content Strategy Guide",
+          "- Five Catchy Captions",
+          "- Video Editing Tips",
+          "Timeline for Completion",
+          "Pricing and Payment Details",
+          "Next Steps and Call to Action",
+          "Thank You and Closing Remarks"
+        ],
+        "call_to_action": "Contact us today to kick-start your video content strategy and transform your social media engagement!",
+        "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Recipient's Name],\n\nThank you for choosing our Engaging Short-Form Video Package! To proceed with your order, I will provide payment details as soon as we finalize the specifics of your project.\n\nIf you have any questions or additional requirements, feel free to reach out!\n\nBest,  \n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
