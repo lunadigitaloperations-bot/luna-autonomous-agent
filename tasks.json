@@ -38463,6 +38463,62 @@
         "payment_template": "Subject: Payment Instructions for Your Engaging TikTok Content Package\n\nDear [Name],\n\nThank you for your interest in our Engaging TikTok Content Package! To proceed, please find the payment instructions below:\n\n[Payment Instructions]\n\nOnce the payment is arranged, we can finalize the details and kick off your tailored content journey!\n\nIf you have any questions, feel free to ask.\n\nBest,\n[Your Name]\n[Your Position]\n[Your Company]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792524716687",
+      "created_at": "2026-10-20T19:31:56.687023+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Social Media Launch Package",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create consistent and engaging content that effectively promotes their brand online.",
+        "solution": "A comprehensive package that provides a series of tailored short-form video scripts and content strategy recommendations for social media platforms.",
+        "deliverables": [
+          "3 custom short-form video scripts for TikTok and Instagram Reels",
+          "1 content strategy guide outlining posting schedule and best practices",
+          "5 catchy captions for each script tailored to target audience",
+          "Feedback session to refine content ideas based on client input"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Help small businesses and creators attract and engage their audience with tailored content that resonates.",
+        "sales_angle": "Transform your social media presence with professionally crafted content that tells your brand story.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media advertising",
+          "Online forums and communities related to small businesses"
+        ],
+        "qualification_criteria": [
+          "Business or creator has an active social media presence",
+          "Openness to experimenting with video content",
+          "Willingness to collaborate and provide feedback"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Enhance your social media presence with our Engaging Social Media Launch Package! 🎥 Get tailored video scripts, a comprehensive content strategy guide, and catchy captions to resonate with your audience. Let's tell your brand story together! 🌟 Contact us today to learn more! #SmallBusiness #SocialMedia #ContentCreation",
+        "website_description": "Introducing the Engaging Social Media Launch Package—designed for small businesses and creators eager to elevate their social media game. This all-in-one package includes custom short-form video scripts, a detailed content strategy guide, and captivating captions that engage your audience. Transform your online presence and discover how tailored content can effectively promote your brand.",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Presence!  \n  \nHi [Name],  \n  \nI hope this message finds you well! I wanted to introduce you to our Engaging Social Media Launch Package, which is perfect for small businesses and creators looking to enhance their social media presence. Our package offers tailored short-form video scripts and content strategies that could be just what you need to connect with your audience effectively.  \n  \nIf you're interested, I'd love to discuss how we can help you strengthen your brand online. Please let me know a good time for us to chat!  \n  \nBest regards,  \n[Your Name]  \n[Your Contact Information]  \n*If you're not interested, feel free to let me know, and I'll respect your inbox.*",
+        "discovery_questions": [
+          "What specific challenges do you face when creating content for your social media?",
+          "How often do you currently post on your social media platforms?",
+          "What platforms do you use most frequently for your business?",
+          "Have you experimented with video content in the past? If so, what worked and what didn’t?",
+          "What are your goals for your social media presence in the next 3-6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction to the Engaging Social Media Launch Package",
+          "Overview of Client's Current Challenges",
+          "Proposed Deliverables and Timeline",
+          "Detailed Breakdown of Each Service",
+          "Pricing and Payment Terms",
+          "Next Steps and Call for Questions"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Payment Information  \n  \nHi [Name],  \n  \nThank you for your interest in our Engaging Social Media Launch Package! To proceed, please let me know your preferred method of payment. If you have any questions regarding the pricing, feel free to reach out.  \n  \nLooking forward to your response!  \nBest,  \n[Your Name]  \n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
