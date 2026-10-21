@@ -38865,6 +38865,64 @@
         "payment_template": "Subject: Payment Options for Your Order\n\nHi [Name],\n\nThank you for considering our Social Media Boost Package! I would be happy to discuss the payment options with you and ensure we find a solution that suits your needs. Please let me know if you have any preferences, and we can proceed from there.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\n*If you'd prefer not to engage further, please feel free to let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792582285788",
+      "created_at": "2026-10-21T11:31:25.788463+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly Short-Form Video Content Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content consistently for social media platforms, leading to low visibility and audience engagement.",
+        "solution": "A comprehensive package providing tailored video scripts, editing templates, and content strategies focused on short-form video platforms like TikTok and Instagram Reels.",
+        "deliverables": [
+          "4 customized video scripts (one per week)",
+          "2 edited video template designs for each script",
+          "Content strategy guide for maximizing engagement",
+          "Social media caption templates for each video"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Elevate your brand's social media presence with engaging, professionally crafted short-form video content tailored to resonate with your target audience, boosting visibility and engagement.",
+        "sales_angle": "Transform your social media strategy with compelling short videos designed to attract attention and grow your following without the hassle of content creation.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referrals",
+          "Targeted online ads",
+          "Networking within small business communities"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to collaborate and provide feedback",
+          "Commitment to posting regularly on social media"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com to schedule a consultation and discuss your content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand’s social media presence with our Monthly Short-Form Video Content Package! 🎥✨ Perfect for small businesses and content creators, get customized video scripts, engaging templates, and a strategic guide to boost your audience engagement. Let's transform your content game together! 💪📈 #SocialMedia #VideoMarketing #SmallBusiness",
+        "website_description": "Unlock the power of short-form video content with our Monthly Short-Form Video Content Package! Designed for small businesses and content creators, this comprehensive package includes 4 tailored video scripts, 2 edited video templates, a content strategy guide, and caption templates to enhance your social media engagement and visibility. Elevate your brand and connect with your audience effectively!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to introduce you to our Monthly Short-Form Video Content Package, designed specifically for small businesses and content creators struggling with consistent video content on platforms like TikTok and Instagram Reels.\n\nOur package includes tailored video scripts, editing templates, and a content strategy guide - all aimed at maximizing your engagement and boosting visibility. \n\nIf this sounds like something you’d be interested in, I’d love to schedule a brief consultation to discuss your content needs further. \n\nBest regards,\n\n[Your Name]\n[Your Position]\n[Your Contact Information]\n\nP.S. If you'd prefer not to hear from me again, just let me know!",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "How often do you post video content?",
+          "What challenges do you face in creating engaging video content?",
+          "Who is your target audience, and what type of content do they engage with the most?",
+          "Are you open to providing feedback on video content and strategies to ensure alignment with your brand?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding your needs",
+          "Overview of the Monthly Short-Form Video Content Package",
+          "Deliverables breakdown",
+          "Pricing and value proposition",
+          "Next steps for collaboration",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today to explore how our Monthly Short-Form Video Content Package can transform your content strategy!",
+        "payment_template": "Subject: Payment Information for Your Video Content Package\n\nHi [Recipient's Name],\n\nThank you for considering our Monthly Short-Form Video Content Package! To proceed, could you please confirm your preferred payment method? \n\nOnce we finalize the details, I will send over the necessary payment instructions. \n\nLooking forward to working together!\n\nBest, \n[Your Name]\n[Your Position]\n[Your Contact Information]\n\nP.S. If this isn't the right time for you, please feel free to let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
