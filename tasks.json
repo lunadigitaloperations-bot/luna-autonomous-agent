@@ -39206,6 +39206,63 @@
         "payment_template": "Subject: Payment Information for Your Recent Order\n\nHi [Name],\n\nThank you for your interest in our Social Media Content Booster Package! To proceed, we would like to set up your payment. Please let us know your preferred method, and we can guide you through the process.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792681364048",
+      "created_at": "2026-10-22T15:02:44.048456+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly Social Media Content Package",
+        "target_customer": "Small businesses or content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to consistently create engaging social media content to attract and retain followers.",
+        "solution": "A monthly package that provides tailored short-form video scripts and social media posts to maintain a regular posting schedule and boost interaction.",
+        "deliverables": [
+          "4 short-form video scripts (TikTok/Instagram Reels)",
+          "8 engaging captions for social media posts",
+          "1 content strategy overview for the month"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Save time and enhance your online presence with custom content that resonates with your audience, all delivered remotely.",
+        "sales_angle": "Transform your social media engagement with a professional content package designed to keep your audience hooked and coming back for more.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Referrals from previous clients",
+          "Collaborations with influencers"
+        ],
+        "qualification_criteria": [
+          "Must have existing social media accounts",
+          "Open to new content strategies",
+          "Willing to provide relevant business information and goals"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to schedule a free initial consultation."
+      },
+      "sales_assets": {
+        "social_post": "📈 Struggling to keep your social media buzzing? Our Monthly Social Media Content Package has got you covered! Get tailored scripts for short-form videos, engaging captions, and a content strategy that captivates your audience. Let's enhance your online presence together! 🌟 #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Elevate your social media game with our Monthly Social Media Content Package! Designed for small businesses and content creators, this package provides you with 4 customized short-form video scripts, 8 engaging captions, and a comprehensive content strategy overview—all aimed at boosting your engagement and saving you time. Transform your online presence effortlessly!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well. I'm reaching out to share an exciting opportunity that could greatly enhance your social media engagement. Our Monthly Social Media Content Package is tailored for businesses like yours, providing engaging video scripts and captions that connect with your audience.\n\nWould you be open to discussing how this package can benefit your brand?\n\nBest,\n[Your Name]\n\nP.S. If you’re not interested, just let me know, and I won’t contact you again.",
+        "discovery_questions": [
+          "What specific goals do you want to achieve with your social media content?",
+          "What types of content have resonated best with your audience in the past?",
+          "Are there any particular themes or topics you'd like to focus on this month?",
+          "How often do you currently post on your social media platforms?",
+          "What platforms do you prioritize for your business's social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction to Your Business",
+          "Overview of Current Social Media Efforts",
+          "Identified Needs and Objectives",
+          "Proposed Monthly Social Media Content Package",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Investment and ROI Potential",
+          "Next Steps and Contact Information"
+        ],
+        "call_to_action": "Ready to transform your social media engagement? Contact us today to schedule your free consultation!",
+        "payment_template": "Subject: Payment Arrangement Confirmation\n\nHi [Name],\n\nThank you for considering our Monthly Social Media Content Package. I'm reaching out to discuss the preferred payment method for your order. Please let me know how you'd like to proceed.\n\nLooking forward to your response.\n\nBest,\n[Your Name]\n\nP.S. If you have any further questions, feel free to ask!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
