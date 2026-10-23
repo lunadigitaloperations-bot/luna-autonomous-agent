@@ -39492,6 +39492,64 @@
         "payment_template": "Subject: Payment Process Update\n\nHi [Name],\n\nI wanted to follow up regarding the payment for the Social Media Starter Kit. Once you're ready to proceed, I can provide you with the payment details.\n\nLooking forward to your response!\n\nBest,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792766970923",
+      "created_at": "2026-10-23T14:49:30.923201+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Video Content Plan",
+        "target_customer": "Small businesses and content creators seeking to enhance their social media presence.",
+        "customer_problem": "Struggling to consistently produce engaging video content for social media platforms, leading to decreased audience engagement.",
+        "solution": "A comprehensive 30-day video content plan tailored to the client's brand and audience, providing structured ideas and outlines for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "30 video content ideas tailored to brand and audience",
+          "Scripting outlines for each video",
+          "Graphic templates for thumbnail design",
+          "One-on-one 30-minute consultation call",
+          "Tips for optimization and engagement strategies"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Transform your social media presence with a tailored video content strategy, ensuring you never run out of ideas and engage your audience effectively.",
+        "sales_angle": "Elevate your brand's visibility and connection with your audience through a structured, easy-to-follow video content plan designed just for you.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media posts",
+          "Networking events"
+        ],
+        "qualification_criteria": [
+          "Active on at least one social media platform",
+          "Willing to invest in their online presence",
+          "Open to collaboration and creative ideas"
+        ],
+        "next_action": "Reach out via email or WhatsApp to schedule an initial consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our 30-Day Social Media Video Content Plan is your key to consistent, engaging content! Tailored just for small businesses and content creators, you’ll get 30 unique video ideas, scripting outlines, and more. Let’s transform your online presence together! 🌟 #SocialMediaMarketing #VideoContent #SmallBusinessSuccess",
+        "website_description": "Struggling to keep your audience engaged on social media? Our 30-Day Social Media Video Content Plan offers a tailored strategy for small businesses and content creators. With 30 unique video ideas, scripting outlines, graphic templates, a personalized consultation, and engagement tips, you’ll have everything you need to boost your online visibility. Don’t let content creation overwhelm you—let us help you connect with your audience effectively!",
+        "outreach_template": "Subject: Unlock Your Social Media Potential!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity to enhance your social media presence with our 30-Day Social Media Video Content Plan. This tailored approach includes 30 unique video ideas, scripting outlines, and a one-on-one consultation to ensure your content resonates with your audience. \n\nIf you're interested in learning more, let me know! \n\nBest, \n[Your Name] \n[Your Contact Information] \n\nP.S. If this isn’t for you, feel free to opt out of future messages.",
+        "discovery_questions": [
+          "What social media platforms are you currently active on?",
+          "What specific challenges are you facing in creating video content?",
+          "Who is your target audience, and what do you want them to feel or do when viewing your content?",
+          "How often do you currently post video content on your platforms?",
+          "What are your goals for your social media presence in the next few months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Brand",
+          "Challenges and Goals",
+          "Proposed 30-Day Video Content Plan",
+          "Deliverables Overview",
+          "Timeline and Pricing",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to get started? Contact us today to schedule your initial consultation!",
+        "payment_template": "Subject: Follow-Up on Your Recent Inquiry\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Video Content Plan! I wanted to discuss the next steps in moving forward. Please let me know if you have any questions regarding the plan or payment options. I'm here to help!\n\nLooking forward to hearing from you!\n\nBest, \n[Your Name] \n[Your Contact Information] \n\nP.S. If you prefer not to continue this conversation, just let me know!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
