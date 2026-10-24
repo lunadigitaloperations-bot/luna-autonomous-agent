@@ -39894,6 +39894,64 @@
         "payment_template": "Subject: Payment Information\n\nHi [Recipient's Name],\n\nI hope you are doing well! As we move forward with your TikTok Growth Package, please let me know your preferred payment method, and I will provide the necessary details for processing. \n\nThank you, and I look forward to working together! \n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you no longer wish to receive these emails, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792869652134",
+      "created_at": "2026-10-24T19:20:52.134648+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Boost Package",
+        "target_customer": "Small businesses and creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that drives audience engagement and brand awareness",
+        "solution": "A tailored content strategy and creation service focused on short-form videos for TikTok and Instagram Reels, designed to build consistency and attract new followers.",
+        "deliverables": [
+          "1 detailed content strategy document",
+          "15 short-form video scripts (TikTok and Instagram Reels)",
+          "5 tailored captions for each video",
+          "10 hours of consultation for feedback and adjustments"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 20,
+        "value_proposition": "Elevate your brand with expertly crafted social media content that captivates your audience and showcases your uniqueness.",
+        "sales_angle": "Invest in your brand's future with a strategic and creative approach to social media that will engage your followers and amplify your message.",
+        "organic_discovery_methods": [
+          "Social media outreach",
+          "Word of mouth",
+          "Email marketing"
+        ],
+        "qualification_criteria": [
+          "Business or creator must have an active social media presence",
+          "Ability to commit to scheduled consultations"
+        ],
+        "next_action": "Reach out via email or WhatsApp to discuss your needs and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your online presence? 🌟 Our 30-Day Social Media Boost Package is designed for small businesses and creators like you! Get a tailored content strategy, 15 engaging short-form video scripts, and more to attract new followers and captivate your audience. 📈 Let's amplify your message together! DM us to learn more! #SocialMediaBoost #VideoMarketing #SmallBusinessSuccess",
+        "website_description": "Transform your online presence with our 30-Day Social Media Boost Package! Tailored for small businesses and creators, this package includes a detailed content strategy, 15 short-form video scripts for TikTok and Instagram Reels, and personalized consultations. Drive engagement and build consistency with expertly crafted content that showcases your unique brand. Get started today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well. I wanted to share an exciting opportunity for small businesses and creators looking to enhance their online presence. Our 30-Day Social Media Boost Package offers a tailored content strategy and engaging short-form videos designed to boost your audience engagement and brand awareness.\n\nIf you are interested, I would love to discuss this with you further. Please feel free to reach out via email or WhatsApp.\n\nThank you for your time, and if this isn’t something that interests you, just let me know—I’d be happy to remove you from my outreach list.\n\nBest regards,\n[Your Name]",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms are you currently using for your business?",
+          "Have you experimented with short-form video content before?",
+          "What challenges have you faced in creating engaging content?",
+          "How much time can you commit to scheduled consultations?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Social Media Boost Package",
+          "Target Customer Insights",
+          "Customer Problems & Solutions",
+          "Deliverables Details",
+          "Timeline and Estimated Delivery",
+          "Pricing Structure and Payment Options",
+          "Next Steps and Call to Action",
+          "Q&A Section"
+        ],
+        "call_to_action": "Ready to boost your brand? Reach out today to get started!",
+        "payment_template": "Subject: Your Invoice for the 30-Day Social Media Boost Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Boost Package! I wanted to provide you with the payment options available for getting started. Please let me know which method you prefer, and we can set up the next steps.\n\nLooking forward to your response! If you have any questions or concerns, feel free to reach out.\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
