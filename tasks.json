@@ -40123,6 +40123,59 @@
         "payment_template": "Subject: Follow-up on Our Recent Conversation\n\nHi [Recipient's Name],\n\nThank you for considering our Social Media Boost Package! I wanted to touch base regarding the payment details we discussed. Once you’re ready to proceed, please let me know how you'd like to move forward.\n\nIf you have any questions or need further information, feel free to reach out. If you’ve changed your mind or are not interested, that’s perfectly okay too!\n\nBest regards,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1792926274506",
+      "created_at": "2026-10-25T11:04:34.506566+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Momentum Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create consistent, engaging content for social media, leading to low visibility and audience engagement.",
+        "solution": "A package offering tailored short-form video scripts and content strategy guidance to boost social media engagement.",
+        "deliverables": [
+          "4 short-form video scripts (TikTok/Instagram Reels/YouTube Shorts)",
+          "Content strategy brief outlining best practices for posting and engagement",
+          "Custom captions for each video"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your social media presence with engaging, ready-to-use video scripts and a personalized content strategy.",
+        "sales_angle": "Transform your social media engagement with our expertly crafted scripts tailored for your brand.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Email newsletters"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or content creator",
+          "Active on at least one social media platform"
+        ],
+        "next_action": "Contact us to get started on enhancing your social media impact!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media presence! 🌟 Our Social Media Momentum Package includes 4 tailored short-form video scripts, a comprehensive content strategy brief, and custom captions—all designed to boost your engagement! Perfect for small businesses and content creators looking to shine online. 💡✨ Ready to transform your social media impact? Contact us today! #SocialMedia #ContentCreation #EngagementBoost",
+        "website_description": "Struggling with social media consistency and engagement? Our Social Media Momentum Package is designed for small businesses and content creators just like you. With 4 expertly crafted short-form video scripts, a comprehensive content strategy brief, and tailored captions, you'll elevate your social media presence and connect more effectively with your audience. Get ready to enhance your visibility and engagement!",
+        "outreach_template": "Subject: Enhancing Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to see if you might be interested in our Social Media Momentum Package, which is tailored specifically for small businesses and content creators. It includes expertly crafted short-form video scripts and a personalized content strategy to help you boost your social media engagement.\n\nIf this sounds appealing, I'd love to discuss further!\n\nBest regards,\n[Your Name]\n\nP.S. If you're not interested, feel free to let me know, and I'll respect your choice.",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "How often do you post content on your social media accounts?",
+          "What type of content do you feel resonates most with your audience?",
+          "Have you utilized video content in your social media strategy before?",
+          "What specific challenges are you facing with your current social media engagement?"
+        ],
+        "proposal_outline": [
+          "Introduction: Overview of the proposal and identified needs.",
+          "Summary of the Social Media Momentum Package.",
+          "Deliverables: Detailed description of what is included.",
+          "Customer Benefits: How this package will solve the identified challenges.",
+          "Call to Action: Next steps for engagement."
+        ],
+        "call_to_action": "Contact us today to get started on enhancing your social media impact!",
+        "payment_template": "Subject: Follow-Up on Your Recent Inquiry\n\nHi [Name],\n\nThank you for your interest in our Social Media Momentum Package! I wanted to touch base regarding the next steps. Please let me know if you have any questions or if you're ready to proceed. Your transformation in social media engagement is just a step away!\n\nLooking forward to hearing from you soon!\n\nBest regards,\n[Your Name]\n\nP.S. If you prefer not to receive further communication, please let me know, and I'll make sure to respect your choice.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
