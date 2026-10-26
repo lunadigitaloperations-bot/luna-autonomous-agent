@@ -40516,6 +40516,57 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for choosing the Social Media Growth Booster Package! I wanted to follow up regarding the payment process. Once we have your confirmation, we will provide further instructions to proceed.  \n\nPlease let me know if you have any questions! \n\nBest,  \n[Your Name]  \n*If you would prefer not to receive further communication, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793034831578",
+      "created_at": "2026-10-26T17:13:51.578714+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Accelerator Package",
+        "target_customer": "Small businesses looking to boost their online presence.",
+        "customer_problem": "Struggling to create engaging social media content that resonates with the audience, leading to low engagement and visibility.",
+        "solution": "A tailored content strategy combined with professionally crafted short-form video scripts and social media post captions that can be quickly deployed to enhance brand visibility and engagement.",
+        "deliverables": [
+          "4 short-form video scripts (TikTok/Instagram Reels/YouTube Shorts)",
+          "4 engaging captions for social media posts",
+          "1 content strategy outline for the month",
+          "1 consultation session (30 minutes) for guidance on implementation"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your social media presence with engaging content tailored to your brand, driving more interaction without needing to invest hours into content creation.",
+        "sales_angle": "Unlock the potential of your brand's story with captivating video scripts and posts that resonate with your audience, all designed and delivered remotely.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Content marketing"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Open to exploring new content styles",
+          "Willing to implement provided strategies and content"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation to discuss your needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your small business to the next level? Introducing our Social Media Accelerator Package! 📈✨ Get tailor-made video scripts, engaging captions, and a solid content strategy—all in just 10 days! 🔥 Let's elevate your online presence together. 💬 DM us for a FREE consultation! #SocialMedia #SmallBusiness #ContentStrategy #EngagementBoost",
+        "website_description": "Unlock your brand's potential with our Social Media Accelerator Package, designed specifically for small businesses looking to boost their online presence. Receive professionally crafted short-form video scripts, engaging captions, and a comprehensive content strategy—all customized for your unique brand voice. In just 10 days, enhance engagement and visibility with content that resonates! Schedule a FREE consultation today to learn more.",
+        "outreach_template": "Subject: Let's Elevate Your Online Presence!\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Social Media Accelerator Package, tailored for small businesses like yours. With our customized video scripts and engaging captions, we can help enhance your online visibility and drive engagement.\n\nWould you be open to a brief call or chat to discuss how this package can meet your needs? \n\nIf you're not interested, no worries at all! Just let me know, and I'll refrain from following up.\n\nBest regards,\n[Your Name]  \nInfinite Sauce",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media content?",
+          "Have you tried any specific content strategies in the past? What were the results?",
+          "What platforms do you primarily use for your social media presence?",
+          "How frequently do you post content on your social media channels?",
+          "What do you envision as the most important element for your brand's social media engagement?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief background of the client's business.\n   - Overview of the proposal purpose.\n\n2. Challenges\n   - Identify key issues faced by the client in social media engagement.\n\n3. Proposed Solution\n   - Outline deliverables: video scripts, captions, content strategy, consultation.\n   - Emphasize the value and benefits of the package.\n\n4. Implementation\n   - Describe the process and timeline for delivering the service.\n\n5. Pricing\n   - Present the suggested price of $250.\n\n6. Call to Action\n   - Encourage the client to take the next steps and schedule a consultation."
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to schedule your FREE consultation and elevate your social media presence!",
+        "payment_template": "Subject: Confirmation of Service Details\n\nHi [Name],\n\nThank you for your interest in the Social Media Accelerator Package! We're excited to begin this journey with you. Before finalizing our agreement, I wanted to confirm the package details and discuss how we can move forward.\n\nPlease let me know a convenient time for you to chat!\n\nBest,\n[Your Name]  \nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
