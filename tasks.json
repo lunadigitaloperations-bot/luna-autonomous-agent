@@ -40567,6 +40567,62 @@
         "payment_template": "Subject: Confirmation of Service Details\n\nHi [Name],\n\nThank you for your interest in the Social Media Accelerator Package! We're excited to begin this journey with you. Before finalizing our agreement, I wanted to confirm the package details and discuss how we can move forward.\n\nPlease let me know a convenient time for you to chat!\n\nBest,\n[Your Name]  \nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793053859475",
+      "created_at": "2026-10-26T22:30:59.475213+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Growth Booster Package",
+        "target_customer": "Small Business Owners and Creators looking to increase engagement on TikTok",
+        "customer_problem": "Struggling to create consistent, engaging TikTok content that resonates with their audience and increases follower count.",
+        "solution": "Monthly content strategy and creation service that includes tailored TikTok short-form video scripts, content calendar, and video editing guidance.",
+        "deliverables": [
+          "5 TikTok video scripts tailored to the client's niche",
+          "1 month content calendar for posting",
+          "Editing guidelines and tips for maximizing audience engagement",
+          "1 hour consultative session to discuss strategy and implementation"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock your TikTok potential with expert-crafted content that resonates and engages, all without overwhelming your schedule.",
+        "sales_angle": "Transform your TikTok presence and attract your ideal audience with minimal time investment through professionally designed content.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing success stories",
+          "Behind-the-scenes content of the creation process",
+          "Client testimonials and case studies"
+        ],
+        "qualification_criteria": [
+          "Must have an active TikTok account",
+          "Willingness to engage with strategies provided",
+          "Open to receiving feedback on content"
+        ],
+        "next_action": "Contact Luna via email or WhatsApp to discuss your TikTok goals and secure your package."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Unlock Your TikTok Potential! 🎥 Struggling to grow your audience? Our 30-Day TikTok Growth Booster Package offers tailored video scripts, a content calendar, and expert guidance – all designed to boost your engagement without overwhelming your schedule. DM us to get started! #TikTokGrowth #SmallBusiness #ContentCreation",
+        "website_description": "Elevate your TikTok game with our 30-Day TikTok Growth Booster Package! Specifically designed for small business owners and creators, this package provides you with tailored video scripts, a content calendar, and essential editing tips. Overcome the challenges of consistent content creation and engage your audience with expert-crafted strategies. Let's transform your TikTok presence together!",
+        "outreach_template": "Subject: Elevate Your TikTok Engagement\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because I believe our 30-Day TikTok Growth Booster Package could be a game-changer for your TikTok presence. Are you currently facing challenges in creating engaging content? \n\nThis package offers tailored scripts, a month-long content calendar, and valuable editing guidance to help you connect with your audience effectively.\n\nWould you be open to a brief chat to discuss how we can support your TikTok goals? \n\nBest regards,\nLuna  \n[Your Contact Info]  \nP.S. If you're not interested, feel free to let me know!",
+        "discovery_questions": [
+          "What specific goals are you hoping to achieve with your TikTok account?",
+          "What types of content have you created so far, and what has worked best?",
+          "How frequently are you currently posting on TikTok?",
+          "Have you identified your target audience on TikTok? If so, who are they?",
+          "Are there any specific challenges you face with creating or engaging content on TikTok?"
+        ],
+        "proposal_outline": [
+          "1. Introduction: Overview of client needs and goals",
+          "2. Current TikTok Presence: Analysis of existing content and performance",
+          "3. Proposed Solution: Details of the 30-Day TikTok Growth Booster Package",
+          "4. Deliverables: Breakdown of the package items",
+          "5. Implementation Plan: Timeline and process for strategy execution",
+          "6. Next Steps: Outline of how to proceed and contact information"
+        ],
+        "call_to_action": "Ready to boost your TikTok engagement? Contact Luna today to secure your 30-Day TikTok Growth Booster Package!",
+        "payment_template": "Subject: Payment Details for Your TikTok Growth Package\n\nHi [Name],\n\nThank you for choosing the 30-Day TikTok Growth Booster Package! I'm excited to help you boost your TikTok presence. To proceed with the package, please find the payment details below:\n\n[Payment Instructions]\n\nOnce you've completed the payment, please let me know, and we can finalize your onboarding process. Feel free to reach out if you have any questions!\n\nBest regards,\nLuna  \n[Your Contact Info]  \nP.S. If you're no longer interested, please feel free to opt-out.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
