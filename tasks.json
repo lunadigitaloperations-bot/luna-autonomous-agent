@@ -40794,6 +40794,64 @@
         "payment_template": "Subject: Payment Options for Your Engaging Video Content Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Engaging Video Content Package! To proceed, we can discuss the payment options available to you. Please let us know your preferred method, and we can continue from there.\n\nLooking forward to your response!\n\nBest,\n\n[Your Name]\n[Your Contact Information]\n[Your Company Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793131119008",
+      "created_at": "2026-10-27T19:58:39.008543+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Video Content Creation Package",
+        "target_customer": "Small businesses and content creators looking to enhance engagement on social media.",
+        "customer_problem": "Struggling to consistently produce engaging video content that resonates with their audience.",
+        "solution": "Develop a month-long content strategy providing short-form video scripts and editing guidance tailored for platforms like TikTok and Instagram Reels.",
+        "deliverables": [
+          "4 Short-form video scripts (one per week)",
+          "Video editing tips tailored for each script",
+          "Social media posting schedule",
+          "Strategies for audience engagement"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your social media presence with engaging video content and personalized strategies in just 30 days.",
+        "sales_angle": "Enhance your brand visibility and connect with your audience through powerful video storytelling.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Content marketing through blog posts",
+          "Word-of-mouth referrals"
+        ],
+        "qualification_criteria": [
+          "Must have existing social media accounts",
+          "Willingness to engage with video content",
+          "Budget of $200 for marketing services"
+        ],
+        "next_action": "Contact me at luna.digital.operations@gmail.com to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your social media presence with our 30-Day Video Content Creation Package! 🎥 Ideal for small businesses and content creators, we provide engaging scripts, editing tips, and strategies tailored for TikTok and Instagram Reels. Elevate your brand visibility and connect with your audience like never before! 🌟 DM us for more details! #VideoContent #SocialMediaStrategy #EngageYourAudience",
+        "website_description": "Transform your brand's social media impact with our 30-Day Video Content Creation Package. Designed for small businesses and content creators, this package equips you with four tailored short-form video scripts, expert editing tips, a structured posting schedule, and engagement strategies—all within just 30 days. Elevate your content and resonate with your audience. Start enhancing your social media presence today!",
+        "outreach_template": "Subject: Elevate Your Video Content Strategy\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our specialized 30-Day Video Content Creation Package designed for small businesses and content creators looking to enhance their social media engagement. This package includes personalized video scripts, editing tips, and strategies tailored for platforms like TikTok and Instagram Reels.\n\nIf you're interested, I would love to schedule a consultation to discuss how we can help improve your video content strategy.\n\nPlease feel free to opt-out of further messages if this isn't of interest to you. Looking forward to hearing from you!\n\nBest,\nLuna\nluna.digital.operations@gmail.com",
+        "discovery_questions": [
+          "What social media platforms are you currently using for your business?",
+          "What challenges are you facing in creating engaging video content?",
+          "How often do you post video content on your social media accounts?",
+          "What is your target audience and what kinds of content do they respond to?",
+          "Are you familiar with the video formats best suited for TikTok and Instagram Reels?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of your current social media strategy",
+          "Identified pain points regarding video content",
+          "Proposed solution: 30-Day Video Content Creation Package",
+          "Detailed deliverables",
+          "Timeline and estimated delivery",
+          "Investment and payment terms",
+          "Call to action and next steps"
+        ],
+        "call_to_action": "Transform your video content strategy today! Contact us to get started.",
+        "payment_template": "Subject: Payment Confirmation Process\n\nHi [Name],\n\nThank you for your interest in our 30-Day Video Content Creation Package! To move forward, we would need to discuss the payment details. Please let me know a convenient time for you, and I can provide further information.\n\nIf you have any questions or would prefer not to pursue this, please feel free to let me know.\n\nBest,\nLuna\nluna.digital.operations@gmail.com",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
