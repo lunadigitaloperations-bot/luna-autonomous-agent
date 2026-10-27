@@ -40852,6 +40852,64 @@
         "payment_template": "Subject: Payment Confirmation Process\n\nHi [Name],\n\nThank you for your interest in our 30-Day Video Content Creation Package! To move forward, we would need to discuss the payment details. Please let me know a convenient time for you, and I can provide further information.\n\nIf you have any questions or would prefer not to pursue this, please feel free to let me know.\n\nBest,\nLuna\nluna.digital.operations@gmail.com",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793144573609",
+      "created_at": "2026-10-27T23:42:53.609427+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Short-form Video Content Package",
+        "target_customer": "Small businesses or individual creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures attention and drives engagement.",
+        "solution": "A tailored short-form video content creation package that includes scripts, video concepts, and editing guidelines, enabling businesses to produce compelling video posts themselves.",
+        "deliverables": [
+          "Three unique short-form video scripts (up to 60 seconds each)",
+          "Three video concept outlines",
+          "Editing style guidelines",
+          "Bonus: Captions for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Empower your brand with engaging video content that resonates with your audience, driving interaction and growth without the need for extensive resources.",
+        "sales_angle": "Unlock the potential of your business with professional-quality short-form videos that you can create in-house with our expert guidance.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Content sharing on relevant platforms",
+          "Community engagement in niche groups"
+        ],
+        "qualification_criteria": [
+          "Must have a basic understanding of video recording",
+          "Access to a smartphone or camera for video production",
+          "Willingness to implement creative concepts"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to get started on your video content journey!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your brand's visibility with our Short-form Video Content Package! Designed for small businesses and individual creators, this package offers everything you need to produce engaging videos that capture attention. Get ready to create compelling content that drives engagement! 🎥✨ Contact us today to learn more! #VideoMarketing #SmallBusiness #ContentCreation",
+        "website_description": "Transform your social media strategy with our Short-form Video Content Package! Ideal for small businesses and individual creators, this package provides three unique video scripts, concept outlines, and editing guidelines. Empower your brand with engaging video content that resonates with your audience. Perfect for those ready to enhance their presence without extensive resources. Get started today!",
+        "outreach_template": "Subject: Enhance Your Video Content Creation\n\nHi [Recipient's Name],\n\nI hope this message finds you well. I'm reaching out to introduce our Short-form Video Content Package, specifically designed for small businesses and individual creators like yourself. Our package includes tailored video scripts, concept outlines, and editing guidelines, allowing you to create engaging content that elevates your social media presence.\n\nIf this sounds interesting, I would love to discuss it further. Please let me know your availability!\n\nBest regards,\n[Your Name]\n\nP.S. If this isn't something you're interested in, feel free to let me know, and I won't reach out again.",
+        "discovery_questions": [
+          "What platforms are you currently using for your social media marketing?",
+          "How often do you post video content, if at all?",
+          "What challenges do you face when creating video content?",
+          "How familiar are you with video editing techniques?",
+          "What message or theme do you want your videos to convey?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Customer's Needs",
+          "Overview of Short-form Video Content Package",
+          "Details of Deliverables",
+          "Timeline and Delivery",
+          "Pricing Information",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to elevate your social media presence with engaging video content? Contact us today!",
+        "payment_template": "Subject: Your Video Content Package\n\nHi [Recipient's Name],\n\nI hope you're doing well! I'm following up regarding our previous discussion about the Short-form Video Content Package. If you're ready to proceed, we can discuss the arrangements for completing your order.\n\nPlease let me know how you would like to proceed.\n\nBest, \n[Your Name]\n\nP.S. If this isn't the right time for you, just let me know, and I'll make a note for the future.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
