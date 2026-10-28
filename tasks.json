@@ -40910,6 +40910,63 @@
         "payment_template": "Subject: Your Video Content Package\n\nHi [Recipient's Name],\n\nI hope you're doing well! I'm following up regarding our previous discussion about the Short-form Video Content Package. If you're ready to proceed, we can discuss the arrangements for completing your order.\n\nPlease let me know how you would like to proceed.\n\nBest, \n[Your Name]\n\nP.S. If this isn't the right time for you, just let me know, and I'll make a note for the future.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793163809832",
+      "created_at": "2026-10-28T05:03:29.832462+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Short-Form Video Package",
+        "target_customer": "Small businesses and creators looking to boost brand visibility on social media",
+        "customer_problem": "Struggling to create engaging content that effectively promotes their brand and captures audience attention",
+        "solution": "A tailored package that provides well-crafted short-form video scripts and content for TikTok, Instagram Reels, or YouTube Shorts.",
+        "deliverables": [
+          "3 short-form video scripts (30-60 seconds each)",
+          "3 video ideas tailored to the brand",
+          "1 set of engaging captions for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Maximize your social media presence with engaging video content that attracts and retains your audience's attention.",
+        "sales_angle": "Stand out in a crowded online space with customized video content designed to resonate with your target audience.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Word of mouth referrals",
+          "Networking in online communities"
+        ],
+        "qualification_criteria": [
+          "Small business or content creator",
+          "Active on at least one social media platform",
+          "Interest in enhancing video content strategy"
+        ],
+        "next_action": "Contact Luna via email at luna.digital.operations@gmail.com to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand's visibility with our Engaging Short-Form Video Package! Perfect for small businesses and creators wanting to capture attention on social media. Get 3 tailored video scripts, 3 engaging video ideas, and captivating captions all for just $150. Ready to stand out? Reach out today! 🎥 #SocialMedia #ContentCreation #VideoMarketing",
+        "website_description": "Transform your brand's online presence with our Engaging Short-Form Video Package! Designed for small businesses and content creators, this package includes three custom video scripts, tailored video ideas, and engaging captions that will captivate your audience. Delivering fast results within just 7 days for only $150, we help you break through the social media noise and connect with your audience effectively.",
+        "outreach_template": "Subject: Enhance Your Brand’s Social Media Strategy\n\nHi [Name],\n\nI hope this message finds you well. I wanted to share an exciting opportunity to enhance your brand's visibility on social media through our Engaging Short-Form Video Package. This tailored solution includes three short-form video scripts, three unique video ideas, and engaging captions—everything you need to effectively capture your audience's attention.\n\nIf you're interested in learning more, feel free to reach out. I would love to schedule a brief consultation.\n\nBest regards,\nLuna\n[luna.digital.operations@gmail.com]\n\n*If you prefer not to receive further emails, please reply with 'opt-out'.*",
+        "discovery_questions": [
+          "What type of content have you found most engaging for your audience?",
+          "Which social media platforms are you currently using?",
+          "What goals do you hope to achieve with short-form video content?",
+          "Have you experimented with video content before? If so, what was your experience like?",
+          "How often are you currently posting on social media?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding the Client's Needs",
+          "Proposed Solution Overview",
+          "Deliverables Description",
+          "Timeline and Estimated Delivery",
+          "Investment and Value Proposition",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to boost your brand’s visibility? Contact Luna to schedule a consultation today!",
+        "payment_template": "Subject: Invoice and Next Steps\n\nHi [Name],\n\nThank you for discussing our Engaging Short-Form Video Package. To proceed, we will send over an invoice shortly that outlines the details of our agreement. Please review it at your convenience, and let us know if you have any questions or require adjustments.\n\nLooking forward to collaborating!\n\nBest,\nLuna\n[luna.digital.operations@gmail.com]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
