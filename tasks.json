@@ -41083,6 +41083,64 @@
         "payment_template": "Subject: Payment Information for Your Consultation\n\nHi [Recipient's Name],\n\nThank you for your interest in the Social Media Boost Package! To proceed, I’ll provide you with the payment details and next steps shortly. \n\nPlease let me know if you have any questions or need assistance.\n\nThank you, and I look forward to working together!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793228609317",
+      "created_at": "2026-10-28T23:03:29.317701+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Growth Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging and consistent content that attracts followers and boosts brand visibility.",
+        "solution": "A comprehensive content strategy and ready-to-use short-form video scripts tailored for TikTok and Instagram Reels to increase engagement and follower count.",
+        "deliverables": [
+          "4 custom TikTok video scripts (one per week)",
+          "4 custom Instagram Reels scripts (one per week)",
+          "Hashtag strategies for all scripts",
+          "Content calendar template for 30 days",
+          "30 tailored captions for posts"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your social media engagement with a tailored growth strategy and ready-to-post content, all from the comfort of your home.",
+        "sales_angle": "Get noticed on TikTok and Instagram with professional scripts designed to resonate with your audience. Save time and start growing your online presence today!",
+        "organic_discovery_methods": [
+          "Social media outreach",
+          "Word of mouth",
+          "SEO-optimized blog posts",
+          "Collaboration with influencers"
+        ],
+        "qualification_criteria": [
+          "Business owner or content creator",
+          "Active on TikTok and Instagram",
+          "Willingness to implement provided content strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to start your journey to greater social media success!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our 30-Day Social Media Growth Package! Small business owners and content creators can enhance their brand visibility with custom TikTok and Instagram Reels scripts, strategic hashtags, and a content calendar—all ready-to-use! 🌟 Let’s create engaging content that resonates with your audience. DM us to learn more! #SocialMediaGrowth #ContentCreation #SmallBusiness",
+        "website_description": "Unlock your social media potential with our 30-Day Social Media Growth Package! Designed specifically for small business owners and content creators, this package includes tailored video scripts for TikTok and Instagram Reels, comprehensive hashtag strategies, a 30-day content calendar, and engaging captions to boost your online visibility. Start your journey to greater engagement and follower growth today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out and introduce you to our 30-Day Social Media Growth Package tailored for small business owners and content creators like yourself. \n\nThis package includes video scripts for TikTok and Instagram, hashtag strategies, and a content calendar to enhance your social media engagement. Would you be interested in exploring this further?\n\nIf you'd prefer not to receive further messages, please let me know. \n\nBest regards,\n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "discovery_questions": [
+          "What challenges are you facing in creating engaging social media content?",
+          "How often do you currently post on TikTok and Instagram?",
+          "What types of content have you found resonate most with your audience?",
+          "Are you familiar with using hashtags to enhance your content's visibility?",
+          "What are your primary goals for your social media presence in the next 30 days?"
+        ],
+        "proposal_outline": [
+          "1. Introduction\n   - Brief introduction to Infinite Sauce and the 30-Day Growth Package.",
+          "2. Understanding Your Needs\n   - Discuss the prospect's current social media challenges and goals.",
+          "3. Package Overview\n   - Detailed breakdown of deliverables: custom video scripts, hashtag strategies, content calendar, captions.",
+          "4. Expected Outcomes\n   - Potential engagement boost, insights on follower growth, brand visibility enhancement.",
+          "5. Pricing and Value\n   - Explain the suggested price of $299 and the value provided.",
+          "6. Closing and Next Steps\n   - Invite questions and outline the next action steps."
+        ],
+        "call_to_action": "Contact us via email or WhatsApp to begin transforming your social media strategy today!",
+        "payment_template": "Subject: Payment Process for Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Growth Package! To proceed, please let us know if you'd like to discuss the payment process. We’re here to assist you with every step!\n\nIf you wish to opt out of further communication, just let us know. \n\nBest, \n[Your Name]\n[Your Position]\nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
