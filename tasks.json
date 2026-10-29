@@ -41198,6 +41198,64 @@
         "payment_template": "Subject: Payment Confirmation for Your Order\n\nHi [Recipient's Name],\n\nThank you for choosing our Social Media Kickstart Package! We appreciate your support. \n\nTo proceed with your order, please feel free to make your payment at your earliest convenience. Let us know if you have any questions or need assistance with this process.\n\nThank you, and we look forward to working with you!\n\nBest regards,\n[Your Name]\n[Your Position] \nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793277717750",
+      "created_at": "2026-10-29T12:41:57.750119+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Spark Pack",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging social media content that attracts and retains followers.",
+        "solution": "A well-structured 30-day content plan and creative assets that ignite engagement and growth on social media platforms.",
+        "deliverables": [
+          "Custom content calendar for 30 days, visually organized",
+          "10 short-form video scripts for TikTok, Instagram Reels, or YouTube Shorts",
+          "5 custom captions tailored to your brand voice",
+          "2 graphic templates for posts or stories",
+          "1 hour of strategy consultation via video call"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Kickstart your online presence with a tailored social media strategy that aligns with your brand and goals.",
+        "sales_angle": "Engage your audience and boost your visibility with expertly crafted content that you can implement immediately.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media promotion",
+          "Small business forums"
+        ],
+        "qualification_criteria": [
+          "Must have an established social media account",
+          "Open to new content strategies and methods"
+        ],
+        "next_action": "Contact via email or WhatsApp to schedule a consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Introducing our 30-Day Social Media Spark Pack! 🔥 Designed specifically for small businesses and creators, this package gives you a custom content calendar, video scripts, tailored captions, and more! Perfect for boosting engagement and visibility. 💡💬 Contact us today to kickstart your online presence! 📈✨ #SocialMedia #SmallBusiness #ContentCreation",
+        "website_description": "Transform your social media presence with our 30-Day Social Media Spark Pack! This tailored solution offers a comprehensive content plan and creative assets to engage your audience effectively. From custom content calendars to captivating video scripts, we’re here to ignite your growth on social media. Reach out to discuss how we can align our strategies with your brand goals!",
+        "outreach_template": "Subject: Enhancing Your Social Media Engagement\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because I believe our 30-Day Social Media Spark Pack could help elevate your brand's online presence. With a tailored content strategy, you can enhance engagement and attract more followers.\n\nIf you're open to exploring this further, I'd love to schedule a consultation to discuss your specific needs. Please let me know your availability!\n\nRespectfully,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you're not interested, just let me know and I won’t reach out again.",
+        "discovery_questions": [
+          "What are your primary goals for your social media presence?",
+          "Which platforms are you currently using for your business?",
+          "What type of content do you feel resonates best with your audience?",
+          "Have you tried any specific content strategies in the past? If so, what were they?",
+          "What challenges are you facing in creating engaging social media content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the client's current social media status",
+          "Identification of client's goals and challenges",
+          "Detailed description of the 30-Day Social Media Spark Pack deliverables",
+          "Timeline for delivery",
+          "Suggested investment",
+          "Next steps for moving forward",
+          "Respectful opt-out information"
+        ],
+        "call_to_action": "Contact us today to schedule a consultation and discover how our 30-Day Social Media Spark Pack can elevate your online presence!",
+        "payment_template": "Subject: Next Steps for Your Social Media Spark Pack\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Spark Pack! I wanted to touch base regarding the next steps to secure your spot. Please let me know if you have any questions or need clarification on any details.\n\nLooking forward to moving ahead!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you would prefer not to move forward at this time, feel free to let me know, and I completely understand.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
