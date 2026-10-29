@@ -41141,6 +41141,63 @@
         "payment_template": "Subject: Payment Process for Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Growth Package! To proceed, please let us know if you'd like to discuss the payment process. We’re here to assist you with every step!\n\nIf you wish to opt out of further communication, just let us know. \n\nBest, \n[Your Name]\n[Your Position]\nInfinite Sauce",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793250966619",
+      "created_at": "2026-10-29T05:16:06.619858+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Kickstart Package",
+        "target_customer": "Small businesses or creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience",
+        "solution": "A tailored package that provides short-form video scripts and content ideas designed to boost audience engagement and visibility on social media platforms.",
+        "deliverables": [
+          "3 custom short-form video scripts (TikTok, Instagram Reels, YouTube Shorts)",
+          "Content strategy guide including post scheduling and hashtags",
+          "Engaging captions for each video script",
+          "Tips for video creation and editing for beginners"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Unlock the power of short-form video content to drive engagement and grow your audience without the overwhelm.",
+        "sales_angle": "Transform your ideas into captivating videos that connect with your audience and elevate your brand.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media posts",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Small business or creator with a focus on social media",
+          "Willingness to experiment with video content"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to boost your online presence? Our Social Media Kickstart Package is perfect for small businesses and creators looking to craft engaging short-form videos! Get tailored scripts, strategic guides, and more to make your content shine! 🌟💬 Contact us to learn more! #SocialMedia #VideoMarketing #SmallBusiness",
+        "website_description": "Elevate your brand with our Social Media Kickstart Package! Designed for small businesses and creators, this package provides 3 custom short-form video scripts, a detailed content strategy guide, engaging captions, and helpful tips for video creation. Transform your ideas into captivating videos that resonate with your audience and grow your online presence—all without the overwhelm. Start your journey today!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to reach out because I believe our Social Media Kickstart Package could be the perfect fit for your needs. It’s designed specifically for small businesses and creators looking to engage their audience with captivating short-form video content. \n\nWould you be open to a brief consultation to discuss how we can help you enhance your online presence? If not, no worries at all! \n\nBest regards,\n[Your Name]\n[Your Position] \nInfinite Sauce",
+        "discovery_questions": [
+          "What specific challenges do you face when creating video content?",
+          "How do you currently engage with your audience on social media?",
+          "What platforms do you primarily focus on for your video content?",
+          "Have you tried any video content strategies in the past? If so, what were they?",
+          "What are your goals for your online presence in the next 3-6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Kickstart Package",
+          "Target Audience and Benefits",
+          "Deliverables Breakdown",
+          "Timeline and Process",
+          "Pricing Details",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to kickstart your social media success? Contact us at luna.digital.operations@gmail.com to get started!",
+        "payment_template": "Subject: Payment Confirmation for Your Order\n\nHi [Recipient's Name],\n\nThank you for choosing our Social Media Kickstart Package! We appreciate your support. \n\nTo proceed with your order, please feel free to make your payment at your earliest convenience. Let us know if you have any questions or need assistance with this process.\n\nThank you, and we look forward to working with you!\n\nBest regards,\n[Your Name]\n[Your Position] \nInfinite Sauce",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
