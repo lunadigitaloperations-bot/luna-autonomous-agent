@@ -41481,6 +41481,64 @@
         "payment_template": "Subject: Confirmation of Your Order \n\nHi [Recipient's Name], \n\nThank you for choosing our Short-Form Video Content Package! We are excited to get started on your project. Please let us know how you would like to proceed with the payment, and we can guide you through the next steps. \n\nLooking forward to creating amazing content together! \n\nBest, \n[Your Name] \n[Your Contact Info]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793385036874",
+      "created_at": "2026-10-30T18:30:36.874529+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Launch Package",
+        "target_customer": "Small business owners or creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging social media content that attracts followers and promotes products/services effectively.",
+        "solution": "A comprehensive social media content creation package to kickstart your brand’s online presence across TikTok, Instagram, and YouTube.",
+        "deliverables": [
+          "3 short-form video scripts (15-30 seconds each)",
+          "3 TikTok videos (fully edited and tailored for engagement)",
+          "3 Instagram Reels (fully edited and optimized for reach)",
+          "3 YouTube Shorts (fully edited and formatted correctly)",
+          "10 attention-grabbing captions for posts",
+          "A basic content strategy guide for ongoing engagement"
+        ],
+        "suggested_price_usd": 499,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Launch your social media presence with engaging, professionally crafted content to attract and retain followers.",
+        "sales_angle": "Transform your brand's online visibility and engage your audience with tailor-made, high-quality short-form content, all created just for you.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth referrals",
+          "Partnerships with influencers"
+        ],
+        "qualification_criteria": [
+          "Business owners or creators with an existing product/service",
+          "Willingness to invest in social media marketing"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your brand's social media presence? Our Social Media Launch Package includes tailor-made video scripts, fully edited TikTok videos, Instagram Reels, and more! Perfect for small business owners and creators looking to engage their audience. Let's get started! 📈✨ #SocialMediaMarketing #ContentCreation #SmallBusiness",
+        "website_description": "Kickstart your online presence with our Social Media Launch Package! Designed for small business owners and creators, this comprehensive package offers everything you need to create engaging content across TikTok, Instagram, and YouTube. For just $499, you’ll receive professionally crafted video scripts, edited videos, attention-grabbing captions, and a content strategy guide to help you attract and retain followers. Contact us today to transform your brand's visibility!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I’m reaching out to introduce our Social Media Launch Package, designed specifically for small business owners like yourself. If you're struggling to create engaging content that attracts followers, we can help you kickstart your online presence with tailor-made, high-quality short-form content.\n\nWould you be open to a conversation about how we can support your social media marketing efforts?\n\nLooking forward to hearing from you!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you prefer not to receive these messages, please let me know.",
+        "discovery_questions": [
+          "What type of products or services do you offer?",
+          "Have you previously invested in social media marketing or content creation?",
+          "What platforms are you currently using for your business?",
+          "What are your goals for your social media presence?",
+          "Can you describe your target audience and how you currently engage with them?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Launch Package",
+          "Detailed deliverables",
+          "Timeline and delivery information",
+          "Pricing and payment options",
+          "Next steps and how to get started",
+          "Conclusion and invitation for questions"
+        ],
+        "call_to_action": "Ready to enhance your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Payment Information for Your Package\n\nHi [Name],\n\nThank you for choosing our Social Media Launch Package! I wanted to provide you with details regarding the payment process. Please let me know if you have any questions or if there's anything specific you need from me to proceed with the payment.\n\nLooking forward to working together!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf you would like to opt-out of future communication, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
