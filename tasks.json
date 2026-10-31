@@ -41655,6 +41655,62 @@
         "payment_template": "Subject: Follow-Up on Your Recent Inquiry\n\nHi [Recipient's Name],\n\nI hope you’re doing well! I wanted to follow up regarding your interest in our Short-Form Video Content Package. Once we finalize the details, I’ll provide information for the payment process. \n\nIf you have any questions or need further assistance, feel free to reach out!\n\nBest,\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n\nP.S. If this isn’t the right time for you, just let me know and I won’t follow up again.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793438876441",
+      "created_at": "2026-10-31T09:27:56.442017+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Mini Content Burst Package",
+        "target_customer": "Small businesses or creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to consistently create engaging short-form content that resonates with their audience and drives engagement.",
+        "solution": "A tailored content creation package that provides a week’s worth of short-form video scripts and social media captions tailored to the brand's voice.",
+        "deliverables": [
+          "5 short-form video scripts (30-60 seconds each)",
+          "5 corresponding social media captions",
+          "Content strategy outline for the week",
+          "30-minute consultation call to discuss brand voice and goals"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your online presence with a week’s worth of engaging and creative content that saves you time and effort while keeping your audience engaged.",
+        "sales_angle": "Invest in a week of content that can significantly improve your visibility without overwhelming your schedule.",
+        "organic_discovery_methods": [
+          "Social media shares",
+          "Word of mouth",
+          "Online community forums"
+        ],
+        "qualification_criteria": [
+          "Must be an active social media user",
+          "Business or creator must have a clear target audience",
+          "Willingness to collaborate on brand voice"
+        ],
+        "next_action": "Schedule a free consultation to discuss your content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your social media game? Our Mini Content Burst Package delivers tailored video scripts & captions to engage your audience like never before! Perfect for small businesses and creators alike. Let's transform your content strategy together! 💡 #ContentCreation #SocialMedia #SmallBusiness #EngagementBoost",
+        "website_description": "Transform your online presence with our Mini Content Burst Package! Designed for small businesses and creators, this offering provides a week’s worth of engaging short-form video scripts and social media captions tailored to your brand's voice. With a 30-minute consultation to refine your strategy, you'll save time and effort while captivating your audience. Perfect for social media users looking to enhance their engagement!",
+        "outreach_template": "Subject: Let's Elevate Your Content Strategy Together!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity that could help enhance your social media presence. Our Mini Content Burst Package offers tailored content that helps small businesses and creators engage their audience more effectively.\n\nWould you be open to a free consultation to discuss how we can address your content needs? If this isn't the right time for you, that's completely understandable—just let me know!\n\nLooking forward to connecting,\n[Your Name]",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms do you primarily use for your business or brand?",
+          "Can you describe your brand voice and target audience?",
+          "How often do you currently post content on social media?",
+          "What challenges do you face in creating engaging content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Mini Content Burst Package",
+          "Explanation of Deliverables",
+          "Project Timeline and Estimated Delivery",
+          "Value Proposition",
+          "Next Steps"
+        ],
+        "call_to_action": "Schedule your free consultation today and let's create content that captivates!",
+        "payment_template": "Subject: Confirmation of Your Mini Content Burst Package Order\n\nHi [Name],\n\nThank you for selecting the Mini Content Burst Package! We’ll begin working on your tailored content shortly. Please let me know if you have any questions or specific requests.\n\nLooking forward to collaborating with you!\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
