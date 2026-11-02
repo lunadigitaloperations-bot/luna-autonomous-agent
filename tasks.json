@@ -42232,6 +42232,64 @@
         "payment_template": "Subject: Follow-Up on Your Recent Inquiry\n\nHi [Name],\n\nThank you for your interest in our Social Media Kickstart Package! If you have any questions or need assistance with the next steps, please don't hesitate to reach out. We're here to help!\n\nLooking forward to hearing from you soon.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793652115386",
+      "created_at": "2026-11-02T20:41:55.386605+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Boost Package for Small Businesses",
+        "target_customer": "Small business owners seeking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging short-form content for platforms like TikTok and Instagram, resulting in low engagement and visibility.",
+        "solution": "A tailored package offering short-form video scripts and content strategy specifically designed to increase engagement and attract followers.",
+        "deliverables": [
+          "5 short-form video scripts for TikTok and Instagram Reels",
+          "Content strategy outline for the next month",
+          "3 initial captions optimized for engagement",
+          "One 30-minute consultation to discuss implementation"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Get ready-to-use video scripts and a strategic plan to elevate your brand’s social media presence without the overwhelm.",
+        "sales_angle": "Leverage the power of engaging short-form content to connect with your audience and increase visibility.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word-of-mouth referrals",
+          "Small business forums and groups"
+        ],
+        "qualification_criteria": [
+          "Must own or operate a small business",
+          "Aiming to improve social media engagement",
+          "Willing to implement provided strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to book your package and start boosting your online presence."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Attention small business owners! Struggling to boost your online presence? Our Social Media Boost Package is here for you! Get 5 tailor-made video scripts for TikTok and Instagram, a month-long content strategy, and more—all for just $150! Steps away from elevating your brand's visibility and engagement. Contact us today to get started! 📈✨ #SmallBusiness #SocialMediaMarketing #ContentCreation",
+        "website_description": "Unlock your brand's potential with our Social Media Boost Package designed specifically for small businesses. If you’re looking to create engaging short-form content for TikTok and Instagram, our tailored package provides you with 5 ready-to-use video scripts, a comprehensive content strategy for the upcoming month, 3 optimized captions, and a 30-minute consultation to ensure seamless implementation. Elevate your social media presence without the overwhelm and watch your engagement soar!",
+        "outreach_template": "Subject: Boost Your Online Presence! \n\nHi [Recipient's Name],\n\nI hope this message finds you well. I wanted to share our exciting Social Media Boost Package, tailored for small business owners like yourself. This package offers short-form video scripts, a content strategy outline, and personalized support to enhance your social media engagement.\n\nIf you’re interested in learning more, please feel free to reach out. I’m here to help!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn’t of interest, just let me know and I’ll respect your wishes.",
+        "discovery_questions": [
+          "What social media platforms are you currently using for your business?",
+          "Have you ever created short-form video content before?",
+          "What specific engagement goals do you have for your online presence?",
+          "What challenges do you face when it comes to social media content creation?",
+          "How willing are you to implement new strategies for enhancing your social media engagement?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Boost Package",
+          "Target Audience Insights",
+          "Details of Deliverables",
+          "Implementation Strategy",
+          "Investment Breakdown",
+          "Next Steps",
+          "Q&A Section"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us via email or WhatsApp to book your Social Media Boost Package today!",
+        "payment_template": "Subject: Payment Details for Your Order\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Boost Package! To proceed with your order, please let us know your preferred payment method, and we will provide you with the necessary details.\n\nLooking forward to empowering your online presence!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
