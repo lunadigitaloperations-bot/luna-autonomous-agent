@@ -42403,6 +42403,64 @@
         "payment_template": "Subject: Payment Details for Your Package\n\nHi [Name],\n\nThank you for your interest in our Social Media Content Boost Package. To proceed, I can provide you with the payment details. Please let me know how you'd like to proceed, and feel free to reach out with any questions.\n\nBest regards,\n[Your Name]\n\nP.S. If you prefer not to receive emails like this, please let me know!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793730006626",
+      "created_at": "2026-11-03T18:20:06.626581+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Content Strategy Package",
+        "target_customer": "Small businesses and creators looking to enhance their TikTok presence",
+        "customer_problem": "Struggling to create engaging content consistently and attract a relevant audience on TikTok.",
+        "solution": "A tailored 30-day TikTok content strategy plan, including ideas for posts and engagement techniques.",
+        "deliverables": [
+          "A comprehensive 30-day content calendar with daily TikTok post ideas",
+          "5 short-form video scripts tailored to your brand",
+          "Engagement strategy to boost interaction with followers",
+          "Two 30-minute consultation sessions via Zoom to discuss content and engagement",
+          "One revision round after initial feedback"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Elevate your TikTok game with a strategic plan that drives engagement and visibility, crafted specifically for your brand.",
+        "sales_angle": "Transform your TikTok presence in just 30 days with a clear roadmap tailored to your audience and goals.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Word of mouth",
+          "Online communities or forums related to small business and content creation"
+        ],
+        "qualification_criteria": [
+          "Must have a TikTok account already set up",
+          "Open to creating video content regularly",
+          "Comfortable with remote consultation processes"
+        ],
+        "next_action": "Email luna.digital.operations@gmail.com to schedule a discovery call and kick off your TikTok transformation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your TikTok game in just 30 days! Our tailored TikTok Content Strategy Package is designed for small businesses and creators struggling to engage their audience. Get a comprehensive content calendar, video scripts, engagement strategies, and personalized consultations. Let's transform your TikTok presence together! 📈✨ #TikTokStrategy #ContentCreation #SmallBusinessGrowth #EngagementBoost",
+        "website_description": "Unlock your TikTok potential with our 30-Day TikTok Content Strategy Package! Designed for small businesses and creators, this package offers a tailored plan including a comprehensive content calendar, engaging video scripts, and consultation sessions to ensure you consistently attract the right audience. Start your TikTok transformation today and watch your engagement soar!",
+        "outreach_template": "Subject: Transform Your TikTok Presence\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to share an exciting opportunity that could enhance your TikTok presence. Our 30-Day TikTok Content Strategy Package is specifically designed to help small businesses and creators who are looking to engage their audience more effectively.\n\nThis package includes a detailed content calendar, tailored video scripts, and personalized consultations to guide you through the strategies that work best for your brand.\n\nIf you're interested, I'd love to schedule a discovery call to discuss how we can assist you in elevating your TikTok game. Please let me know your availability!\n\nBest regards,\n[Your Name]\n\nP.S. If you're not interested, feel free to let me know, and I'll respect your decision.",
+        "discovery_questions": [
+          "What specific goals do you have for your TikTok account?",
+          "Who is your target audience on TikTok?",
+          "What types of content have you found to work best for your brand so far?",
+          "How often do you currently post on TikTok?",
+          "Are there any particular challenges you've faced in creating engaging content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day TikTok Content Strategy Package",
+          "Deliverables Breakdown",
+          "Timeline for Implementation",
+          "Estimated Costs",
+          "Next Steps",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Ready to elevate your TikTok presence? Email us today at luna.digital.operations@gmail.com to schedule your discovery call!",
+        "payment_template": "Subject: Next Steps for Your TikTok Content Strategy Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day TikTok Content Strategy Package! I'm excited to help you transform your TikTok presence. Once we finalize the details, I will provide you with the payment information to get started.\n\nLooking forward to our collaboration!\n\nBest,\n[Your Name]\n\nP.S. If you have any questions or would like to discuss further, feel free to reach out.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
