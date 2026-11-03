@@ -42461,6 +42461,62 @@
         "payment_template": "Subject: Next Steps for Your TikTok Content Strategy Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day TikTok Content Strategy Package! I'm excited to help you transform your TikTok presence. Once we finalize the details, I will provide you with the payment information to get started.\n\nLooking forward to our collaboration!\n\nBest,\n[Your Name]\n\nP.S. If you have any questions or would like to discuss further, feel free to reach out.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793750123206",
+      "created_at": "2026-11-03T23:55:23.206047+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Booster Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence",
+        "customer_problem": "Struggling to create engaging, high-quality short-form video content that resonates with their audience and drives engagement.",
+        "solution": "A comprehensive package that provides tailored short-form video scripts, content strategy, and edited video clips designed specifically for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 custom short-form video scripts",
+          "3 edited video clips (up to 60 seconds each) for chosen platforms",
+          "Content strategy outline to maximize engagement",
+          "Captions for all videos"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Elevate your social media presence with engaging videos designed for your brand, crafted to resonate with your audience.",
+        "sales_angle": "Transform your social media channels with professional, tailored video content that stands out and drives engagement without breaking the bank.",
+        "organic_discovery_methods": [
+          "Social media referrals",
+          "Email marketing",
+          "Networking in small business forums"
+        ],
+        "qualification_criteria": [
+          "Must have a defined brand identity and target audience",
+          "Willingness to collaborate on content ideas"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and discuss your content needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your online presence with our Social Media Content Booster Package! 📈 Perfect for small businesses and content creators, this package includes tailored short-form video scripts and edited clips for TikTok, Instagram Reels, and YouTube Shorts. Say goodbye to content struggles and hello to engagement! 📹✨ DM us for more details! #SocialMedia #ContentCreation #Marketing",
+        "website_description": "Transform your social media game with our Social Media Content Booster Package! Designed for small businesses and content creators, this package includes custom short-form video scripts, edited clips, and a comprehensive content strategy. Enhance your online presence and drive engagement with professional video content tailored just for you. Get started today for only $250!",
+        "outreach_template": "Subject: Let's Enhance Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce an exciting opportunity for small businesses and content creators like you. Our Social Media Content Booster Package offers custom-made short-form video scripts, edited clips, and a strategic outline to enhance your online presence.\n\nWould you be interested in scheduling a consultation to discuss how we can tailor this package to fit your needs?\n\nIf this isn't something you're looking for right now, please let me know, and I'll be sure to respect your preferences.\n\nBest regards,\n[Your Name]  \n[Your Contact Information]",
+        "discovery_questions": [
+          "What challenges are you currently facing in creating engaging video content?",
+          "Who is your target audience, and what type of content do they engage with most?",
+          "What are your primary goals for your social media presence?",
+          "Have you previously used video content on your platforms? If so, what was your experience?",
+          "How do you currently measure engagement on your social media posts?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Content Booster Package",
+          "Detailed Deliverables",
+          "Value Proposition",
+          "Timeline and Estimated Delivery",
+          "Investment and Pricing",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Payment Details for Your Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our Social Media Content Booster Package! Once we finalize the details, I'll provide you with the payment information.\n\nLet me know if you have any questions or need further clarification.\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
