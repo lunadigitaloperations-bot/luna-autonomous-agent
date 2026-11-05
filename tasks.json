@@ -42745,6 +42745,69 @@
         "payment_template": "Subject: Payment Process for Your Order\n\nHi [Name],\n\nThank you for your interest in our Social Media Boost Package! To begin the process, please let me know if you would like to proceed with payment. Once confirmed, I’ll send over the payment details.\n\nLooking forward to collaborating with you!\n\nBest regards,\n[Your Name]\n\nP.S. If you prefer not to receive further updates, you can opt-out anytime.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1793875057791",
+      "created_at": "2026-11-05T10:37:37.791514+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Starter Pack",
+        "target_customer": "Small businesses and independent creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create engaging short-form video content that attracts and retains followers.",
+        "solution": "A tailored social media content package designed to boost engagement and follower growth through impactful short-form videos.",
+        "deliverables": [
+          "3 Short-form video scripts (TikTok/Instagram Reels)",
+          "2 Custom video ideas tailored to the brand's voice",
+          "5 Captions for social media posts",
+          "1 Content strategy outline for the next month",
+          "1-on-1 consultation call (30 minutes) to discuss implementation"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your social media presence with professional scripts and strategies that resonate with your audience.",
+        "sales_angle": "Unlock the potential of your social media with compelling content tailored to your brand!",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Networking in online forums and groups related to small businesses",
+          "Word-of-mouth referrals"
+        ],
+        "qualification_criteria": [
+          "Must have existing social media accounts",
+          "Openness to implementing suggested strategies"
+        ],
+        "next_action": "Contact Luna via email at luna.digital.operations@gmail.com to book your Starter Pack!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your social media game to the next level? Introducing our **Social Media Growth Starter Pack** designed specifically for small businesses and independent creators! 📈 Get 3 engaging video scripts, custom ideas, and a content strategy tailored to your brand. Let's grow your online presence together! 🌟 DM us to learn more! #SocialMediaGrowth #Marketing #SmallBusiness",
+        "website_description": "Elevate your online presence with our **Social Media Growth Starter Pack**! Perfect for small businesses and independent creators, this package provides you with engaging short-form video scripts, tailored content ideas, and a comprehensive content strategy outline to boost your follower growth. Experience a 1-on-1 consultation for personalized guidance. Transform your social media presence today!",
+        "outreach_template": "Subject: Explore Our Social Media Growth Starter Pack\n\nHi [Name],\n\nI hope this message finds you well! Are you looking to enhance your social media presence? We’re excited to introduce our **Social Media Growth Starter Pack** designed for small businesses and independent creators. \n\nThis pack includes engaging short-form video scripts, custom content ideas, and a tailored strategy outline for your brand. We also offer a 30-minute consultation to discuss how to implement these strategies effectively.\n\nIf you're interested or have any questions, please feel free to reply to this email. If not, I completely understand and wish you all the best!\n\nBest Regards,\nLuna\nluna.digital.operations@gmail.com",
+        "discovery_questions": [
+          "What challenges are you currently facing with your social media content?",
+          "Have you worked with video content before? If so, what has your experience been?",
+          "What platforms are you currently using to engage with your audience?",
+          "What kind of content resonates most with your target audience?",
+          "How open are you to trying new strategies to improve your social media growth?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "   - Overview of the client's current situation",
+          "   - Objectives of the Social Media Growth Starter Pack",
+          "2. Deliverables",
+          "   - Detailed description of each component",
+          "3. Strategy Overview",
+          "   - Brief on how the proposed solutions will meet client's goals",
+          "4. Timeline",
+          "   - Estimated delivery time and key milestones",
+          "5. Pricing Overview",
+          "   - Summary of costs and payment terms",
+          "6. Next Steps",
+          "   - Call to Action for the client to initiate the process"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact Luna today at luna.digital.operations@gmail.com to book your Social Media Growth Starter Pack!",
+        "payment_template": "Subject: Payment Information for Your Starter Pack\n\nHi [Name],\n\nThank you for expressing interest in our **Social Media Growth Starter Pack**! To process your order, please let us know your preferred payment method, and I will provide further instructions.\n\nShould you have any questions or need assistance, feel free to reach out. If you decide that it’s not the right time, I completely understand. \n\nBest Regards,\nLuna",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
