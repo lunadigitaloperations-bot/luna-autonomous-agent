@@ -43320,6 +43320,64 @@
         "payment_template": "Subject: Your Social Media Content Starter Kit\n\nHi [Name],\n\nThank you for considering our Social Media Content Starter Kit! To proceed, please let us know your preferred payment method and we will guide you through the next steps.\n\nLooking forward to working together!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794091009855",
+      "created_at": "2026-11-07T22:36:49.855955+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Engagement Boost Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to engage their audience on social media platforms, resulting in low reach and interaction.",
+        "solution": "A tailored social media package that includes customized short-form video content and engaging captions to enhance audience interaction.",
+        "deliverables": [
+          "3 short-form video scripts (30-60 seconds each)",
+          "3 engaging Instagram Reels/TikTok videos based on the scripts",
+          "1 set of captions for each video",
+          "1 content strategy overview for upcoming posts"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Increase your social media engagement with creative video content and strategic planning designed specifically for your brand.",
+        "sales_angle": "Transform your social media presence and connect with your audience like never before.",
+        "organic_discovery_methods": [
+          "Referrals from past clients",
+          "Organic social media posts showcasing past work",
+          "Online community engagements via forums and groups relevant to small businesses"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media profile",
+          "Willingness to collaborate on content ideas",
+          "Open to constructive feedback during the process"
+        ],
+        "next_action": "Contact via email or WhatsApp to discuss your social media objectives and how we can work together."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to boost your social media engagement? Our Social Media Engagement Boost Package offers tailored video content and strategic planning to connect with your audience like never before! 🌟 DM us to learn more! #SocialMedia #ContentCreators #SmallBusiness",
+        "website_description": "Transform your social media presence with our Social Media Engagement Boost Package! Designed for small businesses and content creators, this package includes custom short-form video scripts, engaging Instagram Reels/TikToks, captivating captions, and a content strategy overview, all crafted to enhance your audience interaction. Get ready to elevate your brand’s online visibility and engagement!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Engagement!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! My name is [Your Name] from Infinite Sauce, and I specialize in helping small businesses and content creators enhance their social media presence. \n\nI noticed that you’re looking to boost your audience engagement, and I believe our Social Media Engagement Boost Package could be a great fit for you. It includes customized short-form video content and engaging captions tailored specifically for your brand.\n\nWould you be interested in discussing your social media objectives and how we can work together to achieve them? \n\nThank you for considering, and feel free to let me know if you’d like to opt out of future messages. \n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What specific social media platforms are you currently using?",
+          "What type of content has performed well for you in the past?",
+          "What are your primary goals for enhancing your social media engagement?",
+          "How often do you currently post content on social media?",
+          "Are there any specific themes or messages you want to convey through your content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solution (Social Media Engagement Boost Package)",
+          "Deliverables Breakdown",
+          "Timeline for Delivery",
+          "Investment and Pricing",
+          "Next Steps",
+          "Q&A Section"
+        ],
+        "call_to_action": "Contact us today via email or WhatsApp to discuss how we can help you elevate your social media engagement!",
+        "payment_template": "Subject: Next Steps for Your Engagement Boost Package\n\nHi [Recipient's Name],\n\nThank you for expressing interest in our Social Media Engagement Boost Package! We’re excited to kickstart your journey towards enhanced audience engagement. \n\nBefore we proceed, I’d like to confirm the details we've discussed and outline the next steps for our collaboration. Please let me know if you have any questions or need further information. \n\nIf you’d like to move forward, I will provide payment instructions. Thank you again for considering Infinite Sauce! \n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
