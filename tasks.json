@@ -43150,6 +43150,63 @@
         "payment_template": "Subject: Payment Instructions for Your Order\n\nHi [Name],\n\nThank you for choosing our Social Media Video Content Package! To proceed, we kindly ask you to review the payment options below:\n- [Payment Option 1]\n- [Payment Option 2]\n\nPlease let us know if you have any questions or need further assistance. We’re excited to start working on your content!\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794034626647",
+      "created_at": "2026-11-07T06:57:06.647888+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Pack",
+        "target_customer": "Small business owners and creators looking to enhance their online presence",
+        "customer_problem": "Struggling to consistently create engaging content that attracts and retains followers on social media platforms.",
+        "solution": "A tailored 30-day social media content strategy that includes ready-to-post short-form video scripts and captions designed to boost engagement.",
+        "deliverables": [
+          "30 short-form video scripts for TikTok, Instagram Reels, and YouTube Shorts",
+          "30 engaging captions for each video",
+          "A content calendar outlining posting schedule"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Stay consistent and relevant on social media without the overwhelm of content creation, freeing up your time while boosting your brand's visibility.",
+        "sales_angle": "Transform your social media with a structured, yet flexible content plan designed for busy small business owners.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Word of mouth",
+          "Online community groups"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willing to commit to a 30-day plan",
+          "Open to suggestions and collaboration for tailored content"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started on your custom content plan."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Ready to level up your social media game? Introducing our 30-Day Social Media Content Pack! 🚀 Perfect for small business owners and creators struggling to find time for content creation. Get 30 tailored video scripts and captions to boost your engagement. Let's transform your online presence together! 💪✨ #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Struggling to maintain an engaging social media presence? Our 30-Day Social Media Content Pack is here to help! This tailored solution provides you with 30 short-form video scripts, captions, and a content calendar designed to keep your followers engaged and your brand visible. In just 7 days, you’ll have a structured yet flexible plan that frees you from content overwhelm. Perfect for busy small business owners and creators!",
+        "outreach_template": "Subject: Elevate Your Social Media Game\n\nHi [Name],\n\nI hope this message finds you well! I wanted to share a solution that could significantly enhance your social media presence and engagement.\n\nWe offer a 30-Day Social Media Content Pack tailored specifically for small business owners like you. It includes ready-to-post video scripts and captions to ease the content creation process.\n\nIf you're curious to learn more, feel free to reply! \n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \nP.S. If this isn't what you're looking for, just let me know, and I won't follow up again.",
+        "discovery_questions": [
+          "What specific social media platforms are you currently using?",
+          "How often do you post content on your social media accounts?",
+          "What type of content has received the most engagement in the past?",
+          "Are there any specific themes or topics you want to focus on for the next 30 days?",
+          "What challenges have you faced with your social media content creation?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Business Goals",
+          "Overview of the 30-Day Content Pack",
+          "Deliverables Explanation",
+          "Content Calendar Overview",
+          "Pricing Details",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Contact us today to kickstart your customized social media content plan!",
+        "payment_template": "Subject: Next Steps for Your Content Plan\n\nHi [Name],\n\nThank you for expressing interest in our 30-Day Social Media Content Pack! To proceed, we can arrange the payment details at your convenience. Once we finalize everything, we can begin crafting your tailored content strategy right away.\n\nPlease let me know a good time for you to discuss this further.\n\nBest regards,\n[Your Name]  \n[Your Contact Information]  \nP.S. If you’re not interested anymore, just let me know, and I’ll respect that!",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
