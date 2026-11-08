@@ -43378,6 +43378,61 @@
         "payment_template": "Subject: Next Steps for Your Engagement Boost Package\n\nHi [Recipient's Name],\n\nThank you for expressing interest in our Social Media Engagement Boost Package! We’re excited to kickstart your journey towards enhanced audience engagement. \n\nBefore we proceed, I’d like to confirm the details we've discussed and outline the next steps for our collaboration. Please let me know if you have any questions or need further information. \n\nIf you’d like to move forward, I will provide payment instructions. Thank you again for considering Infinite Sauce! \n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794103957472",
+      "created_at": "2026-11-08T02:12:37.473205+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Sprint",
+        "target_customer": "Small local businesses looking to boost their online presence",
+        "customer_problem": "Small businesses struggle to consistently create engaging social media content that attracts and retains customers.",
+        "solution": "A focused content creation package that delivers 30 short-form video scripts tailored for TikTok and Instagram Reels, enhancing engagement and visibility.",
+        "deliverables": [
+          "30 custom short-form video scripts for TikTok and Instagram Reels",
+          "Engaging captions for each video",
+          "A content calendar outlining posting schedule",
+          "Tips for optimizing video performance"
+        ],
+        "suggested_price_usd": 350,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Transform your social media presence with a month of tailored video content that captures your audience and drives interaction without the hassle.",
+        "sales_angle": "Invest in your brand's digital footprint with 30 days of dedicated content that resonates with your customers, boosting brand awareness and engagement.",
+        "organic_discovery_methods": [
+          "Social media promotions",
+          "Email marketing",
+          "Word of mouth"
+        ],
+        "qualification_criteria": [
+          "Must have a social media presence",
+          "Ready to implement content strategy"
+        ],
+        "next_action": "Contact us through email or WhatsApp to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🌟 Attention small business owners! Are you ready to enhance your online presence? 🚀 Our 30-Day Social Media Content Sprint delivers 30 custom video scripts for TikTok and Instagram Reels, along with engaging captions and tips to maximize your reach. Don't miss out on the chance to boost engagement and visibility with tailored content! Contact us today to get started! #SmallBusiness #SocialMediaMarketing #ContentCreation",
+        "website_description": "Transform your social media presence with our 30-Day Social Media Content Sprint! Designed for small local businesses, this package includes 30 custom short-form video scripts for TikTok and Instagram Reels, engaging captions, a content calendar, and performance optimization tips. All this for just $350 and quick delivery in 10 days! Elevate your brand and connect with your audience effortlessly.",
+        "outreach_template": "Subject: Boost Your Brand's Online Presence\n\nHi [Name],\n\nI hope this message finds you well! I'm reaching out to share an opportunity that could elevate your business's social media presence. Our 30-Day Social Media Content Sprint is designed specifically for small businesses like yours, providing 30 tailored video scripts for TikTok and Instagram Reels. \n\nIf you're looking to create engaging content that resonates with your audience, I'd love to discuss this further. \n\nFeel free to reply to this email or text me at [Your Number] at your convenience.\n\nBest regards,\n\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nP.S. If you’re not interested, just let me know, and I won't reach out again.",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "How often do you post content on these platforms?",
+          "What challenges do you face in creating engaging content?",
+          "Have you used video content in your social media strategy before?",
+          "What goals do you hope to achieve through improved social media engagement?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Social Media Content Sprint",
+          "Identified challenges and proposed solutions",
+          "Detailed deliverables",
+          "Timeline and payment structure",
+          "Conclusion and next steps"
+        ],
+        "call_to_action": "Ready to transform your online presence? Contact us now to get started!",
+        "payment_template": "Subject: Payment Information for Your Service\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Content Sprint! To proceed, we can discuss the payment options available. Once you’re ready, I can provide an invoice for your review.\n\nLet me know if you have any questions!\n\nBest,\n[Your Name]\n[Your Position]\nInfinite Sauce\n\nIf you'd prefer not to receive further messages, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
