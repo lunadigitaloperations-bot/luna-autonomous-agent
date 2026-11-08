@@ -43545,6 +43545,62 @@
         "payment_template": "Subject: Payment Information for Your Order\n\nHi [Name],\n\nThank you for choosing our Engaging Short-Form Video Package! We’re excited to get started on your project.\n\nTo move forward, please review the following payment details:\n\n- Package Cost: $150\n- Payment Methods: [List payment options]\n\nIf you have any questions or need further assistance, feel free to reach out. Looking forward to creating some amazing content for you!\n\nBest regards,\n[Your Name]\n[Your Position]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794171842440",
+      "created_at": "2026-11-08T21:04:02.441366+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Starter Kit for Small Businesses",
+        "target_customer": "Small business owners looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging social media content that captures audience attention and drives engagement.",
+        "solution": "A comprehensive kit that includes customized short-form video scripts and content ideas tailored for TikTok and Instagram that they can use to boost their online presence.",
+        "deliverables": [
+          "5 custom short-form video scripts for TikTok",
+          "5 custom video content ideas for Instagram Reels",
+          "10 engaging captions tailored for their brand and audience",
+          "A one-page content strategy guide explaining best practices"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media engagement with tailored scripts and ideas designed to resonate with your target audience.",
+        "sales_angle": "Unlock the potential of your social media channels with creative, ready-to-use content that saves you time and effort.",
+        "organic_discovery_methods": [
+          "Social media ads targeting small business owners",
+          "Content marketing through blog posts about social media strategies",
+          "Leverage existing client testimonials and case studies"
+        ],
+        "qualification_criteria": [
+          "Client must have an active business social media account",
+          "Willingness to implement suggested content ideas"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com or WhatsApp +14735341956 to get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Attention Small Business Owners! Are you struggling to create engaging social media content? Our Social Media Starter Kit is here to help! 🎥✨ Get 5 custom TikTok scripts, 5 Instagram Reels content ideas, 10 tailored captions, and a strategy guide—all for just $150! Transform your online presence with ease. 💪 DM us or contact us at luna.digital.operations@gmail.com to get started! #SocialMedia #SmallBusiness #ContentCreation",
+        "website_description": "Elevate your business's social media game with our Social Media Starter Kit! Designed specifically for small business owners, this kit provides you with everything you need to engage your audience: 5 custom short-form video scripts for TikTok, 5 creative content ideas for Instagram Reels, 10 engaging captions personalized for your brand, and a comprehensive one-page content strategy guide. All this for just $150, with a quick delivery within 7 days. Unlock the potential of your social media channels today!",
+        "outreach_template": "Subject: Elevate Your Social Media Engagement!  \n\nHi [Name],  \n\nI hope this message finds you well. I'm reaching out to introduce our Social Media Starter Kit, tailored specifically for small businesses like yours. It includes custom video scripts and content ideas designed to boost your social media presence effectively.  \n\nWould you be interested in discussing how this could benefit your business?  \n\nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Business]  \n[Contact Information]  \n\nIf this isn't of interest, please feel free to opt-out.",
+        "discovery_questions": [
+          "What social media platforms is your business currently using?",
+          "How frequently do you post content on social media?",
+          "What type of content has performed best for you in the past?",
+          "Are there specific goals you want to achieve with your social media efforts?",
+          "What challenges do you face when creating social media content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Social Media Challenges",
+          "Introduction to the Social Media Starter Kit",
+          "Detailed Deliverables",
+          "Pricing and Delivery Timeline",
+          "Next Steps",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today at luna.digital.operations@gmail.com or WhatsApp +14735341956!",
+        "payment_template": "Subject: Payment Details for Your Order  \n\nHi [Name],  \n\nThank you for considering our Social Media Starter Kit! To get started, please let us know your preferred method of payment. We're here to assist you with any questions you may have.  \n\nLooking forward to your response!  \nBest,  \n[Your Name]  \n[Your Position]  \n[Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
