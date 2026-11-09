@@ -43716,6 +43716,65 @@
         "payment_template": "Subject: Next Steps for Your Order\n\nHi [Name],\n\nThank you for your interest in our Social Media Content Starter Package! To proceed, please let us know your preferred payment method, and we'll provide you with the necessary details to complete your order.\n\nLooking forward to working together!\n\nBest,\n[Your Name]\nluna.digital.operations@gmail.com\n\nIf this isn't the right time for you, just let me know, and I can follow up later.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794256462278",
+      "created_at": "2026-11-09T20:34:22.279161+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Quick Start Package",
+        "target_customer": "Small business owners and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging video content that resonates with their audience and drives traffic.",
+        "solution": "A tailored strategy to kickstart your social media engagement with dynamic short-form video content that aligns with your brand.",
+        "deliverables": [
+          "3 short-form video scripts (30-60 seconds each)",
+          "3 customized TikTok/Instagram Reels suggestions",
+          "3 engaging captions for social media posts",
+          "A content strategy outline for the next month"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your social media presence with engaging video content tailored to your brand, driving audience interaction.",
+        "sales_angle": "Start engaging your audience with impactful content without the hassle of planning or scripting.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Word of mouth",
+          "Local business community groups"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media presence",
+          "Open to trying new content styles",
+          "Willing to collaborate and provide feedback"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our Social Media Quick Start Package! 🛠️ Tailored for small business owners and content creators, this package delivers 3 engaging video scripts, custom reel suggestions, catchy captions, and a content strategy outline—all in just 7 days! Ready to create impactful content? Contact us today! #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Unlock your social media potential with our Social Media Quick Start Package, specially designed for small business owners and content creators. Overcome the challenge of creating engaging video content with our tailored solutions, which include dynamic short-form scripts, customized social media reel suggestions, and a content strategy outline—all for just $150. Get started today and enhance your online presence in just one week!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Together!\n\nHi [Prospect's Name],\n\nI hope this message finds you well! I wanted to reach out to share our Social Media Quick Start Package designed specifically for small business owners and content creators like you. This package offers tailored video content strategies to enhance your social media engagement.\n\nWould you be open to discussing how we can collaborate? If interested, please feel free to reach out to schedule a free consultation.\n\nLooking forward to hearing from you!\n\nBest regards,\n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n[Contact Information]\n\nP.S. If this isn't of interest, please let me know, and I'll respect your decision.",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms do you currently use for marketing and engagement?",
+          "What type of content has resonated most with your audience in the past?",
+          "Are you open to trying new styles of content, such as short-form videos?",
+          "How often do you currently create and post content on your social channels?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Understanding of Customer Needs",
+          "3. Proposed Solution",
+          "   a. Overview of Deliverables",
+          "   b. Benefits of Proposed Strategy",
+          "4. Timeline and Estimated Delivery",
+          "5. Pricing",
+          "6. Next Steps",
+          "7. Contact Information"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us today to schedule your free consultation!",
+        "payment_template": "Subject: Thank You for Choosing Us!\n\nHi [Client's Name],\n\nThank you for your interest in our Social Media Quick Start Package! We're excited to work with you. To proceed, please confirm that you'd like to move forward, and we can discuss the next steps.\n\nLooking forward to collaborating!\n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n[Contact Information]\n\nIf you wish to opt-out of further communications, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
