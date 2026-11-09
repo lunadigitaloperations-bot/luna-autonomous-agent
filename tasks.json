@@ -43601,6 +43601,64 @@
         "payment_template": "Subject: Payment Details for Your Order  \n\nHi [Name],  \n\nThank you for considering our Social Media Starter Kit! To get started, please let us know your preferred method of payment. We're here to assist you with any questions you may have.  \n\nLooking forward to your response!  \nBest,  \n[Your Name]  \n[Your Position]  \n[Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794188025386",
+      "created_at": "2026-11-09T01:33:45.386879+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Dynamic Social Media Content Package",
+        "target_customer": "Small businesses and creators looking to boost engagement on social media",
+        "customer_problem": "Struggling to create engaging and consistent content for social media platforms, leading to low audience interaction and reach.",
+        "solution": "A monthly package that provides tailored short-form video scripts, optimized for TikTok, Instagram Reels, and YouTube Shorts, helping businesses maintain a consistent online presence.",
+        "deliverables": [
+          "4 short-form video scripts (1 per week)",
+          "4 captions tailored for each platform",
+          "Content strategy outline for the month",
+          "1 hour of consultation via video call to refine content themes"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Enhance your social media presence with engaging content that resonates with your audience, without the hassle of creating it yourself.",
+        "sales_angle": "Unlock the potential of your brand through expertly crafted social media content that drives engagement and fosters community.",
+        "organic_discovery_methods": [
+          "Referrals from satisfied customers",
+          "Social media posts showcasing previous work",
+          "Networking in online creator communities"
+        ],
+        "qualification_criteria": [
+          "Business or creator with a social media presence",
+          "Willingness to engage in a consultation process",
+          "Commitment to implementing suggested content"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to book your consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game! Introducing our Dynamic Social Media Content Package – perfect for small businesses and creators looking to boost engagement. Get tailored short-form video scripts, captivating captions, and a content strategy to keep your audience engaged. Let us handle your content creation while you focus on what you do best! 📈✨ Contact us today to learn more! #SocialMedia #ContentCreation #EngagementBoost",
+        "website_description": "Struggling to keep your audience engaged on social media? Our Dynamic Social Media Content Package is designed just for small businesses and creators like you! For only $299, you'll receive 4 bespoke short-form video scripts, tailored captions for each platform, a comprehensive content strategy outline, and a one-hour consultation to refine your approach. Get ready to enhance your online presence and connect with your audience like never before!",
+        "outreach_template": "Subject: Let's Boost Your Social Media Engagement!\n\nHi [Name],\n\nI hope this message finds you well. I wanted to introduce you to our Dynamic Social Media Content Package, specifically created for small businesses and creators struggling to engage their audience.\n\nOur service includes tailored video scripts, engaging captions, and a strategic content outline – everything to help you make an impact without added stress! If this resonates with you, I’d love to discuss how we can support your goals.\n\nLooking forward to hearing your thoughts!\n\nBest,  \nLuna  \nInfinite Sauce  \n[Your Contact Info]  \n\nP.S. If this isn’t for you, feel free to let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What social media platforms are you currently active on?",
+          "Which type of content has historically performed best for your audience?",
+          "Are there particular themes or topics you'd like to explore in your content?",
+          "What are your primary goals for your social media presence?",
+          "How often are you currently posting on social media?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Customer's Social Media Challenges",
+          "Overview of Dynamic Social Media Content Package",
+          "Breakdown of Deliverables",
+          "Consultation Process and Timeline",
+          "Pricing and Payment Terms",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Contact us at luna.digital.operations@gmail.com to book your consultation and get started!",
+        "payment_template": "Subject: Next Steps for Your Order\n\nHi [Name],\n\nThank you for expressing interest in our Dynamic Social Media Content Package! To proceed further, we can discuss the payment details and finalize the next steps. Please let me know a convenient time for you to connect.\n\nLooking forward to it!\n\nBest,  \nLuna  \nInfinite Sauce  \n[Your Contact Info]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
