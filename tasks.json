@@ -43775,6 +43775,63 @@
         "payment_template": "Subject: Thank You for Choosing Us!\n\nHi [Client's Name],\n\nThank you for your interest in our Social Media Quick Start Package! We're excited to work with you. To proceed, please confirm that you'd like to move forward, and we can discuss the next steps.\n\nLooking forward to collaborating!\n\nBest,  \n[Your Name]  \n[Your Position]  \nInfinite Sauce  \n[Contact Information]\n\nIf you wish to opt-out of further communications, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794280847445",
+      "created_at": "2026-11-10T03:20:47.445950+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Video Content Burst Package",
+        "target_customer": "Small businesses and creators looking to boost their online presence",
+        "customer_problem": "Struggling to consistently create engaging video content for social media channels",
+        "solution": "A tailored video content strategy and execution plan to produce engaging short-form videos for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "Content strategy outlining video themes and target audience",
+          "10 video scripts tailored for different platforms",
+          "2 fully edited video samples",
+          "Weekly check-ins for feedback and adjustments"
+        ],
+        "suggested_price_usd": 400,
+        "estimated_delivery_days": 30,
+        "value_proposition": "Elevate your brand's online presence with tailored, engaging video content that resonates with your audience.",
+        "sales_angle": "Take the guesswork out of video content creation—focus on your business while we handle the creative!",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Networking in online communities"
+        ],
+        "qualification_criteria": [
+          "Has an active social media presence",
+          "Ready to invest in content creation",
+          "Open to creative collaboration"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost Your Online Presence with Our 30-Day Video Content Burst Package! 🎥 Struggling to create engaging video content for your brand? We’ve got you covered! Tailored strategies, scriptwriting, and professional editing for TikTok, Instagram Reels, and YouTube Shorts. Ready to elevate your brand? DM us to learn more! #VideoMarketing #SocialMediaGrowth",
+        "website_description": "Transform your online presence with our 30-Day Video Content Burst Package. This comprehensive solution is designed for small businesses and creators who want to engage their audience through captivating short-form videos. Enjoy a tailored content strategy, professionally crafted scripts, and expertly edited samples, all delivered in just 30 days. Let's make your brand shine!",
+        "outreach_template": "Subject: Let's Elevate Your Video Content!\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out to share an exciting opportunity that could greatly enhance your online presence. Our 30-Day Video Content Burst Package is specifically tailored for small businesses and creators like yourself who are looking to enhance their video content strategy.\n\nWould you be open to a conversation to discuss how we can support your content creation needs?\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you'd prefer not to receive messages like this, please let me know.",
+        "discovery_questions": [
+          "What challenges do you face in creating video content?",
+          "Which social media platforms are you currently using?",
+          "What type of audience are you aiming to reach with your videos?",
+          "Have you tried any video content strategies in the past? If so, what were they?",
+          "What are your goals for your online presence over the next 6 months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Business Needs",
+          "Overview of the 30-Day Video Content Burst Package",
+          "Deliverables and Timeline",
+          "Investment and Value Proposition",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to transform your video content? Contact us now to schedule your consultation!",
+        "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Name],\n\nThank you for your interest in our Video Content Burst Package! We can discuss the details and payment options at your convenience. Please let me know when you would like to move forward.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf you prefer not to receive follow-ups, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
