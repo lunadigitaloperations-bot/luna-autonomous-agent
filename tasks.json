@@ -43832,6 +43832,65 @@
         "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Name],\n\nThank you for your interest in our Video Content Burst Package! We can discuss the details and payment options at your convenience. Please let me know when you would like to move forward.\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf you prefer not to receive follow-ups, please let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794313371202",
+      "created_at": "2026-11-10T12:22:51.203092+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Energize Your Social Media: Monthly Video Content Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to consistently create engaging video content for social media platforms, leading to low audience engagement and missed growth opportunities.",
+        "solution": "A tailored monthly video content package that provides short-form video scripts and content ideas specifically designed for TikTok, Instagram Reels, and YouTube Shorts, helping to boost engagement and maintain a consistent posting schedule.",
+        "deliverables": [
+          "4 short-form video scripts (one for each week)",
+          "Content strategy guide with post ideas for each video",
+          "Hashtag recommendations specific to the niche",
+          "Monthly content calendar"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Elevate your social media presence with professional video content tailored for your audience, increasing engagement without the stress of idea generation.",
+        "sales_angle": "Unlock the potential of your social media with a streamlined approach to engaging video content, crafted specifically for your brand.",
+        "organic_discovery_methods": [
+          "Social media shares",
+          "Word of mouth referrals",
+          "Engaging content samples posted online"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willing to share necessary brand insights and audience preferences",
+          "Ready to implement the content produced"
+        ],
+        "next_action": "Contact us via email at luna.digital.operations@gmail.com to discuss how we can take your social media game to the next level."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Energize Your Social Media! Are you a small business or content creator struggling to keep up with engaging video content? Our Monthly Video Content Package offers you tailored scripts, content strategies, and more to elevate your presence on TikTok, Instagram, and YouTube Shorts. Let’s boost your engagement without the stress of brainstorming! 💡✨ #SocialMedia #VideoContent #EngagementBoost #SmallBusiness #ContentCreation",
+        "website_description": "Transform your social media presence with our Monthly Video Content Package! Designed specifically for small businesses and content creators, this package includes four custom short-form video scripts, a strategic content guide, hashtag recommendations, and a monthly calendar to keep you organized and engaged. Elevate your social media game and connect with your audience effortlessly.",
+        "outreach_template": "Subject: Let's Energize Your Social Media! \n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out because I noticed your presence in the [specific niche/industry] and thought you might be interested in enhancing your social media engagement. \n\nWe offer a tailored monthly video content package that can simplify your video creation process while helping you connect more effectively with your audience. \n\nWould you be open to discussing this further? Please feel free to let me know a time that works for you!\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n[Your Contact Information] \n\nIf you'd prefer not to receive emails about this, just let me know, and I won't reach out again.",
+        "discovery_questions": [
+          "What social media platforms do you currently use?",
+          "How often are you able to post new content?",
+          "What type of audience are you trying to engage?",
+          "Have you tried video content before? If yes, what worked or didn't work?",
+          "What brand insights or preferences do you believe are essential for your content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Goals",
+          "Overview of Challenges",
+          "Proposed Solution: Monthly Video Content Package",
+          "Deliverables",
+          "Project Timeline",
+          "Investment",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today at luna.digital.operations@gmail.com!",
+        "payment_template": "Subject: Invoice for Your Monthly Video Content Package \n\nHi [Name],\n\nThank you for choosing our Monthly Video Content Package! We are excited to help you enhance your social media engagement. \n\nAttached you'll find the invoice for our services. Please review it at your convenience. If you have any questions, don’t hesitate to reach out! \n\nLooking forward to collaborating!\n\nBest,\n[Your Name]\n[Your Company] \n\nIf you'd like to opt-out of future communications, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
