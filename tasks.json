@@ -43948,6 +43948,63 @@
         "payment_template": "Subject: Payment Arrangement for Your Order \n\nHi [Recipient's Name], \n\nThank you for discussing your interest in our **Social Media Boost Package**. To proceed, we can discuss your preferred payment method and any details you need to facilitate this. \n\nLet me know how you’d like to proceed! \n\nBest, \n[Your Name] \n[Your Contact Information] \n\nIf you’d rather not receive any further correspondence, just let me know, and I’ll respect your preference.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794359325444",
+      "created_at": "2026-11-11T01:08:45.444372+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Buzz Package",
+        "target_customer": "Small businesses or content creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create engaging social media content consistently, resulting in low audience interaction and growth.",
+        "solution": "A tailored package that provides a month’s worth of short-form video scripts and social media captions designed to boost engagement and brand visibility.",
+        "deliverables": [
+          "4 short-form video scripts (TikTok/Instagram Reels/YouTube Shorts)",
+          "16 social media captions (tailored to fit different platforms)",
+          "Content posting schedule with best times for audience engagement",
+          "One 30-minute strategy call to discuss content and audience insights"
+        ],
+        "suggested_price_usd": 200,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Enhance your online visibility and engage your audience with a month’s worth of captivating content tailored for your brand.",
+        "sales_angle": "Transform your social media presence without the guesswork—get professionally crafted content that resonates.",
+        "organic_discovery_methods": [
+          "Social media ads",
+          "Networking in online creator communities",
+          "Word of mouth"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or creator actively engaged in social media",
+          "Willingness to implement suggested content and strategies"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Small businesses and creators! Struggling with consistent social media content? Our Social Media Buzz Package is here to help! 🚀 Get 4 engaging short-form video scripts and 16 tailored captions to enhance your online presence. Plus, enjoy a personalized content strategy call! Let's elevate your brand visibility together. 💡💬 #SocialMedia #ContentCreation #EngagementBoost",
+        "website_description": "Unlock the potential of your social media with our Social Media Buzz Package! Designed for small businesses and content creators, this package provides tailored video scripts and captions to enhance engagement and visibility. Receive a month's worth of captivating content, a posting schedule, and a strategy call to discuss insights. Transform your online presence today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence! \n\nHi [Name], \n\nI hope this message finds you well! I wanted to reach out to share an exciting opportunity for small businesses and content creators struggling with social media engagement. Our Social Media Buzz Package offers a tailored solution to help you consistently create captivating content. \n\nIf you're interested in learning more, we can schedule a free consultation. \n\nThank you for your time! \n\nBest, \n[Your Name] \n[Your Contact Information] \n\nP.S. If you’d prefer not to receive further emails, just let me know!",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which social media platforms are you currently using?",
+          "How often do you post content, and what types of content perform best for you?",
+          "What challenges are you facing with your current content strategy?",
+          "Have you worked with any content creation services before, and what was your experience?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Challenges",
+          "Proposed Solution: Social Media Buzz Package",
+          "Deliverables Breakdown",
+          "Timeline and Estimated Delivery",
+          "Pricing Information",
+          "Next Steps",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us today to schedule your free consultation!",
+        "payment_template": "Subject: Payment Confirmation \n\nHi [Name], \n\nThank you for your interest in our Social Media Buzz Package! I wanted to follow up regarding the payment details. Please let me know if you have any questions or require further information to proceed. \n\nLooking forward to your response! \n\nBest, \n[Your Name] \n[Your Contact Information] \n\nP.S. If you’d like to opt-out of further discussions, feel free to let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
