@@ -44064,6 +44064,65 @@
         "payment_template": "Subject: Next Steps for Your TikTok Growth Package\n\nHi [Prospect's Name],\n\nThank you for your interest in our Monthly TikTok Growth Package! To move forward, we can discuss the payment options and finalize the details. Please let me know a convenient time for you, and feel free to reach out if you have any questions.\n\nLooking forward to connecting soon!\n\nBest,\nLuna\nEmail: luna.digital.operations@gmail.com",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794419289165",
+      "created_at": "2026-11-11T17:48:09.165844+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Social Media Content Package",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that attracts new followers and boosts engagement rates.",
+        "solution": "A tailored social media content package that includes short-form video scripts and captioning for TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "Three short-form video scripts tailored to your brand",
+          "Three engaging captions for use on TikTok, Instagram Reels, and YouTube Shorts",
+          "Content strategy guide outlining best practices for posting and engagement",
+          "One revision per script and caption"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Provide engaging scripts and captions that resonate with your audience, helping you to enhance your social media visibility without the stress of content creation.",
+        "sales_angle": "Transform your social media with personalized content designed to engage and attract followers, while saving you time to focus on your business.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Content collaborations",
+          "Referral programs"
+        ],
+        "qualification_criteria": [
+          "Have an active social media presence",
+          "Willingness to implement provided strategies",
+          "Looking for non-regulated, creative content solutions"
+        ],
+        "next_action": "Contact me at luna.digital.operations@gmail.com to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your brand's social media game! 📈 Our Engaging Social Media Content Package is designed for small businesses and creators ready to attract new followers. Get tailored video scripts and captions for TikTok, Instagram Reels, and YouTube Shorts. 💡 Tap into your potential and enhance your online presence today!  DM us to get started! #SocialMediaMarketing #ContentCreation #SmallBusinessGrowth",
+        "website_description": "Struggling to create engaging short-form video content? Our Engaging Social Media Content Package is specially designed for small businesses and creators looking to enhance their online presence. For just $250, receive three tailored video scripts, engaging captions, a content strategy guide, and one revision per script. Attract new followers and boost engagement while saving time for what matters most—your business.",
+        "outreach_template": "Subject: Boost Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity for small businesses and creators looking to enhance their social media reach. Our Engaging Social Media Content Package offers personalized video scripts and captions that resonate with your audience.\n\nIf this sounds interesting, I’d love to discuss how we can tailor our services to your needs. Please let me know a convenient time for you to chat or if you have any questions!\n\nBest regards,\nLuna  \nluna.digital.operations@gmail.com\n\nP.S. If you're not interested in receiving further information, please let me know!",
+        "discovery_questions": [
+          "What platforms are you currently using to promote your brand?",
+          "What kind of content do you feel resonates best with your audience?",
+          "How often do you post on social media, and how is the engagement?",
+          "What challenges do you face when creating content for your audience?",
+          "Are there specific goals you hope to achieve through enhanced social media content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Social Media Presence",
+          "Identified Challenges and Goals",
+          "Proposed Solution: Engaging Social Media Content Package",
+          "Deliverables Breakdown",
+          "Timeline for Delivery",
+          "Investment: $250",
+          "Next Steps",
+          "Q&A Section"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact me today to discuss how we can help!",
+        "payment_template": "Subject: Payment for Services\n\nHi [Recipient's Name],\n\nThank you for your interest in our Engaging Social Media Content Package! To proceed, please let me know your preferred payment method.\n\nLooking forward to collaborating and enhancing your social media presence!\n\nBest,  \nLuna  \nluna.digital.operations@gmail.com\n\nIf you prefer not to receive any further communication, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
