@@ -44005,6 +44005,65 @@
         "payment_template": "Subject: Payment Confirmation \n\nHi [Name], \n\nThank you for your interest in our Social Media Buzz Package! I wanted to follow up regarding the payment details. Please let me know if you have any questions or require further information to proceed. \n\nLooking forward to your response! \n\nBest, \n[Your Name] \n[Your Contact Information] \n\nP.S. If you’d like to opt-out of further discussions, feel free to let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794387989839",
+      "created_at": "2026-11-11T09:06:29.839572+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Monthly TikTok Growth Package",
+        "target_customer": "Small business owners and content creators looking to increase their TikTok presence.",
+        "customer_problem": "Many small businesses struggle to create engaging TikTok content that resonates with their audience and leads to growth.",
+        "solution": "A package that includes tailored video scripts, content strategy, and video editing guidance to enhance TikTok engagement and visibility.",
+        "deliverables": [
+          "4 short-form video scripts tailored to the customer's brand",
+          "Content calendar for TikTok for the month",
+          "Tips on video editing and presentation",
+          "Weekly feedback on video performance",
+          "2 revisions per script"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Transform your TikTok presence with strategic, engaging content that speaks to your audience.",
+        "sales_angle": "Unlock the potential of TikTok for your business with expert guidance and tailored content.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referral partnerships",
+          "Networking in online business forums"
+        ],
+        "qualification_criteria": [
+          "Active TikTok account",
+          "Willingness to engage and edit videos",
+          "Clear brand identity and goals"
+        ],
+        "next_action": "Email us at luna.digital.operations@gmail.com to schedule a consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to take your TikTok game to the next level? Our Monthly TikTok Growth Package is designed for small business owners and content creators who want to create engaging content that resonates with their audience! 🌟 Get tailored video scripts, a content calendar, and expert feedback every week! Don't miss out—transform your TikTok presence today! 🎥✨ #TikTokGrowth #SmallBusiness #ContentCreators",
+        "website_description": "Unlock the full potential of TikTok with our Monthly TikTok Growth Package! Designed for small business owners and content creators, this package offers personalized video scripts, a content calendar, and editing tips to enhance your video presence. Get ready to engage your audience and drive growth with expert guidance tailored to your brand. Sign up today!",
+        "outreach_template": "Subject: Elevate Your TikTok Presence!\n\nHi [Prospect's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Monthly TikTok Growth Package, which is specifically crafted for small business owners and content creators like yourself. \n\nIf you're looking to create engaging TikTok content that resonates with your audience, I’d love to schedule a time to discuss how our tailored scripts and strategies can help you achieve your goals. \n\nPlease let me know if you’re interested, and feel free to opt-out of further messages if this isn't right for you.\n\nBest, \nLuna \nEmail: luna.digital.operations@gmail.com",
+        "discovery_questions": [
+          "What specific goals do you have for your TikTok account?",
+          "Who is your target audience, and what type of content resonates with them?",
+          "What challenges have you faced in creating engaging TikTok content?",
+          "Do you have any existing branding guidelines or themes you’d like to follow?",
+          "How often are you currently posting on TikTok, and what has your engagement been like?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Goals",
+          "Overview of the Monthly TikTok Growth Package",
+          "Deliverables and Timeline",
+          "Revisions and Feedback Process",
+          "Investment Details",
+          "Next Steps and Call to Action",
+          "Respectful Opt-Out"
+        ],
+        "call_to_action": "Transform your TikTok presence! Email us at luna.digital.operations@gmail.com to schedule your consultation.",
+        "payment_template": "Subject: Next Steps for Your TikTok Growth Package\n\nHi [Prospect's Name],\n\nThank you for your interest in our Monthly TikTok Growth Package! To move forward, we can discuss the payment options and finalize the details. Please let me know a convenient time for you, and feel free to reach out if you have any questions.\n\nLooking forward to connecting soon!\n\nBest,\nLuna\nEmail: luna.digital.operations@gmail.com",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
