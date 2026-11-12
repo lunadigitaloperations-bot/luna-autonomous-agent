@@ -44180,6 +44180,66 @@
         "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for your interest in our Short-Form Video Content Package! Once you confirm your order, we can proceed with the next steps. Please let me know if you have any questions or need further information.\n\nLooking forward to your response!\n\nBest, \n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794470802237",
+      "created_at": "2026-11-12T08:06:42.238418+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Accelerator Package",
+        "target_customer": "Small businesses and content creators looking to enhance their online presence.",
+        "customer_problem": "Struggling to create engaging video content that captures attention and builds a following on social media platforms.",
+        "solution": "A tailored package to create impactful short-form video scripts and content strategies focused on TikTok, Instagram Reels, and YouTube Shorts.",
+        "deliverables": [
+          "3 customized short-form video scripts (one for each platform)",
+          "Content posting schedule for two weeks",
+          "Engagement captions for each video"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Boost your social media visibility with engaging content designed to attract your target audience and increase follower interaction.",
+        "sales_angle": "Unlock the potential of short-form video content to skyrocket your online presence without the hassle of creating content from scratch.",
+        "organic_discovery_methods": [
+          "Social media ads",
+          "Referral from past clients",
+          "Engagement in online communities"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media account",
+          "Willingness to engage with the content post-creation"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started with your Social Media Growth Accelerator Package."
+      },
+      "sales_assets": {
+        "social_post": "🌟 Struggling to create engaging video content for your business? Our Social Media Growth Accelerator Package is here to help! 🚀 Get 3 customized short-form video scripts tailored for TikTok, Instagram Reels, and YouTube Shorts, plus a content posting schedule and engagement captions—all for just $150! Boost your online presence and connect with your audience in just 7 days. Ready to unlock your potential? Contact us today! 💬 #SocialMediaGrowth #VideoContent #SmallBusiness #ContentCreators",
+        "website_description": "Transform your online presence with our Social Media Growth Accelerator Package! Designed for small businesses and content creators, this package includes 3 custom short-form video scripts tailored for TikTok, Instagram Reels, and YouTube Shorts. You'll also receive a two-week content posting schedule and engaging captions for each video, all delivered in just 7 days for only $150. Elevate your brand and start attracting your target audience today!",
+        "outreach_template": "Subject: Let's Elevate Your Social Media Presence!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our Social Media Growth Accelerator Package, designed specifically for small businesses and content creators like yourself. If you're looking to enhance your online visibility with engaging video content, this might be the perfect solution for you.\n\nWe provide tailored video scripts for TikTok, Instagram Reels, and YouTube Shorts, alongside a two-week content schedule and engagement captions, all for just $150. Our goal is to help you attract your target audience and increase follower interaction without the hassle of creating content from scratch.\n\nIf this sounds interesting, I'd love to discuss it further! Feel free to respond here or reach out directly. \n\nIf it's not the right fit, please let me know if you'd prefer not to receive further communication.\n\nBest regards,\n\n[Your Name]\n[Your Contact Information]",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What type of content do you believe resonates most with your audience?",
+          "Have you ever created short-form videos before? If so, what was your experience?",
+          "What are your primary goals for your social media presence?",
+          "How willing are you to engage with the content after it's created?"
+        ],
+        "proposal_outline": [
+          "Title Page",
+          "Introduction",
+          "Customer Problem Statement",
+          "Proposed Solution Overview",
+          "Deliverables",
+          "Customized Video Scripts",
+          "Content Posting Schedule",
+          "Engagement Captions",
+          "Estimated Timeline for Delivery",
+          "Suggested Price",
+          "Call to Action",
+          "Next Steps"
+        ],
+        "call_to_action": "Ready to enhance your online presence? Contact us via email or WhatsApp to get started with your Social Media Growth Accelerator Package today!",
+        "payment_template": "Subject: Let's Finalize Your Order\n\nHi [Client's Name],\n\nThank you for your interest in the Social Media Growth Accelerator Package! To move forward, please let me know your preferred payment method, and I'll provide the necessary details.\n\nFeel free to reach out if you have any questions or need further information.\n\nLooking forward to your response!\n\nBest regards,\n\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
