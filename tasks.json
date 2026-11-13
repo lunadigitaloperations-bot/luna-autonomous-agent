@@ -44466,6 +44466,63 @@
         "payment_template": "Hi [Name],\n\nThank you for your interest in the Social Media Kickstart Package! Once everything is agreed upon, we'll confirm the payment method to get started.\n\nPlease let me know if you have any questions or if you're ready to proceed.\n\nBest,\n[Your Name]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794606733831",
+      "created_at": "2026-11-13T21:52:13.831898+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Spark Package",
+        "target_customer": "Small businesses and content creators looking to enhance their social media presence.",
+        "customer_problem": "Struggling to create engaging social media content that captures attention and drives interaction.",
+        "solution": "A tailored content strategy focused on short-form videos specifically designed for TikTok, Instagram Reels, and YouTube Shorts to boost engagement and brand visibility.",
+        "deliverables": [
+          "Initial consultation to assess brand voice and goals",
+          "A 30-day content calendar with 12 short-form video concepts",
+          "3 fully scripted short-form video scripts (up to 60 seconds each)",
+          "3 engaging captions tailored for each platform",
+          "One video editing tutorial to assist in DIY content creation"
+        ],
+        "suggested_price_usd": 249,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Maximize your social media impact with professionally crafted content that resonates with your audience.",
+        "sales_angle": "Easily boost your online presence without the hassle of figuring out what to create next.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word-of-mouth referrals",
+          "Networking in small business communities"
+        ],
+        "qualification_criteria": [
+          "Business or creator with a presence on social media",
+          "Willingness to engage and provide feedback throughout the process"
+        ],
+        "next_action": "Contact Luna at luna.digital.operations@gmail.com to schedule your initial consultation."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Are you a small business owner or content creator struggling with social media? Our 30-Day Social Media Spark Package is designed just for you! 🔥 Get a tailor-made strategy focusing on short-form videos that boost engagement on TikTok, Instagram Reels, and YouTube Shorts! 💡 Schedule a consultation today! #SocialMedia #ContentCreation #SmallBusiness #EngagementBoost",
+        "website_description": "Unlock your social media potential with our 30-Day Social Media Spark Package! Ideal for small businesses and content creators, this package offers a tailored content strategy featuring 12 short-form video ideas, scripted videos, engaging captions, and a video editing tutorial—all designed to enhance your online presence and engagement. Book your initial consultation now!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our 30-Day Social Media Spark Package, designed exclusively for small businesses and content creators. It provides a comprehensive strategy focused on engaging short-form videos tailored to platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nIf you're interested, I’d love to schedule a consultation to discuss how we can help enhance your social media impact!\n\nBest regards,\nLuna  \nluna.digital.operations@gmail.com  \n\n*If this isn’t a fit for you, feel free to let me know!*\n",
+        "discovery_questions": [
+          "What specific challenges do you face with your current social media strategy?",
+          "Which social media platforms do you prioritize for your business?",
+          "How do you define success on social media for your brand?",
+          "What type of content do you feel resonates most with your audience?",
+          "Are there any specific goals you want to achieve in the next 30 days?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Social Media Spark Package",
+          "Specific deliverables included",
+          "Timeline for delivery",
+          "Pricing information",
+          "Next steps",
+          "Contact information"
+        ],
+        "call_to_action": "Contact Luna at luna.digital.operations@gmail.com to book your initial consultation and elevate your social media game!",
+        "payment_template": "Subject: Next Steps for Your 30-Day Social Media Spark Package\n\nHi [Recipient's Name],\n\nThank you for considering our 30-Day Social Media Spark Package! I wanted to discuss the next steps for securing your spot. Please let me know your preferred payment method, and I'll provide the necessary details.\n\nLooking forward to your response!\n\nBest regards,\nLuna  \nluna.digital.operations@gmail.com\n\n*Feel free to opt-out if this isn't of interest to you.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
