@@ -44409,6 +44409,63 @@
         "payment_template": "Subject: Follow-Up on Your Consultation\n\nHi [Name],\n\nThank you for your interest in our 30-Day Social Media Content Boost. I wanted to follow up regarding payment options and next steps for getting started. Please let me know if you have any questions or need additional information.\n\nIf this no longer interests you, feel free to opt-out.\n\nBest,\nLuna",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794582854919",
+      "created_at": "2026-11-13T15:14:14.919516+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Kickstart Package",
+        "target_customer": "Small businesses or solo creators looking to boost their online presence",
+        "customer_problem": "Struggling to create engaging content and maintain a consistent posting schedule on social media platforms.",
+        "solution": "A comprehensive content creation package that delivers ready-to-post short-form video scripts and accompanying captions tailored to the customer’s brand.",
+        "deliverables": [
+          "5 short-form video scripts for TikTok, Instagram Reels, or YouTube Shorts",
+          "5 engaging captions for each video",
+          "Content calendar outlining posting schedule",
+          "Tips for optimization and engagement"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Jumpstart your social media engagement with professionally crafted video content and a clear posting strategy designed for your brand.",
+        "sales_angle": "Position your brand as authentic and engaging with minimal time investment—a perfect fit for busy entrepreneurs.",
+        "organic_discovery_methods": [
+          "Word of mouth",
+          "Social media promotion",
+          "Online community forums"
+        ],
+        "qualification_criteria": [
+          "Small business or individual creator",
+          "Active on at least one social media platform",
+          "Willing to invest in content creation"
+        ],
+        "next_action": "Contact Luna to discuss your brand and secure your Social Media Kickstart Package."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your online presence? Our Social Media Kickstart Package is designed for small businesses and solo creators who want to engage their audience with minimal time investment! Get 5 tailor-made video scripts, matching captions, a content calendar, and optimization tips—all for just $150. Let's make your brand shine! 🌟 DM us to get started!",
+        "website_description": "Jumpstart your social media engagement with our Social Media Kickstart Package! Perfect for small businesses and solo creators, this package includes 5 short-form video scripts tailored to your brand, engaging captions, a detailed content calendar, and tips for maximizing engagement. All delivered within 7 days for just $150. Invest in your content creation and watch your brand flourish!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out and introduce you to our Social Media Kickstart Package, specially designed for small businesses and solo creators looking to boost their online engagement with compelling content.\n\nIf you’re interested, I would love to discuss how this package can be tailored to your brand’s needs. \n\nFeel free to let me know if you’d like to learn more or if you'd prefer not to receive updates.\n\nBest regards,\n[Your Name]",
+        "discovery_questions": [
+          "What social media platforms are you currently active on?",
+          "What specific challenges are you facing with your social media content?",
+          "How often do you post on your social media channels?",
+          "What is your target audience, and how do you engage with them?",
+          "Are you open to investing in professional content creation to improve your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Overview of the Social Media Kickstart Package",
+          "Deliverables and Timeline",
+          "Investment and Payment Options",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Contact Luna today to discuss your brand and secure your Social Media Kickstart Package!",
+        "payment_template": "Hi [Name],\n\nThank you for your interest in the Social Media Kickstart Package! Once everything is agreed upon, we'll confirm the payment method to get started.\n\nPlease let me know if you have any questions or if you're ready to proceed.\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
