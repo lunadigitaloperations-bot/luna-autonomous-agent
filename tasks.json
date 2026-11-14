@@ -44579,6 +44579,63 @@
         "payment_template": "Subject: Next Steps for Your Social Media Kickstart Package\n\nHi [Recipient's Name],\n\nThank you for discussing our Social Media Kickstart Package with us! As we move forward, we can discuss the investment required to bring this package to life for your business. \n\nPlease let me know a convenient time for us to chat or if you have any questions.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you prefer not to continue the conversation, just let me know, and I will respect your decision.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794650377422",
+      "created_at": "2026-11-14T09:59:37.422414+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok & Instagram Reels Content Boost Package",
+        "target_customer": "Small businesses and content creators looking to grow their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that attracts followers and drives engagement.",
+        "solution": "A focused content creation strategy that delivers 15 engaging short-form video scripts tailored to your brand for both TikTok and Instagram Reels.",
+        "deliverables": [
+          "15 tailored short-form video scripts (TikTok and Instagram Reels)",
+          "Hashtag suggestions for increased reach",
+          "1-page content calendar for the month",
+          "1-hour strategy session via video call"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 14,
+        "value_proposition": "Increase your social media engagement with ready-to-use video scripts designed to align with your brand's voice and target audience.",
+        "sales_angle": "Attract more followers and increase engagement with creative content tailored to your unique brand. Save time and focus on filming!",
+        "organic_discovery_methods": [
+          "Social media posts showcasing client success stories",
+          "LinkedIn articles on content strategy",
+          "Free webinars on short-form video creation"
+        ],
+        "qualification_criteria": [
+          "Must provide details about your brand and target audience",
+          "Willingness to engage in a brief strategy session"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a consultation and secure your package."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost Your Social Media Engagement! 🌟 Struggling to create captivating short-form video content? Our 30-Day TikTok & Instagram Reels Content Boost Package offers 15 tailored video scripts, hashtag suggestions, and a content calendar—all designed to elevate your brand! 📈 Let's make your brand shine! Contact us to learn more! ✨ #SocialMediaMarketing #ContentCreation #TikTok #InstagramReels #SmallBusinessGrowth",
+        "website_description": "Transform your social media presence with our 30-Day TikTok & Instagram Reels Content Boost Package! Designed for small businesses and content creators, this package delivers 15 personalized short-form video scripts tailored to your brand. Plus, get hashtag suggestions, a monthly content calendar, and a strategy session to ensure your content resonates with your audience. Unlock your potential and drive engagement today!",
+        "outreach_template": "Subject: Elevate Your Social Media Game\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to introduce an exciting opportunity that could help you enhance your social media presence. Our 30-Day TikTok & Instagram Reels Content Boost Package offers tailored video scripts, hashtag strategies, and more, designed specifically for brands like yours.\n\nIf you’re interested, I’d love to schedule a brief consultation to discuss how we can support your growth. Please let me know your availability!\n\nBest regards,\n[Your Name]\n\nP.S. If this isn’t of interest, feel free to let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What specific goals are you trying to achieve with your social media presence?",
+          "Who is your target audience, and what types of content do they engage with?",
+          "Have you tried creating short-form video content before? What challenges did you face?",
+          "What tone and voice do you want to convey in your video content?",
+          "Are there any particular brands or influencers that inspire your style or content?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the 30-Day Package",
+          "Identification of Customer Needs",
+          "Deliverables Breakdown",
+          "Implementation Timeline",
+          "Pricing Structure",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to take your social media to the next level? Contact us today to schedule a consultation and secure your Content Boost Package!",
+        "payment_template": "Subject: Next Steps for Your Package\n\nHi [Name],\n\nThank you for your interest in our 30-Day TikTok & Instagram Reels Content Boost Package! To proceed, I’d like to discuss the payment details with you. Please let me know a convenient time to talk.\n\nLooking forward to collaborating with you!\n\nBest,\n[Your Name]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
