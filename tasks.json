@@ -44692,6 +44692,63 @@
         "payment_template": "Subject: Payment Confirmation Reminder\n\nHi [Name],\n\nI wanted to follow up regarding the payment for the 30-Day Reels & Shorts Boost Package. Please let me know if you have any questions, or if you need assistance with the payment process. \n\nLooking forward to your response.\n\nBest regards,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794690882444",
+      "created_at": "2026-11-14T21:14:42.445092+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Starter Pack for Small Businesses",
+        "target_customer": "Local retailers and small service providers",
+        "customer_problem": "Struggling to create engaging social media content that attracts customers and builds brand awareness.",
+        "solution": "A tailored social media content plan that includes short-form video scripts and ready-to-use templates for platforms like TikTok and Instagram.",
+        "deliverables": [
+          "3 short-form video scripts (for TikTok or Instagram Reels)",
+          "3 caption templates for social media posts",
+          "1 content strategy outline (including posting schedules)",
+          "1 digital guide on best practices for maximizing engagement"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 5,
+        "value_proposition": "Boost your online presence with professionally crafted video content and strategies tailored to your business needs.",
+        "sales_angle": "Kickstart your social media journey and attract new customers with minimal effort and investment.",
+        "organic_discovery_methods": [
+          "SEO-optimized posts",
+          "Engagement in community groups on Facebook and Instagram",
+          "Networking within local business forums"
+        ],
+        "qualification_criteria": [
+          "Business must have a physical location or offer a local service",
+          "Open to trying new marketing strategies",
+          "Willing to engage with social media regularly"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to schedule a consultation and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to boost your business's online presence? Introducing our **Social Media Starter Pack for Small Businesses**! 🎉 Get tailored video scripts, caption templates, and a strategy outline to kickstart your social media journey with ease. Start attracting new customers today! Contact us at luna.digital.operations@gmail.com. #SmallBusiness #SocialMedia #MarketingTips",
+        "website_description": "Transform your social media game with our Social Media Starter Pack specifically designed for local retailers and small service providers. Get 3 engaging short-form video scripts, 3 customizable caption templates, a comprehensive content strategy outline, and a digital guide on best practices—all for just $150! Delivered in just 5 days, our package is crafted to help you engage your audience and build your brand effectively.",
+        "outreach_template": "Subject: Unlock Your Social Media Potential\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our **Social Media Starter Pack for Small Businesses** that could help enhance your online presence and attract more customers. \n\nOur tailored solution includes video scripts, caption templates, and strategic guidance, designed specifically for local businesses like yours. Would you be open to discussing how this can benefit your business?\n\nIf you're not interested, please feel free to let me know, and I won't reach out again.\n\nBest regards,\n[Your Name]\nluna.digital.operations@gmail.com",
+        "discovery_questions": [
+          "What is your current social media strategy?",
+          "Which platforms are you currently using for your business?",
+          "What are your primary goals for social media in the next 6 months?",
+          "How often do you currently post on social media?",
+          "Are there specific challenges you face with social media engagement?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Understanding Your Business Needs",
+          "3. Proposed Solution: Social Media Starter Pack",
+          "4. Deliverables Outline",
+          "5. Estimated Timeline and Pricing",
+          "6. Expected Outcomes",
+          "7. Next Steps"
+        ],
+        "call_to_action": "Contact us today to schedule your consultation and kickstart your social media journey!",
+        "payment_template": "Hi [Name],\n\nI wanted to follow up regarding your interest in our Social Media Starter Pack. If you're ready to proceed, we can discuss the next steps for payment and delivery. Please let me know if you have any questions or if there's a convenient time for you to chat.\n\nThank you!\n\nBest,\n[Your Name]\nluna.digital.operations@gmail.com",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
