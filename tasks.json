@@ -44805,6 +44805,64 @@
         "payment_template": "Subject: Payment Information for Social Media Kickstart Package\n\nHi [Name],\n\nThank you for your interest in our Social Media Kickstart Package! To proceed, we will need to discuss the next steps regarding payment. Please let me know a convenient time for you to chat or feel free to reach out directly to luna.digital.operations@gmail.com.\n\nLooking forward to helping you enhance your social media presence!\n\nBest,\nLuna",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794733324511",
+      "created_at": "2026-11-15T09:02:04.512183+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Dynamic Social Media Content Package",
+        "target_customer": "Local small businesses or independent creators looking to boost their social media presence.",
+        "customer_problem": "Struggling to create engaging content consistently for social media platforms, leading to low audience engagement.",
+        "solution": "A tailored content package that includes short-form video scripts and social media strategy to enhance visibility and engagement.",
+        "deliverables": [
+          "Three short-form video scripts (for TikTok, Instagram Reels, or YouTube Shorts)",
+          "A content calendar for one month with posting schedule and themes",
+          "Five engaging captions for social media posts",
+          "Guidance on best practices for filming and editing short-form videos"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Impress potential customers with professional and engaging short-form video content that showcases your brand's uniqueness.",
+        "sales_angle": "Equip your brand with engaging and easy-to-create video content without the need for extensive film experience.",
+        "organic_discovery_methods": [
+          "Social media outreach",
+          "Content showcases on platforms like Instagram and TikTok",
+          "Word-of-mouth referrals"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to engage and implement provided strategies",
+          "Open to exploring video content as a marketing tool"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your business needs and how our service can help."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your social media game with our Dynamic Social Media Content Package! Perfect for local businesses and creators, this tailored package provides you with ready-to-use short-form video scripts, engaging captions, and a month-long content calendar. 🌟 Don't let your content struggle—shine online! 💪 #SocialMedia #ContentCreation #SmallBusinessSupport",
+        "website_description": "Transform your social media presence with our Dynamic Social Media Content Package. Designed specifically for local small businesses and independent creators, this package offers three engaging short-form video scripts, a strategic content calendar for a month, five captivating social media captions, and expert guidance on filming and editing. Elevate your visibility and engagement today!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to see if you’re interested in enhancing your social media strategy. We offer a Dynamic Social Media Content Package designed to help businesses like yours create engaging content consistently. \n\nIf you'd like to learn more about how we can support you, please feel free to reply or reach out via email or WhatsApp.\n\nBest regards,\n[Your Name]  \n[Your Position]  \n[Your Contact Info]  \n\n*If you prefer not to receive further emails, please let me know.*",
+        "discovery_questions": [
+          "What specific challenges are you facing with your current social media content?",
+          "How frequently do you currently post on social media?",
+          "Which platforms are you actively using, and where do you see the most engagement?",
+          "Are you open to using short-form video content as part of your strategy?",
+          "What goals do you hope to achieve through improved social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Client's Needs",
+          "Description of Our Solution",
+          "Deliverables Included in the Package",
+          "Timeline for Delivery",
+          "Pricing Information",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to elevate your brand's visibility? Contact us today to kickstart your journey with engaging video content!",
+        "payment_template": "Subject: Your Recent Inquiry\n\nHi [Name],\n\nThank you for your interest in our Dynamic Social Media Content Package! I wanted to follow up regarding the next steps in our process. If you have any further questions or would like to proceed, please let me know.\n\nLooking forward to hearing from you soon!\n\nBest,  \n[Your Name]  \n[Your Position]  \n[Your Contact Info]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
