@@ -44975,6 +44975,63 @@
         "payment_template": "Subject: Payment Confirmation for Your Services\n\nHi [Name],\n\nThank you for choosing our Social Media Boost Package! We’re excited to get started on enhancing your online presence. If you have any questions about the payment process or need assistance, please feel free to reach out.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\n*If you wish to opt-out of future communications, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1794793404298",
+      "created_at": "2026-11-16T01:43:24.298609+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Social Media Reels Package",
+        "target_customer": "Small businesses and content creators looking to increase engagement on social media.",
+        "customer_problem": "Struggling to create engaging and visually appealing short-form videos that resonate with their audience and drive interactions.",
+        "solution": "A tailored package that includes the creation of short-form video scripts, storyboards, and video editing services specifically geared towards TikTok and Instagram Reels.",
+        "deliverables": [
+          "3 tailored short-form video scripts (up to 60 seconds each)",
+          "3 storyboards with visual direction for each video",
+          "Edited video files ready for posting"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Enhance your online presence with professional-quality social media reels that capture attention and drive engagement.",
+        "sales_angle": "Stand out in a crowded digital landscape with expert guidance to create content that reflects your brand's unique voice.",
+        "organic_discovery_methods": [
+          "Social media posts showcasing past work",
+          "Word-of-mouth from satisfied clients",
+          "SEO-optimized blog posts related to video marketing"
+        ],
+        "qualification_criteria": [
+          "Must have a defined target audience and business goals",
+          "Willing to collaborate and provide brand insights",
+          "Ready to invest in improving their online presence"
+        ],
+        "next_action": "Contact us via email or WhatsApp to schedule a free consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Unlock the Power of Visual Storytelling! 🎥✨ Our Engaging Social Media Reels Package is designed for small businesses and content creators who want to captivate audiences on TikTok and Instagram. With tailored video scripts, storyboards, and polished edits, you're just 10 days away from standing out in the digital crowd! Ready to elevate your brand? 💬 Contact us for a free consultation! #SocialMediaMarketing #VideoContent #ContentCreation",
+        "website_description": "Transform your social media presence with our Engaging Social Media Reels Package! Perfect for small businesses and content creators, this tailored service includes 3 custom short-form video scripts, storyboards for visual guidance, and professionally edited video files. Drive engagement and showcase your brand's unique voice. Get started today for just $250 and see the difference in 10 days!",
+        "outreach_template": "Subject: Elevate Your Social Media Engagement\n\nHi [Name],\n\nI hope this message finds you well! I wanted to introduce you to our Engaging Social Media Reels Package—perfect for small businesses and content creators like yourself. This package includes tailored video scripts, storyboards, and editing services designed to enhance your online presence.\n\nWould you be interested in scheduling a free consultation to discuss your specific needs?\n\nLooking forward to hearing from you!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n🛑 If you wish to opt-out from these communications, please let me know.",
+        "discovery_questions": [
+          "What key message do you want your audience to take away from your videos?",
+          "Who is your target audience, and what are their interests?",
+          "Have you created short-form videos before? If so, how did they perform?",
+          "What branding elements do you want to highlight in your content?",
+          "What specific goals do you have for your social media engagement?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Needs",
+          "Proposed Solution",
+          "Deliverables Overview",
+          "Project Timeline",
+          "Pricing Structure",
+          "Next Steps",
+          "Q&A"
+        ],
+        "call_to_action": "Ready to boost your engagement? Contact us now to schedule your free consultation!",
+        "payment_template": "Subject: Payment Confirmation Needed\n\nHi [Name],\n\nThank you for choosing our Engaging Social Media Reels Package! Before we proceed, please let us know your preferred payment method so we can finalize the details.\n\nLooking forward to working together!\n\nBest,  \n[Your Name]  \n[Your Contact Information]  \n🛑 If you wish to opt-out from communications, please let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
