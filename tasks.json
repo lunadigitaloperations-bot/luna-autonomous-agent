@@ -45392,6 +45392,65 @@
         "payment_template": "Subject: Payment Discussion\n\nHi [Name],\n\nThank you for your interest in our Engaging Short-Form Video Package! To proceed, we can discuss the payment options that work best for you. Please let me know a suitable time for you to talk about this, or feel free to share your preferred payment method.\n\nLooking forward to assisting you!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\n*If you'd like to opt-out of future communications, please let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1795006284006",
+      "created_at": "2026-11-18T12:51:24.006652+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Sprint",
+        "target_customer": "Small businesses and creators looking to enhance their social media presence",
+        "customer_problem": "Struggling to consistently create engaging content for social media, resulting in low audience engagement.",
+        "solution": "A 30-day plan providing tailored video scripts and content strategy to boost social media engagement.",
+        "deliverables": [
+          "30 short-form video scripts (1 per day)",
+          "Content calendar for 30 days",
+          "10 optimized captions for posts",
+          "Weekly strategy check-in via video call"
+        ],
+        "suggested_price_usd": 299,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Boost your social media engagement with expertly crafted content, tailored specifically for your brand, all in just 30 days.",
+        "sales_angle": "Unlock the potential of your social media with a structured, easy-to-follow content plan without the stress of daily brainstorming.",
+        "organic_discovery_methods": [
+          "SEO-optimized blog posts about social media strategies",
+          "Social media posts showcasing client testimonials",
+          "Collaborations with other digital creators"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media presence",
+          "Willingness to engage in a collaborative process",
+          "Basic understanding of social media platforms"
+        ],
+        "next_action": "Contact via email or WhatsApp to schedule a free 15-minute discovery call."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to keep your social media fresh and engaging? Our 30-Day Social Media Content Sprint is here to help! Get tailored video scripts, a complete content calendar, and optimized captions—everything you need to boost your engagement! 📈✨ DM us for details! #SocialMedia #ContentCreation #SmallBusinessGrowth",
+        "website_description": "Enhance your social media presence with our 30-Day Social Media Content Sprint. Designed for small businesses and creators, this comprehensive plan provides daily video scripts, a detailed content calendar, and optimized captions to drive engagement. Transform your online strategy in just 30 days!",
+        "outreach_template": "Subject: Collaborating for Your Social Media Success\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to share an exciting opportunity that could significantly enhance your social media presence. Our 30-Day Social Media Content Sprint offers tailored content strategies and video scripts designed specifically for small businesses and creators like you.\n\nWould you be open to a quick 15-minute discovery call to explore how we can support your goals? I’d love to connect and discuss this further.\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn’t a good fit, feel free to let me know, and I won’t reach out again.",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "What type of content do you feel resonates most with your audience?",
+          "What challenges do you face in creating engaging social media content?",
+          "How often do you currently post on social media?",
+          "What are your goals for your social media presence in the next 30 days?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Understanding Your Current Social Media Strategy",
+          "Identified Challenges",
+          "Proposed 30-Day Content Sprint",
+          "Deliverables Overview",
+          "Timeline and Delivery",
+          "Pricing",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to elevate your social media game? Contact us today to schedule your free 15-minute discovery call!",
+        "payment_template": "Subject: Next Steps for Your Content Sprint\n\nHi [Recipient's Name],\n\nThank you for discussing our 30-Day Social Media Content Sprint! To move forward, we can discuss the payment options at your convenience. Please let me know a good time for you!\n\nLooking forward to your reply.\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
