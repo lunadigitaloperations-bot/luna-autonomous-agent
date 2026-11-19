@@ -45623,6 +45623,65 @@
         "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for your interest in our Mini Video Content Package! To get started, we typically require an initial payment. Please let me know if you have any questions regarding the payment process.\n\nLooking forward to collaborating with you!\n\nBest,\n\n[Your Name]\n[Your Contact Information]\n\n*If you wish to opt-out from future communications, just let me know.*",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1795123003040",
+      "created_at": "2026-11-19T21:16:43.040966+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Growth Package for Creators",
+        "target_customer": "Small business owners and content creators looking to increase their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that resonates with their audience and boosts visibility.",
+        "solution": "A comprehensive service that includes tailored short-form video scripts and strategies for TikTok, Instagram Reels, and YouTube Shorts to enhance audience engagement.",
+        "deliverables": [
+          "3 custom short-form video scripts (1 for each platform: TikTok, Instagram Reels, YouTube Shorts)",
+          "3 tailored content strategies outlining best posting times, hashtags, and trends",
+          "1 week of captions for social media posts (up to 10 posts)"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Help your brand stand out online with captivating video content that attracts your ideal audience.",
+        "sales_angle": "Transform your social media presence with tailored video scripts that capture attention and drive engagement.",
+        "organic_discovery_methods": [
+          "Social media promotion",
+          "Word of mouth",
+          "Online communities and forums"
+        ],
+        "qualification_criteria": [
+          "Must have an existing social media profile with a consistent posting schedule",
+          "Open to experimentation with video content"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your #SocialMediaPresence! 📈 Our Social Media Growth Package for Creators offers tailored short-form video scripts and strategies for TikTok, Instagram Reels, and YouTube Shorts. Get ready to engage your audience like never before! 🌟 DM us to learn more! #ContentCreation #VideoMarketing",
+        "website_description": "Unlock your social media potential with our Social Media Growth Package for Creators. Designed for small business owners and content creators, this comprehensive service provides custom short-form video scripts, tailored strategies for major platforms, and a week’s worth of engaging captions. Let’s elevate your brand together!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to share an exciting opportunity for small business owners and content creators looking to enhance their social media presence. Our Social Media Growth Package offers tailored video scripts and strategies for TikTok, Instagram Reels, and YouTube Shorts.\n\nIf you're interested in learning more, please let me know!\n\nBest regards,\n[Your Name]\n\nP.S. If this isn't for you, feel free to opt-out, and I won’t reach out again.",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "How often do you post video content compared to other formats?",
+          "What specific challenges do you face when creating short-form video content?",
+          "Have you experimented with different video styles or approaches in the past?",
+          "What are your main goals for your social media presence in the next few months?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Current Social Media Presence",
+          "Identified Challenges",
+          "Proposed Solutions and Deliverables",
+          "- Custom Video Scripts",
+          "- Tailored Content Strategies",
+          "- Captions for Social Posts",
+          "Estimated Timeline and Delivery",
+          "Investment and Payment Terms",
+          "Next Steps",
+          "Contact Information"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us via email or WhatsApp to get started!",
+        "payment_template": "Subject: Next Steps for Your Social Media Growth Package\n\nHi [Name],\n\nThank you for expressing interest in our Social Media Growth Package! To proceed, we can discuss the next steps regarding the service and how to facilitate payment. Please let me know a convenient time for you to connect.\n\nLooking forward to hearing from you!\n\nBest,\n[Your Name]\n\nP.S. If you'd prefer not to receive further messages, just let me know, and I’ll gladly opt you out.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
