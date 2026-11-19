@@ -45567,6 +45567,62 @@
         "payment_template": "Subject: Payment Information for Your Video Content Package\n\nDear [Recipient's Name],\n\nThank you for considering our Monthly Short-Form Video Content Package! To proceed, please let me know if you have any questions regarding the payment process. I’m here to assist you!\n\nLooking forward to working together!\n\nBest regards,\n\n[Your Name]  \nluna.digital.operations@gmail.com",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1795092173122",
+      "created_at": "2026-11-19T12:42:53.123139+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Mini Video Content Package",
+        "target_customer": "Small businesses or creators looking to boost their social media presence",
+        "customer_problem": "Struggling to create engaging short-form video content that captures audience attention and promotes brand awareness.",
+        "solution": "A tailored package to create short-form video scripts and edit videos for TikTok, Instagram Reels, and YouTube Shorts, helping to establish a consistent online presence.",
+        "deliverables": [
+          "3 short-form video scripts (up to 60 seconds each)",
+          "3 edited videos suitable for TikTok, Instagram Reels, and YouTube Shorts",
+          "Carousel of 5 engaging captions to accompany the videos",
+          "Content strategy document for one month"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Affordable, high-quality video content that elevates your brand's social media presence without the hassle of doing it yourself.",
+        "sales_angle": "Stand out in a crowded marketplace with customized and engaging video content that speaks to your audience.",
+        "organic_discovery_methods": [
+          "Social media marketing",
+          "Referrals",
+          "Online communities related to small businesses and creators"
+        ],
+        "qualification_criteria": [
+          "Must be a small business or a content creator",
+          "Looking to improve social media engagement",
+          "Open to implementing provided content strategy"
+        ],
+        "next_action": "Contact us via email or WhatsApp to discuss your needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Boost your social media presence with our Mini Video Content Package! 🎥 Get 3 engaging short-form video scripts, 3 edited videos for TikTok, Instagram Reels, and YouTube Shorts, and a content strategy document—all for just $300! Perfect for small businesses and creators looking to captivate their audience. DM us to get started! #VideoMarketing #SocialMediaGrowth #ContentCreation",
+        "website_description": "Introducing our Mini Video Content Package, designed specifically for small businesses and creators looking to enhance their social media presence. We provide 3 captivating short-form video scripts, professionally edited videos optimized for TikTok, Instagram Reels, and YouTube Shorts, along with 5 engaging captions and a monthly content strategy. All delivered within 10 days for just $300. Elevate your brand and connect with your audience effortlessly!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence!\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out and introduce our Mini Video Content Package, specifically designed for small businesses and content creators like yourself. Our goal is to help you boost your social media engagement with tailored video scripts and professional edits.\n\nIf you’re looking to capture your audience’s attention and promote brand awareness, let’s discuss how we can assist you!\n\nLooking forward to hearing your thoughts.\n\nBest regards,\n\n[Your Name]\n[Your Contact Information]\n\n*If you would prefer not to receive further communication, please let me know.*",
+        "discovery_questions": [
+          "What specific goals do you have for your social media presence?",
+          "Which platforms are you currently using for your business?",
+          "What challenges are you facing in creating video content?",
+          "How often do you post content on social media?",
+          "Are you open to implementing a structured content strategy?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer's Needs",
+          "Description of Mini Video Content Package Deliverables",
+          "Timeline and Delivery Schedule",
+          "Pricing",
+          "Next Steps and Contact Information"
+        ],
+        "call_to_action": "Ready to elevate your social media game? Contact us via email or WhatsApp to discuss your needs and get started today!",
+        "payment_template": "Subject: Payment Confirmation\n\nHi [Name],\n\nThank you for your interest in our Mini Video Content Package! To get started, we typically require an initial payment. Please let me know if you have any questions regarding the payment process.\n\nLooking forward to collaborating with you!\n\nBest,\n\n[Your Name]\n[Your Contact Information]\n\n*If you wish to opt-out from future communications, just let me know.*",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
