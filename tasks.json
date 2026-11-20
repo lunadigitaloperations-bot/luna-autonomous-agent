@@ -45740,6 +45740,63 @@
         "payment_template": "Subject: Payment Information for Your Order\n\nHi [Name],\n\nThank you for your interest in our Social Media Boost Package! To move forward, please confirm your preferred method of payment, and we'll provide you with the necessary details.\n\nLooking forward to working together to enhance your social media presence! If you need any further information, just let me know.\n\nBest,  \n[Your Name]  \n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1795173093796",
+      "created_at": "2026-11-20T11:11:33.796747+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Engaging Reel Package for Small Businesses",
+        "target_customer": "Small business owners and local creators looking to boost their online presence",
+        "customer_problem": "Struggling to create consistent and engaging short-form video content for social media platforms, leading to poor online visibility and engagement.",
+        "solution": "A tailored package to create eye-catching Instagram Reels that resonate with the target audience, enhancing brand awareness and customer engagement.",
+        "deliverables": [
+          "Three 15-30 second Instagram Reels scripts tailored to customer preferences.",
+          "One 30-minute consultation to discuss brand messaging and content ideas.",
+          "Three editable storyboards to visualize the Reels before production.",
+          "One promotional caption for each Reel, optimized for engagement."
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "High-quality, tailored Reels that capture your brand's essence while driving engagement without the hassle.",
+        "sales_angle": "Stand out in a crowded market with unique and engaging content that truly represents your brand, attracting more customers organically.",
+        "organic_discovery_methods": [
+          "Social media shares",
+          "Word of mouth",
+          "Online reviews"
+        ],
+        "qualification_criteria": [
+          "Must have an active Instagram account",
+          "Willingness to engage and provide feedback during the process",
+          "Business or creator must have a defined target audience"
+        ],
+        "next_action": "Contact Luna at luna.digital.operations@gmail.com to get started on elevating your social media presence today!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your small business with our Engaging Reel Package! 📹 Tailored scripts, storyboards, and consultation designed for your brand's unique voice. Get noticed online and boost engagement. 💡 Ready to stand out? Contact us today! #SmallBusiness #SocialMedia #InstagramReels",
+        "website_description": "Our Engaging Reel Package is designed specifically for small businesses and local creators looking to boost their online presence. With tailored Instagram Reels scripts, expert consultation, and editable storyboards, we provide you with everything you need to create captivating short-form video content that resonates with your audience. For just $150, regain control of your brand's visibility and engagement with high-quality, hassle-free content creation.",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I noticed your commitment to enhancing your brand's visibility, and I wanted to introduce our 'Engaging Reel Package' designed specifically for small businesses like yours.\n\nThis package includes customized Instagram Reel scripts, storyboards, and a consultation to help you connect more effectively with your audience.\n\nIf this sounds like something you’d be interested in, please feel free to reach out!\n\nBest regards,\nLuna\nluna.digital.operations@gmail.com\n\nP.S. If you're not interested, no problem at all! Just let me know.",
+        "discovery_questions": [
+          "What are your primary goals for your social media presence?",
+          "Who is your target audience on Instagram?",
+          "What challenges have you faced in creating video content so far?",
+          "Can you describe your brand’s unique voice or style?",
+          "What kind of engagement results are you looking to achieve with your posts?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Customer Needs",
+          "Proposed Solution: Engaging Reel Package",
+          "Deliverables",
+          "Implementation Timeline",
+          "Investment",
+          "Conclusion and Next Steps"
+        ],
+        "call_to_action": "Contact Luna at luna.digital.operations@gmail.com to enhance your social media presence today!",
+        "payment_template": "Subject: Confirmation of Your Order\n\nHi [Recipient's Name],\n\nI wanted to follow up regarding your interest in the Engaging Reel Package. Once you're ready to move forward, we can discuss the next steps and payment details.\n\nThank you and looking forward to your response!\n\nBest,\nLuna\n\nP.S. If this isn't a good time for you, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
