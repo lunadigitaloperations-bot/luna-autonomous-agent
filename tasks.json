@@ -45911,6 +45911,63 @@
         "payment_template": "Subject: Next Steps for Your Video Package\n\nHi [Recipient's Name],\n\nThank you for considering our Engaging Short-Form Video Package! To move forward, we can discuss the payment options and finalize your order. Once everything is in place, we can start working on creating amazing content for your brand.\n\nLet me know a convenient time for you to chat.\n\nBest,\n[Your Name]\n[Your Contact Information]",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1795253320814",
+      "created_at": "2026-11-21T09:28:40.814516+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day Social Media Content Sprint",
+        "target_customer": "Small businesses and content creators looking to boost their online presence",
+        "customer_problem": "Struggling to create consistent and engaging social media content that captures the audience's attention.",
+        "solution": "A dedicated 30-day content plan including short-form video scripts and engagement captions tailored to your brand.",
+        "deliverables": [
+          "30 short-form video scripts (one for each day)",
+          "30 engaging captions for Instagram and TikTok",
+          "Content strategy guide for optimal posting times and types"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 5,
+        "value_proposition": "Transform your online presence with engaging and consistent content that resonates with your audience.",
+        "sales_angle": "Unlock your brand's potential with a month's worth of captivating content designed to drive engagement and grow your following.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Word of mouth",
+          "Online networking groups"
+        ],
+        "qualification_criteria": [
+          "Must have an active social media account",
+          "Willingness to engage with followers",
+          "Basic understanding of content creation"
+        ],
+        "next_action": "Contact us via email or WhatsApp to get started on your content sprint!"
+      },
+      "sales_assets": {
+        "social_post": "🎉 Ready to elevate your online presence? 🚀 Our 30-Day Social Media Content Sprint is designed just for small businesses and content creators! Get 30 tailored short-form video scripts and engaging captions that captivate your audience. Let’s transform your content strategy together! 💡💬 Contact us to learn more! #SocialMediaMarketing #ContentCreation #SmallBusinessGrowth",
+        "website_description": "Boost your online presence with our 30-Day Social Media Content Sprint! Perfect for small businesses and content creators, this package includes 30 unique short-form video scripts and engaging captions designed to resonate with your audience. Along with a strategic content guide, we help you unlock your brand's potential and drive meaningful engagement—all delivered in just 5 days!",
+        "outreach_template": "Subject: Unlock Your Brand’s Potential!\n\nHi [Recipient's Name],\n\nI hope this message finds you well! My name is [Your Name], and I’m reaching out to introduce an exciting offer tailored for small businesses and content creators like you. Our 30-Day Social Media Content Sprint could be the solution to elevate your online presence with consistent and engaging content.\n\nWould you be open to discussing how this can benefit your brand? Feel free to reach out if you have any questions!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nIf you prefer not to receive any further messages, just let me know.",
+        "discovery_questions": [
+          "What types of content have resonated most with your audience in the past?",
+          "How often do you currently post on your social media accounts?",
+          "What challenges do you face when creating social media content?",
+          "Who does your current social media content strategy cater to?",
+          "What are your primary goals for your social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Client's Current Situation",
+          "Proposed Solution Outline",
+          "Deliverables",
+          "Implementation Timeline",
+          "Pricing",
+          "Next Steps",
+          "Conclusion"
+        ],
+        "call_to_action": "Ready to transform your content strategy? Contact us via email or WhatsApp to kick off your 30-Day Content Sprint today!",
+        "payment_template": "Subject: Next Steps for Your Content Sprint\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day Social Media Content Sprint! To proceed, we would like to finalize our agreement and discuss the payment options available. Once we confirm the details, we can get started right away!\n\nLooking forward to your response!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nIf you prefer not to receive any further messages, just let me know.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
