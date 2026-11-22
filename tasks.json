@@ -46083,6 +46083,65 @@
         "payment_template": "Subject: Regarding Your Order\n\nHello [Name],\n\nThank you for your interest in our *Social Media Growth Package*! I wanted to follow up regarding the next steps for your order. Please let me know if you have any questions or need further information about the package.\n\nLooking forward to your response!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you're not ready to proceed right now, feel free to reach out when you're ready!",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1795316301358",
+      "created_at": "2026-11-22T02:58:21.358613+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Starter Package for Creators",
+        "target_customer": "Small business owners and content creators seeking to enhance their social media presence",
+        "customer_problem": "Struggling to create engaging content that resonates with their audience, leading to low engagement and brand awareness",
+        "solution": "A tailored content package that provides short-form video scripts and social media strategy to boost engagement and visibility on platforms like TikTok and Instagram.",
+        "deliverables": [
+          "3 short-form video scripts (30-60 seconds each)",
+          "Custom content calendar for one month",
+          "Tips for maximizing engagement on TikTok and Instagram",
+          "1 personalized training session on best practices and content creation"
+        ],
+        "suggested_price_usd": 150,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Empower your brand with engaging content that speaks to your audience and increases visibility on social media platforms.",
+        "sales_angle": "Transform your social media presence with high-quality, ready-to-use content designed specifically for your target audience.",
+        "organic_discovery_methods": [
+          "Social media advertising",
+          "Word of mouth",
+          "Content marketing through blog posts",
+          "Networking in online communities"
+        ],
+        "qualification_criteria": [
+          "Must have a clear business or brand identity",
+          "Willingness to engage with content creation process",
+          "Basic familiarity with social media platforms"
+        ],
+        "next_action": "Contact via email or WhatsApp to schedule a consultation and get started."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Attention Small Business Owners & Content Creators! 🚀 Struggling to engage your audience on social media? Our Social Media Starter Package is here to help! Get tailored video scripts, a content calendar, and personalized training to elevate your brand’s presence on TikTok and Instagram. 💡 Let's transform your social media together! #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Unlock your brand's potential with our Social Media Starter Package for creators! Designed for small business owners and content creators, this package offers 3 engaging video scripts, a custom content calendar, expert tips for TikTok and Instagram, and a personalized training session. Boost your audience engagement and increase your visibility with ease!",
+        "outreach_template": "Subject: Enhance Your Social Media Presence\n\nHi [Name],\n\nI hope this message finds you well! I wanted to reach out to introduce our Social Media Starter Package. If you’re looking to boost your engagement and visibility on platforms like TikTok and Instagram, this package may be just what you need.\n\nAre you available for a quick consultation to discuss how we can work together to enhance your social media strategy?\n\nBest regards,\n[Your Name]\n[Your Contact Information]  \n\nP.S. If this isn’t of interest, just let me know and I’ll remove you from my list.",
+        "discovery_questions": [
+          "What specific social media platforms are you currently using?",
+          "What challenges are you facing with your current social media strategy?",
+          "Who is your target audience, and what type of content do they engage with the most?",
+          "How do you currently measure your engagement and success on social media?",
+          "Are there particular goals you’re hoping to achieve with enhanced social media presence?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the Social Media Starter Package",
+          "Deliverables (including video scripts, content calendar, tips, and training)",
+          "Benefits of the package",
+          "Timeline and estimated delivery date",
+          "Pricing details",
+          "Next steps for moving forward",
+          "Closing remarks"
+        ],
+        "call_to_action": "Ready to transform your social media presence? Contact us today to schedule your consultation and get started!",
+        "payment_template": "Subject: Payment Information\n\nHi [Name],\n\nThank you for expressing interest in our Social Media Starter Package! I wanted to follow up regarding the payment details.\n\nPlease let me know if you have any questions or if you need further assistance. I'm here to help!\n\nBest,\n[Your Name]\n[Your Contact Information]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
