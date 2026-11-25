@@ -46648,6 +46648,67 @@
         "payment_template": "Subject: Payment Information for Your Social Media Boost Package\n\nHi [Name],\n\nThank you for your interest in our Social Media Boost Package! To proceed, we can discuss payment options and secure your package. Please let me know a convenient time for you.\n\nLooking forward to your response!\n\nBest,\nLuna\n[Contact Information]\n\nIf you'd prefer not to receive further communication, just let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1795645064320",
+      "created_at": "2026-11-25T22:17:44.321023+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Sprint",
+        "target_customer": "Small businesses and content creators looking to boost engagement",
+        "customer_problem": "Struggling to consistently create engaging content for social media platforms",
+        "solution": "A focused content creation service that provides customized short-form video scripts and social media captions tailored to your brand, designed to increase audience engagement and save time.",
+        "deliverables": [
+          "5 short-form video scripts (up to 60 seconds each)",
+          "5 engaging captions optimized for Instagram and TikTok",
+          "Content calendar for posting schedule",
+          "General tips for filming and editing videos"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 7,
+        "value_proposition": "Streamline your content creation process with tailored scripts and captions that resonate with your audience, allowing you to focus on what you do best.",
+        "sales_angle": "Elevate your social media presence without the stress of brainstorming content ideas daily.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Word-of-mouth referrals",
+          "Email newsletters"
+        ],
+        "qualification_criteria": [
+          "Active on Instagram, TikTok, or YouTube platforms",
+          "Looking to improve content quality and engagement",
+          "Open to new content strategies"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to discuss your unique needs and get started!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Struggling to keep up with social media? Our *Social Media Content Sprint* is here to help! Get 5 tailored short-form video scripts, 5 engaging captions, and a content calendar to boost your online presence, all within just 7 days! 💡✨ Let's streamline your content creation process! #SocialMedia #ContentCreation #SmallBusiness #EngagementBoost",
+        "website_description": "Transform your social media game with our *Social Media Content Sprint*! Designed for small businesses and content creators, this service delivers 5 custom short-form video scripts and 5 captivating captions within 7 days. Our tailored approach ensures your content resonates with your audience, saves you time, and enhances engagement. Don't let content creation stress you out; focus on what you do best while we handle the details!",
+        "outreach_template": "Subject: Elevate Your Social Media Presence\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out to introduce our *Social Media Content Sprint*, designed specifically for small businesses and content creators like you who are looking to boost engagement. \n\nAre you finding it challenging to consistently create engaging content for your social media platforms? Our service offers tailored video scripts and captions to streamline your content creation process. \n\nIf you're interested in discussing how we can support your unique needs, just let me know!\n\nBest regards,\n[Your Name]  \nLuna, Infinite Sauce\n[Your Contact Info]\n\nIf you'd prefer not to receive further messages, please let me know.",
+        "discovery_questions": [
+          "What social media platforms are you currently active on?",
+          "What type of content has worked best for you in the past?",
+          "Are there specific themes or topics you want to focus on in your videos?",
+          "How often do you currently post on social media?",
+          "What goals do you hope to achieve with your social media content?"
+        ],
+        "proposal_outline": [
+          "1. Introduction",
+          "2. Overview of the Social Media Content Sprint",
+          "3. Deliverables Breakdown",
+          "   - 5 short-form video scripts",
+          "   - 5 engaging captions",
+          "   - Content calendar",
+          "   - Filming and editing tips",
+          "4. Estimated Delivery Time",
+          "5. Pricing",
+          "6. Value Proposition",
+          "7. Next Steps"
+        ],
+        "call_to_action": "Ready to elevate your social media presence? Contact us today to get started!",
+        "payment_template": "Subject: Quick Confirmation Regarding Payment\n\nHi [Recipient's Name],\n\nI hope you're doing well! I wanted to touch base regarding the payment for the *Social Media Content Sprint*. Once we finalize all the details and confirm your order, I will provide you with further instructions. \n\nPlease let me know if you have any questions!\n\nBest,  \n[Your Name]  \nLuna, Infinite Sauce\n[Your Contact Info]",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
