@@ -46823,6 +46823,67 @@
         "payment_template": "Subject: Next Steps for Your Social Media Kickstart Package\n\nHi [Name],\n\nThank you for your interest in our Social Media Kickstart Package! To proceed, let's confirm the details discussed and arrange the next steps. Please let me know how you would like to move forward!\n\nBest regards,\n[Your Name]\n\nP.S. If you'd prefer not to receive further emails, just let me know.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1795736312957",
+      "created_at": "2026-11-26T23:38:32.958048+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "30-Day TikTok Growth Package",
+        "target_customer": "Small businesses and content creators looking to enhance their TikTok presence",
+        "customer_problem": "Struggling to consistently create engaging content for TikTok while maintaining audience engagement and growth.",
+        "solution": "A comprehensive content strategy and execution plan that includes tailored short-form video scripts and posting schedules to boost TikTok visibility and engagement.",
+        "deliverables": [
+          "10 custom TikTok video scripts tailored to the brand's theme",
+          "Content calendar for 30 days with posting schedules",
+          "Guidelines for video creation and editing",
+          "Two 30-minute strategy consultation calls",
+          "Monthly performance report template"
+        ],
+        "suggested_price_usd": 250,
+        "estimated_delivery_days": 15,
+        "value_proposition": "Boost your TikTok engagement with professional scripts and a tailored content strategy designed to connect with your audience.",
+        "sales_angle": "Transform your TikTok presence with a structured plan that makes content creation effortless and effective.",
+        "organic_discovery_methods": [
+          "Social media posts",
+          "Word of mouth",
+          "Email newsletters",
+          "Networking events"
+        ],
+        "qualification_criteria": [
+          "Must have a basic understanding of TikTok functionality",
+          "Willingness to engage with the content posting schedule",
+          "Brand or niche defined for scripting"
+        ],
+        "next_action": "Contact us at luna.digital.operations@gmail.com to book your consultation and kickstart your TikTok growth!"
+      },
+      "sales_assets": {
+        "social_post": "🚀 Ready to elevate your TikTok game? Our 30-Day TikTok Growth Package is designed for small businesses and content creators wanting to enhance their presence! With tailored video scripts, a posting schedule, and strategy consultations, you’ll effortlessly create engaging content. 💡 Contact us to get started and boost your TikTok engagement! #TikTokGrowth #SmallBusiness #ContentCreation",
+        "website_description": "Introducing the 30-Day TikTok Growth Package – the ultimate solution for small businesses and content creators struggling to engage their TikTok audience! Our comprehensive strategy includes customized video scripts, a detailed content calendar, and expert consultation, all designed to maximize your TikTok visibility and engagement. Transform your TikTok presence effortlessly with a structured plan that connects with your audience!",
+        "outreach_template": "Subject: Elevate Your TikTok Game\n\nHi [Recipient's Name],\n\nI hope this message finds you well! I'm reaching out because I believe our 30-Day TikTok Growth Package could be a game-changer for your brand. If you’re looking to enhance your TikTok presence and engage more effectively with your audience, we have a tailored solution that includes custom video scripts and a strategic content plan.\n\nIf you're interested, I would love to discuss this further. Please let me know a good time for you to chat!\n\nBest regards,\n[Your Name]\n[Your Contact Information]\n\nP.S. If this isn’t the right time for you, feel free to let me know, and I’ll make sure not to reach out again.",
+        "discovery_questions": [
+          "What challenges are you currently facing with your TikTok content?",
+          "How often do you post new content on TikTok?",
+          "Who is your target audience on TikTok, and what do you want them to feel when they see your content?",
+          "Do you have any brand themes or messages you'd like to highlight in your TikTok videos?",
+          "What tools or resources are you currently using for content creation and scheduling?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of the TikTok Growth Package",
+          "Customer's Current Situation",
+          "Proposed Solutions",
+          "Deliverables",
+          "Timeline and Estimated Delivery",
+          "Investment and Payment Terms",
+          "Next Steps",
+          "Conclusion and Call to Action"
+        ],
+        "call_to_action": "Ready to transform your TikTok presence? Contact us at luna.digital.operations@gmail.com to book your consultation today!",
+        "payment_template": "Subject: Follow-Up on Your TikTok Growth Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day TikTok Growth Package! I wanted to follow up regarding the next steps for processing your order. Once you're ready to proceed, we can discuss the payment details and finalize the plan.\n\nPlease let me know if you have any questions!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you’d prefer not to continue this conversation, just let me know, and I won’t reach out again.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
