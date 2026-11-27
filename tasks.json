@@ -46884,6 +46884,65 @@
         "payment_template": "Subject: Follow-Up on Your TikTok Growth Package\n\nHi [Recipient's Name],\n\nThank you for your interest in our 30-Day TikTok Growth Package! I wanted to follow up regarding the next steps for processing your order. Once you're ready to proceed, we can discuss the payment details and finalize the plan.\n\nPlease let me know if you have any questions!\n\nBest,\n[Your Name]\n[Your Contact Information]\n\nP.S. If you’d prefer not to continue this conversation, just let me know, and I won’t reach out again.",
         "requires_human_approval": true
       }
+    },
+    {
+      "id": "task-1795765572034",
+      "created_at": "2026-11-27T07:46:12.034494+00:00",
+      "type": "business_growth",
+      "status": "pending_human_review",
+      "offer": {
+        "title": "Social Media Content Package",
+        "target_customer": "Small businesses and content creators looking to boost their online presence.",
+        "customer_problem": "Struggling to create engaging social media content consistently due to lack of time and expertise.",
+        "solution": "A tailored package providing a set of short-form videos and captions designed to enhance social media engagement and brand visibility.",
+        "deliverables": [
+          "3 short-form video scripts (TikTok/Instagram)",
+          "3 finalized short-form videos (up to 60 seconds each)",
+          "3 engaging captions for each video",
+          "Content strategy overview for the next month"
+        ],
+        "suggested_price_usd": 300,
+        "estimated_delivery_days": 10,
+        "value_proposition": "Receive high-quality, engaging content that resonates with your audience and saves time, allowing you to focus on running your business.",
+        "sales_angle": "Invest in your online presence with a complete content package that simplifies your social media strategy and keeps your audience engaged.",
+        "organic_discovery_methods": [
+          "Referrals from past clients",
+          "Social media marketing",
+          "Content creation workshops"
+        ],
+        "qualification_criteria": [
+          "Clients must have an existing social media presence",
+          "Open to feedback and collaboration",
+          "Willing to provide brand guidelines"
+        ],
+        "next_action": "Contact me at luna.digital.operations@gmail.com to schedule a consultation and discuss your specific needs."
+      },
+      "sales_assets": {
+        "social_post": "🚀 Elevate your social media game with our tailored Social Media Content Package! Perfect for small businesses and content creators, we provide engaging short-form videos and captivating captions, all designed to enhance your online presence. 💡 Don't let time and expertise hold you back. DM us to learn more! #SocialMedia #ContentCreation #SmallBusiness",
+        "website_description": "Transform your social media presence with our Social Media Content Package! Designed for small businesses and content creators, this package includes tailored short-form videos and engaging captions to keep your audience hooked. In just 10 days, receive three compelling videos and a month-long content strategy overview, all for $300. Invest in your brand's visibility and watch your online engagement soar!",
+        "outreach_template": "Subject: Let’s Boost Your Social Media Engagement!\n\nHi [Name],\n\nI hope this message finds you well. I wanted to reach out because I believe your business could greatly benefit from our Social Media Content Package. Many small businesses and content creators struggle with consistent, engaging content, and our tailored solution takes that burden off your shoulders. \n\nWould you be open to a conversation to explore how we can help enhance your online presence? \n\nLooking forward to hearing from you! \n\nBest regards,\nLuna\n\nP.S. If this isn’t the right time, just let me know, and I won’t follow up again.",
+        "discovery_questions": [
+          "What social media platforms are you currently using?",
+          "How often do you post content on your social media channels?",
+          "What type of content has resonated best with your audience in the past?",
+          "Are there any specific goals you want to achieve through your social media presence?",
+          "How do you usually generate your content ideas?"
+        ],
+        "proposal_outline": [
+          "Introduction",
+          "Overview of Client's Needs",
+          "Proposed Solution",
+          "Deliverables",
+          "Timeline for Delivery",
+          "Pricing",
+          "Next Steps",
+          "Client Testimonials (if available)",
+          "Closing Remarks"
+        ],
+        "call_to_action": "Ready to enhance your social media presence? Contact me today to schedule a consultation!",
+        "payment_template": "Subject: Payment Information for Your Order\n\nHi [Name],\n\nThank you for choosing our Social Media Content Package! I want to ensure that everything is in order before we proceed to create your engaging content. \n\nOnce you're ready, please let me know, and I can provide you with the necessary payment details. \n\nLooking forward to your response! \n\nBest,\nLuna\n\nP.S. If you’d prefer to wait or if this doesn’t match your needs, feel free to let me know, and I can adjust accordingly.",
+        "requires_human_approval": true
+      }
     }
   ],
   "completed": []
